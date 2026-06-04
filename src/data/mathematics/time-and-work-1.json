@@ -1,0 +1,75 @@
+{
+  "paperName": "Time and Work Mock Test – 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "A can complete a work in 12 days and B in 18 days. Working together, in how many days will they complete the work?",
+        "hi": "A एक काम को 12 दिन में और B 18 दिन में पूरा कर सकता है। साथ काम करने पर वे काम कितने दिनों में पूरा करेंगे?"
+      },
+      "options": [
+        { "en": "36/5 days", "hi": "36/5 दिन" },
+        { "en": "6 days", "hi": "6 दिन" },
+        { "en": "8 days", "hi": "8 दिन" },
+        { "en": "15/2 days", "hi": "15/2 दिन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "If 10 men can build a wall in 8 days, in how many days can 16 men build the same wall?",
+        "hi": "यदि 10 आदमी एक दीवार 8 दिन में बना सकते हैं, तो 16 आदमी उसी दीवार को कितने दिनों में बनाएंगे?"
+      },
+      "options": [
+        { "en": "5 days", "hi": "5 दिन" },
+        { "en": "6 days", "hi": "6 दिन" },
+        { "en": "4 days", "hi": "4 दिन" },
+        { "en": "7 days", "hi": "7 दिन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "A and B together finish a work in 10 days. A alone takes 15 days. In how many days will B alone finish?",
+        "hi": "A और B मिलकर एक काम 10 दिन में पूरा करते हैं। अकेले A को 15 दिन लगते हैं। अकेले B को कितने दिन लगेंगे?"
+      },
+      "options": [
+        { "en": "20 days", "hi": "20 दिन" },
+        { "en": "25 days", "hi": "25 दिन" },
+        { "en": "30 days", "hi": "30 दिन" },
+        { "en": "35 days", "hi": "35 दिन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "A pipe can fill a tank in 6 hours. Another pipe empties it in 9 hours. If both run together, the tank will be filled in:",
+        "hi": "एक नल टंकी 6 घंटे में भरता है। दूसरा 9 घंटे में खाली करता है। दोनों साथ चलें तो टंकी कितने समय में भरेगी?"
+      },
+      "options": [
+        { "en": "18 hours", "hi": "18 घंटे" },
+        { "en": "12 hours", "hi": "12 घंटे" },
+        { "en": "15 hours", "hi": "15 घंटे" },
+        { "en": "9 hours", "hi": "9 घंटे" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "If 6 women can do a job in 14 days, then 7 women will do the same job in:",
+        "hi": "यदि 6 महिलाएं एक काम 14 दिन में करती हैं, तो 7 महिलाएं वही काम कितने दिन में करेंगी?"
+      },
+      "options": [
+        { "en": "12 days", "hi": "12 दिन" },
+        { "en": "10 days", "hi": "10 दिन" },
+        { "en": "11 days", "hi": "11 दिन" },
+        { "en": "13 days", "hi": "13 दिन" }
+      ],
+      "correct": 0
+    }
+  ]
+}

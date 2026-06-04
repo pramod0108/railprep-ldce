@@ -1,0 +1,8 @@
+[
+  { "id": "gk", "name": { "en": "General Knowledge", "hi": "सामान्य ज्ञान" }, "icon": "🌍" },
+  { "id": "science", "name": { "en": "Science", "hi": "विज्ञान" }, "icon": "🔬" },
+  { "id": "english", "name": { "en": "English", "hi": "अंग्रेज़ी" }, "icon": "📚" },
+  { "id": "rajbhasha", "name": { "en": "Rajbhasha", "hi": "राजभाषा" }, "icon": "🇮🇳" },
+  { "id": "heat-treatment", "name": { "en": "Heat Treatment", "hi": "ऊष्मा उपचार" }, "icon": "🔥" },
+  { "id": "mathematics", "name": { "en": "Mathematics", "hi": "गणित" }, "icon": "🧮" }
+]
