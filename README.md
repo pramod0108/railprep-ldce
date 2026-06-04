@@ -2,7 +2,7 @@
 
 A **bilingual (Hindi + English)** web application for **Railway LDCE (Limited Departmental Competitive Examination)** practice.
 
-🌐 **Live Demo:** [Add your Cloudflare Pages URL here] - will add later once deployed.
+🌐 **Live Demo:** https://railprep-ldce.pages.dev/
 
 ---
 
