@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 21",
+  "questions": [
+    {
+      "id": 401,
+      "question": {
+        "en": "The process of removing metal from a workpiece in the form of chips is called —",
+        "hi": "किसी कार्यखंड से धातु को चिप्स के रूप में हटाने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Forging", "hi": "फोर्जिंग" },
+        { "en": "Casting", "hi": "ढलाई" },
+        { "en": "Welding", "hi": "वेल्डिंग" },
+        { "en": "Machining", "hi": "मशीनिंग" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 402,
+      "question": {
+        "en": "The machine used for turning cylindrical jobs is —",
+        "hi": "बेलनाकार कार्यखंड को टर्निंग के लिए प्रयुक्त मशीन है —"
+      },
+      "options": [
+        { "en": "Lathe", "hi": "खराद (Lathe)" },
+        { "en": "Shaper", "hi": "शेपर" },
+        { "en": "Drilling machine", "hi": "ड्रिलिंग मशीन" },
+        { "en": "Milling machine", "hi": "मिलिंग मशीन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 403,
+      "question": {
+        "en": "The main parts of a lathe are —",
+        "hi": "खराद (Lathe) के मुख्य भाग हैं —"
+      },
+      "options": [
+        { "en": "Bed and Tailstock only", "hi": "केवल बेड और टेलस्टॉक" },
+        { "en": "Spindle only", "hi": "केवल स्पिंडल" },
+        { "en": "Bed, Headstock, Tailstock, Carriage", "hi": "बेड, हेडस्टॉक, टेलस्टॉक, कैरेज" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 404,
+      "question": {
+        "en": "The operation of producing a flat surface on a lathe is —",
+        "hi": "खराद पर समतल सतह बनाने की क्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Taper turning", "hi": "टेपर टर्निंग" },
+        { "en": "Turning", "hi": "टर्निंग" },
+        { "en": "Facing", "hi": "फेसिंग" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 405,
+      "question": {
+        "en": "The process of producing a conical surface on a lathe is —",
+        "hi": "खराद पर शंक्वाकार सतह बनाने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Taper turning", "hi": "टेपर टर्निंग" },
+        { "en": "Facing", "hi": "फेसिंग" },
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Drilling", "hi": "ड्रिलिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 406,
+      "question": {
+        "en": "The tool used in turning is made of —",
+        "hi": "टर्निंग में प्रयुक्त उपकरण किसका बना होता है?"
+      },
+      "options": [
+        { "en": "Cast iron", "hi": "ढलवाँ लोहा" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "High-speed steel (HSS)", "hi": "हाई-स्पीड स्टील (HSS)" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 407,
+      "question": {
+        "en": "The operation of enlarging a drilled hole is called —",
+        "hi": "ड्रिल किए छेद को बड़ा करने की क्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Drilling", "hi": "ड्रिलिंग" },
+        { "en": "Tapping", "hi": "टैपिंग" },
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Reaming", "hi": "रीमिंग" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 408,
+      "question": {
+        "en": "The operation of producing an internal thread is —",
+        "hi": "आंतरिक धागा (Internal Thread) बनाने की क्रिया है —"
+      },
+      "options": [
+        { "en": "Tapping", "hi": "टैपिंग" },
+        { "en": "Thread cutting", "hi": "थ्रेड कटिंग" },
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Facing", "hi": "फेसिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 409,
+      "question": {
+        "en": "The tool used for cutting external threads is —",
+        "hi": "बाह्य धागा (External Thread) काटने का उपकरण है —"
+      },
+      "options": [
+        { "en": "Tap", "hi": "टैप" },
+        { "en": "File", "hi": "फ़ाइल" },
+        { "en": "Die", "hi": "डाई" },
+        { "en": "Drill", "hi": "ड्रिल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 410,
+      "question": {
+        "en": "A drill bit is held in —",
+        "hi": "एक ड्रिल बिट किसमें पकड़ी जाती है?"
+      },
+      "options": [
+        { "en": "Chuck", "hi": "चक" },
+        { "en": "Drill chuck", "hi": "ड्रिल चक" },
+        { "en": "Collet", "hi": "कॉलेट" },
+        { "en": "Sleeve", "hi": "स्लीव" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 411,
+      "question": {
+        "en": "The cutting speed is expressed in —",
+        "hi": "कटिंग गति (Cutting Speed) किसमें व्यक्त की जाती है?"
+      },
+      "options": [
+        { "en": "RPM", "hi": "RPM" },
+        { "en": "m/s²", "hi": "m/s²" },
+        { "en": "m/min", "hi": "m/min" },
+        { "en": "m³/min", "hi": "m³/min" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 412,
+      "question": {
+        "en": "Feed is measured in —",
+        "hi": "फीड (Feed) किसमें मापी जाती है?"
+      },
+      "options": [
+        { "en": "mm/rev", "hi": "mm/rev" },
+        { "en": "m/min", "hi": "m/min" },
+        { "en": "rpm", "hi": "rpm" },
+        { "en": "cm/s", "hi": "cm/s" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 413,
+      "question": {
+        "en": "Depth of cut is the difference between —",
+        "hi": "कट की गहराई (Depth of Cut) किसके बीच का अंतर होती है?"
+      },
+      "options": [
+        { "en": "Successive passes", "hi": "क्रमिक पासों के बीच" },
+        { "en": "Two diameters before and after cut / 2", "hi": "कट से पहले और बाद के दो व्यासों का आधा अंतर" },
+        { "en": "Feed rate", "hi": "फीड दर" },
+        { "en": "Tool angle", "hi": "उपकरण कोण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 414,
+      "question": {
+        "en": "The cutting tool angle is measured by —",
+        "hi": "काटने के उपकरण का कोण किससे मापा जाता है?"
+      },
+      "options": [
+        { "en": "Vernier", "hi": "वर्नियर" },
+        { "en": "Protractor", "hi": "प्रोट्रेक्टर" },
+        { "en": "Bevel gauge", "hi": "बेवल गेज" },
+        { "en": "Tool angle gauge", "hi": "टूल एंगल गेज" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 415,
+      "question": {
+        "en": "The lathe operation to produce a hole along the axis of rotation is —",
+        "hi": "खराद में घूर्णन अक्ष के साथ छेद बनाने की क्रिया है —"
+      },
+      "options": [
+        { "en": "Drilling", "hi": "ड्रिलिंग" },
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Facing", "hi": "फेसिंग" },
+        { "en": "Parting off", "hi": "पार्टिंग ऑफ" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 416,
+      "question": {
+        "en": "The operation of finishing an existing hole to accurate size is —",
+        "hi": "किसी मौजूदा छेद को सटीक माप में परिष्कृत करने की क्रिया है —"
+      },
+      "options": [
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Drilling", "hi": "ड्रिलिंग" },
+        { "en": "Reaming", "hi": "रीमिंग" },
+        { "en": "Tapping", "hi": "टैपिंग" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 417,
+      "question": {
+        "en": "The cutting fluid is mainly used to —",
+        "hi": "कटिंग द्रव (Cutting Fluid) मुख्यतः किसलिए उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Increase hardness", "hi": "कठोरता बढ़ाने के लिए" },
+        { "en": "Cool and lubricate", "hi": "ठंडा करने और चिकनाई देने के लिए" },
+        { "en": "Reduce rigidity", "hi": "दृढ़ता कम करने के लिए" },
+        { "en": "Remove rust", "hi": "जंग हटाने के लिए" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 418,
+      "question": {
+        "en": "The operation of producing grooves on cylindrical work is —",
+        "hi": "बेलनाकार कार्यखंड पर खांचे (Grooves) बनाने की क्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Facing", "hi": "फेसिंग" },
+        { "en": "Drilling", "hi": "ड्रिलिंग" },
+        { "en": "Parting off / Grooving", "hi": "पार्टिंग ऑफ / ग्रूविंग" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 419,
+      "question": {
+        "en": "The process of producing flat surfaces on a shaper is called —",
+        "hi": "शेपर पर समतल सतह बनाने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Turning", "hi": "टर्निंग" },
+        { "en": "Grinding", "hi": "पीसना (Grinding)" },
+        { "en": "Shaping", "hi": "शेपिंग" },
+        { "en": "Milling", "hi": "मिलिंग" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 420,
+      "question": {
+        "en": "The tool in a shaper moves with —",
+        "hi": "शेपर में उपकरण किस गति से चलता है?"
+      },
+      "options": [
+        { "en": "Reciprocating motion", "hi": "पारस्परिक (Reciprocating) गति" },
+        { "en": "Rotary motion", "hi": "घूर्णन गति" },
+        { "en": "Linear motion", "hi": "रेखीय गति" },
+        { "en": "Oscillatory motion", "hi": "दोलन गति" }
+      ],
+      "correct": 0
+    }
+  ]
+}

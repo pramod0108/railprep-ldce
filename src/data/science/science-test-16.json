@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 16",
+  "questions": [
+    {
+      "id": 301,
+      "question": {
+        "en": "Fluid is a substance which can —",
+        "hi": "द्रव (Fluid) वह पदार्थ है जो —"
+      },
+      "options": [
+        { "en": "Resist shear stress", "hi": "अपरूपण प्रतिबल (Shear Stress) का प्रतिरोध कर सके" },
+        { "en": "Flow under shear stress", "hi": "अपरूपण प्रतिबल के अंतर्गत प्रवाहित हो सके" },
+        { "en": "Stay rigid", "hi": "दृढ़ बना रहे" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 302,
+      "question": {
+        "en": "Liquids have —",
+        "hi": "द्रवों में होता है —"
+      },
+      "options": [
+        { "en": "No definite volume", "hi": "कोई निश्चित आयतन नहीं" },
+        { "en": "No definite shape", "hi": "कोई निश्चित आकार नहीं" },
+        { "en": "Definite volume but no definite shape", "hi": "निश्चित आयतन परंतु कोई निश्चित आकार नहीं" },
+        { "en": "Definite shape", "hi": "निश्चित आकार" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 303,
+      "question": {
+        "en": "The density of water at 4°C is —",
+        "hi": "4°C पर जल का घनत्व है —"
+      },
+      "options": [
+        { "en": "100 kg/m³", "hi": "100 kg/m³" },
+        { "en": "10 kg/m³", "hi": "10 kg/m³" },
+        { "en": "1 kg/m³", "hi": "1 kg/m³" },
+        { "en": "1000 kg/m³", "hi": "1000 kg/m³" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 304,
+      "question": {
+        "en": "Specific gravity is the ratio of —",
+        "hi": "आपेक्षिक घनत्व (Specific Gravity) किसका अनुपात होता है?"
+      },
+      "options": [
+        { "en": "Density of substance to density of water", "hi": "पदार्थ का घनत्व से जल के घनत्व का अनुपात" },
+        { "en": "Mass to weight", "hi": "द्रव्यमान और भार का अनुपात" },
+        { "en": "Pressure to volume", "hi": "दबाव और आयतन का अनुपात" },
+        { "en": "Volume to mass", "hi": "आयतन और द्रव्यमान का अनुपात" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 305,
+      "question": {
+        "en": "The SI unit of pressure is —",
+        "hi": "दबाव की SI इकाई है —"
+      },
+      "options": [
+        { "en": "bar", "hi": "बार" },
+        { "en": "Pascal", "hi": "पास्कल" },
+        { "en": "dyne/cm²", "hi": "dyne/cm²" },
+        { "en": "atm", "hi": "atm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 306,
+      "question": {
+        "en": "Pressure increases with —",
+        "hi": "दबाव किसके बढ़ने के साथ बढ़ता है?"
+      },
+      "options": [
+        { "en": "Height", "hi": "ऊँचाई" },
+        { "en": "Area", "hi": "क्षेत्रफल" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "Depth", "hi": "गहराई" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 307,
+      "question": {
+        "en": "1 bar is equal to —",
+        "hi": "1 बार बराबर होता है —"
+      },
+      "options": [
+        { "en": "10³ Pa", "hi": "10³ Pa" },
+        { "en": "10⁴ N/m²", "hi": "10⁴ N/m²" },
+        { "en": "10⁵ N/m²", "hi": "10⁵ N/m²" },
+        { "en": "1000 Pa", "hi": "1000 Pa" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 308,
+      "question": {
+        "en": "The instrument used to measure pressure is —",
+        "hi": "दबाव मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Manometer", "hi": "मैनोमीटर" },
+        { "en": "Barometer", "hi": "बैरोमीटर" },
+        { "en": "Hygrometer", "hi": "हाइग्रोमीटर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 309,
+      "question": {
+        "en": "The continuity equation expresses the law of —",
+        "hi": "सातत्य समीकरण (Continuity Equation) किस नियम को व्यक्त करता है?"
+      },
+      "options": [
+        { "en": "Conservation of mass", "hi": "द्रव्यमान संरक्षण" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Momentum", "hi": "संवेग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 310,
+      "question": {
+        "en": "Bernoulli's theorem is based on —",
+        "hi": "बर्नूली का प्रमेय किस पर आधारित है?"
+      },
+      "options": [
+        { "en": "Conservation of mass", "hi": "द्रव्यमान संरक्षण" },
+        { "en": "Conservation of momentum", "hi": "संवेग संरक्षण" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Conservation of energy", "hi": "ऊर्जा संरक्षण" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 311,
+      "question": {
+        "en": "The velocity of fluid flow in a pipe is measured using —",
+        "hi": "पाइप में द्रव प्रवाह की गति मापने के लिए प्रयुक्त यंत्र है —"
+      },
+      "options": [
+        { "en": "Pitot tube", "hi": "पिटोट ट्यूब" },
+        { "en": "U-tube", "hi": "U-ट्यूब" },
+        { "en": "Barometer", "hi": "बैरोमीटर" },
+        { "en": "Piezometer", "hi": "पीज़ोमीटर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 312,
+      "question": {
+        "en": "A fluid at rest cannot resist —",
+        "hi": "विराम अवस्था में एक द्रव किसका विरोध नहीं कर सकता?"
+      },
+      "options": [
+        { "en": "Normal stress", "hi": "अभिलंब प्रतिबल" },
+        { "en": "Shear stress", "hi": "अपरूपण प्रतिबल" },
+        { "en": "Tangential stress", "hi": "स्पर्शरेखीय प्रतिबल" },
+        { "en": "Hydrostatic pressure", "hi": "जलस्थैतिक दबाव" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 313,
+      "question": {
+        "en": "The property of a fluid that offers resistance to motion is —",
+        "hi": "द्रव का वह गुण जो गति का प्रतिरोध करता है, कहलाता है —"
+      },
+      "options": [
+        { "en": "Surface tension", "hi": "पृष्ठ तनाव" },
+        { "en": "Density", "hi": "घनत्व" },
+        { "en": "Capillarity", "hi": "केशिकत्व" },
+        { "en": "Viscosity", "hi": "श्यानता" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 314,
+      "question": {
+        "en": "The unit of dynamic viscosity is —",
+        "hi": "गतिक श्यानता (Dynamic Viscosity) की इकाई है —"
+      },
+      "options": [
+        { "en": "N/m²", "hi": "N/m²" },
+        { "en": "Pa·s", "hi": "Pa·s" },
+        { "en": "N·m", "hi": "N·m" },
+        { "en": "kg/m³", "hi": "kg/m³" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 315,
+      "question": {
+        "en": "Kinematic viscosity is equal to —",
+        "hi": "गतिज श्यानता (Kinematic Viscosity) बराबर होती है —"
+      },
+      "options": [
+        { "en": "Dynamic viscosity / Density", "hi": "गतिक श्यानता / घनत्व" },
+        { "en": "Density × Pressure", "hi": "घनत्व × दबाव" },
+        { "en": "Shear stress × Velocity", "hi": "अपरूपण प्रतिबल × वेग" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 316,
+      "question": {
+        "en": "The flow of fluid is called laminar when —",
+        "hi": "द्रव का प्रवाह स्तरीय (Laminar) कहलाता है जब —"
+      },
+      "options": [
+        { "en": "Flow is turbulent", "hi": "प्रवाह अशांत हो" },
+        { "en": "Reynolds number < 2000", "hi": "रेनॉल्ड्स संख्या < 2000 हो" },
+        { "en": "Reynolds number > 4000", "hi": "रेनॉल्ड्स संख्या > 4000 हो" },
+        { "en": "Irregular flow", "hi": "प्रवाह अनियमित हो" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 317,
+      "question": {
+        "en": "The flow of water in rivers is —",
+        "hi": "नदियों में जल का प्रवाह होता है —"
+      },
+      "options": [
+        { "en": "Laminar", "hi": "स्तरीय" },
+        { "en": "Uniform", "hi": "एकसमान" },
+        { "en": "Irregular", "hi": "अनियमित" },
+        { "en": "Turbulent", "hi": "अशांत" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 318,
+      "question": {
+        "en": "The dimension of pressure is —",
+        "hi": "दबाव की विमा होती है —"
+      },
+      "options": [
+        { "en": "ML⁻¹T⁻²", "hi": "ML⁻¹T⁻²" },
+        { "en": "MLT⁻²", "hi": "MLT⁻²" },
+        { "en": "ML²T⁻¹", "hi": "ML²T⁻¹" },
+        { "en": "M⁻¹L⁻¹T", "hi": "M⁻¹L⁻¹T" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 319,
+      "question": {
+        "en": "The equation of continuity for incompressible flow is —",
+        "hi": "असंपीड्य प्रवाह के लिए सातत्य समीकरण है —"
+      },
+      "options": [
+        { "en": "P₁V₁ = P₂V₂", "hi": "P₁V₁ = P₂V₂" },
+        { "en": "A₁V₁ = A₂V₂", "hi": "A₁V₁ = A₂V₂" },
+        { "en": "P₁A₁ = P₂A₂", "hi": "P₁A₁ = P₂A₂" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 320,
+      "question": {
+        "en": "Surface tension is due to —",
+        "hi": "पृष्ठ तनाव (Surface Tension) किसके कारण होता है?"
+      },
+      "options": [
+        { "en": "Adhesive force", "hi": "आसंजन बल" },
+        { "en": "Density", "hi": "घनत्व" },
+        { "en": "Cohesive force", "hi": "संसंजन बल" },
+        { "en": "Volume", "hi": "आयतन" }
+      ],
+      "correct": 2
+    }
+  ]
+}

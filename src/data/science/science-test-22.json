@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 22",
+  "questions": [
+    {
+      "id": 421,
+      "question": {
+        "en": "The quick return mechanism is used in —",
+        "hi": "शीघ्र-वापसी (Quick Return) क्रियाविधि किसमें उपयोग होती है?"
+      },
+      "options": [
+        { "en": "Lathe", "hi": "खराद" },
+        { "en": "Grinder", "hi": "ग्राइंडर" },
+        { "en": "Shaper", "hi": "शेपर" },
+        { "en": "Drilling machine", "hi": "ड्रिलिंग मशीन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 422,
+      "question": {
+        "en": "The milling machine removes material by —",
+        "hi": "मिलिंग मशीन किसके द्वारा सामग्री हटाती है?"
+      },
+      "options": [
+        { "en": "Rotating multipoint cutter", "hi": "घूमती हुई बहुबिंदु कटर" },
+        { "en": "Reciprocation", "hi": "पारस्परिक गति" },
+        { "en": "Linear motion", "hi": "रेखीय गति" },
+        { "en": "Hammering", "hi": "हथौड़ा मारना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 423,
+      "question": {
+        "en": "In up milling, the cutter rotates —",
+        "hi": "अप मिलिंग में कटर किस दिशा में घूमता है?"
+      },
+      "options": [
+        { "en": "Against feed direction", "hi": "फीड की विपरीत दिशा में" },
+        { "en": "Opposite to feed direction", "hi": "फीड दिशा के विपरीत" },
+        { "en": "With feed direction", "hi": "फीड दिशा में" },
+        { "en": "Randomly", "hi": "यादृच्छिक रूप से" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 424,
+      "question": {
+        "en": "In down milling, the cutter rotates —",
+        "hi": "डाउन मिलिंग में कटर किस दिशा में घूमता है?"
+      },
+      "options": [
+        { "en": "With feed direction", "hi": "फीड दिशा में" },
+        { "en": "Opposite to feed", "hi": "फीड के विपरीत" },
+        { "en": "Randomly", "hi": "यादृच्छिक रूप से" },
+        { "en": "Upward", "hi": "ऊपर की ओर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 425,
+      "question": {
+        "en": "The process of finishing flat surfaces with a rotating abrasive wheel is —",
+        "hi": "घूमते अपघर्षक पहिये से समतल सतह को परिष्कृत करने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Milling", "hi": "मिलिंग" },
+        { "en": "Shaping", "hi": "शेपिंग" },
+        { "en": "Filing", "hi": "फाइलिंग" },
+        { "en": "Grinding", "hi": "ग्राइंडिंग" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 426,
+      "question": {
+        "en": "The grinding wheel is made of —",
+        "hi": "पीसने का पहिया (Grinding Wheel) किसका बना होता है?"
+      },
+      "options": [
+        { "en": "Steel", "hi": "स्टील" },
+        { "en": "Brass", "hi": "पीतल" },
+        { "en": "Abrasive grains bonded together", "hi": "आपस में बंधे अपघर्षक कण" },
+        { "en": "Iron", "hi": "लोहा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 427,
+      "question": {
+        "en": "The operation used to smoothen welded joints is —",
+        "hi": "वेल्डेड जोड़ों को चिकना करने के लिए प्रयुक्त क्रिया है —"
+      },
+      "options": [
+        { "en": "Grinding", "hi": "ग्राइंडिंग" },
+        { "en": "Filing", "hi": "फाइलिंग" },
+        { "en": "Lapping", "hi": "लैपिंग" },
+        { "en": "Polishing", "hi": "पॉलिशिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 428,
+      "question": {
+        "en": "The angle between the top face and cutting edge of the tool is —",
+        "hi": "उपकरण के ऊपरी तल और कटाई किनारे के बीच का कोण कहलाता है —"
+      },
+      "options": [
+        { "en": "Relief angle", "hi": "रिलीफ कोण" },
+        { "en": "Clearance angle", "hi": "क्लियरेंस कोण" },
+        { "en": "Wedge angle", "hi": "वेज कोण" },
+        { "en": "Rake angle", "hi": "रेक कोण" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 429,
+      "question": {
+        "en": "The part of the lathe which supports long workpieces is —",
+        "hi": "खराद का वह भाग जो लंबे कार्यखंडों को सहारा देता है, कहलाता है —"
+      },
+      "options": [
+        { "en": "Tailstock", "hi": "टेलस्टॉक" },
+        { "en": "Headstock", "hi": "हेडस्टॉक" },
+        { "en": "Carriage", "hi": "कैरेज" },
+        { "en": "Chuck", "hi": "चक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 430,
+      "question": {
+        "en": "A chuck used for holding irregular shapes is —",
+        "hi": "अनियमित आकार की वस्तुओं को पकड़ने के लिए प्रयुक्त चक है —"
+      },
+      "options": [
+        { "en": "Three-jaw chuck", "hi": "थ्री-जॉ चक" },
+        { "en": "Collet", "hi": "कॉलेट" },
+        { "en": "Faceplate", "hi": "फेसप्लेट" },
+        { "en": "Four-jaw independent chuck", "hi": "फोर-जॉ इंडिपेंडेंट चक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 431,
+      "question": {
+        "en": "The operation used to cut material into pieces is —",
+        "hi": "सामग्री को टुकड़ों में काटने के लिए प्रयुक्त क्रिया है —"
+      },
+      "options": [
+        { "en": "Facing", "hi": "फेसिंग" },
+        { "en": "Parting off", "hi": "पार्टिंग ऑफ" },
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Reaming", "hi": "रीमिंग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 432,
+      "question": {
+        "en": "The main function of carriage in a lathe is —",
+        "hi": "खराद में कैरेज (Carriage) का मुख्य कार्य है —"
+      },
+      "options": [
+        { "en": "Support tailstock", "hi": "टेलस्टॉक को सहारा देना" },
+        { "en": "Drive spindle", "hi": "स्पिंडल चलाना" },
+        { "en": "Control feed", "hi": "फीड नियंत्रित करना" },
+        { "en": "Hold and move the cutting tool", "hi": "काटने के उपकरण को पकड़ना और चलाना" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 433,
+      "question": {
+        "en": "A boring operation is used to —",
+        "hi": "बोरिंग क्रिया किसलिए की जाती है?"
+      },
+      "options": [
+        { "en": "Drill hole", "hi": "छेद ड्रिल करना" },
+        { "en": "Enlarge a hole", "hi": "छेद को बड़ा करना" },
+        { "en": "Thread hole", "hi": "छेद में धागा बनाना" },
+        { "en": "Shape surface", "hi": "सतह को आकार देना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 434,
+      "question": {
+        "en": "Tool life increases with —",
+        "hi": "उपकरण का जीवनकाल किससे बढ़ता है?"
+      },
+      "options": [
+        { "en": "Proper cutting speed and lubrication", "hi": "उचित कटिंग गति और चिकनाई से" },
+        { "en": "High speed", "hi": "अधिक गति से" },
+        { "en": "High feed", "hi": "अधिक फीड से" },
+        { "en": "No coolant", "hi": "शीतलक के बिना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 435,
+      "question": {
+        "en": "The machine used for cutting keyways is —",
+        "hi": "चाबी खाँचे (Keyways) काटने के लिए प्रयुक्त मशीन है —"
+      },
+      "options": [
+        { "en": "Grinder", "hi": "ग्राइंडर" },
+        { "en": "Lathe", "hi": "खराद" },
+        { "en": "Slotter", "hi": "स्लॉटर" },
+        { "en": "Shaper", "hi": "शेपर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 436,
+      "question": {
+        "en": "The feed motion in shaper is provided to —",
+        "hi": "शेपर में फीड गति किसे दी जाती है?"
+      },
+      "options": [
+        { "en": "Ram", "hi": "रैम" },
+        { "en": "Worktable", "hi": "कार्य तालिका" },
+        { "en": "Tool", "hi": "उपकरण" },
+        { "en": "Crank", "hi": "क्रैंक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 437,
+      "question": {
+        "en": "The power hacksaw cuts metal during —",
+        "hi": "पावर हैकसॉ धातु को किस स्ट्रोक में काटता है?"
+      },
+      "options": [
+        { "en": "Both strokes", "hi": "दोनों स्ट्रोक में" },
+        { "en": "Forward stroke", "hi": "आगे के स्ट्रोक में" },
+        { "en": "Return stroke", "hi": "वापसी के स्ट्रोक में" },
+        { "en": "Idle stroke", "hi": "खाली स्ट्रोक में" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 438,
+      "question": {
+        "en": "The function of coolant in machining is —",
+        "hi": "मशीनिंग में शीतलक (Coolant) का कार्य है —"
+      },
+      "options": [
+        { "en": "Reduce temperature and friction", "hi": "तापमान और घर्षण कम करना" },
+        { "en": "Increase friction", "hi": "घर्षण बढ़ाना" },
+        { "en": "Increase chip size", "hi": "चिप का आकार बढ़ाना" },
+        { "en": "Decrease tool life", "hi": "उपकरण का जीवनकाल घटाना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 439,
+      "question": {
+        "en": "The cutting tool in a shaping machine is made of —",
+        "hi": "शेपिंग मशीन में काटने का उपकरण किसका बना होता है?"
+      },
+      "options": [
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Mild steel", "hi": "माइल्ड स्टील" },
+        { "en": "HSS or carbide", "hi": "HSS या कार्बाइड" },
+        { "en": "Cast iron", "hi": "ढलवाँ लोहा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 440,
+      "question": {
+        "en": "The tool used in drilling machine for enlarging holes is —",
+        "hi": "ड्रिलिंग मशीन में छेद बड़ा करने के लिए प्रयुक्त उपकरण है —"
+      },
+      "options": [
+        { "en": "Counterbore", "hi": "काउंटरबोर" },
+        { "en": "Countersink", "hi": "काउंटरसिंक" },
+        { "en": "Drill", "hi": "ड्रिल" },
+        { "en": "Reamer", "hi": "रीमर" }
+      ],
+      "correct": 3
+    }
+  ]
+}

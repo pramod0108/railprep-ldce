@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 3",
+  "questions": [
+    {
+      "id": 41,
+      "question": {
+        "en": "Conduction of heat is maximum in —",
+        "hi": "ऊष्मा का चालन किसमें सर्वाधिक होता है?"
+      },
+      "options": [
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Wood", "hi": "लकड़ी" },
+        { "en": "Air", "hi": "वायु" },
+        { "en": "Glass", "hi": "काँच" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "Radiation can occur —",
+        "hi": "विकिरण (Radiation) हो सकता है —"
+      },
+      "options": [
+        { "en": "Only in solids", "hi": "केवल ठोसों में" },
+        { "en": "Even in vacuum", "hi": "निर्वात में भी" },
+        { "en": "Only in liquids", "hi": "केवल द्रवों में" },
+        { "en": "Only in gases", "hi": "केवल गैसों में" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "The unit of specific heat is —",
+        "hi": "विशिष्ट ऊष्मा की इकाई है —"
+      },
+      "options": [
+        { "en": "J/kg", "hi": "J/kg" },
+        { "en": "J/kg·s", "hi": "J/kg·s" },
+        { "en": "J/kg·K", "hi": "J/kg·K" },
+        { "en": "W/kg", "hi": "W/kg" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "The thermal expansion of metals is —",
+        "hi": "धातुओं का ताप प्रसार होता है —"
+      },
+      "options": [
+        { "en": "Negative", "hi": "ऋणात्मक" },
+        { "en": "Zero", "hi": "शून्य" },
+        { "en": "Constant", "hi": "स्थिर" },
+        { "en": "Positive", "hi": "धनात्मक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "Heat always flows from —",
+        "hi": "ऊष्मा हमेशा किस दिशा में प्रवाहित होती है?"
+      },
+      "options": [
+        { "en": "Hot to cold", "hi": "गर्म से ठंडे की ओर" },
+        { "en": "Cold to hot", "hi": "ठंडे से गर्म की ओर" },
+        { "en": "High pressure to low pressure", "hi": "उच्च दबाव से निम्न दबाव की ओर" },
+        { "en": "Low pressure to high pressure", "hi": "निम्न दबाव से उच्च दबाव की ओर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "The instrument used to measure temperature is —",
+        "hi": "तापमान मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Barometer", "hi": "बैरोमीटर" },
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Hygrometer", "hi": "हाइग्रोमीटर" },
+        { "en": "Calorimeter", "hi": "कैलोरीमीटर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "The unit of heat capacity is —",
+        "hi": "ऊष्मा धारिता की इकाई है —"
+      },
+      "options": [
+        { "en": "J/kg", "hi": "J/kg" },
+        { "en": "W/K", "hi": "W/K" },
+        { "en": "J/K", "hi": "J/K" },
+        { "en": "J/m", "hi": "J/m" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "0°C is equal to —",
+        "hi": "0°C बराबर होता है —"
+      },
+      "options": [
+        { "en": "100 K", "hi": "100 K" },
+        { "en": "373 K", "hi": "373 K" },
+        { "en": "0 K", "hi": "0 K" },
+        { "en": "273 K", "hi": "273 K" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "Boiling point of water in Kelvin is —",
+        "hi": "केल्विन में जल का क्वथनांक है —"
+      },
+      "options": [
+        { "en": "373 K", "hi": "373 K" },
+        { "en": "373°C", "hi": "373°C" },
+        { "en": "273°C", "hi": "273°C" },
+        { "en": "300 K", "hi": "300 K" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "Energy due to motion is —",
+        "hi": "गति के कारण होने वाली ऊर्जा है —"
+      },
+      "options": [
+        { "en": "Chemical energy", "hi": "रासायनिक ऊर्जा" },
+        { "en": "Kinetic energy", "hi": "गतिज ऊर्जा" },
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" },
+        { "en": "Thermal energy", "hi": "ऊष्मीय ऊर्जा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "The smallest particle of an element is —",
+        "hi": "किसी तत्व का सबसे छोटा कण होता है —"
+      },
+      "options": [
+        { "en": "Molecule", "hi": "अणु" },
+        { "en": "Ion", "hi": "आयन" },
+        { "en": "Atom", "hi": "परमाणु" },
+        { "en": "Compound", "hi": "यौगिक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "The unit of energy used in thermodynamics is —",
+        "hi": "ऊष्मागतिकी (Thermodynamics) में प्रयुक्त ऊर्जा की इकाई है —"
+      },
+      "options": [
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Electron", "hi": "इलेक्ट्रॉन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "The energy stored in chemical bonds is —",
+        "hi": "रासायनिक बंधनों में संग्रहीत ऊर्जा होती है —"
+      },
+      "options": [
+        { "en": "Kinetic energy", "hi": "गतिज ऊर्जा" },
+        { "en": "Heat", "hi": "ऊष्मा" },
+        { "en": "Work", "hi": "कार्य" },
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "The law of conservation of mass was given by —",
+        "hi": "द्रव्यमान संरक्षण का नियम किसने दिया?"
+      },
+      "options": [
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Lavoisier", "hi": "लेवोइसियर" },
+        { "en": "Dalton", "hi": "डाल्टन" },
+        { "en": "Faraday", "hi": "फैराडे" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "When heat is absorbed by a substance, its temperature —",
+        "hi": "जब कोई पदार्थ ऊष्मा अवशोषित करता है, तो उसका तापमान —"
+      },
+      "options": [
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Falls rapidly", "hi": "तेजी से गिरता है" },
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Remains constant", "hi": "स्थिर रहता है" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "Energy change in a chemical reaction is called —",
+        "hi": "किसी रासायनिक अभिक्रिया में ऊर्जा परिवर्तन को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Enthalpy", "hi": "एन्थैल्पी" },
+        { "en": "Momentum", "hi": "संवेग" },
+        { "en": "Work", "hi": "कार्य" },
+        { "en": "Bonding", "hi": "बंधन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "Heat content of a substance is measured by —",
+        "hi": "किसी पदार्थ की ऊष्मा सामग्री किससे मापी जाती है?"
+      },
+      "options": [
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Ammeter", "hi": "एमीटर" },
+        { "en": "Galvanometer", "hi": "गैल्वेनोमीटर" },
+        { "en": "Calorimeter", "hi": "कैलोरीमीटर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "Exothermic reaction releases —",
+        "hi": "ऊष्माक्षेपी (Exothermic) अभिक्रिया में निकलती है —"
+      },
+      "options": [
+        { "en": "Cold", "hi": "ठंडक" },
+        { "en": "Heat energy", "hi": "ऊष्मा ऊर्जा" },
+        { "en": "Light", "hi": "प्रकाश" },
+        { "en": "Pressure", "hi": "दबाव" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "An endothermic reaction —",
+        "hi": "ऊष्माशोषी (Endothermic) अभिक्रिया —"
+      },
+      "options": [
+        { "en": "Releases heat", "hi": "ऊष्मा मुक्त करती है" },
+        { "en": "No heat exchange", "hi": "कोई ऊष्मा आदान-प्रदान नहीं" },
+        { "en": "Absorbs heat", "hi": "ऊष्मा अवशोषित करती है" },
+        { "en": "Maintains constant temperature", "hi": "तापमान स्थिर रखती है" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "The SI unit of heat is —",
+        "hi": "ऊष्मा की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 18",
+  "questions": [
+    {
+      "id": 341,
+      "question": {
+        "en": "The rise of liquid in a capillary tube is due to —",
+        "hi": "केशिका नली में द्रव के चढ़ने का कारण है —"
+      },
+      "options": [
+        { "en": "Surface tension", "hi": "पृष्ठ तनाव" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Viscosity", "hi": "श्यानता" },
+        { "en": "Cohesion", "hi": "संसंजन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 342,
+      "question": {
+        "en": "The unit of dynamic viscosity in CGS system is —",
+        "hi": "CGS पद्धति में गतिक श्यानता की इकाई है —"
+      },
+      "options": [
+        { "en": "Stokes", "hi": "स्टोक्स" },
+        { "en": "Poise", "hi": "प्वाज़" },
+        { "en": "Pascal", "hi": "पास्कल" },
+        { "en": "Joule", "hi": "जूल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 343,
+      "question": {
+        "en": "The kinematic viscosity in CGS system is measured in —",
+        "hi": "CGS पद्धति में गतिज श्यानता किसमें मापी जाती है?"
+      },
+      "options": [
+        { "en": "Poise", "hi": "प्वाज़" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Stokes", "hi": "स्टोक्स" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 344,
+      "question": {
+        "en": "The head loss due to friction in a pipe is given by —",
+        "hi": "पाइप में घर्षण के कारण शीर्ष ह्रास (Head Loss) किस समीकरण से ज्ञात होता है?"
+      },
+      "options": [
+        { "en": "Darcy-Weisbach equation", "hi": "डार्सी-वाइसबैक समीकरण" },
+        { "en": "Bernoulli equation", "hi": "बर्नूली समीकरण" },
+        { "en": "Pascal law", "hi": "पास्कल नियम" },
+        { "en": "Boyle law", "hi": "बॉयल नियम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 345,
+      "question": {
+        "en": "The ratio of inertia force to viscous force is —",
+        "hi": "जड़त्व बल से श्यान बल का अनुपात कहलाता है —"
+      },
+      "options": [
+        { "en": "Froude number", "hi": "फ्रूड संख्या" },
+        { "en": "Mach number", "hi": "मैक संख्या" },
+        { "en": "Reynolds number", "hi": "रेनॉल्ड्स संख्या" },
+        { "en": "Weber number", "hi": "वेबर संख्या" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 346,
+      "question": {
+        "en": "Flow through a nozzle is governed by —",
+        "hi": "नोज़ल (Nozzle) के माध्यम से प्रवाह किसके द्वारा नियंत्रित होता है?"
+      },
+      "options": [
+        { "en": "Pascal's law", "hi": "पास्कल का नियम" },
+        { "en": "Boyle's law", "hi": "बॉयल का नियम" },
+        { "en": "Newton's law", "hi": "न्यूटन का नियम" },
+        { "en": "Bernoulli's theorem", "hi": "बर्नूली का प्रमेय" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 347,
+      "question": {
+        "en": "Coefficient of discharge is the ratio of —",
+        "hi": "प्रवाह गुणांक (Coefficient of Discharge) किसका अनुपात है?"
+      },
+      "options": [
+        { "en": "Actual discharge / Theoretical discharge", "hi": "वास्तविक प्रवाह / सैद्धांतिक प्रवाह" },
+        { "en": "Theoretical / Actual discharge", "hi": "सैद्धांतिक / वास्तविक प्रवाह" },
+        { "en": "Velocity / Pressure", "hi": "वेग / दबाव" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 348,
+      "question": {
+        "en": "The pressure head is equal to —",
+        "hi": "दबाव शीर्ष (Pressure Head) बराबर होता है —"
+      },
+      "options": [
+        { "en": "hρ", "hi": "hρ" },
+        { "en": "P/ρg", "hi": "P/ρg" },
+        { "en": "P/ρ", "hi": "P/ρ" },
+        { "en": "gρ", "hi": "gρ" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 349,
+      "question": {
+        "en": "The most efficient cross-section for open channel flow is —",
+        "hi": "खुली नाली प्रवाह के लिए सबसे कुशल अनुप्रस्थ काट (Cross-section) है —"
+      },
+      "options": [
+        { "en": "Square", "hi": "वर्गाकार" },
+        { "en": "Rectangular", "hi": "आयताकार" },
+        { "en": "Trapezoidal", "hi": "समलम्बाकार" },
+        { "en": "Semi-circular", "hi": "अर्धवृत्ताकार" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 350,
+      "question": {
+        "en": "The term 'hydraulic gradient line' represents —",
+        "hi": "'हाइड्रॉलिक ग्रेडिएंट लाइन' किसे दर्शाती है?"
+      },
+      "options": [
+        { "en": "Flow direction", "hi": "प्रवाह दिशा" },
+        { "en": "Streamline", "hi": "धारारेखा" },
+        { "en": "Total head loss per length", "hi": "प्रति इकाई लम्बाई में कुल शीर्ष ह्रास" },
+        { "en": "Pressure line", "hi": "दबाव रेखा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 351,
+      "question": {
+        "en": "The branch of science which deals with study of materials is called —",
+        "hi": "विज्ञान की वह शाखा जो सामग्रियों के अध्ययन से संबंधित है, कहलाती है —"
+      },
+      "options": [
+        { "en": "Mechanics", "hi": "यांत्रिकी" },
+        { "en": "Physics", "hi": "भौतिकी" },
+        { "en": "Chemistry", "hi": "रसायन विज्ञान" },
+        { "en": "Material Science", "hi": "पदार्थ विज्ञान" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 352,
+      "question": {
+        "en": "The property of a material to resist deformation under load is —",
+        "hi": "किसी पदार्थ का वह गुण जो भार के अंतर्गत विरूपण का प्रतिरोध करता है, कहलाता है —"
+      },
+      "options": [
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Strength", "hi": "शक्ति / सामर्थ्य" },
+        { "en": "Hardness", "hi": "कठोरता" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 353,
+      "question": {
+        "en": "The ability of a material to return to its original shape after deformation is —",
+        "hi": "विरूपण के बाद किसी पदार्थ के अपने मूल आकार में लौटने की क्षमता कहलाती है —"
+      },
+      "options": [
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Toughness", "hi": "दृढ़ता" },
+        { "en": "Rigidity", "hi": "दृढ़ता/अनम्यता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 354,
+      "question": {
+        "en": "The property of a material to deform permanently under load is —",
+        "hi": "भार के अंतर्गत किसी पदार्थ में स्थायी विरूपण का गुण कहलाता है —"
+      },
+      "options": [
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Hardness", "hi": "कठोरता" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 355,
+      "question": {
+        "en": "The ability of a material to be drawn into wires is —",
+        "hi": "किसी पदार्थ को तार के रूप में खींचने की क्षमता कहलाती है —"
+      },
+      "options": [
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Toughness", "hi": "दृढ़ता" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 356,
+      "question": {
+        "en": "The ability of a material to be hammered into thin sheets is —",
+        "hi": "किसी पदार्थ को पतली चादरों में पीटने की क्षमता कहलाती है —"
+      },
+      "options": [
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Toughness", "hi": "दृढ़ता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 357,
+      "question": {
+        "en": "The property of a material to absorb energy before fracture is —",
+        "hi": "किसी पदार्थ में भंग (Fracture) से पहले ऊर्जा अवशोषण का गुण कहलाता है —"
+      },
+      "options": [
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Toughness", "hi": "दृढ़ता" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 358,
+      "question": {
+        "en": "The resistance of a material to wear or scratch is —",
+        "hi": "किसी पदार्थ की घिसाव या खरोंच के प्रति प्रतिरोध क्षमता कहलाती है —"
+      },
+      "options": [
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Brittleness", "hi": "भंगुरता" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 359,
+      "question": {
+        "en": "The ability of a material to withstand repeated loading without failure is —",
+        "hi": "किसी पदार्थ की बार-बार भार सहने की बिना टूटे क्षमता कहलाती है —"
+      },
+      "options": [
+        { "en": "Fatigue strength", "hi": "थकान सामर्थ्य" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Elastic limit", "hi": "प्रत्यास्थता सीमा" },
+        { "en": "Endurance limit", "hi": "सहनशीलता सीमा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 360,
+      "question": {
+        "en": "The stress at which a material begins to deform plastically is —",
+        "hi": "वह प्रतिबल जिस पर पदार्थ में स्थायी विरूपण शुरू होता है, कहलाता है —"
+      },
+      "options": [
+        { "en": "Ultimate stress", "hi": "अंतिम प्रतिबल" },
+        { "en": "Breaking stress", "hi": "भंजक प्रतिबल" },
+        { "en": "Nominal stress", "hi": "नामांकित प्रतिबल" },
+        { "en": "Yield stress", "hi": "प्रवाह प्रतिबल" }
+      ],
+      "correct": 3
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-[]
+[
+  { "id": "science-test-1", "file": "science-test-1.json", "paperName": "Science Mock Test – 1" },
+  { "id": "science-test-2", "file": "science-test-2.json", "paperName": "Science Mock Test – 2" },
+  { "id": "science-test-3", "file": "science-test-3.json", "paperName": "Science Mock Test – 3" },
+  { "id": "science-test-4", "file": "science-test-4.json", "paperName": "Science Mock Test – 4" },
+  { "id": "science-test-5", "file": "science-test-5.json", "paperName": "Science Mock Test – 5" },
+  { "id": "science-test-6", "file": "science-test-6.json", "paperName": "Science Mock Test – 6" },
+  { "id": "science-test-7", "file": "science-test-7.json", "paperName": "Science Mock Test – 7" },
+  { "id": "science-test-8", "file": "science-test-8.json", "paperName": "Science Mock Test – 8" },
+  { "id": "science-test-9", "file": "science-test-9.json", "paperName": "Science Mock Test – 9" },
+  { "id": "science-test-10", "file": "science-test-10.json", "paperName": "Science Mock Test – 10" },
+  { "id": "science-test-11", "file": "science-test-11.json", "paperName": "Science Mock Test – 11" },
+  { "id": "science-test-12", "file": "science-test-12.json", "paperName": "Science Mock Test – 12" },
+  { "id": "science-test-13", "file": "science-test-13.json", "paperName": "Science Mock Test – 13" },
+  { "id": "science-test-14", "file": "science-test-14.json", "paperName": "Science Mock Test – 14" },
+  { "id": "science-test-15", "file": "science-test-15.json", "paperName": "Science Mock Test – 15" },
+  { "id": "science-test-16", "file": "science-test-16.json", "paperName": "Science Mock Test – 16" },
+  { "id": "science-test-17", "file": "science-test-17.json", "paperName": "Science Mock Test – 17" },
+  { "id": "science-test-18", "file": "science-test-18.json", "paperName": "Science Mock Test – 18" },
+  { "id": "science-test-19", "file": "science-test-19.json", "paperName": "Science Mock Test – 19" },
+  { "id": "science-test-20", "file": "science-test-20.json", "paperName": "Science Mock Test – 20" },
+  { "id": "science-test-21", "file": "science-test-21.json", "paperName": "Science Mock Test – 21" },
+  { "id": "science-test-22", "file": "science-test-22.json", "paperName": "Science Mock Test – 22" },
+  { "id": "science-test-23", "file": "science-test-23.json", "paperName": "Science Mock Test – 23" },
+  { "id": "science-test-24", "file": "science-test-24.json", "paperName": "Science Mock Test – 24" },
+  { "id": "science-test-25", "file": "science-test-25.json", "paperName": "Science Mock Test – 25" }
+]

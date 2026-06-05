@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 5",
+  "questions": [
+    {
+      "id": 81,
+      "question": {
+        "en": "Heat cannot flow from cold to hot without —",
+        "hi": "ठंडे से गर्म की ओर ऊष्मा प्रवाह किसके बिना संभव नहीं है?"
+      },
+      "options": [
+        { "en": "Conduction", "hi": "चालन" },
+        { "en": "Energy loss", "hi": "ऊर्जा हानि" },
+        { "en": "Friction", "hi": "घर्षण" },
+        { "en": "External work", "hi": "बाह्य कार्य" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "The unit of latent heat is —",
+        "hi": "गुप्त ऊष्मा की इकाई है —"
+      },
+      "options": [
+        { "en": "J/m³", "hi": "J/m³" },
+        { "en": "J/kg", "hi": "J/kg" },
+        { "en": "J/K", "hi": "J/K" },
+        { "en": "W/kg", "hi": "W/kg" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "Latent heat of vaporization of water is —",
+        "hi": "जल की वाष्पीकरण की गुप्त ऊष्मा है —"
+      },
+      "options": [
+        { "en": "1000 kJ/kg", "hi": "1000 kJ/kg" },
+        { "en": "4000 kJ/kg", "hi": "4000 kJ/kg" },
+        { "en": "2260 kJ/kg", "hi": "2260 kJ/kg" },
+        { "en": "1800 kJ/kg", "hi": "1800 kJ/kg" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "The process of heating a solid till it becomes liquid is —",
+        "hi": "किसी ठोस को गर्म करके द्रव में बदलने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Melting", "hi": "पिघलना" },
+        { "en": "Evaporation", "hi": "वाष्पीकरण" },
+        { "en": "Sublimation", "hi": "ऊर्ध्वपातन" },
+        { "en": "Freezing", "hi": "हिमीकरण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "When water changes into steam, heat is —",
+        "hi": "जब जल भाप में बदलता है, तो ऊष्मा —"
+      },
+      "options": [
+        { "en": "Released", "hi": "मुक्त होती है" },
+        { "en": "Remains constant", "hi": "स्थिर रहती है" },
+        { "en": "Zero", "hi": "शून्य होती है" },
+        { "en": "Absorbed", "hi": "अवशोषित होती है" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "Condensation is the reverse of —",
+        "hi": "संघनन (Condensation) किसके विपरीत प्रक्रिया है?"
+      },
+      "options": [
+        { "en": "Freezing", "hi": "हिमीकरण" },
+        { "en": "Vaporization", "hi": "वाष्पीकरण" },
+        { "en": "Fusion", "hi": "संलयन" },
+        { "en": "Conduction", "hi": "चालन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "Heat required to raise 1 mole of substance by 1°C is —",
+        "hi": "1 मोल पदार्थ का तापमान 1°C बढ़ाने के लिए आवश्यक ऊष्मा कहलाती है —"
+      },
+      "options": [
+        { "en": "Latent heat", "hi": "गुप्त ऊष्मा" },
+        { "en": "Specific heat", "hi": "विशिष्ट ऊष्मा" },
+        { "en": "Molar heat capacity", "hi": "मोलर ऊष्मा धारिता" },
+        { "en": "Thermal capacity", "hi": "ऊष्मीय धारिता" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "Boiling point of water decreases with —",
+        "hi": "जल का क्वथनांक किसके बढ़ने पर घटता है?"
+      },
+      "options": [
+        { "en": "Altitude", "hi": "ऊँचाई" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "Volume", "hi": "आयतन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "Heat transfer in vacuum occurs by —",
+        "hi": "निर्वात में ऊष्मा स्थानांतरण किसके द्वारा होता है?"
+      },
+      "options": [
+        { "en": "Conduction", "hi": "चालन" },
+        { "en": "Convection", "hi": "संवहन" },
+        { "en": "Friction", "hi": "घर्षण" },
+        { "en": "Radiation", "hi": "विकिरण" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "In an ideal gas, internal energy depends on —",
+        "hi": "एक आदर्श गैस में आंतरिक ऊर्जा किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Temperature only", "hi": "केवल तापमान" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Density", "hi": "घनत्व" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "The gas law connecting pressure and temperature is —",
+        "hi": "दबाव और तापमान को जोड़ने वाला गैस नियम है —"
+      },
+      "options": [
+        { "en": "Boyle's Law", "hi": "बॉयल का नियम" },
+        { "en": "Charles' Law", "hi": "चार्ल्स का नियम" },
+        { "en": "Gay-Lussac's Law", "hi": "गे-लुसाक का नियम" },
+        { "en": "Dalton's Law", "hi": "डाल्टन का नियम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "In an exothermic reaction, energy of products is —",
+        "hi": "ऊष्माक्षेपी (Exothermic) अभिक्रिया में उत्पादों की ऊर्जा अभिकारकों की तुलना में होती है —"
+      },
+      "options": [
+        { "en": "Lower", "hi": "कम" },
+        { "en": "Higher", "hi": "अधिक" },
+        { "en": "Equal", "hi": "समान" },
+        { "en": "Infinite", "hi": "अनंत" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "The reaction in which heat is absorbed from surroundings is —",
+        "hi": "वह अभिक्रिया जिसमें परिवेश से ऊष्मा अवशोषित होती है, कहलाती है —"
+      },
+      "options": [
+        { "en": "Exothermic", "hi": "ऊष्माक्षेपी" },
+        { "en": "Isothermal", "hi": "समतापी" },
+        { "en": "Adiabatic", "hi": "रुद्धोष्म" },
+        { "en": "Endothermic", "hi": "ऊष्माशोषी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "The SI unit of thermal conductivity is —",
+        "hi": "ऊष्मीय चालकता की SI इकाई है —"
+      },
+      "options": [
+        { "en": "J/kg", "hi": "J/kg" },
+        { "en": "W/m·K", "hi": "W/m·K" },
+        { "en": "J/mol", "hi": "J/mol" },
+        { "en": "W/kg", "hi": "W/kg" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "The measure of energy in food is —",
+        "hi": "भोजन में ऊर्जा को किसमें मापा जाता है?"
+      },
+      "options": [
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Joule", "hi": "जूल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "Temperature at which Celsius and Fahrenheit scales are equal —",
+        "hi": "सेल्सियस और फ़ारेनहाइट पैमाने पर तापमान समान होता है —"
+      },
+      "options": [
+        { "en": "-40°C", "hi": "-40°C" },
+        { "en": "0°C", "hi": "0°C" },
+        { "en": "100°C", "hi": "100°C" },
+        { "en": "-273°C", "hi": "-273°C" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "Water boils at lower temperature on —",
+        "hi": "जल किस स्थान पर कम तापमान पर उबलता है?"
+      },
+      "options": [
+        { "en": "Sea level", "hi": "समुद्र तल पर" },
+        { "en": "Plains", "hi": "मैदानों में" },
+        { "en": "Pressure cooker", "hi": "प्रेशर कुकर में" },
+        { "en": "Mountains", "hi": "पहाड़ों पर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "Steam at 100°C has more heat than water at 100°C due to —",
+        "hi": "100°C पर भाप में 100°C पर जल से अधिक ऊष्मा होती है, क्योंकि —"
+      },
+      "options": [
+        { "en": "Expansion", "hi": "प्रसार के कारण" },
+        { "en": "Latent heat", "hi": "गुप्त ऊष्मा के कारण" },
+        { "en": "Evaporation", "hi": "वाष्पीकरण के कारण" },
+        { "en": "Pressure", "hi": "दबाव के कारण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "Refrigeration works on the principle of —",
+        "hi": "प्रशीतन (Refrigeration) किस सिद्धांत पर कार्य करता है?"
+      },
+      "options": [
+        { "en": "Conduction", "hi": "चालन" },
+        { "en": "Convection", "hi": "संवहन" },
+        { "en": "Heat absorption during evaporation", "hi": "वाष्पीकरण के दौरान ऊष्मा अवशोषण" },
+        { "en": "Radiation", "hi": "विकिरण" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "In all physical and chemical processes, total energy —",
+        "hi": "सभी भौतिक और रासायनिक प्रक्रियाओं में कुल ऊर्जा —"
+      },
+      "options": [
+        { "en": "Remains constant", "hi": "स्थिर रहती है" },
+        { "en": "Increases", "hi": "बढ़ती है" },
+        { "en": "Decreases", "hi": "घटती है" },
+        { "en": "Varies", "hi": "परिवर्तित होती है" }
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 13",
+  "questions": [
+    {
+      "id": 241,
+      "question": {
+        "en": "The chemical effect of electric current is used in —",
+        "hi": "विद्युत धारा के रासायनिक प्रभाव का उपयोग किसमें होता है?"
+      },
+      "options": [
+        { "en": "Heating", "hi": "ऊष्मन में" },
+        { "en": "Lighting", "hi": "प्रकाश में" },
+        { "en": "Electroplating", "hi": "विद्युत लेपन में" },
+        { "en": "Cooling", "hi": "शीतलन में" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 242,
+      "question": {
+        "en": "In series combination of resistances, total resistance —",
+        "hi": "प्रतिरोधों के श्रेणी संयोजन में कुल प्रतिरोध —"
+      },
+      "options": [
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Remains same", "hi": "समान रहता है" },
+        { "en": "Becomes zero", "hi": "शून्य हो जाता है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 243,
+      "question": {
+        "en": "In parallel combination of resistances, total resistance —",
+        "hi": "प्रतिरोधों के समानांतर संयोजन में कुल प्रतिरोध —"
+      },
+      "options": [
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Becomes infinite", "hi": "अनंत हो जाता है" },
+        { "en": "Remains constant", "hi": "स्थिर रहता है" },
+        { "en": "Decreases", "hi": "घटता है" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 244,
+      "question": {
+        "en": "The direction of current in a circuit is taken as —",
+        "hi": "परिपथ में विद्युत धारा की दिशा मानी जाती है —"
+      },
+      "options": [
+        { "en": "Electron flow direction", "hi": "इलेक्ट्रॉन प्रवाह की दिशा" },
+        { "en": "Positive to negative", "hi": "धनात्मक से ऋणात्मक की ओर" },
+        { "en": "Negative to positive", "hi": "ऋणात्मक से धनात्मक की ओर" },
+        { "en": "Alternating", "hi": "प्रत्यावर्ती" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 245,
+      "question": {
+        "en": "The energy of moving charges is called —",
+        "hi": "गतिशील आवेशों की ऊर्जा कहलाती है —"
+      },
+      "options": [
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" },
+        { "en": "Magnetic energy", "hi": "चुम्बकीय ऊर्जा" },
+        { "en": "Electrical energy", "hi": "विद्युत ऊर्जा" },
+        { "en": "Thermal energy", "hi": "ऊष्मीय ऊर्जा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 246,
+      "question": {
+        "en": "The magnetic field inside a solenoid is —",
+        "hi": "परिनालिका (Solenoid) के अंदर चुम्बकीय क्षेत्र होता है —"
+      },
+      "options": [
+        { "en": "Uniform", "hi": "एकसमान" },
+        { "en": "Weak", "hi": "कमज़ोर" },
+        { "en": "Irregular", "hi": "अनियमित" },
+        { "en": "Zero", "hi": "शून्य" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 247,
+      "question": {
+        "en": "A transformer works on —",
+        "hi": "ट्रांसफॉर्मर किस पर कार्य करता है?"
+      },
+      "options": [
+        { "en": "DC only", "hi": "केवल DC पर" },
+        { "en": "Both AC and DC", "hi": "AC और DC दोनों पर" },
+        { "en": "Neither AC nor DC", "hi": "न AC न DC पर" },
+        { "en": "AC only", "hi": "केवल AC पर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 248,
+      "question": {
+        "en": "Magnetic materials are attracted towards —",
+        "hi": "चुम्बकीय पदार्थ किसकी ओर आकर्षित होते हैं?"
+      },
+      "options": [
+        { "en": "Non-magnets", "hi": "अचुम्बकीय पदार्थ" },
+        { "en": "Magnets", "hi": "चुम्बक" },
+        { "en": "Plastic", "hi": "प्लास्टिक" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 249,
+      "question": {
+        "en": "The magnetism acquired by a material when current passes is —",
+        "hi": "धारा प्रवाहित होने पर किसी पदार्थ में उत्पन्न चुम्बकत्व होता है —"
+      },
+      "options": [
+        { "en": "Permanent", "hi": "स्थायी" },
+        { "en": "Natural", "hi": "प्राकृतिक" },
+        { "en": "Temporary", "hi": "अस्थायी" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 250,
+      "question": {
+        "en": "The earth behaves like a —",
+        "hi": "पृथ्वी किसकी तरह व्यवहार करती है?"
+      },
+      "options": [
+        { "en": "Huge magnet", "hi": "एक विशाल चुम्बक" },
+        { "en": "Electric motor", "hi": "विद्युत मोटर" },
+        { "en": "Generator", "hi": "जनरेटर" },
+        { "en": "Coil", "hi": "कुंडली" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 251,
+      "question": {
+        "en": "The branch of physics dealing with heat and its transformation to other forms of energy is —",
+        "hi": "भौतिकी की वह शाखा जो ऊष्मा और उसके अन्य ऊर्जा रूपों में परिवर्तन से संबंधित है, कहलाती है —"
+      },
+      "options": [
+        { "en": "Kinetics", "hi": "गतिकी" },
+        { "en": "Thermodynamics", "hi": "ऊष्मागतिकी" },
+        { "en": "Dynamics", "hi": "गत्यात्मकी" },
+        { "en": "Mechanics", "hi": "यांत्रिकी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 252,
+      "question": {
+        "en": "The first law of thermodynamics is based on the law of —",
+        "hi": "ऊष्मागतिकी का पहला नियम किस नियम पर आधारित है?"
+      },
+      "options": [
+        { "en": "Momentum", "hi": "संवेग" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Conservation of energy", "hi": "ऊर्जा संरक्षण" },
+        { "en": "Heat conduction", "hi": "ऊष्मा चालन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 253,
+      "question": {
+        "en": "The SI unit of heat energy is —",
+        "hi": "ऊष्मा ऊर्जा की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 254,
+      "question": {
+        "en": "Internal energy of a system depends on —",
+        "hi": "किसी निकाय की आंतरिक ऊर्जा किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Density", "hi": "घनत्व" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 255,
+      "question": {
+        "en": "When work is done by a system, its internal energy —",
+        "hi": "जब कोई निकाय कार्य करता है, तो उसकी आंतरिक ऊर्जा —"
+      },
+      "options": [
+        { "en": "Decreases", "hi": "घटती है" },
+        { "en": "Increases", "hi": "बढ़ती है" },
+        { "en": "Remains constant", "hi": "स्थिर रहती है" },
+        { "en": "Doubles", "hi": "दोगुनी हो जाती है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 256,
+      "question": {
+        "en": "Work done on a system is considered —",
+        "hi": "किसी निकाय पर किया गया कार्य माना जाता है —"
+      },
+      "options": [
+        { "en": "Positive", "hi": "धनात्मक" },
+        { "en": "Negative", "hi": "ऋणात्मक" },
+        { "en": "Zero", "hi": "शून्य" },
+        { "en": "Constant", "hi": "स्थिर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 257,
+      "question": {
+        "en": "A process in which no heat enters or leaves the system is called —",
+        "hi": "वह प्रक्रिया जिसमें निकाय में न ऊष्मा प्रवेश करती है और न निकलती है, कहलाती है —"
+      },
+      "options": [
+        { "en": "Isothermal", "hi": "समतापी" },
+        { "en": "Isochoric", "hi": "समआयतनिक" },
+        { "en": "Isobaric", "hi": "समदाबी" },
+        { "en": "Adiabatic", "hi": "रुद्धोष्म" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 258,
+      "question": {
+        "en": "In an isothermal process, temperature —",
+        "hi": "समतापी (Isothermal) प्रक्रिया में तापमान —"
+      },
+      "options": [
+        { "en": "Remains constant", "hi": "स्थिर रहता है" },
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Changes slowly", "hi": "धीरे-धीरे बदलता है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 259,
+      "question": {
+        "en": "In an isobaric process, pressure —",
+        "hi": "समदाबी (Isobaric) प्रक्रिया में दबाव —"
+      },
+      "options": [
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Changes irregularly", "hi": "अनियमित रूप से बदलता है" },
+        { "en": "Remains constant", "hi": "स्थिर रहता है" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 260,
+      "question": {
+        "en": "The SI unit of work and energy is —",
+        "hi": "कार्य और ऊर्जा दोनों की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correct": 2
+    }
+  ]
+}

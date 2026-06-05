@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 17",
+  "questions": [
+    {
+      "id": 321,
+      "question": {
+        "en": "The capillary rise decreases with —",
+        "hi": "केशिका उत्थान (Capillary Rise) किसके बढ़ने से घटता है?"
+      },
+      "options": [
+        { "en": "Decrease in diameter", "hi": "व्यास घटने पर" },
+        { "en": "Surface tension", "hi": "पृष्ठ तनाव" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" },
+        { "en": "Increase in diameter", "hi": "व्यास बढ़ने पर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 322,
+      "question": {
+        "en": "The instrument used to measure discharge is —",
+        "hi": "प्रवाह दर (Discharge) मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Venturimeter", "hi": "वेंचुरीमीटर" },
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Hydrometer", "hi": "हाइड्रोमीटर" },
+        { "en": "Barometer", "hi": "बैरोमीटर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 323,
+      "question": {
+        "en": "Pascal's law states that —",
+        "hi": "पास्कल का नियम कहता है कि —"
+      },
+      "options": [
+        { "en": "Pressure is constant", "hi": "दबाव स्थिर रहता है" },
+        { "en": "Pressure applied to a fluid is transmitted equally in all directions", "hi": "द्रव पर लगाया गया दबाव सभी दिशाओं में समान रूप से संचारित होता है" },
+        { "en": "Force is constant", "hi": "बल स्थिर रहता है" },
+        { "en": "Flow is constant", "hi": "प्रवाह स्थिर रहता है" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 324,
+      "question": {
+        "en": "A floating body displaces —",
+        "hi": "एक तैरती हुई वस्तु किसे विस्थापित करती है?"
+      },
+      "options": [
+        { "en": "Its own weight of liquid", "hi": "अपने भार के बराबर द्रव" },
+        { "en": "Its own volume", "hi": "अपने आयतन के बराबर" },
+        { "en": "More liquid", "hi": "अधिक द्रव" },
+        { "en": "Less liquid", "hi": "कम द्रव" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 325,
+      "question": {
+        "en": "The center of buoyancy is —",
+        "hi": "उत्प्लावन केंद्र (Center of Buoyancy) होता है —"
+      },
+      "options": [
+        { "en": "Center of gravity", "hi": "गुरुत्व केंद्र" },
+        { "en": "Pressure center", "hi": "दबाव केंद्र" },
+        { "en": "Center of displaced volume", "hi": "विस्थापित आयतन का केंद्र" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 326,
+      "question": {
+        "en": "The metacentric height determines —",
+        "hi": "मेटाकेंद्रिक ऊँचाई (Metacentric Height) किसे निर्धारित करती है?"
+      },
+      "options": [
+        { "en": "Density", "hi": "घनत्व" },
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Buoyancy", "hi": "उत्प्लावन" },
+        { "en": "Stability of floating body", "hi": "तैरती हुई वस्तु की स्थिरता" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 327,
+      "question": {
+        "en": "If metacentric height is positive, the body is —",
+        "hi": "यदि मेटाकेंद्रिक ऊँचाई धनात्मक हो, तो वस्तु होती है —"
+      },
+      "options": [
+        { "en": "Stable", "hi": "स्थिर" },
+        { "en": "Unstable", "hi": "अस्थिर" },
+        { "en": "Neutral", "hi": "उदासीन" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 328,
+      "question": {
+        "en": "The pressure at a point in a fluid is same in —",
+        "hi": "किसी द्रव में एक बिंदु पर दबाव किस दिशा में समान होता है?"
+      },
+      "options": [
+        { "en": "One direction", "hi": "एक दिशा में" },
+        { "en": "Vertical only", "hi": "केवल ऊर्ध्वाधर दिशा में" },
+        { "en": "All directions", "hi": "सभी दिशाओं में" },
+        { "en": "Horizontal only", "hi": "केवल क्षैतिज दिशा में" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 329,
+      "question": {
+        "en": "The line joining the points of equal pressure is called —",
+        "hi": "समान दबाव वाले बिंदुओं को मिलाने वाली रेखा कहलाती है —"
+      },
+      "options": [
+        { "en": "Flow line", "hi": "प्रवाह रेखा" },
+        { "en": "Streamline", "hi": "धारारेखा" },
+        { "en": "Isobar", "hi": "समदाब रेखा" },
+        { "en": "Equipotential", "hi": "समविभव रेखा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 330,
+      "question": {
+        "en": "The angle of contact depends on —",
+        "hi": "संपर्क कोण (Angle of Contact) किस पर निर्भर करता है?"
+      },
+      "options": [
+        { "en": "Nature of liquid and solid", "hi": "द्रव और ठोस की प्रकृति पर" },
+        { "en": "Density", "hi": "घनत्व पर" },
+        { "en": "Pressure", "hi": "दबाव पर" },
+        { "en": "Temperature", "hi": "तापमान पर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 331,
+      "question": {
+        "en": "Turbulent flow occurs when —",
+        "hi": "अशांत (Turbulent) प्रवाह तब होता है जब —"
+      },
+      "options": [
+        { "en": "Reynolds number < 2000", "hi": "रेनॉल्ड्स संख्या < 2000 हो" },
+        { "en": "Reynolds number > 4000", "hi": "रेनॉल्ड्स संख्या > 4000 हो" },
+        { "en": "Reynolds number = 1000", "hi": "रेनॉल्ड्स संख्या = 1000 हो" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 332,
+      "question": {
+        "en": "Streamline flow is also called —",
+        "hi": "धारारेखीय प्रवाह (Streamline Flow) को किस नाम से भी जाना जाता है?"
+      },
+      "options": [
+        { "en": "Turbulent", "hi": "अशांत" },
+        { "en": "Irregular", "hi": "अनियमित" },
+        { "en": "Critical", "hi": "क्रांतिक" },
+        { "en": "Laminar flow", "hi": "स्तरीय प्रवाह" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 333,
+      "question": {
+        "en": "The unit of discharge is —",
+        "hi": "प्रवाह दर (Discharge) की इकाई है —"
+      },
+      "options": [
+        { "en": "m³/s", "hi": "m³/s" },
+        { "en": "m³", "hi": "m³" },
+        { "en": "m/s", "hi": "m/s" },
+        { "en": "kg/s", "hi": "kg/s" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 334,
+      "question": {
+        "en": "The bulk modulus is the ratio of —",
+        "hi": "आयतन प्रत्यास्थता गुणांक (Bulk Modulus) किसका अनुपात है?"
+      },
+      "options": [
+        { "en": "Stress to Strain", "hi": "प्रतिबल से विकृति का अनुपात" },
+        { "en": "Volume to Pressure", "hi": "आयतन से दबाव का अनुपात" },
+        { "en": "Pressure increase to volume decrease", "hi": "दबाव वृद्धि से आयतन ह्रास का अनुपात" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 335,
+      "question": {
+        "en": "The unit of surface tension is —",
+        "hi": "पृष्ठ तनाव की इकाई है —"
+      },
+      "options": [
+        { "en": "N/m²", "hi": "N/m²" },
+        { "en": "N/m", "hi": "N/m" },
+        { "en": "J/kg", "hi": "J/kg" },
+        { "en": "kg/m³", "hi": "kg/m³" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 336,
+      "question": {
+        "en": "Manometric fluid commonly used is —",
+        "hi": "मैनोमेट्रिक द्रव (Manometric Fluid) के रूप में सामान्यतः प्रयोग किया जाता है —"
+      },
+      "options": [
+        { "en": "Water", "hi": "जल" },
+        { "en": "Kerosene", "hi": "केरोसीन" },
+        { "en": "Alcohol", "hi": "एल्कोहल" },
+        { "en": "Mercury", "hi": "पारा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 337,
+      "question": {
+        "en": "Ideal fluids have —",
+        "hi": "आदर्श द्रव (Ideal Fluid) में होता है —"
+      },
+      "options": [
+        { "en": "No viscosity", "hi": "कोई श्यानता नहीं" },
+        { "en": "High viscosity", "hi": "उच्च श्यानता" },
+        { "en": "High density", "hi": "उच्च घनत्व" },
+        { "en": "Low pressure", "hi": "निम्न दबाव" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 338,
+      "question": {
+        "en": "Continuity equation is derived from —",
+        "hi": "सातत्य समीकरण किससे व्युत्पन्न होता है?"
+      },
+      "options": [
+        { "en": "Bernoulli's principle", "hi": "बर्नूली के सिद्धांत से" },
+        { "en": "Newton's law", "hi": "न्यूटन के नियम से" },
+        { "en": "Mass conservation", "hi": "द्रव्यमान संरक्षण से" },
+        { "en": "Energy conservation", "hi": "ऊर्जा संरक्षण से" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 339,
+      "question": {
+        "en": "Bernoulli's equation applies to —",
+        "hi": "बर्नूली का समीकरण किस पर लागू होता है?"
+      },
+      "options": [
+        { "en": "Turbulent flow", "hi": "अशांत प्रवाह" },
+        { "en": "Steady, incompressible, non-viscous flow", "hi": "स्थिर, असंपीड्य और अश्यान प्रवाह" },
+        { "en": "Compressible flow", "hi": "संपीड्य प्रवाह" },
+        { "en": "Unsteady flow", "hi": "अस्थिर प्रवाह" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 340,
+      "question": {
+        "en": "The discharge through a Venturimeter depends on —",
+        "hi": "वेंचुरीमीटर से प्रवाह दर किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Weight", "hi": "भार" },
+        { "en": "Pressure difference", "hi": "दबाव अंतर" }
+      ],
+      "correct": 3
+    }
+  ]
+}

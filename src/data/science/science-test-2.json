@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 2",
+  "questions": [
+    {
+      "id": 21,
+      "question": {
+        "en": "Unit of heat energy is —",
+        "hi": "ऊष्मा ऊर्जा की इकाई है —"
+      },
+      "options": [
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Ampere", "hi": "एम्पियर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "The law of conservation of energy states that —",
+        "hi": "ऊर्जा संरक्षण का नियम कहता है कि —"
+      },
+      "options": [
+        { "en": "Energy can neither be created nor destroyed", "hi": "ऊर्जा न तो उत्पन्न की जा सकती है और न ही नष्ट की जा सकती है" },
+        { "en": "Energy can be destroyed", "hi": "ऊर्जा को नष्ट किया जा सकता है" },
+        { "en": "Energy is lost over time", "hi": "ऊर्जा समय के साथ खो जाती है" },
+        { "en": "Power remains constant always", "hi": "शक्ति सदैव स्थिर रहती है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Mechanical advantage of a machine is —",
+        "hi": "किसी मशीन का यांत्रिक लाभ होता है —"
+      },
+      "options": [
+        { "en": "Load / Velocity", "hi": "भार / वेग" },
+        { "en": "Effort / Load", "hi": "प्रयास / भार" },
+        { "en": "Load / Effort", "hi": "भार / प्रयास" },
+        { "en": "Work / Power", "hi": "कार्य / शक्ति" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "The rate of doing work is called —",
+        "hi": "कार्य करने की दर क्या कहलाती है?"
+      },
+      "options": [
+        { "en": "Force", "hi": "बल" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Acceleration", "hi": "त्वरण" },
+        { "en": "Power", "hi": "शक्ति" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "The ability to do work is called —",
+        "hi": "कार्य करने की क्षमता को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Power", "hi": "शक्ति" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Force", "hi": "बल" },
+        { "en": "Speed", "hi": "चाल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "The unit of momentum in SI system is —",
+        "hi": "SI पद्धति में संवेग की इकाई है —"
+      },
+      "options": [
+        { "en": "kg·m/s", "hi": "kg·m/s" },
+        { "en": "N·m", "hi": "N·m" },
+        { "en": "kg·m²", "hi": "kg·m²" },
+        { "en": "kg/s", "hi": "kg/s" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "When a ball hits the wall and bounces back, which quantity changes?",
+        "hi": "जब गेंद दीवार से टकराकर वापस आती है, तो कौन सी राशि बदलती है?"
+      },
+      "options": [
+        { "en": "Mass", "hi": "द्रव्यमान" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Momentum", "hi": "संवेग" },
+        { "en": "Speed", "hi": "चाल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Work done is zero when force is —",
+        "hi": "कार्य शून्य होता है जब बल होता है —"
+      },
+      "options": [
+        { "en": "In direction of motion", "hi": "गति की दिशा में" },
+        { "en": "Opposite to motion", "hi": "गति के विपरीत" },
+        { "en": "Downward", "hi": "नीचे की ओर" },
+        { "en": "Perpendicular to motion", "hi": "गति के लम्बवत" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "The unit of power is —",
+        "hi": "शक्ति की इकाई है —"
+      },
+      "options": [
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Volt", "hi": "वोल्ट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "If force = 0, momentum remains —",
+        "hi": "यदि बल = 0 हो, तो संवेग रहता है —"
+      },
+      "options": [
+        { "en": "Constant", "hi": "स्थिर" },
+        { "en": "Increasing", "hi": "बढ़ता हुआ" },
+        { "en": "Zero", "hi": "शून्य" },
+        { "en": "Infinite", "hi": "अनंत" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "The energy possessed by a moving train is —",
+        "hi": "चलती हुई ट्रेन में कौन सी ऊर्जा होती है?"
+      },
+      "options": [
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" },
+        { "en": "Light energy", "hi": "प्रकाश ऊर्जा" },
+        { "en": "Kinetic energy", "hi": "गतिज ऊर्जा" },
+        { "en": "Thermal energy", "hi": "ऊष्मीय ऊर्जा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "The mechanical energy of a moving object is —",
+        "hi": "किसी चलती हुई वस्तु की यांत्रिक ऊर्जा होती है —"
+      },
+      "options": [
+        { "en": "Force + Pressure", "hi": "बल + दबाव" },
+        { "en": "Power + Heat", "hi": "शक्ति + ऊष्मा" },
+        { "en": "Momentum + Work", "hi": "संवेग + कार्य" },
+        { "en": "Kinetic energy + Potential energy", "hi": "गतिज ऊर्जा + स्थितिज ऊर्जा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "When a machine is 100% efficient —",
+        "hi": "जब कोई मशीन 100% दक्ष होती है, तो —"
+      },
+      "options": [
+        { "en": "Output = Input", "hi": "आउटपुट = इनपुट" },
+        { "en": "Output > Input", "hi": "आउटपुट > इनपुट" },
+        { "en": "Input > Output", "hi": "इनपुट > आउटपुट" },
+        { "en": "No work done", "hi": "कोई कार्य नहीं होता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "Unit of coefficient of friction is —",
+        "hi": "घर्षण गुणांक की इकाई है —"
+      },
+      "options": [
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Dimensionless", "hi": "विमाहीन" },
+        { "en": "m/s", "hi": "m/s" },
+        { "en": "kg", "hi": "kg" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "1 joule is equal to —",
+        "hi": "1 जूल बराबर होता है —"
+      },
+      "options": [
+        { "en": "1 N/s", "hi": "1 N/s" },
+        { "en": "1 J/s", "hi": "1 J/s" },
+        { "en": "1 N·m", "hi": "1 N·m" },
+        { "en": "1 W·s²", "hi": "1 W·s²" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "The heat required to raise the temperature of 1 kg of water by 1°C is —",
+        "hi": "1 kg पानी का तापमान 1°C बढ़ाने के लिए आवश्यक ऊष्मा है —"
+      },
+      "options": [
+        { "en": "1 joule", "hi": "1 जूल" },
+        { "en": "1000 joule", "hi": "1000 जूल" },
+        { "en": "360 joule", "hi": "360 जूल" },
+        { "en": "4186 joule", "hi": "4186 जूल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "The unit of temperature in the SI system is —",
+        "hi": "SI पद्धति में तापमान की इकाई है —"
+      },
+      "options": [
+        { "en": "Kelvin", "hi": "केल्विन" },
+        { "en": "°C (Celsius)", "hi": "°C (सेल्सियस)" },
+        { "en": "°F (Fahrenheit)", "hi": "°F (फ़ारेनहाइट)" },
+        { "en": "Calorie", "hi": "कैलोरी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "The device used to measure heat is —",
+        "hi": "ऊष्मा मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Calorimeter", "hi": "कैलोरीमीटर" },
+        { "en": "Voltmeter", "hi": "वोल्टमीटर" },
+        { "en": "Ammeter", "hi": "एमीटर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Latent heat is related to —",
+        "hi": "गुप्त ऊष्मा (Latent Heat) किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Change in temperature", "hi": "तापमान में परिवर्तन" },
+        { "en": "Work done", "hi": "किया गया कार्य" },
+        { "en": "Change of state", "hi": "अवस्था परिवर्तन" },
+        { "en": "Energy loss", "hi": "ऊर्जा हानि" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "Heat transfer by convection occurs in —",
+        "hi": "संवहन (Convection) द्वारा ऊष्मा स्थानांतरण होता है —"
+      },
+      "options": [
+        { "en": "Solids only", "hi": "केवल ठोसों में" },
+        { "en": "Vacuum", "hi": "निर्वात में" },
+        { "en": "None", "hi": "किसी में नहीं" },
+        { "en": "Liquids and gases", "hi": "द्रवों और गैसों में" }
+      ],
+      "correct": 3
+    }
+  ]
+}

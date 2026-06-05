@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 19",
+  "questions": [
+    {
+      "id": 361,
+      "question": {
+        "en": "The ratio of stress to strain within elastic limit is —",
+        "hi": "प्रत्यास्थता सीमा के भीतर प्रतिबल और विकृति का अनुपात कहलाता है —"
+      },
+      "options": [
+        { "en": "Young's modulus", "hi": "यंग का गुणांक" },
+        { "en": "Bulk modulus", "hi": "आयतन प्रत्यास्थता गुणांक" },
+        { "en": "Rigidity modulus", "hi": "दृढ़ता गुणांक" },
+        { "en": "Elastic constant", "hi": "प्रत्यास्थता नियतांक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 362,
+      "question": {
+        "en": "The SI unit of Young's modulus is —",
+        "hi": "यंग के गुणांक की SI इकाई है —"
+      },
+      "options": [
+        { "en": "N", "hi": "N" },
+        { "en": "N/m", "hi": "N/m" },
+        { "en": "kg/m²", "hi": "kg/m²" },
+        { "en": "N/m²", "hi": "N/m²" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 363,
+      "question": {
+        "en": "Hooke's law states that —",
+        "hi": "हुक का नियम कहता है कि —"
+      },
+      "options": [
+        { "en": "Strain ∝ Pressure", "hi": "विकृति ∝ दबाव" },
+        { "en": "Stress ∝ Strain (within elastic limit)", "hi": "प्रतिबल ∝ विकृति (प्रत्यास्थता सीमा के भीतर)" },
+        { "en": "Stress ∝ Force", "hi": "प्रतिबल ∝ बल" },
+        { "en": "Stress is constant", "hi": "प्रतिबल स्थिर रहता है" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 364,
+      "question": {
+        "en": "The property of a material which allows it to regain shape after unloading is —",
+        "hi": "भार हटाने के बाद किसी पदार्थ के अपना आकार पुनः प्राप्त करने का गुण कहलाता है —"
+      },
+      "options": [
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Toughness", "hi": "दृढ़ता" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 365,
+      "question": {
+        "en": "The hardness of a material is tested by —",
+        "hi": "किसी पदार्थ की कठोरता किससे जाँची जाती है?"
+      },
+      "options": [
+        { "en": "Torsion test", "hi": "मरोड़ परीक्षण" },
+        { "en": "Brinell test", "hi": "ब्रिनेल परीक्षण" },
+        { "en": "Fatigue test", "hi": "थकान परीक्षण" },
+        { "en": "Creep test", "hi": "सर्पण परीक्षण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 366,
+      "question": {
+        "en": "Brinell hardness number (BHN) uses —",
+        "hi": "ब्रिनेल कठोरता संख्या (BHN) में प्रयोग किया जाता है —"
+      },
+      "options": [
+        { "en": "Steel or tungsten carbide ball", "hi": "स्टील या टंगस्टन कार्बाइड गेंद" },
+        { "en": "Diamond cone", "hi": "हीरे का शंकु" },
+        { "en": "Flat punch", "hi": "चपटा पंच" },
+        { "en": "Pointer", "hi": "सूचक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 367,
+      "question": {
+        "en": "Rockwell hardness test uses —",
+        "hi": "रॉकवेल कठोरता परीक्षण में प्रयोग किया जाता है —"
+      },
+      "options": [
+        { "en": "Ball and cone indenters", "hi": "गेंद और शंकु इंडेंटर" },
+        { "en": "Ball only", "hi": "केवल गेंद" },
+        { "en": "Needle", "hi": "सुई" },
+        { "en": "Wire", "hi": "तार" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 368,
+      "question": {
+        "en": "The tensile strength of a material is determined by —",
+        "hi": "किसी पदार्थ की तन्य सामर्थ्य (Tensile Strength) किसके द्वारा निर्धारित होती है?"
+      },
+      "options": [
+        { "en": "Hardness test", "hi": "कठोरता परीक्षण" },
+        { "en": "Creep test", "hi": "सर्पण परीक्षण" },
+        { "en": "Tensile test", "hi": "तन्य परीक्षण" },
+        { "en": "Fatigue test", "hi": "थकान परीक्षण" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 369,
+      "question": {
+        "en": "The ability of a material to resist impact is —",
+        "hi": "किसी पदार्थ की आघात (Impact) के प्रति प्रतिरोध क्षमता कहलाती है —"
+      },
+      "options": [
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Toughness", "hi": "दृढ़ता" },
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" },
+        { "en": "Rigidity", "hi": "अनम्यता" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 370,
+      "question": {
+        "en": "Brittleness means —",
+        "hi": "भंगुरता (Brittleness) का अर्थ है —"
+      },
+      "options": [
+        { "en": "Material breaks easily under impact", "hi": "पदार्थ आघात में आसानी से टूट जाता है" },
+        { "en": "Easily deformed", "hi": "आसानी से विरूपित हो जाता है" },
+        { "en": "Can be drawn into wire", "hi": "तार में खींचा जा सकता है" },
+        { "en": "Can be pressed into sheets", "hi": "चादरों में दबाया जा सकता है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 371,
+      "question": {
+        "en": "Mild steel is —",
+        "hi": "माइल्ड स्टील (Mild Steel) होती है —"
+      },
+      "options": [
+        { "en": "Hard and brittle", "hi": "कठोर और भंगुर" },
+        { "en": "Weak", "hi": "कमज़ोर" },
+        { "en": "Soft and brittle", "hi": "मुलायम और भंगुर" },
+        { "en": "Ductile and tough", "hi": "तन्य और दृढ़" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 372,
+      "question": {
+        "en": "Carbon increases in steel —",
+        "hi": "स्टील में कार्बन की वृद्धि से बढ़ती है —"
+      },
+      "options": [
+        { "en": "Toughness", "hi": "दृढ़ता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Machinability", "hi": "मशीनेबिलिटी" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 373,
+      "question": {
+        "en": "The main alloying element in stainless steel is —",
+        "hi": "स्टेनलेस स्टील में मुख्य मिश्रधातु तत्व है —"
+      },
+      "options": [
+        { "en": "Nickel", "hi": "निकेल" },
+        { "en": "Chromium", "hi": "क्रोमियम" },
+        { "en": "Manganese", "hi": "मैंगनीज़" },
+        { "en": "Carbon", "hi": "कार्बन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 374,
+      "question": {
+        "en": "The main alloying element in brass is —",
+        "hi": "पीतल (Brass) में मुख्य मिश्रधातु तत्व है —"
+      },
+      "options": [
+        { "en": "Tin", "hi": "टिन" },
+        { "en": "Nickel", "hi": "निकेल" },
+        { "en": "Lead", "hi": "सीसा" },
+        { "en": "Zinc", "hi": "जिंक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 375,
+      "question": {
+        "en": "Bronze is an alloy of —",
+        "hi": "काँसा (Bronze) किसकी मिश्रधातु है?"
+      },
+      "options": [
+        { "en": "Copper and zinc", "hi": "तांबा और जिंक" },
+        { "en": "Copper and tin", "hi": "तांबा और टिन" },
+        { "en": "Copper and nickel", "hi": "तांबा और निकेल" },
+        { "en": "Zinc and tin", "hi": "जिंक और टिन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 376,
+      "question": {
+        "en": "Gunmetal is an alloy of —",
+        "hi": "गनमेटल (Gunmetal) किसकी मिश्रधातु है?"
+      },
+      "options": [
+        { "en": "Iron and carbon", "hi": "लोहा और कार्बन" },
+        { "en": "Copper and lead", "hi": "तांबा और सीसा" },
+        { "en": "Copper, tin and zinc", "hi": "तांबा, टिन और जिंक" },
+        { "en": "Steel and brass", "hi": "स्टील और पीतल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 377,
+      "question": {
+        "en": "The process of heating and cooling metal to relieve internal stress is —",
+        "hi": "आंतरिक प्रतिबल दूर करने के लिए धातु को गर्म और ठंडा करने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Tempering", "hi": "टेम्परिंग" },
+        { "en": "Quenching", "hi": "शमन" },
+        { "en": "Normalizing", "hi": "नॉर्मलाइज़िंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 378,
+      "question": {
+        "en": "The process of heating above critical temperature and cooling in still air is —",
+        "hi": "क्रांतिक तापमान से ऊपर गर्म करके स्थिर वायु में ठंडा करने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Quenching", "hi": "शमन" },
+        { "en": "Tempering", "hi": "टेम्परिंग" },
+        { "en": "Normalizing", "hi": "नॉर्मलाइज़िंग" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 379,
+      "question": {
+        "en": "The process of heating steel and cooling it suddenly is —",
+        "hi": "स्टील को गर्म करके अचानक ठंडा करने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Hardening", "hi": "कठोरीकरण" },
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Normalizing", "hi": "नॉर्मलाइज़िंग" },
+        { "en": "Case hardening", "hi": "केस हार्डनिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 380,
+      "question": {
+        "en": "Tempering of steel is done to —",
+        "hi": "स्टील की टेम्परिंग किसलिए की जाती है?"
+      },
+      "options": [
+        { "en": "Increase hardness", "hi": "कठोरता बढ़ाने के लिए" },
+        { "en": "Reduce brittleness", "hi": "भंगुरता कम करने के लिए" },
+        { "en": "Increase brittleness", "hi": "भंगुरता बढ़ाने के लिए" },
+        { "en": "Decrease ductility", "hi": "तन्यता घटाने के लिए" }
+      ],
+      "correct": 1
+    }
+  ]
+}

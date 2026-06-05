@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 14",
+  "questions": [
+    {
+      "id": 261,
+      "question": {
+        "en": "Specific heat is defined as —",
+        "hi": "विशिष्ट ऊष्मा को परिभाषित किया जाता है —"
+      },
+      "options": [
+        { "en": "Heat per volume", "hi": "प्रति आयतन ऊष्मा" },
+        { "en": "Heat required to raise 1 kg by 1 K", "hi": "1 kg पदार्थ का तापमान 1 K बढ़ाने के लिए आवश्यक ऊष्मा" },
+        { "en": "Heat capacity", "hi": "ऊष्मा धारिता" },
+        { "en": "Total energy", "hi": "कुल ऊर्जा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 262,
+      "question": {
+        "en": "The unit of specific heat is —",
+        "hi": "विशिष्ट ऊष्मा की इकाई है —"
+      },
+      "options": [
+        { "en": "J/kg·K", "hi": "J/kg·K" },
+        { "en": "Cal/g", "hi": "Cal/g" },
+        { "en": "J/mol", "hi": "J/mol" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 263,
+      "question": {
+        "en": "The gas law that relates pressure and volume at constant temperature is —",
+        "hi": "स्थिर तापमान पर दबाव और आयतन को सम्बंधित करने वाला गैस नियम है —"
+      },
+      "options": [
+        { "en": "Boyle's Law", "hi": "बॉयल का नियम" },
+        { "en": "Charles's Law", "hi": "चार्ल्स का नियम" },
+        { "en": "Gay-Lussac's Law", "hi": "गे-लुसाक का नियम" },
+        { "en": "Avogadro's Law", "hi": "अवोगाद्रो का नियम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 264,
+      "question": {
+        "en": "The gas law that relates volume and temperature at constant pressure is —",
+        "hi": "स्थिर दबाव पर आयतन और तापमान को सम्बंधित करने वाला गैस नियम है —"
+      },
+      "options": [
+        { "en": "Boyle's Law", "hi": "बॉयल का नियम" },
+        { "en": "Dalton's Law", "hi": "डाल्टन का नियम" },
+        { "en": "Avogadro's Law", "hi": "अवोगाद्रो का नियम" },
+        { "en": "Charles's Law", "hi": "चार्ल्स का नियम" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 265,
+      "question": {
+        "en": "The relation between pressure, volume and temperature of an ideal gas is given by —",
+        "hi": "एक आदर्श गैस के दबाव, आयतन और तापमान के बीच संबंध किसके द्वारा दिया जाता है?"
+      },
+      "options": [
+        { "en": "PV = mRT", "hi": "PV = mRT" },
+        { "en": "PV = nRT", "hi": "PV = nRT" },
+        { "en": "PV = T/R", "hi": "PV = T/R" },
+        { "en": "PV = RT/n", "hi": "PV = RT/n" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 266,
+      "question": {
+        "en": "In a Carnot engine, efficiency depends on —",
+        "hi": "कार्नो इंजन में दक्षता किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Gas used", "hi": "प्रयुक्त गैस" },
+        { "en": "Temperature of source and sink", "hi": "स्रोत और सिंक के तापमान पर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 267,
+      "question": {
+        "en": "Efficiency of a Carnot engine is —",
+        "hi": "कार्नो इंजन की दक्षता होती है —"
+      },
+      "options": [
+        { "en": "W/Q", "hi": "W/Q" },
+        { "en": "Q/W", "hi": "Q/W" },
+        { "en": "(T₁ − T₂) / T₁", "hi": "(T₁ − T₂) / T₁" },
+        { "en": "(T₁ − T₂) / T₂", "hi": "(T₁ − T₂) / T₂" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 268,
+      "question": {
+        "en": "1 calorie is equal to —",
+        "hi": "1 कैलोरी बराबर होती है —"
+      },
+      "options": [
+        { "en": "4.18 joules", "hi": "4.18 जूल" },
+        { "en": "1 joule", "hi": "1 जूल" },
+        { "en": "10 joules", "hi": "10 जूल" },
+        { "en": "2.18 joules", "hi": "2.18 जूल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 269,
+      "question": {
+        "en": "Heat engine converts —",
+        "hi": "ऊष्मा इंजन किसे परिवर्तित करता है?"
+      },
+      "options": [
+        { "en": "Electrical energy to heat", "hi": "विद्युत ऊर्जा को ऊष्मा में" },
+        { "en": "Heat energy to mechanical work", "hi": "ऊष्मा ऊर्जा को यांत्रिक कार्य में" },
+        { "en": "Work to heat", "hi": "कार्य को ऊष्मा में" },
+        { "en": "Kinetic to potential", "hi": "गतिज को स्थितिज में" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 270,
+      "question": {
+        "en": "The ratio of work done to heat absorbed is called —",
+        "hi": "किए गए कार्य और अवशोषित ऊष्मा के अनुपात को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Power", "hi": "शक्ति" },
+        { "en": "Capacity", "hi": "धारिता" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Efficiency", "hi": "दक्षता" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 271,
+      "question": {
+        "en": "The device used to convert mechanical energy into heat is —",
+        "hi": "यांत्रिक ऊर्जा को ऊष्मा में बदलने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Engine", "hi": "इंजन" },
+        { "en": "Turbine", "hi": "टरबाइन" },
+        { "en": "Brake", "hi": "ब्रेक" },
+        { "en": "Compressor", "hi": "कम्प्रेसर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 272,
+      "question": {
+        "en": "Refrigerator works on the principle of —",
+        "hi": "रेफ्रिजरेटर किस सिद्धांत पर कार्य करता है?"
+      },
+      "options": [
+        { "en": "Reverse heat engine", "hi": "उत्क्रम ऊष्मा इंजन" },
+        { "en": "Expansion", "hi": "प्रसार" },
+        { "en": "Heat conduction", "hi": "ऊष्मा चालन" },
+        { "en": "Isothermal expansion", "hi": "समतापी प्रसार" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 273,
+      "question": {
+        "en": "The unit of thermal conductivity is —",
+        "hi": "ऊष्मीय चालकता की इकाई है —"
+      },
+      "options": [
+        { "en": "Cal/g·K", "hi": "Cal/g·K" },
+        { "en": "J/kg·K", "hi": "J/kg·K" },
+        { "en": "W/m·K", "hi": "W/m·K" },
+        { "en": "kJ/kg", "hi": "kJ/kg" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 274,
+      "question": {
+        "en": "When a gas expands adiabatically, its temperature —",
+        "hi": "जब कोई गैस रुद्धोष्म (Adiabatically) प्रसारित होती है, तो उसका तापमान —"
+      },
+      "options": [
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Remains constant", "hi": "स्थिर रहता है" },
+        { "en": "Doubles", "hi": "दोगुना हो जाता है" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 275,
+      "question": {
+        "en": "The total energy of a system is the sum of —",
+        "hi": "किसी निकाय की कुल ऊर्जा किसका योग होती है?"
+      },
+      "options": [
+        { "en": "Potential and Pressure energy", "hi": "स्थितिज और दबाव ऊर्जा" },
+        { "en": "Heat and Force", "hi": "ऊष्मा और बल" },
+        { "en": "Internal and External energy", "hi": "आंतरिक और बाह्य ऊर्जा" },
+        { "en": "Work and Energy", "hi": "कार्य और ऊर्जा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 276,
+      "question": {
+        "en": "The device used to measure heat is —",
+        "hi": "ऊष्मा मापने के लिए प्रयुक्त यंत्र है —"
+      },
+      "options": [
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Barometer", "hi": "बैरोमीटर" },
+        { "en": "Hygrometer", "hi": "हाइग्रोमीटर" },
+        { "en": "Calorimeter", "hi": "कैलोरीमीटर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 277,
+      "question": {
+        "en": "A perfect gas is one which —",
+        "hi": "एक आदर्श (Perfect) गैस वह है जो —"
+      },
+      "options": [
+        { "en": "Is liquid", "hi": "द्रव अवस्था में हो" },
+        { "en": "Is solid", "hi": "ठोस अवस्था में हो" },
+        { "en": "Obeys gas laws exactly", "hi": "गैस नियमों का बिल्कुल पालन करती हो" },
+        { "en": "Never expands", "hi": "कभी प्रसारित न हो" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 278,
+      "question": {
+        "en": "The absolute temperature is measured in —",
+        "hi": "परम तापमान (Absolute Temperature) को किसमें मापा जाता है?"
+      },
+      "options": [
+        { "en": "Kelvin", "hi": "केल्विन" },
+        { "en": "Celsius", "hi": "सेल्सियस" },
+        { "en": "Fahrenheit", "hi": "फ़ारेनहाइट" },
+        { "en": "Rankine", "hi": "रैंकाइन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 279,
+      "question": {
+        "en": "The zeroth law of thermodynamics deals with —",
+        "hi": "ऊष्मागतिकी का शून्यवाँ (Zeroth) नियम किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Work", "hi": "कार्य" },
+        { "en": "Thermal equilibrium", "hi": "ऊष्मीय साम्यावस्था" },
+        { "en": "Pressure", "hi": "दबाव" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 280,
+      "question": {
+        "en": "The unit of gas constant R is —",
+        "hi": "गैस नियतांक R की इकाई है —"
+      },
+      "options": [
+        { "en": "J/mol·K", "hi": "J/mol·K" },
+        { "en": "J/kg·K", "hi": "J/kg·K" },
+        { "en": "W/m·K", "hi": "W/m·K" },
+        { "en": "kJ/mol", "hi": "kJ/mol" }
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 9",
+  "questions": [
+    {
+      "id": 161,
+      "question": {
+        "en": "The element which is liquid at room temperature is —",
+        "hi": "कमरे के तापमान पर द्रव अवस्था में रहने वाला तत्व है —"
+      },
+      "options": [
+        { "en": "Sodium", "hi": "सोडियम" },
+        { "en": "Calcium", "hi": "कैल्शियम" },
+        { "en": "Zinc", "hi": "जिंक" },
+        { "en": "Mercury", "hi": "पारा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 162,
+      "question": {
+        "en": "The metal which reacts with water to form hydrogen gas is —",
+        "hi": "वह धातु जो पानी से अभिक्रिया करके हाइड्रोजन गैस बनाती है —"
+      },
+      "options": [
+        { "en": "Sodium", "hi": "सोडियम" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Silver", "hi": "चाँदी" },
+        { "en": "Gold", "hi": "सोना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 163,
+      "question": {
+        "en": "The atomic number of Hydrogen is —",
+        "hi": "हाइड्रोजन की परमाणु संख्या है —"
+      },
+      "options": [
+        { "en": "3", "hi": "3" },
+        { "en": "4", "hi": "4" },
+        { "en": "1", "hi": "1" },
+        { "en": "2", "hi": "2" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 164,
+      "question": {
+        "en": "Which of the following is a non-metal?",
+        "hi": "निम्नलिखित में से कौन सा अधातु (Non-metal) है?"
+      },
+      "options": [
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Sulphur", "hi": "सल्फर" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Zinc", "hi": "जिंक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 165,
+      "question": {
+        "en": "Which element is essential for combustion?",
+        "hi": "दहन (Combustion) के लिए कौन सा तत्व आवश्यक है?"
+      },
+      "options": [
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" },
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Helium", "hi": "हीलियम" },
+        { "en": "Oxygen", "hi": "ऑक्सीजन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 166,
+      "question": {
+        "en": "The formula of ammonia is —",
+        "hi": "अमोनिया का सूत्र है —"
+      },
+      "options": [
+        { "en": "NH₃", "hi": "NH₃" },
+        { "en": "NO₂", "hi": "NO₂" },
+        { "en": "N₂H₄", "hi": "N₂H₄" },
+        { "en": "NH₄", "hi": "NH₄" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 167,
+      "question": {
+        "en": "The process of separating salt from sea water is —",
+        "hi": "समुद्री जल से नमक को अलग करने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Sublimation", "hi": "ऊर्ध्वपातन" },
+        { "en": "Filtration", "hi": "निस्पंदन" },
+        { "en": "Evaporation", "hi": "वाष्पीकरण" },
+        { "en": "Crystallization", "hi": "क्रिस्टलीकरण" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 168,
+      "question": {
+        "en": "Acid turns blue litmus —",
+        "hi": "अम्ल नीले लिटमस को बदल देता है —"
+      },
+      "options": [
+        { "en": "Blue", "hi": "नीला" },
+        { "en": "Red", "hi": "लाल" },
+        { "en": "Green", "hi": "हरा" },
+        { "en": "Colorless", "hi": "रंगहीन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 169,
+      "question": {
+        "en": "Base turns red litmus —",
+        "hi": "क्षार लाल लिटमस को बदल देता है —"
+      },
+      "options": [
+        { "en": "Red", "hi": "लाल" },
+        { "en": "Green", "hi": "हरा" },
+        { "en": "Yellow", "hi": "पीला" },
+        { "en": "Blue", "hi": "नीला" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 170,
+      "question": {
+        "en": "The chemical symbol for Iron is —",
+        "hi": "लोहे का रासायनिक प्रतीक है —"
+      },
+      "options": [
+        { "en": "Fe", "hi": "Fe" },
+        { "en": "Ir", "hi": "Ir" },
+        { "en": "In", "hi": "In" },
+        { "en": "F", "hi": "F" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 171,
+      "question": {
+        "en": "The pH of pure water at room temperature is —",
+        "hi": "कमरे के तापमान पर शुद्ध जल का pH होता है —"
+      },
+      "options": [
+        { "en": "6", "hi": "6" },
+        { "en": "9", "hi": "9" },
+        { "en": "7", "hi": "7" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 172,
+      "question": {
+        "en": "Which of the following is an example of an acid?",
+        "hi": "निम्नलिखित में से कौन सा एक अम्ल (Acid) का उदाहरण है?"
+      },
+      "options": [
+        { "en": "Sodium hydroxide", "hi": "सोडियम हाइड्रॉक्साइड" },
+        { "en": "Hydrochloric acid", "hi": "हाइड्रोक्लोरिक अम्ल" },
+        { "en": "Ammonium hydroxide", "hi": "अमोनियम हाइड्रॉक्साइड" },
+        { "en": "Potassium hydroxide", "hi": "पोटेशियम हाइड्रॉक्साइड" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 173,
+      "question": {
+        "en": "Lime water turns milky due to presence of —",
+        "hi": "चूने का पानी किसकी उपस्थिति में दूधिया हो जाता है?"
+      },
+      "options": [
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" },
+        { "en": "Oxygen", "hi": "ऑक्सीजन" },
+        { "en": "Carbon dioxide", "hi": "कार्बन डाइऑक्साइड" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 174,
+      "question": {
+        "en": "Baking soda is chemically —",
+        "hi": "बेकिंग सोडा रासायनिक रूप से होता है —"
+      },
+      "options": [
+        { "en": "Sodium bicarbonate", "hi": "सोडियम बाइकार्बोनेट" },
+        { "en": "Sodium carbonate", "hi": "सोडियम कार्बोनेट" },
+        { "en": "Calcium carbonate", "hi": "कैल्शियम कार्बोनेट" },
+        { "en": "Ammonium carbonate", "hi": "अमोनियम कार्बोनेट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 175,
+      "question": {
+        "en": "Vinegar contains —",
+        "hi": "सिरके में होता है —"
+      },
+      "options": [
+        { "en": "Citric acid", "hi": "साइट्रिक अम्ल" },
+        { "en": "Hydrochloric acid", "hi": "हाइड्रोक्लोरिक अम्ल" },
+        { "en": "Acetic acid", "hi": "एसिटिक अम्ल" },
+        { "en": "Sulphuric acid", "hi": "सल्फ्यूरिक अम्ल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 176,
+      "question": {
+        "en": "The formula of methane is —",
+        "hi": "मीथेन का सूत्र है —"
+      },
+      "options": [
+        { "en": "C₂H₆", "hi": "C₂H₆" },
+        { "en": "CH₄", "hi": "CH₄" },
+        { "en": "C₃H₈", "hi": "C₃H₈" },
+        { "en": "C₄H₁₀", "hi": "C₄H₁₀" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 177,
+      "question": {
+        "en": "The chemical name of quicklime is —",
+        "hi": "बिना बुझे चूने (Quicklime) का रासायनिक नाम है —"
+      },
+      "options": [
+        { "en": "Calcium carbonate", "hi": "कैल्शियम कार्बोनेट" },
+        { "en": "Calcium hydroxide", "hi": "कैल्शियम हाइड्रॉक्साइड" },
+        { "en": "Calcium sulphate", "hi": "कैल्शियम सल्फेट" },
+        { "en": "Calcium oxide", "hi": "कैल्शियम ऑक्साइड" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 178,
+      "question": {
+        "en": "Which metal is used for making electrical wires?",
+        "hi": "विद्युत तार बनाने के लिए कौन सी धातु का उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" },
+        { "en": "Zinc", "hi": "जिंक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 179,
+      "question": {
+        "en": "Which of the following is a good conductor of electricity?",
+        "hi": "निम्नलिखित में से कौन सा विद्युत का सुचालक है?"
+      },
+      "options": [
+        { "en": "Rubber", "hi": "रबर" },
+        { "en": "Wood", "hi": "लकड़ी" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Plastic", "hi": "प्लास्टिक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 180,
+      "question": {
+        "en": "The chemical symbol for Copper is —",
+        "hi": "तांबे का रासायनिक प्रतीक है —"
+      },
+      "options": [
+        { "en": "C", "hi": "C" },
+        { "en": "Cu", "hi": "Cu" },
+        { "en": "Co", "hi": "Co" },
+        { "en": "Ca", "hi": "Ca" }
+      ],
+      "correct": 1
+    }
+  ]
+}

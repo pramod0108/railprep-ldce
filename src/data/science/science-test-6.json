@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 6",
+  "questions": [
+    {
+      "id": 101,
+      "question": {
+        "en": "Force is equal to —",
+        "hi": "बल किसके बराबर होता है?"
+      },
+      "options": [
+        { "en": "Mass × Acceleration", "hi": "द्रव्यमान × त्वरण" },
+        { "en": "Mass × Distance", "hi": "द्रव्यमान × दूरी" },
+        { "en": "Mass / Time", "hi": "द्रव्यमान / समय" },
+        { "en": "Mass / Acceleration", "hi": "द्रव्यमान / त्वरण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 102,
+      "question": {
+        "en": "The SI unit of force is —",
+        "hi": "बल की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Dyne", "hi": "डाइन" },
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Joule", "hi": "जूल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 103,
+      "question": {
+        "en": "Newton's First Law is also known as —",
+        "hi": "न्यूटन का पहला नियम किस नाम से भी जाना जाता है?"
+      },
+      "options": [
+        { "en": "Law of Force", "hi": "बल का नियम" },
+        { "en": "Law of Momentum", "hi": "संवेग का नियम" },
+        { "en": "Law of Action", "hi": "क्रिया का नियम" },
+        { "en": "Law of Inertia", "hi": "जड़त्व का नियम" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 104,
+      "question": {
+        "en": "Momentum is the product of —",
+        "hi": "संवेग किसका गुणनफल होता है?"
+      },
+      "options": [
+        { "en": "Force and Time", "hi": "बल और समय" },
+        { "en": "Mass and Velocity", "hi": "द्रव्यमान और वेग" },
+        { "en": "Work and Energy", "hi": "कार्य और ऊर्जा" },
+        { "en": "Power and Time", "hi": "शक्ति और समय" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 105,
+      "question": {
+        "en": "The SI unit of momentum is —",
+        "hi": "संवेग की SI इकाई है —"
+      },
+      "options": [
+        { "en": "kg·m/s", "hi": "kg·m/s" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "m/s", "hi": "m/s" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 106,
+      "question": {
+        "en": "Newton's Third Law states that —",
+        "hi": "न्यूटन का तीसरा नियम कहता है कि —"
+      },
+      "options": [
+        { "en": "Force = Mass × Acceleration", "hi": "बल = द्रव्यमान × त्वरण" },
+        { "en": "Every object continues in its state of rest", "hi": "प्रत्येक वस्तु अपनी विराम अवस्था में बनी रहती है" },
+        { "en": "Every action has an equal and opposite reaction", "hi": "प्रत्येक क्रिया की समान और विपरीत प्रतिक्रिया होती है" },
+        { "en": "Work done = Energy", "hi": "किया गया कार्य = ऊर्जा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 107,
+      "question": {
+        "en": "The rate of doing work is called —",
+        "hi": "कार्य करने की दर को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Force", "hi": "बल" },
+        { "en": "Momentum", "hi": "संवेग" },
+        { "en": "Power", "hi": "शक्ति" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 108,
+      "question": {
+        "en": "The SI unit of work is —",
+        "hi": "कार्य की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Erg", "hi": "अर्ग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 109,
+      "question": {
+        "en": "The SI unit of power is —",
+        "hi": "शक्ति की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Newton", "hi": "न्यूटन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 110,
+      "question": {
+        "en": "Kinetic energy depends on —",
+        "hi": "गतिज ऊर्जा किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Force", "hi": "बल" },
+        { "en": "Power", "hi": "शक्ति" },
+        { "en": "Mass and Velocity", "hi": "द्रव्यमान और वेग" },
+        { "en": "Heat", "hi": "ऊष्मा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 111,
+      "question": {
+        "en": "Potential energy is due to —",
+        "hi": "स्थितिज ऊर्जा किसके कारण होती है?"
+      },
+      "options": [
+        { "en": "Speed", "hi": "चाल" },
+        { "en": "Friction", "hi": "घर्षण" },
+        { "en": "Force", "hi": "बल" },
+        { "en": "Position or Configuration", "hi": "स्थिति या विन्यास" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 112,
+      "question": {
+        "en": "Work is said to be done when —",
+        "hi": "कार्य तब कहा जाता है जब —"
+      },
+      "options": [
+        { "en": "No force acts", "hi": "कोई बल नहीं लगता" },
+        { "en": "A force causes displacement", "hi": "बल विस्थापन उत्पन्न करे" },
+        { "en": "The body remains stationary", "hi": "वस्तु स्थिर रहे" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 113,
+      "question": {
+        "en": "When work is done on an object, energy is —",
+        "hi": "जब किसी वस्तु पर कार्य किया जाता है, तो ऊर्जा —"
+      },
+      "options": [
+        { "en": "Transferred", "hi": "स्थानांतरित होती है" },
+        { "en": "Lost", "hi": "खो जाती है" },
+        { "en": "Destroyed", "hi": "नष्ट हो जाती है" },
+        { "en": "Reduced", "hi": "कम हो जाती है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 114,
+      "question": {
+        "en": "One horsepower is equal to —",
+        "hi": "एक अश्वशक्ति (Horsepower) बराबर होती है —"
+      },
+      "options": [
+        { "en": "550 J/s", "hi": "550 J/s" },
+        { "en": "1000 W", "hi": "1000 W" },
+        { "en": "746 W", "hi": "746 W" },
+        { "en": "1 J", "hi": "1 J" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 115,
+      "question": {
+        "en": "If no external force acts, total momentum remains —",
+        "hi": "यदि कोई बाह्य बल न लगे, तो कुल संवेग —"
+      },
+      "options": [
+        { "en": "Increased", "hi": "बढ़ता है" },
+        { "en": "Decreased", "hi": "घटता है" },
+        { "en": "Zero", "hi": "शून्य हो जाता है" },
+        { "en": "Constant", "hi": "स्थिर रहता है" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 116,
+      "question": {
+        "en": "The rate of change of momentum is equal to —",
+        "hi": "संवेग परिवर्तन की दर किसके बराबर होती है?"
+      },
+      "options": [
+        { "en": "Velocity", "hi": "वेग" },
+        { "en": "Force", "hi": "बल" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Power", "hi": "शक्ति" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 117,
+      "question": {
+        "en": "A body moving with uniform velocity has —",
+        "hi": "एकसमान वेग से चल रही वस्तु में होता है —"
+      },
+      "options": [
+        { "en": "Zero acceleration", "hi": "शून्य त्वरण" },
+        { "en": "Constant acceleration", "hi": "स्थिर त्वरण" },
+        { "en": "Variable speed", "hi": "परिवर्तनशील चाल" },
+        { "en": "Increasing momentum", "hi": "बढ़ता हुआ संवेग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 118,
+      "question": {
+        "en": "Unit of work and energy are —",
+        "hi": "कार्य और ऊर्जा दोनों की इकाई है —"
+      },
+      "options": [
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Pascal", "hi": "पास्कल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 119,
+      "question": {
+        "en": "1 Newton is equal to —",
+        "hi": "1 न्यूटन बराबर होता है —"
+      },
+      "options": [
+        { "en": "1 kg/cm²", "hi": "1 kg/cm²" },
+        { "en": "1 kg·m/s", "hi": "1 kg·m/s" },
+        { "en": "1 m/s²", "hi": "1 m/s²" },
+        { "en": "1 kg·m/s²", "hi": "1 kg·m/s²" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 120,
+      "question": {
+        "en": "The energy possessed by a moving body is —",
+        "hi": "गतिशील पिंड में कौन सी ऊर्जा होती है?"
+      },
+      "options": [
+        { "en": "Heat", "hi": "ऊष्मा" },
+        { "en": "Kinetic energy", "hi": "गतिज ऊर्जा" },
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" },
+        { "en": "Electric energy", "hi": "विद्युत ऊर्जा" }
+      ],
+      "correct": 1
+    }
+  ]
+}

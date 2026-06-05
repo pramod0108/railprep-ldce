@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 23",
+  "questions": [
+    {
+      "id": 441,
+      "question": {
+        "en": "The process of producing external threads is —",
+        "hi": "बाह्य धागा (External Thread) बनाने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Tapping", "hi": "टैपिंग" },
+        { "en": "Thread cutting", "hi": "थ्रेड कटिंग" },
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Facing", "hi": "फेसिंग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 442,
+      "question": {
+        "en": "The process of joining two metal pieces by fusion is —",
+        "hi": "गलन (Fusion) द्वारा दो धातु के टुकड़े जोड़ने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Casting", "hi": "ढलाई" },
+        { "en": "Welding", "hi": "वेल्डिंग" },
+        { "en": "Forging", "hi": "फोर्जिंग" },
+        { "en": "Pressing", "hi": "दबाना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 443,
+      "question": {
+        "en": "The filler material used in welding is called —",
+        "hi": "वेल्डिंग में प्रयुक्त भराव सामग्री कहलाती है —"
+      },
+      "options": [
+        { "en": "Flux", "hi": "फ्लक्स" },
+        { "en": "Wire", "hi": "तार" },
+        { "en": "Electrode", "hi": "इलेक्ट्रोड" },
+        { "en": "Core", "hi": "क्रोड" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 444,
+      "question": {
+        "en": "The purpose of flux in welding is —",
+        "hi": "वेल्डिंग में फ्लक्स का उद्देश्य है —"
+      },
+      "options": [
+        { "en": "Prevent oxidation", "hi": "ऑक्सीकरण रोकना" },
+        { "en": "Decoration", "hi": "सजावट" },
+        { "en": "Increase speed", "hi": "गति बढ़ाना" },
+        { "en": "Provide cooling", "hi": "शीतलन प्रदान करना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 445,
+      "question": {
+        "en": "The process of depositing a thin metal layer for protection is —",
+        "hi": "सुरक्षा के लिए पतली धातु की परत चढ़ाने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Soldering", "hi": "सोल्डरिंग" },
+        { "en": "Brazing", "hi": "ब्रेज़िंग" },
+        { "en": "Casting", "hi": "ढलाई" },
+        { "en": "Electroplating", "hi": "विद्युत लेपन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 446,
+      "question": {
+        "en": "In arc welding, heat is produced due to —",
+        "hi": "आर्क वेल्डिंग में ऊष्मा किसके कारण उत्पन्न होती है?"
+      },
+      "options": [
+        { "en": "Friction", "hi": "घर्षण" },
+        { "en": "Resistance", "hi": "प्रतिरोध" },
+        { "en": "Electric arc", "hi": "विद्युत चाप" },
+        { "en": "Chemical reaction", "hi": "रासायनिक अभिक्रिया" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 447,
+      "question": {
+        "en": "The temperature of an electric arc is about —",
+        "hi": "विद्युत चाप (Electric Arc) का तापमान लगभग होता है —"
+      },
+      "options": [
+        { "en": "500°C", "hi": "500°C" },
+        { "en": "1000°C", "hi": "1000°C" },
+        { "en": "2000°C", "hi": "2000°C" },
+        { "en": "3500°C–4000°C", "hi": "3500°C–4000°C" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 448,
+      "question": {
+        "en": "In gas welding, oxygen is used with —",
+        "hi": "गैस वेल्डिंग में ऑक्सीजन किसके साथ प्रयोग की जाती है?"
+      },
+      "options": [
+        { "en": "Acetylene", "hi": "एसिटिलीन" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" },
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Air", "hi": "वायु" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 449,
+      "question": {
+        "en": "The flame used for welding steel is —",
+        "hi": "स्टील की वेल्डिंग के लिए प्रयुक्त ज्वाला है —"
+      },
+      "options": [
+        { "en": "Oxidizing", "hi": "ऑक्सीकारक" },
+        { "en": "Reducing", "hi": "अवकारक" },
+        { "en": "Neutral flame", "hi": "उदासीन ज्वाला" },
+        { "en": "Carburizing", "hi": "कार्बुराइज़िंग" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 450,
+      "question": {
+        "en": "The gas used for cutting metals is —",
+        "hi": "धातुओं को काटने के लिए प्रयुक्त गैस है —"
+      },
+      "options": [
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Oxy-acetylene", "hi": "ऑक्सी-एसिटिलीन" },
+        { "en": "Helium", "hi": "हीलियम" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 451,
+      "question": {
+        "en": "The first rule of workshop safety is —",
+        "hi": "कार्यशाला सुरक्षा का पहला नियम है —"
+      },
+      "options": [
+        { "en": "Be fast", "hi": "तेज रहो" },
+        { "en": "Be alert and follow instructions", "hi": "सतर्क रहें और निर्देशों का पालन करें" },
+        { "en": "Ignore small injuries", "hi": "छोटी चोटों को नज़रअंदाज़ करें" },
+        { "en": "Work without supervision", "hi": "बिना निगरानी के काम करें" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 452,
+      "question": {
+        "en": "Safety goggles are worn to protect —",
+        "hi": "सुरक्षा चश्मा (Safety Goggles) किसकी सुरक्षा के लिए पहना जाता है?"
+      },
+      "options": [
+        { "en": "Hands", "hi": "हाथ" },
+        { "en": "Legs", "hi": "पैर" },
+        { "en": "Eyes", "hi": "आँखें" },
+        { "en": "Head", "hi": "सिर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 453,
+      "question": {
+        "en": "The color used for safety signs indicating danger is —",
+        "hi": "खतरे (Danger) को दर्शाने वाले सुरक्षा चिह्नों में प्रयुक्त रंग है —"
+      },
+      "options": [
+        { "en": "Green", "hi": "हरा" },
+        { "en": "Yellow", "hi": "पीला" },
+        { "en": "Blue", "hi": "नीला" },
+        { "en": "Red", "hi": "लाल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 454,
+      "question": {
+        "en": "The fire extinguisher suitable for electrical fires is —",
+        "hi": "विद्युत आग के लिए उपयुक्त अग्निशामक यंत्र है —"
+      },
+      "options": [
+        { "en": "CO₂ type", "hi": "CO₂ प्रकार" },
+        { "en": "Water", "hi": "जल" },
+        { "en": "Foam", "hi": "फोम" },
+        { "en": "Sand", "hi": "रेत" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 455,
+      "question": {
+        "en": "Oil and grease should be cleaned from floors to prevent —",
+        "hi": "फर्श से तेल और ग्रीस साफ करनी चाहिए ताकि बचा जा सके —"
+      },
+      "options": [
+        { "en": "Rust", "hi": "जंग से" },
+        { "en": "Slipping hazards", "hi": "फिसलन के खतरे से" },
+        { "en": "Noise", "hi": "शोर से" },
+        { "en": "Smoke", "hi": "धुएँ से" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 456,
+      "question": {
+        "en": "While grinding, the operator must wear —",
+        "hi": "ग्राइंडिंग करते समय ऑपरेटर को अवश्य पहनना चाहिए —"
+      },
+      "options": [
+        { "en": "Safety goggles", "hi": "सुरक्षा चश्मा" },
+        { "en": "Gloves", "hi": "दस्ताने" },
+        { "en": "Apron only", "hi": "केवल एप्रन" },
+        { "en": "Cap", "hi": "टोपी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 457,
+      "question": {
+        "en": "The minimum distance between grinding wheel and tool rest should be —",
+        "hi": "पीसने के पहिये और टूल रेस्ट के बीच न्यूनतम दूरी होनी चाहिए —"
+      },
+      "options": [
+        { "en": "6 mm", "hi": "6 mm" },
+        { "en": "10 mm", "hi": "10 mm" },
+        { "en": "2 mm", "hi": "2 mm" },
+        { "en": "12 mm", "hi": "12 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 458,
+      "question": {
+        "en": "The protective guard on a machine tool is used to —",
+        "hi": "मशीन टूल पर सुरक्षा गार्ड किसलिए लगाया जाता है?"
+      },
+      "options": [
+        { "en": "Beautify the machine", "hi": "मशीन को सुंदर बनाने के लिए" },
+        { "en": "Increase speed", "hi": "गति बढ़ाने के लिए" },
+        { "en": "Guide coolant", "hi": "शीतलक मार्गदर्शन के लिए" },
+        { "en": "Protect operator from flying chips", "hi": "उड़ती चिप्स से ऑपरेटर की सुरक्षा के लिए" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 459,
+      "question": {
+        "en": "The first aid for minor burn is —",
+        "hi": "छोटी जलन के लिए प्राथमिक उपचार है —"
+      },
+      "options": [
+        { "en": "Cold water or ice", "hi": "ठंडा पानी या बर्फ" },
+        { "en": "Apply oil", "hi": "तेल लगाएँ" },
+        { "en": "Cotton", "hi": "रुई" },
+        { "en": "Warm water", "hi": "गर्म पानी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 460,
+      "question": {
+        "en": "The material used for safety shoes is —",
+        "hi": "सुरक्षा जूतों के लिए प्रयुक्त सामग्री है —"
+      },
+      "options": [
+        { "en": "Canvas", "hi": "कैनवास" },
+        { "en": "Leather with steel toe", "hi": "स्टील की नोक वाला चमड़ा" },
+        { "en": "Rubber", "hi": "रबर" },
+        { "en": "Nylon", "hi": "नायलॉन" }
+      ],
+      "correct": 1
+    }
+  ]
+}

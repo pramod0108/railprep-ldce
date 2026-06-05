@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 8",
+  "questions": [
+    {
+      "id": 141,
+      "question": {
+        "en": "Heat energy flows from —",
+        "hi": "ऊष्मा ऊर्जा किस दिशा में प्रवाहित होती है?"
+      },
+      "options": [
+        { "en": "Hot to Cold", "hi": "गर्म से ठंडे की ओर" },
+        { "en": "Cold to Hot", "hi": "ठंडे से गर्म की ओर" },
+        { "en": "Low to High temperature", "hi": "निम्न से उच्च तापमान की ओर" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 142,
+      "question": {
+        "en": "Latent heat means —",
+        "hi": "गुप्त ऊष्मा का अर्थ है —"
+      },
+      "options": [
+        { "en": "Visible heat", "hi": "दृश्य ऊष्मा" },
+        { "en": "Stored energy", "hi": "संग्रहीत ऊर्जा" },
+        { "en": "Hidden heat", "hi": "छिपी हुई ऊष्मा" },
+        { "en": "Measured heat", "hi": "मापी गई ऊष्मा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 143,
+      "question": {
+        "en": "SI unit of specific heat capacity is —",
+        "hi": "विशिष्ट ऊष्मा धारिता की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Cal/g·°C", "hi": "Cal/g·°C" },
+        { "en": "J/mol", "hi": "J/mol" },
+        { "en": "W/kg", "hi": "W/kg" },
+        { "en": "J/kg·K", "hi": "J/kg·K" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 144,
+      "question": {
+        "en": "The quantity of heat required to change 1 kg of a solid to liquid is —",
+        "hi": "1 kg ठोस को द्रव में बदलने के लिए आवश्यक ऊष्मा की मात्रा है —"
+      },
+      "options": [
+        { "en": "Specific heat", "hi": "विशिष्ट ऊष्मा" },
+        { "en": "Latent heat of fusion", "hi": "संलयन की गुप्त ऊष्मा" },
+        { "en": "Latent heat of vaporization", "hi": "वाष्पीकरण की गुप्त ऊष्मा" },
+        { "en": "None", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 145,
+      "question": {
+        "en": "When heat is supplied to a liquid, it changes into —",
+        "hi": "जब किसी द्रव को ऊष्मा दी जाती है, तो वह बदल जाता है —"
+      },
+      "options": [
+        { "en": "Gas", "hi": "गैस" },
+        { "en": "Solid", "hi": "ठोस" },
+        { "en": "Ice", "hi": "बर्फ" },
+        { "en": "Plasma", "hi": "प्लाज्मा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 146,
+      "question": {
+        "en": "Unit of power in SI system is —",
+        "hi": "SI पद्धति में शक्ति की इकाई है —"
+      },
+      "options": [
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Newton", "hi": "न्यूटन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 147,
+      "question": {
+        "en": "The energy possessed by a body due to its motion is —",
+        "hi": "किसी पिंड में उसकी गति के कारण होने वाली ऊर्जा कहलाती है —"
+      },
+      "options": [
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" },
+        { "en": "Mechanical energy", "hi": "यांत्रिक ऊर्जा" },
+        { "en": "Power", "hi": "शक्ति" },
+        { "en": "Kinetic energy", "hi": "गतिज ऊर्जा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 148,
+      "question": {
+        "en": "The instrument used to measure temperature is —",
+        "hi": "तापमान मापने के लिए प्रयुक्त उपकरण है —"
+      },
+      "options": [
+        { "en": "Barometer", "hi": "बैरोमीटर" },
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Calorimeter", "hi": "कैलोरीमीटर" },
+        { "en": "Manometer", "hi": "मैनोमीटर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 149,
+      "question": {
+        "en": "The unit of mechanical equivalent of heat is —",
+        "hi": "ऊष्मा के यांत्रिक तुल्यांक की इकाई है —"
+      },
+      "options": [
+        { "en": "Joule/calorie", "hi": "जूल/कैलोरी" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Newton", "hi": "न्यूटन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 150,
+      "question": {
+        "en": "Work done = Force × —",
+        "hi": "किया गया कार्य = बल × —"
+      },
+      "options": [
+        { "en": "Velocity", "hi": "वेग" },
+        { "en": "Time", "hi": "समय" },
+        { "en": "Displacement", "hi": "विस्थापन" },
+        { "en": "Energy", "hi": "ऊर्जा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 151,
+      "question": {
+        "en": "The smallest particle of an element that can take part in a chemical reaction is —",
+        "hi": "किसी तत्व का सबसे छोटा कण जो रासायनिक अभिक्रिया में भाग ले सकता है, वह है —"
+      },
+      "options": [
+        { "en": "Molecule", "hi": "अणु" },
+        { "en": "Ion", "hi": "आयन" },
+        { "en": "Atom", "hi": "परमाणु" },
+        { "en": "Compound", "hi": "यौगिक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 152,
+      "question": {
+        "en": "The chemical symbol of Sodium is —",
+        "hi": "सोडियम का रासायनिक प्रतीक है —"
+      },
+      "options": [
+        { "en": "So", "hi": "So" },
+        { "en": "Na", "hi": "Na" },
+        { "en": "Sd", "hi": "Sd" },
+        { "en": "S", "hi": "S" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 153,
+      "question": {
+        "en": "The atomic number of Oxygen is —",
+        "hi": "ऑक्सीजन की परमाणु संख्या है —"
+      },
+      "options": [
+        { "en": "7", "hi": "6" },
+        { "en": "10", "hi": "10" },
+        { "en": "6", "hi": "6" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 154,
+      "question": {
+        "en": "Water is a —",
+        "hi": "जल है एक —"
+      },
+      "options": [
+        { "en": "Compound", "hi": "यौगिक" },
+        { "en": "Element", "hi": "तत्व" },
+        { "en": "Mixture", "hi": "मिश्रण" },
+        { "en": "Solution", "hi": "घोल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 155,
+      "question": {
+        "en": "The chemical formula of water is —",
+        "hi": "जल का रासायनिक सूत्र है —"
+      },
+      "options": [
+        { "en": "HO", "hi": "HO" },
+        { "en": "H₂O₂", "hi": "H₂O₂" },
+        { "en": "H₂O", "hi": "H₂O" },
+        { "en": "HO₂", "hi": "HO₂" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 156,
+      "question": {
+        "en": "Which of the following is a noble gas?",
+        "hi": "निम्नलिखित में से कौन सी एक नोबल गैस है?"
+      },
+      "options": [
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" },
+        { "en": "Helium", "hi": "हीलियम" },
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Oxygen", "hi": "ऑक्सीजन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 157,
+      "question": {
+        "en": "Rusting of iron is a —",
+        "hi": "लोहे पर जंग लगना है एक —"
+      },
+      "options": [
+        { "en": "Physical change", "hi": "भौतिक परिवर्तन" },
+        { "en": "Temporary change", "hi": "अस्थायी परिवर्तन" },
+        { "en": "Reversible change", "hi": "उत्क्रमणीय परिवर्तन" },
+        { "en": "Chemical change", "hi": "रासायनिक परिवर्तन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 158,
+      "question": {
+        "en": "The process of converting solid directly into gas is called —",
+        "hi": "ठोस को सीधे गैस में बदलने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Sublimation", "hi": "ऊर्ध्वपातन" },
+        { "en": "Evaporation", "hi": "वाष्पीकरण" },
+        { "en": "Condensation", "hi": "संघनन" },
+        { "en": "Freezing", "hi": "हिमीकरण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 159,
+      "question": {
+        "en": "The molecular formula of carbon dioxide is —",
+        "hi": "कार्बन डाइऑक्साइड का आणविक सूत्र है —"
+      },
+      "options": [
+        { "en": "CO", "hi": "CO" },
+        { "en": "C₂O", "hi": "C₂O" },
+        { "en": "CO₂", "hi": "CO₂" },
+        { "en": "C₂O₂", "hi": "C₂O₂" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 160,
+      "question": {
+        "en": "The gas used in respiration is —",
+        "hi": "श्वसन (Respiration) में प्रयुक्त गैस है —"
+      },
+      "options": [
+        { "en": "Carbon dioxide", "hi": "कार्बन डाइऑक्साइड" },
+        { "en": "Oxygen", "hi": "ऑक्सीजन" },
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" }
+      ],
+      "correct": 1
+    }
+  ]
+}

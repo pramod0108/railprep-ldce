@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 15",
+  "questions": [
+    {
+      "id": 281,
+      "question": {
+        "en": "The first law of thermodynamics is a statement of —",
+        "hi": "ऊष्मागतिकी का पहला नियम किसका कथन है?"
+      },
+      "options": [
+        { "en": "Entropy", "hi": "एन्ट्रॉपी" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Energy conservation", "hi": "ऊर्जा संरक्षण" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 282,
+      "question": {
+        "en": "In a closed system, mass remains —",
+        "hi": "एक बंद निकाय में द्रव्यमान रहता है —"
+      },
+      "options": [
+        { "en": "Decreased", "hi": "कम" },
+        { "en": "Constant", "hi": "स्थिर" },
+        { "en": "Doubled", "hi": "दोगुना" },
+        { "en": "Lost", "hi": "नष्ट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 283,
+      "question": {
+        "en": "Entropy is a measure of —",
+        "hi": "एन्ट्रॉपी किसका माप है?"
+      },
+      "options": [
+        { "en": "Work done", "hi": "किए गए कार्य का" },
+        { "en": "Temperature", "hi": "तापमान का" },
+        { "en": "Disorder or randomness", "hi": "अव्यवस्था या यादृच्छिकता का" },
+        { "en": "Heat transfer", "hi": "ऊष्मा स्थानांतरण का" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 284,
+      "question": {
+        "en": "The second law of thermodynamics defines —",
+        "hi": "ऊष्मागतिकी का दूसरा नियम किसे परिभाषित करता है?"
+      },
+      "options": [
+        { "en": "Internal energy", "hi": "आंतरिक ऊर्जा" },
+        { "en": "Direction of heat flow", "hi": "ऊष्मा प्रवाह की दिशा" },
+        { "en": "Pressure change", "hi": "दबाव परिवर्तन" },
+        { "en": "Temperature scale", "hi": "तापमान पैमाना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 285,
+      "question": {
+        "en": "The heat required to raise the temperature of a substance is called —",
+        "hi": "किसी पदार्थ का तापमान बढ़ाने के लिए आवश्यक ऊष्मा कहलाती है —"
+      },
+      "options": [
+        { "en": "Specific heat", "hi": "विशिष्ट ऊष्मा" },
+        { "en": "Latent heat", "hi": "गुप्त ऊष्मा" },
+        { "en": "Thermal capacity", "hi": "ऊष्मीय धारिता" },
+        { "en": "None", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 286,
+      "question": {
+        "en": "The efficiency of an ideal heat engine depends on —",
+        "hi": "एक आदर्श ऊष्मा इंजन की दक्षता किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Pressure difference", "hi": "दबाव अंतर" },
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Medium", "hi": "माध्यम" },
+        { "en": "Temperature difference", "hi": "तापमान अंतर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 287,
+      "question": {
+        "en": "If temperature of source increases, efficiency of Carnot engine —",
+        "hi": "यदि स्रोत का तापमान बढ़े, तो कार्नो इंजन की दक्षता —"
+      },
+      "options": [
+        { "en": "Increases", "hi": "बढ़ती है" },
+        { "en": "Decreases", "hi": "घटती है" },
+        { "en": "Constant", "hi": "स्थिर रहती है" },
+        { "en": "Zero", "hi": "शून्य हो जाती है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 288,
+      "question": {
+        "en": "The process in which temperature remains constant is —",
+        "hi": "वह प्रक्रिया जिसमें तापमान स्थिर रहता है, कहलाती है —"
+      },
+      "options": [
+        { "en": "Adiabatic", "hi": "रुद्धोष्म" },
+        { "en": "Isobaric", "hi": "समदाबी" },
+        { "en": "Isochoric", "hi": "समआयतनिक" },
+        { "en": "Isothermal", "hi": "समतापी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 289,
+      "question": {
+        "en": "When gas is compressed, its temperature —",
+        "hi": "जब गैस को संपीडित किया जाता है, तो उसका तापमान —"
+      },
+      "options": [
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Remains constant", "hi": "स्थिर रहता है" },
+        { "en": "Becomes zero", "hi": "शून्य हो जाता है" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 290,
+      "question": {
+        "en": "When pressure increases, the boiling point of a liquid —",
+        "hi": "जब दबाव बढ़ता है, तो किसी द्रव का क्वथनांक —"
+      },
+      "options": [
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Remains constant", "hi": "स्थिर रहता है" },
+        { "en": "Doubles", "hi": "दोगुना हो जाता है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 291,
+      "question": {
+        "en": "The heat required to change solid to liquid is called —",
+        "hi": "ठोस को द्रव में बदलने के लिए आवश्यक ऊष्मा कहलाती है —"
+      },
+      "options": [
+        { "en": "Latent heat of vaporization", "hi": "वाष्पीकरण की गुप्त ऊष्मा" },
+        { "en": "Specific heat", "hi": "विशिष्ट ऊष्मा" },
+        { "en": "Latent heat of fusion", "hi": "संलयन की गुप्त ऊष्मा" },
+        { "en": "Thermal energy", "hi": "ऊष्मीय ऊर्जा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 292,
+      "question": {
+        "en": "The heat required to change liquid to gas is called —",
+        "hi": "द्रव को गैस में बदलने के लिए आवश्यक ऊष्मा कहलाती है —"
+      },
+      "options": [
+        { "en": "Latent heat of fusion", "hi": "संलयन की गुप्त ऊष्मा" },
+        { "en": "Heat capacity", "hi": "ऊष्मा धारिता" },
+        { "en": "Conduction heat", "hi": "चालन ऊष्मा" },
+        { "en": "Latent heat of vaporization", "hi": "वाष्पीकरण की गुप्त ऊष्मा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 293,
+      "question": {
+        "en": "The gas law PV = constant represents —",
+        "hi": "गैस नियम PV = स्थिरांक किसे दर्शाता है?"
+      },
+      "options": [
+        { "en": "Isobaric process", "hi": "समदाबी प्रक्रिया" },
+        { "en": "Isothermal process", "hi": "समतापी प्रक्रिया" },
+        { "en": "Adiabatic process", "hi": "रुद्धोष्म प्रक्रिया" },
+        { "en": "Isochoric process", "hi": "समआयतनिक प्रक्रिया" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 294,
+      "question": {
+        "en": "The gas constant R is equal to —",
+        "hi": "गैस नियतांक R का मान है —"
+      },
+      "options": [
+        { "en": "9.81 J/kg", "hi": "9.81 J/kg" },
+        { "en": "4.18 J/mol", "hi": "4.18 J/mol" },
+        { "en": "1 J/mol", "hi": "1 J/mol" },
+        { "en": "8.314 J/mol·K", "hi": "8.314 J/mol·K" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 295,
+      "question": {
+        "en": "The efficiency of a heat engine can never be —",
+        "hi": "ऊष्मा इंजन की दक्षता कभी नहीं हो सकती —"
+      },
+      "options": [
+        { "en": "Less than 0", "hi": "0 से कम" },
+        { "en": "100%", "hi": "100%" },
+        { "en": "More than 100%", "hi": "100% से अधिक" },
+        { "en": "Negative", "hi": "ऋणात्मक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 296,
+      "question": {
+        "en": "The process used in diesel engines is —",
+        "hi": "डीजल इंजन में प्रयुक्त प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Diesel cycle", "hi": "डीजल चक्र" },
+        { "en": "Otto cycle", "hi": "ओटो चक्र" },
+        { "en": "Carnot cycle", "hi": "कार्नो चक्र" },
+        { "en": "Joule cycle", "hi": "जूल चक्र" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 297,
+      "question": {
+        "en": "The working substance in a steam engine is —",
+        "hi": "भाप इंजन में कार्यकारी पदार्थ है —"
+      },
+      "options": [
+        { "en": "Air", "hi": "वायु" },
+        { "en": "Gasoline", "hi": "गैसोलीन" },
+        { "en": "Steam", "hi": "भाप" },
+        { "en": "Oil", "hi": "तेल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 298,
+      "question": {
+        "en": "The first law of thermodynamics is expressed as —",
+        "hi": "ऊष्मागतिकी का पहला नियम किस प्रकार व्यक्त किया जाता है?"
+      },
+      "options": [
+        { "en": "Q = W", "hi": "Q = W" },
+        { "en": "Q = ΔU + W", "hi": "Q = ΔU + W" },
+        { "en": "Q = P + V", "hi": "Q = P + V" },
+        { "en": "Q = T + S", "hi": "Q = T + S" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 299,
+      "question": {
+        "en": "The second law of thermodynamics implies —",
+        "hi": "ऊष्मागतिकी का दूसरा नियम यह बताता है कि —"
+      },
+      "options": [
+        { "en": "Energy is destroyed", "hi": "ऊर्जा नष्ट हो जाती है" },
+        { "en": "Work increases heat", "hi": "कार्य ऊष्मा बढ़ाता है" },
+        { "en": "Heat cannot flow from cold to hot body without work", "hi": "कार्य किए बिना ऊष्मा ठंडे से गर्म पिंड की ओर प्रवाहित नहीं हो सकती" },
+        { "en": "Heat is lost always", "hi": "ऊष्मा हमेशा नष्ट होती है" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 300,
+      "question": {
+        "en": "The Carnot cycle is a —",
+        "hi": "कार्नो चक्र (Carnot Cycle) है एक —"
+      },
+      "options": [
+        { "en": "Irreversible cycle", "hi": "अनुत्क्रमणीय चक्र" },
+        { "en": "Constant pressure process", "hi": "स्थिर दबाव प्रक्रिया" },
+        { "en": "Constant volume process", "hi": "स्थिर आयतन प्रक्रिया" },
+        { "en": "Reversible cycle", "hi": "उत्क्रमणीय चक्र" }
+      ],
+      "correct": 3
+    }
+  ]
+}

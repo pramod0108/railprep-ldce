@@ -69,6 +69,19 @@ export default function ResultPage() {
     navigate(`/test/${sectionId}/${testId}`);
   };
 
+  // If there's no real choice to make (only wrong OR only skipped remain),
+  // skip the modal and start the re-attempt directly. The modal exists only
+  // for the genuine fork: both wrong and skipped are non-zero.
+  const onReattemptClick = () => {
+    if (wrong === 0 && skipped === 0) return; // button is already disabled
+    if (wrong > 0 && skipped > 0) {
+      setReattemptOpen(true);
+      return;
+    }
+    // exactly one of them is > 0 — no fork needed
+    handleReattempt(skipped > 0);
+  };
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 8 }}
@@ -129,11 +142,16 @@ export default function ResultPage() {
         <Button
           variant="default"
           disabled={noWrongOrSkipped}
-          onClick={() => setReattemptOpen(true)}
+          onClick={onReattemptClick}
           className="w-full"
         >
           <RotateCcw className="h-4 w-4" />
           Re-attempt
+          {!noWrongOrSkipped && (
+            <span className="ml-1 text-xs opacity-90">
+              ({wrong + skipped})
+            </span>
+          )}
         </Button>
         <Button
           variant="secondary"
@@ -162,29 +180,15 @@ export default function ResultPage() {
         </p>
       )}
 
-      {/* Re-attempt include-skipped dialog */}
+      {/* Re-attempt fork dialog — only shown when BOTH wrong and skipped > 0 */}
       <Dialog open={reattemptOpen} onOpenChange={setReattemptOpen}>
         <DialogContent>
           <DialogHeader>
-            <DialogTitle>Re-attempt</DialogTitle>
+            <DialogTitle>Include skipped questions too?</DialogTitle>
             <DialogDescription>
-              {wrong > 0 && skipped > 0 ? (
-                <>
-                  You have <strong>{wrong}</strong> wrong and{" "}
-                  <strong>{skipped}</strong> skipped question
-                  {skipped === 1 ? "" : "s"}. Include skipped questions too?
-                </>
-              ) : wrong > 0 ? (
-                <>
-                  You have <strong>{wrong}</strong> wrong question
-                  {wrong === 1 ? "" : "s"} to re-attempt.
-                </>
-              ) : (
-                <>
-                  You have <strong>{skipped}</strong> skipped question
-                  {skipped === 1 ? "" : "s"} to re-attempt.
-                </>
-              )}
+              You have <strong>{wrong}</strong> wrong and{" "}
+              <strong>{skipped}</strong> skipped question
+              {skipped === 1 ? "" : "s"}. Pick what to re-attempt.
             </DialogDescription>
           </DialogHeader>
           <DialogFooter className="gap-2">
@@ -194,19 +198,11 @@ export default function ResultPage() {
             <Button
               variant="secondary"
               onClick={() => handleReattempt(false)}
-              disabled={wrong === 0}
             >
-              {wrong === 0 ? "No wrong questions" : `No, only wrong (${wrong})`}
+              No, only wrong ({wrong})
             </Button>
-            <Button
-              onClick={() => handleReattempt(true)}
-              disabled={skipped === 0 && wrong === 0}
-            >
-              {skipped === 0
-                ? `Re-attempt wrong (${wrong})`
-                : wrong === 0
-                ? `Re-attempt skipped (${skipped})`
-                : `Yes, include skipped (${wrong + skipped})`}
+            <Button onClick={() => handleReattempt(true)}>
+              Yes, include skipped ({wrong + skipped})
             </Button>
           </DialogFooter>
         </DialogContent>

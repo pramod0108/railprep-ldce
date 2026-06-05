@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 11",
+  "questions": [
+    {
+      "id": 201,
+      "question": {
+        "en": "The SI unit of electric current is —",
+        "hi": "विद्युत धारा की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Ohm", "hi": "ओम" },
+        { "en": "Ampere", "hi": "एम्पियर" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 202,
+      "question": {
+        "en": "The instrument used to measure electric current is —",
+        "hi": "विद्युत धारा मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Ammeter", "hi": "एमीटर" },
+        { "en": "Voltmeter", "hi": "वोल्टमीटर" },
+        { "en": "Ohmmeter", "hi": "ओममीटर" },
+        { "en": "Galvanometer", "hi": "गैल्वेनोमीटर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 203,
+      "question": {
+        "en": "The SI unit of electric charge is —",
+        "hi": "विद्युत आवेश की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Coulomb", "hi": "कूलॉम" },
+        { "en": "Ampere", "hi": "एम्पियर" },
+        { "en": "Joule", "hi": "जूल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 204,
+      "question": {
+        "en": "One Coulomb of charge is equal to —",
+        "hi": "एक कूलॉम आवेश बराबर होता है —"
+      },
+      "options": [
+        { "en": "1 A/s", "hi": "1 A/s" },
+        { "en": "1 V/s", "hi": "1 V/s" },
+        { "en": "1 W/s", "hi": "1 W/s" },
+        { "en": "1 A·s", "hi": "1 A·s" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 205,
+      "question": {
+        "en": "Ohm's Law states that —",
+        "hi": "ओम का नियम कहता है कि —"
+      },
+      "options": [
+        { "en": "V = I/P", "hi": "V = I/P" },
+        { "en": "V = R/I", "hi": "V = R/I" },
+        { "en": "V = IR", "hi": "V = IR" },
+        { "en": "P = VI²", "hi": "P = VI²" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 206,
+      "question": {
+        "en": "The unit of resistance is —",
+        "hi": "प्रतिरोध की इकाई है —"
+      },
+      "options": [
+        { "en": "Ohm (Ω)", "hi": "ओम (Ω)" },
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Coulomb", "hi": "कूलॉम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 207,
+      "question": {
+        "en": "The device used to measure potential difference is —",
+        "hi": "विभवांतर (Potential Difference) मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Ammeter", "hi": "एमीटर" },
+        { "en": "Galvanometer", "hi": "गैल्वेनोमीटर" },
+        { "en": "Rheostat", "hi": "रियोस्टैट" },
+        { "en": "Voltmeter", "hi": "वोल्टमीटर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 208,
+      "question": {
+        "en": "The SI unit of power in an electric circuit is —",
+        "hi": "विद्युत परिपथ में शक्ति की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Ampere", "hi": "एम्पियर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 209,
+      "question": {
+        "en": "1 kilowatt is equal to —",
+        "hi": "1 किलोवाट बराबर होता है —"
+      },
+      "options": [
+        { "en": "100 watts", "hi": "100 वाट" },
+        { "en": "10 watts", "hi": "10 वाट" },
+        { "en": "1000 watts", "hi": "1000 वाट" },
+        { "en": "10000 watts", "hi": "10000 वाट" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 210,
+      "question": {
+        "en": "The energy consumed by a device is measured in —",
+        "hi": "किसी उपकरण द्वारा उपभोग की गई ऊर्जा को किसमें मापा जाता है?"
+      },
+      "options": [
+        { "en": "kWh (kilowatt-hour)", "hi": "kWh (किलोवाट-घंटा)" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Volt", "hi": "वोल्ट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 211,
+      "question": {
+        "en": "The resistance of a conductor depends on —",
+        "hi": "किसी चालक का प्रतिरोध किस पर निर्भर करता है?"
+      },
+      "options": [
+        { "en": "Material only", "hi": "केवल सामग्री पर" },
+        { "en": "Length only", "hi": "केवल लम्बाई पर" },
+        { "en": "Area only", "hi": "केवल क्षेत्रफल पर" },
+        { "en": "All of these", "hi": "इन सभी पर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 212,
+      "question": {
+        "en": "The reciprocal of resistance is called —",
+        "hi": "प्रतिरोध के व्युत्क्रम को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Power", "hi": "शक्ति" },
+        { "en": "Conductance", "hi": "चालकता" },
+        { "en": "Capacitance", "hi": "धारिता" },
+        { "en": "Inductance", "hi": "प्रेरकत्व" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 213,
+      "question": {
+        "en": "A conductor allows —",
+        "hi": "एक चालक किसे प्रवाहित होने देता है?"
+      },
+      "options": [
+        { "en": "No current", "hi": "कोई धारा नहीं" },
+        { "en": "Only ions", "hi": "केवल आयन" },
+        { "en": "Free flow of electrons", "hi": "इलेक्ट्रॉनों का मुक्त प्रवाह" },
+        { "en": "No charge movement", "hi": "कोई आवेश गति नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 214,
+      "question": {
+        "en": "The instrument used to detect small electric currents is —",
+        "hi": "छोटी विद्युत धारा का पता लगाने के लिए प्रयुक्त यंत्र है —"
+      },
+      "options": [
+        { "en": "Galvanometer", "hi": "गैल्वेनोमीटर" },
+        { "en": "Ammeter", "hi": "एमीटर" },
+        { "en": "Rheostat", "hi": "रियोस्टैट" },
+        { "en": "Voltmeter", "hi": "वोल्टमीटर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 215,
+      "question": {
+        "en": "The heating effect of current is used in —",
+        "hi": "विद्युत धारा के तापीय प्रभाव का उपयोग किसमें होता है?"
+      },
+      "options": [
+        { "en": "Electric motor", "hi": "विद्युत मोटर" },
+        { "en": "Transformer", "hi": "ट्रांसफॉर्मर" },
+        { "en": "Generator", "hi": "जनरेटर" },
+        { "en": "Electric iron", "hi": "विद्युत इस्त्री" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 216,
+      "question": {
+        "en": "The magnetic field is produced by —",
+        "hi": "चुम्बकीय क्षेत्र किसके द्वारा उत्पन्न होता है?"
+      },
+      "options": [
+        { "en": "Stationary charges", "hi": "स्थिर आवेश" },
+        { "en": "Moving charges", "hi": "गतिशील आवेश" },
+        { "en": "Heat", "hi": "ऊष्मा" },
+        { "en": "Light", "hi": "प्रकाश" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 217,
+      "question": {
+        "en": "The unit of magnetic flux is —",
+        "hi": "चुम्बकीय फ्लक्स की इकाई है —"
+      },
+      "options": [
+        { "en": "Tesla", "hi": "टेस्ला" },
+        { "en": "Gauss", "hi": "गॉस" },
+        { "en": "Weber", "hi": "वेबर" },
+        { "en": "Henry", "hi": "हेनरी" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 218,
+      "question": {
+        "en": "The SI unit of magnetic field intensity is —",
+        "hi": "चुम्बकीय क्षेत्र की तीव्रता की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Tesla", "hi": "टेस्ला" },
+        { "en": "Gauss", "hi": "गॉस" },
+        { "en": "Weber", "hi": "वेबर" },
+        { "en": "Ampere", "hi": "एम्पियर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 219,
+      "question": {
+        "en": "The magnetic lines of force —",
+        "hi": "चुम्बकीय बल रेखाएँ —"
+      },
+      "options": [
+        { "en": "Intersect each other", "hi": "एक-दूसरे को काटती हैं" },
+        { "en": "Are always straight", "hi": "हमेशा सीधी होती हैं" },
+        { "en": "Are always parallel", "hi": "हमेशा समानांतर होती हैं" },
+        { "en": "Never intersect", "hi": "कभी नहीं काटती" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 220,
+      "question": {
+        "en": "The north pole of a magnet attracts —",
+        "hi": "एक चुम्बक का उत्तरी ध्रुव किसे आकर्षित करता है?"
+      },
+      "options": [
+        { "en": "North pole", "hi": "उत्तरी ध्रुव" },
+        { "en": "South pole", "hi": "दक्षिणी ध्रुव" },
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "None", "hi": "कोई नहीं" }
+      ],
+      "correct": 1
+    }
+  ]
+}

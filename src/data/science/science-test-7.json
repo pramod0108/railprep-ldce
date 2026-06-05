@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 7",
+  "questions": [
+    {
+      "id": 121,
+      "question": {
+        "en": "The energy stored in a stretched spring is —",
+        "hi": "खिंची हुई स्प्रिंग में संग्रहीत ऊर्जा होती है —"
+      },
+      "options": [
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" },
+        { "en": "Kinetic energy", "hi": "गतिज ऊर्जा" },
+        { "en": "Chemical energy", "hi": "रासायनिक ऊर्जा" },
+        { "en": "Sound energy", "hi": "ध्वनि ऊर्जा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 122,
+      "question": {
+        "en": "Work done is zero when —",
+        "hi": "कार्य शून्य होता है जब —"
+      },
+      "options": [
+        { "en": "Force is maximum", "hi": "बल अधिकतम हो" },
+        { "en": "Speed is high", "hi": "चाल अधिक हो" },
+        { "en": "Displacement is zero", "hi": "विस्थापन शून्य हो" },
+        { "en": "Force is high", "hi": "बल उच्च हो" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 123,
+      "question": {
+        "en": "Unit of energy and work both are —",
+        "hi": "ऊर्जा और कार्य दोनों की इकाई है —"
+      },
+      "options": [
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Joule", "hi": "जूल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 124,
+      "question": {
+        "en": "Power is defined as —",
+        "hi": "शक्ति को परिभाषित किया जाता है —"
+      },
+      "options": [
+        { "en": "Force × Distance", "hi": "बल × दूरी" },
+        { "en": "Work done / Time", "hi": "किया गया कार्य / समय" },
+        { "en": "Mass × Acceleration", "hi": "द्रव्यमान × त्वरण" },
+        { "en": "Energy × Time", "hi": "ऊर्जा × समय" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 125,
+      "question": {
+        "en": "Mechanical energy is the sum of —",
+        "hi": "यांत्रिक ऊर्जा किसका योग होती है?"
+      },
+      "options": [
+        { "en": "Potential and Kinetic energy", "hi": "स्थितिज और गतिज ऊर्जा" },
+        { "en": "Work and Power", "hi": "कार्य और शक्ति" },
+        { "en": "Force and Displacement", "hi": "बल और विस्थापन" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 126,
+      "question": {
+        "en": "If velocity is doubled, kinetic energy becomes —",
+        "hi": "यदि वेग दोगुना हो जाए, तो गतिज ऊर्जा हो जाती है —"
+      },
+      "options": [
+        { "en": "Doubled", "hi": "दोगुनी" },
+        { "en": "Half", "hi": "आधी" },
+        { "en": "Four times", "hi": "चार गुनी" },
+        { "en": "Same", "hi": "समान" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 127,
+      "question": {
+        "en": "Work done against gravity is stored as —",
+        "hi": "गुरुत्व के विरुद्ध किया गया कार्य किस रूप में संग्रहीत होता है?"
+      },
+      "options": [
+        { "en": "Heat", "hi": "ऊष्मा" },
+        { "en": "Kinetic energy", "hi": "गतिज ऊर्जा" },
+        { "en": "Power", "hi": "शक्ति" },
+        { "en": "Potential energy", "hi": "स्थितिज ऊर्जा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 128,
+      "question": {
+        "en": "SI unit of heat energy is —",
+        "hi": "ऊष्मा ऊर्जा की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Calorie", "hi": "कैलोरी" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 129,
+      "question": {
+        "en": "The device used to measure heat is —",
+        "hi": "ऊष्मा मापने वाला यंत्र है —"
+      },
+      "options": [
+        { "en": "Calorimeter", "hi": "कैलोरीमीटर" },
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Hygrometer", "hi": "हाइग्रोमीटर" },
+        { "en": "Barometer", "hi": "बैरोमीटर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 130,
+      "question": {
+        "en": "Heat is a form of —",
+        "hi": "ऊष्मा किसका एक रूप है?"
+      },
+      "options": [
+        { "en": "Light energy", "hi": "प्रकाश ऊर्जा" },
+        { "en": "Matter", "hi": "पदार्थ" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Sound", "hi": "ध्वनि" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 131,
+      "question": {
+        "en": "The unit of temperature in SI system is —",
+        "hi": "SI पद्धति में तापमान की इकाई है —"
+      },
+      "options": [
+        { "en": "Celsius", "hi": "सेल्सियस" },
+        { "en": "Fahrenheit", "hi": "फ़ारेनहाइट" },
+        { "en": "Centigrade", "hi": "सेंटीग्रेड" },
+        { "en": "Kelvin", "hi": "केल्विन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 132,
+      "question": {
+        "en": "The amount of heat required to raise temperature of 1 gram of water by 1°C is —",
+        "hi": "1 kg पानी का तापमान 1°C बढ़ाने के लिए आवश्यक ऊष्मा की मात्रा है —"
+      },
+      "options": [
+        { "en": "1 Joule", "hi": "1 जूल" },
+        { "en": "1 Calorie", "hi": "1 कैलोरी" },
+        { "en": "1 Watt", "hi": "1 वाट" },
+        { "en": "1 Erg", "hi": "1 अर्ग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 133,
+      "question": {
+        "en": "Conduction occurs mainly in —",
+        "hi": "ऊष्मा का चालन (Conduction) मुख्यतः किसमें होता है?"
+      },
+      "options": [
+        { "en": "Solids", "hi": "ठोस" },
+        { "en": "Liquids", "hi": "द्रव" },
+        { "en": "Gases", "hi": "गैस" },
+        { "en": "Vacuum", "hi": "निर्वात" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 134,
+      "question": {
+        "en": "Heat transfer through vacuum takes place by —",
+        "hi": "निर्वात में ऊष्मा स्थानांतरण किसके द्वारा होता है?"
+      },
+      "options": [
+        { "en": "Conduction", "hi": "चालन" },
+        { "en": "Convection", "hi": "संवहन" },
+        { "en": "Radiation", "hi": "विकिरण" },
+        { "en": "None", "hi": "कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 135,
+      "question": {
+        "en": "The good conductor of heat is —",
+        "hi": "ऊष्मा का सुचालक है —"
+      },
+      "options": [
+        { "en": "Wood", "hi": "लकड़ी" },
+        { "en": "Glass", "hi": "काँच" },
+        { "en": "Plastic", "hi": "प्लास्टिक" },
+        { "en": "Copper", "hi": "तांबा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 136,
+      "question": {
+        "en": "The bad conductor of heat is —",
+        "hi": "ऊष्मा का कुचालक है —"
+      },
+      "options": [
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Wood", "hi": "लकड़ी" },
+        { "en": "Silver", "hi": "चाँदी" },
+        { "en": "Copper", "hi": "तांबा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 137,
+      "question": {
+        "en": "When a body absorbs heat, its temperature —",
+        "hi": "जब कोई पिंड ऊष्मा अवशोषित करता है, तो उसका तापमान —"
+      },
+      "options": [
+        { "en": "Increases", "hi": "बढ़ता है" },
+        { "en": "Decreases", "hi": "घटता है" },
+        { "en": "Remains same", "hi": "समान रहता है" },
+        { "en": "Becomes zero", "hi": "शून्य हो जाता है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 138,
+      "question": {
+        "en": "Boiling point of water at standard pressure is —",
+        "hi": "मानक दाब पर जल का क्वथनांक है —"
+      },
+      "options": [
+        { "en": "0°C", "hi": "0°C" },
+        { "en": "50°C", "hi": "50°C" },
+        { "en": "100°C", "hi": "100°C" },
+        { "en": "212°C", "hi": "212°C" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 139,
+      "question": {
+        "en": "Melting point of ice is —",
+        "hi": "बर्फ का गलनांक है —"
+      },
+      "options": [
+        { "en": "100°C", "hi": "100°C" },
+        { "en": "273°C", "hi": "273°C" },
+        { "en": "32°C", "hi": "32°C" },
+        { "en": "0°C", "hi": "0°C" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 140,
+      "question": {
+        "en": "Change of solid to gas without becoming liquid is called —",
+        "hi": "ठोस का द्रव बने बिना सीधे गैस में बदलना कहलाता है —"
+      },
+      "options": [
+        { "en": "Evaporation", "hi": "वाष्पीकरण" },
+        { "en": "Sublimation", "hi": "ऊर्ध्वपातन" },
+        { "en": "Condensation", "hi": "संघनन" },
+        { "en": "Freezing", "hi": "हिमीकरण" }
+      ],
+      "correct": 1
+    }
+  ]
+}

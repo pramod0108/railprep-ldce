@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 12",
+  "questions": [
+    {
+      "id": 221,
+      "question": {
+        "en": "The region around a magnet in which its influence can be felt is called —",
+        "hi": "चुम्बक के चारों ओर का वह क्षेत्र जिसमें उसका प्रभाव अनुभव होता है, कहलाता है —"
+      },
+      "options": [
+        { "en": "Magnetic path", "hi": "चुम्बकीय पथ" },
+        { "en": "Magnetic domain", "hi": "चुम्बकीय डोमेन" },
+        { "en": "Magnetic field", "hi": "चुम्बकीय क्षेत्र" },
+        { "en": "Polarity", "hi": "ध्रुवता" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 222,
+      "question": {
+        "en": "A freely suspended magnet always points —",
+        "hi": "स्वतंत्र रूप से लटका चुम्बक हमेशा किस दिशा में संकेत करता है?"
+      },
+      "options": [
+        { "en": "North-South", "hi": "उत्तर-दक्षिण" },
+        { "en": "East-West", "hi": "पूर्व-पश्चिम" },
+        { "en": "Up-Down", "hi": "ऊपर-नीचे" },
+        { "en": "Randomly", "hi": "यादृच्छिक रूप से" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 223,
+      "question": {
+        "en": "Electromagnet works on the principle of —",
+        "hi": "विद्युत चुम्बक किस सिद्धांत पर कार्य करता है?"
+      },
+      "options": [
+        { "en": "Heating effect", "hi": "तापीय प्रभाव" },
+        { "en": "Chemical effect", "hi": "रासायनिक प्रभाव" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" },
+        { "en": "Magnetic effect of current", "hi": "धारा का चुम्बकीय प्रभाव" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 224,
+      "question": {
+        "en": "The strength of an electromagnet can be increased by —",
+        "hi": "विद्युत चुम्बक की शक्ति किस प्रकार बढ़ाई जा सकती है?"
+      },
+      "options": [
+        { "en": "Decreasing current", "hi": "धारा घटाकर" },
+        { "en": "Increasing number of turns", "hi": "फेरों की संख्या बढ़ाकर" },
+        { "en": "Using wooden core", "hi": "लकड़ी की क्रोड का उपयोग करके" },
+        { "en": "Reducing voltage", "hi": "वोल्टेज घटाकर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 225,
+      "question": {
+        "en": "The core used in electromagnets is made of —",
+        "hi": "विद्युत चुम्बक में प्रयुक्त क्रोड किसकी बनी होती है?"
+      },
+      "options": [
+        { "en": "Steel", "hi": "स्टील" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Soft iron", "hi": "मृदु लोहा" },
+        { "en": "Brass", "hi": "पीतल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 226,
+      "question": {
+        "en": "The right-hand thumb rule is used to determine —",
+        "hi": "दाएँ हाथ के अंगूठे का नियम किसका निर्धारण करने के लिए उपयोग होता है?"
+      },
+      "options": [
+        { "en": "Direction of magnetic field", "hi": "चुम्बकीय क्षेत्र की दिशा" },
+        { "en": "Direction of current", "hi": "धारा की दिशा" },
+        { "en": "Magnitude of force", "hi": "बल का परिमाण" },
+        { "en": "Polarity", "hi": "ध्रुवता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 227,
+      "question": {
+        "en": "The device used to convert mechanical energy into electrical energy is —",
+        "hi": "यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Motor", "hi": "मोटर" },
+        { "en": "Battery", "hi": "बैटरी" },
+        { "en": "Transformer", "hi": "ट्रांसफॉर्मर" },
+        { "en": "Generator", "hi": "जनरेटर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 228,
+      "question": {
+        "en": "The device used to convert electrical energy into mechanical energy is —",
+        "hi": "विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Generator", "hi": "जनरेटर" },
+        { "en": "Electric motor", "hi": "विद्युत मोटर" },
+        { "en": "Inductor", "hi": "प्रेरक" },
+        { "en": "Cell", "hi": "सेल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 229,
+      "question": {
+        "en": "The SI unit of electric power is —",
+        "hi": "विद्युत शक्ति की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Ohm", "hi": "ओम" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 230,
+      "question": {
+        "en": "The resistance of a wire increases when —",
+        "hi": "तार का प्रतिरोध किस स्थिति में बढ़ता है?"
+      },
+      "options": [
+        { "en": "Length increases", "hi": "लम्बाई बढ़ने पर" },
+        { "en": "Length decreases", "hi": "लम्बाई घटने पर" },
+        { "en": "Area increases", "hi": "क्षेत्रफल बढ़ने पर" },
+        { "en": "Temperature decreases", "hi": "तापमान घटने पर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 231,
+      "question": {
+        "en": "Electrical energy is measured in —",
+        "hi": "विद्युत ऊर्जा को किसमें मापा जाता है?"
+      },
+      "options": [
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Ampere", "hi": "एम्पियर" },
+        { "en": "Ohm", "hi": "ओम" },
+        { "en": "Kilowatt-hour", "hi": "किलोवाट-घंटा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 232,
+      "question": {
+        "en": "The device which converts AC to DC is —",
+        "hi": "AC को DC में बदलने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Transformer", "hi": "ट्रांसफॉर्मर" },
+        { "en": "Rectifier", "hi": "दिष्टकारी" },
+        { "en": "Amplifier", "hi": "प्रवर्धक" },
+        { "en": "Converter", "hi": "परिवर्तक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 233,
+      "question": {
+        "en": "The property of a material that opposes current is called —",
+        "hi": "किसी पदार्थ का वह गुण जो विद्युत धारा का विरोध करता है, कहलाता है —"
+      },
+      "options": [
+        { "en": "Conductance", "hi": "चालकता" },
+        { "en": "Capacitance", "hi": "धारिता" },
+        { "en": "Resistance", "hi": "प्रतिरोध" },
+        { "en": "Inductance", "hi": "प्रेरकत्व" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 234,
+      "question": {
+        "en": "A good conductor has —",
+        "hi": "एक अच्छे चालक में होता है —"
+      },
+      "options": [
+        { "en": "Low resistance", "hi": "कम प्रतिरोध" },
+        { "en": "High resistance", "hi": "अधिक प्रतिरोध" },
+        { "en": "High potential", "hi": "उच्च विभव" },
+        { "en": "Low conductivity", "hi": "कम चालकता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 235,
+      "question": {
+        "en": "1 Volt is equal to —",
+        "hi": "1 वोल्ट बराबर होता है —"
+      },
+      "options": [
+        { "en": "1 C/J", "hi": "1 C/J" },
+        { "en": "1 Ampere", "hi": "1 एम्पियर" },
+        { "en": "1 Ohm", "hi": "1 ओम" },
+        { "en": "1 Joule per Coulomb", "hi": "1 जूल प्रति कूलॉम" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 236,
+      "question": {
+        "en": "Electric fuse works on the principle of —",
+        "hi": "विद्युत फ्यूज किस सिद्धांत पर कार्य करता है?"
+      },
+      "options": [
+        { "en": "Magnetic effect", "hi": "चुम्बकीय प्रभाव" },
+        { "en": "Heating effect", "hi": "तापीय प्रभाव" },
+        { "en": "Chemical effect", "hi": "रासायनिक प्रभाव" },
+        { "en": "None of these", "hi": "इनमें से कोई প্রজাতন্ত্র" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 237,
+      "question": {
+        "en": "The filament of an electric bulb is made of —",
+        "hi": "विद्युत बल्ब का तंतु (Filament) किसका बना होता है?"
+      },
+      "options": [
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" },
+        { "en": "Tungsten", "hi": "टंगस्टन" },
+        { "en": "Iron", "hi": "लोहा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 238,
+      "question": {
+        "en": "The device which stores electric charge is —",
+        "hi": "विद्युत आवेश संग्रहीत करने वाला यंत्र है —"
+      },
+      "options": [
+        { "en": "Capacitor", "hi": "संधारित्र" },
+        { "en": "Inductor", "hi": "प्रेरक" },
+        { "en": "Resistor", "hi": "प्रतिरोधक" },
+        { "en": "Transformer", "hi": "ट्रांसफॉर्मर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 239,
+      "question": {
+        "en": "The unit of capacitance is —",
+        "hi": "धारिता (Capacitance) की इकाई है —"
+      },
+      "options": [
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Ampere", "hi": "एम्पियर" },
+        { "en": "Ohm", "hi": "ओम" },
+        { "en": "Farad", "hi": "फैरड" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 240,
+      "question": {
+        "en": "The flow of electrons in a conductor is called —",
+        "hi": "चालक में इलेक्ट्रॉनों का प्रवाह कहलाता है —"
+      },
+      "options": [
+        { "en": "Charge", "hi": "आवेश" },
+        { "en": "Electric current", "hi": "विद्युत धारा" },
+        { "en": "Resistance", "hi": "प्रतिरोध" },
+        { "en": "Power", "hi": "शक्ति" }
+      ],
+      "correct": 1
+    }
+  ]
+}

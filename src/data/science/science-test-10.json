@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 10",
+  "questions": [
+    {
+      "id": 181,
+      "question": {
+        "en": "The gas produced during photosynthesis is —",
+        "hi": "प्रकाश संश्लेषण (Photosynthesis) के दौरान कौन सी गैस उत्पन्न होती है?"
+      },
+      "options": [
+        { "en": "Carbon dioxide", "hi": "कार्बन डाइऑक्साइड" },
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" },
+        { "en": "Oxygen", "hi": "ऑक्सीजन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 182,
+      "question": {
+        "en": "The process of conversion of water into vapor is called —",
+        "hi": "जल के वाष्प में बदलने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Evaporation", "hi": "वाष्पीकरण" },
+        { "en": "Condensation", "hi": "संघनन" },
+        { "en": "Freezing", "hi": "हिमीकरण" },
+        { "en": "Melting", "hi": "पिघलना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 183,
+      "question": {
+        "en": "The chemical name of table salt is —",
+        "hi": "खाने के नमक (Table Salt) का रासायनिक नाम है —"
+      },
+      "options": [
+        { "en": "Potassium chloride", "hi": "पोटेशियम क्लोराइड" },
+        { "en": "Sodium carbonate", "hi": "सोडियम कार्बोनेट" },
+        { "en": "Sodium chloride", "hi": "सोडियम क्लोराइड" },
+        { "en": "Calcium chloride", "hi": "कैल्शियम क्लोराइड" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 184,
+      "question": {
+        "en": "The main component of air is —",
+        "hi": "वायु का मुख्य घटक है —"
+      },
+      "options": [
+        { "en": "Oxygen", "hi": "ऑक्सीजन" },
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Carbon dioxide", "hi": "कार्बन डाइऑक्साइड" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 185,
+      "question": {
+        "en": "Which one of the following is a compound?",
+        "hi": "निम्नलिखित में से कौन सा यौगिक (Compound) है?"
+      },
+      "options": [
+        { "en": "Air", "hi": "वायु" },
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Sulphur", "hi": "सल्फर" },
+        { "en": "Water", "hi": "जल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 186,
+      "question": {
+        "en": "Which of the following metals is highly reactive with water?",
+        "hi": "निम्नलिखित में से कौन सी धातु पानी के साथ अत्यधिक क्रियाशील है?"
+      },
+      "options": [
+        { "en": "Sodium", "hi": "सोडियम" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Gold", "hi": "सोना" },
+        { "en": "Silver", "hi": "चाँदी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 187,
+      "question": {
+        "en": "Acid rain mainly contains —",
+        "hi": "अम्ल वर्षा (Acid Rain) में मुख्यतः होता है —"
+      },
+      "options": [
+        { "en": "Nitric acid", "hi": "नाइट्रिक अम्ल" },
+        { "en": "Hydrochloric acid", "hi": "हाइड्रोक्लोरिक अम्ल" },
+        { "en": "Sulphuric acid", "hi": "सल्फ्यूरिक अम्ल" },
+        { "en": "Phosphoric acid", "hi": "फॉस्फोरिक अम्ल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 188,
+      "question": {
+        "en": "Chemical formula of sulphur dioxide is —",
+        "hi": "सल्फर डाइऑक्साइड का रासायनिक सूत्र है —"
+      },
+      "options": [
+        { "en": "SO", "hi": "SO" },
+        { "en": "SO₂", "hi": "SO₂" },
+        { "en": "S₂O", "hi": "S₂O" },
+        { "en": "S₂O₂", "hi": "S₂O₂" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 189,
+      "question": {
+        "en": "The gas used in fire extinguishers is —",
+        "hi": "अग्निशामक यंत्र (Fire Extinguisher) में प्रयुक्त गैस है —"
+      },
+      "options": [
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Oxygen", "hi": "ऑक्सीजन" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" },
+        { "en": "Carbon dioxide", "hi": "कार्बन डाइऑक्साइड" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 190,
+      "question": {
+        "en": "A mixture of sand and salt can be separated by —",
+        "hi": "रेत और नमक के मिश्रण को किस विधि से अलग किया जा सकता है?"
+      },
+      "options": [
+        { "en": "Dissolving and Filtration", "hi": "घोलकर और छानकर" },
+        { "en": "Filtration only", "hi": "केवल छानकर" },
+        { "en": "Evaporation only", "hi": "केवल वाष्पीकरण द्वारा" },
+        { "en": "Magnetic separation", "hi": "चुम्बकीय पृथक्करण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 191,
+      "question": {
+        "en": "The atomic number of Carbon is —",
+        "hi": "कार्बन की परमाणु संख्या है —"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "8", "hi": "8" },
+        { "en": "6", "hi": "6" },
+        { "en": "7", "hi": "7" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 192,
+      "question": {
+        "en": "The molecular mass of water (H₂O) is —",
+        "hi": "जल (H₂O) का आणविक द्रव्यमान है —"
+      },
+      "options": [
+        { "en": "20", "hi": "20" },
+        { "en": "18", "hi": "18" },
+        { "en": "22", "hi": "22" },
+        { "en": "10", "hi": "10" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 193,
+      "question": {
+        "en": "Which of the following is used as a disinfectant?",
+        "hi": "निम्नलिखित में से किसका उपयोग कीटाणुनाशक (Disinfectant) के रूप में किया जाता है?"
+      },
+      "options": [
+        { "en": "Sodium chloride", "hi": "सोडियम क्लोराइड" },
+        { "en": "Sugar", "hi": "चीनी" },
+        { "en": "Chalk powder", "hi": "चाक पाउडर" },
+        { "en": "Bleaching powder", "hi": "ब्लीचिंग पाउडर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 194,
+      "question": {
+        "en": "The formula of sulphuric acid is —",
+        "hi": "सल्फ्यूरिक अम्ल का सूत्र है —"
+      },
+      "options": [
+        { "en": "H₂SO₄", "hi": "H₂SO₄" },
+        { "en": "SO₄", "hi": "SO₄" },
+        { "en": "H₂SO₃", "hi": "H₂SO₃" },
+        { "en": "HS", "hi": "HS" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 195,
+      "question": {
+        "en": "Which of the following is used in dry cells?",
+        "hi": "शुष्क सेल (Dry Cell) में किसका उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" },
+        { "en": "Zinc", "hi": "जिंक" },
+        { "en": "Lead", "hi": "सीसा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 196,
+      "question": {
+        "en": "The lightest gas known is —",
+        "hi": "ज्ञात सबसे हल्की गैस है —"
+      },
+      "options": [
+        { "en": "Oxygen", "hi": "ऑक्सीजन" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" },
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Helium", "hi": "हीलियम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 197,
+      "question": {
+        "en": "The non-metal that is a good conductor of electricity is —",
+        "hi": "वह अधातु जो विद्युत का सुचालक है —"
+      },
+      "options": [
+        { "en": "Sulphur", "hi": "सल्फर" },
+        { "en": "Phosphorus", "hi": "फॉस्फोरस" },
+        { "en": "Iodine", "hi": "आयोडीन" },
+        { "en": "Graphite", "hi": "ग्रेफाइट" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 198,
+      "question": {
+        "en": "The element used in making of thermometers is —",
+        "hi": "थर्मामीटर बनाने में प्रयुक्त तत्व है —"
+      },
+      "options": [
+        { "en": "Mercury", "hi": "पारा" },
+        { "en": "Silver", "hi": "चाँदी" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Gold", "hi": "सोना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 199,
+      "question": {
+        "en": "The main constituent of LPG is —",
+        "hi": "LPG (द्रवित पेट्रोलियम गैस) का मुख्य घटक है —"
+      },
+      "options": [
+        { "en": "Methane", "hi": "मीथेन" },
+        { "en": "Ethane", "hi": "एथेन" },
+        { "en": "Butane", "hi": "ब्यूटेन" },
+        { "en": "Propane", "hi": "प्रोपेन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 200,
+      "question": {
+        "en": "The process of electroplating is based on —",
+        "hi": "विद्युत लेपन (Electroplating) की प्रक्रिया किस पर आधारित है?"
+      },
+      "options": [
+        { "en": "Evaporation", "hi": "वाष्पीकरण" },
+        { "en": "Electrolysis", "hi": "विद्युत अपघटन" },
+        { "en": "Condensation", "hi": "संघनन" },
+        { "en": "Sublimation", "hi": "ऊर्ध्वपातन" }
+      ],
+      "correct": 1
+    }
+  ]
+}

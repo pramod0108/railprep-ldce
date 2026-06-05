@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 24",
+  "questions": [
+    {
+      "id": 461,
+      "question": {
+        "en": "In case of fire, the first action should be —",
+        "hi": "आग लगने पर पहली कार्रवाई होनी चाहिए —"
+      },
+      "options": [
+        { "en": "Run", "hi": "भागो" },
+        { "en": "Hide", "hi": "छिपो" },
+        { "en": "Ignore", "hi": "नज़रअंदाज़ करो" },
+        { "en": "Raise alarm and inform others", "hi": "अलार्म बजाएँ और दूसरों को सूचित करें" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 462,
+      "question": {
+        "en": "The safety color for caution or warning is —",
+        "hi": "सावधानी या चेतावनी के लिए सुरक्षा रंग है —"
+      },
+      "options": [
+        { "en": "Yellow", "hi": "पीला" },
+        { "en": "Red", "hi": "लाल" },
+        { "en": "Green", "hi": "हरा" },
+        { "en": "White", "hi": "सफेद" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 463,
+      "question": {
+        "en": "When lifting heavy loads manually, always —",
+        "hi": "भारी बोझ को हाथ से उठाते समय हमेशा —"
+      },
+      "options": [
+        { "en": "Bend back", "hi": "पीछे की ओर झुकें" },
+        { "en": "Pull fast", "hi": "तेजी से खींचें" },
+        { "en": "Twist body", "hi": "शरीर मोड़ें" },
+        { "en": "Bend knees and keep back straight", "hi": "घुटने मोड़ें और पीठ सीधी रखें" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 464,
+      "question": {
+        "en": "Loose clothing should not be worn —",
+        "hi": "ढीले कपड़े कहाँ नहीं पहनने चाहिए?"
+      },
+      "options": [
+        { "en": "Near moving machinery", "hi": "चलती मशीनरी के पास" },
+        { "en": "In store", "hi": "भण्डार में" },
+        { "en": "In canteen", "hi": "कैंटीन में" },
+        { "en": "In office", "hi": "कार्यालय में" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 465,
+      "question": {
+        "en": "Fire buckets are usually filled with —",
+        "hi": "अग्नि बाल्टियाँ (Fire Buckets) आमतौर पर किससे भरी होती हैं?"
+      },
+      "options": [
+        { "en": "Foam", "hi": "फोम" },
+        { "en": "Sand or water", "hi": "रेत या पानी" },
+        { "en": "Kerosene", "hi": "केरोसीन" },
+        { "en": "Air", "hi": "वायु" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 466,
+      "question": {
+        "en": "Workshop cleanliness is known as —",
+        "hi": "कार्यशाला की स्वच्छता को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Decoration", "hi": "सजावट" },
+        { "en": "Housekeeping", "hi": "हाउसकीपिंग" },
+        { "en": "Maintenance", "hi": "रखरखाव" },
+        { "en": "Arrangement", "hi": "व्यवस्था" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 467,
+      "question": {
+        "en": "The symbol for no smoking is —",
+        "hi": "धूम्रपान निषेध (No Smoking) का प्रतीक चिह्न है —"
+      },
+      "options": [
+        { "en": "Yellow triangle", "hi": "पीला त्रिकोण" },
+        { "en": "Red circle with diagonal line", "hi": "तिरछी रेखा वाला लाल वृत्त" },
+        { "en": "Green square", "hi": "हरा वर्ग" },
+        { "en": "Blue rectangle", "hi": "नीला आयत" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 468,
+      "question": {
+        "en": "The device used to measure temperature in workshop is —",
+        "hi": "कार्यशाला में तापमान मापने के लिए प्रयुक्त यंत्र है —"
+      },
+      "options": [
+        { "en": "Pyrometer", "hi": "पायरोमीटर" },
+        { "en": "Thermocouple", "hi": "थर्मोकपल" },
+        { "en": "Thermometer", "hi": "थर्मामीटर" },
+        { "en": "Barometer", "hi": "बैरोमीटर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 469,
+      "question": {
+        "en": "Safety helmets are used to protect —",
+        "hi": "सुरक्षा हेलमेट किसकी रक्षा के लिए उपयोग किए जाते हैं?"
+      },
+      "options": [
+        { "en": "Arms", "hi": "भुजाएँ" },
+        { "en": "Hands", "hi": "हाथ" },
+        { "en": "Head", "hi": "सिर" },
+        { "en": "Feet", "hi": "पैर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 470,
+      "question": {
+        "en": "Before starting a machine, one must —",
+        "hi": "मशीन शुरू करने से पहले अवश्य —"
+      },
+      "options": [
+        { "en": "Check for safety guards and clearance", "hi": "सुरक्षा गार्ड और निकासी की जाँच करें" },
+        { "en": "Call helper", "hi": "सहायक को बुलाएँ" },
+        { "en": "Increase load", "hi": "भार बढ़ाएँ" },
+        { "en": "Tighten all bolts", "hi": "सभी बोल्ट कसें" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 471,
+      "question": {
+        "en": "The tool used to measure external diameter is —",
+        "hi": "बाहरी व्यास (External Diameter) मापने के लिए प्रयुक्त उपकरण है —"
+      },
+      "options": [
+        { "en": "Outside micrometer", "hi": "आउटसाइड माइक्रोमीटर" },
+        { "en": "Vernier caliper", "hi": "वर्नियर कैलीपर" },
+        { "en": "Inside caliper", "hi": "इनसाइड कैलीपर" },
+        { "en": "Steel rule", "hi": "स्टील नियम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 472,
+      "question": {
+        "en": "The least count of a Vernier caliper is usually —",
+        "hi": "वर्नियर कैलीपर का अल्पतमांक (Least Count) सामान्यतः होता है —"
+      },
+      "options": [
+        { "en": "0.5 mm", "hi": "0.5 mm" },
+        { "en": "0.1 mm", "hi": "0.1 mm" },
+        { "en": "0.02 mm", "hi": "0.02 mm" },
+        { "en": "0.5 μm", "hi": "0.5 μm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 473,
+      "question": {
+        "en": "The least count of a micrometer screw gauge is —",
+        "hi": "माइक्रोमीटर स्क्रू गेज का अल्पतमांक (Least Count) है —"
+      },
+      "options": [
+        { "en": "0.1 mm", "hi": "0.1 mm" },
+        { "en": "0.02 mm", "hi": "0.02 mm" },
+        { "en": "0.001 mm", "hi": "0.001 mm" },
+        { "en": "0.01 mm", "hi": "0.01 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 474,
+      "question": {
+        "en": "The principle of the micrometer screw gauge is —",
+        "hi": "माइक्रोमीटर स्क्रू गेज का सिद्धांत है —"
+      },
+      "options": [
+        { "en": "Centrifugal", "hi": "अपकेंद्री" },
+        { "en": "Hydraulic", "hi": "हाइड्रॉलिक" },
+        { "en": "Electrical", "hi": "विद्युत" },
+        { "en": "Screw and nut mechanism", "hi": "पेच और नट क्रियाविधि" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 475,
+      "question": {
+        "en": "A steel rule can measure up to —",
+        "hi": "स्टील नियम (Steel Rule) कितनी सटीकता तक माप सकता है?"
+      },
+      "options": [
+        { "en": "0.5 mm accuracy", "hi": "0.5 mm सटीकता" },
+        { "en": "0.1 mm", "hi": "0.1 mm" },
+        { "en": "0.01 mm", "hi": "0.01 mm" },
+        { "en": "1 mm", "hi": "1 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 476,
+      "question": {
+        "en": "The tool used to check right angles is —",
+        "hi": "समकोण (Right Angles) जाँचने के लिए प्रयुक्त उपकरण है —"
+      },
+      "options": [
+        { "en": "Vernier", "hi": "वर्नियर" },
+        { "en": "Try square", "hi": "ट्राई स्क्वेयर" },
+        { "en": "Micrometer", "hi": "माइक्रोमीटर" },
+        { "en": "Gauge", "hi": "गेज" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 477,
+      "question": {
+        "en": "Bevel protractor is used for —",
+        "hi": "बेवल प्रोट्रेक्टर (Bevel Protractor) किसलिए उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Measuring angles", "hi": "कोण मापने के लिए" },
+        { "en": "Straight edges", "hi": "सीधे किनारों के लिए" },
+        { "en": "Radius measurement", "hi": "त्रिज्या मापन के लिए" },
+        { "en": "Depth measurement", "hi": "गहराई मापन के लिए" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 478,
+      "question": {
+        "en": "The pitch of a screw is measured by —",
+        "hi": "पेच की पिच (Pitch) किससे मापी जाती है?"
+      },
+      "options": [
+        { "en": "Pitch gauge", "hi": "पिच गेज" },
+        { "en": "Caliper", "hi": "कैलीपर" },
+        { "en": "Bevel gauge", "hi": "बेवल गेज" },
+        { "en": "Steel rule", "hi": "स्टील नियम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 479,
+      "question": {
+        "en": "The flatness of surface plates is tested by —",
+        "hi": "सतह प्लेट (Surface Plate) की समतलता किससे जाँची जाती है?"
+      },
+      "options": [
+        { "en": "Micrometer", "hi": "माइक्रोमीटर" },
+        { "en": "Vernier", "hi": "वर्नियर" },
+        { "en": "Autocollimator / Surface gauge", "hi": "ऑटोकोलिमेटर / सर्फेस गेज" },
+        { "en": "Divider", "hi": "डिवाइडर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 480,
+      "question": {
+        "en": "The reference surface for precision measurement is —",
+        "hi": "परिशुद्ध माप के लिए संदर्भ सतह (Reference Surface) है —"
+      },
+      "options": [
+        { "en": "Table", "hi": "मेज" },
+        { "en": "Surface plate", "hi": "सर्फेस प्लेट" },
+        { "en": "Bed", "hi": "बेड" },
+        { "en": "Block", "hi": "ब्लॉक" }
+      ],
+      "correct": 1
+    }
+  ]
+}

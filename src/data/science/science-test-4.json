@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 4",
+  "questions": [
+    {
+      "id": 61,
+      "question": {
+        "en": "Specific heat is defined as —",
+        "hi": "विशिष्ट ऊष्मा को परिभाषित किया जाता है —"
+      },
+      "options": [
+        { "en": "Heat per volume", "hi": "प्रति आयतन ऊष्मा" },
+        { "en": "Total heat", "hi": "कुल ऊष्मा" },
+        { "en": "Latent heat", "hi": "गुप्त ऊष्मा" },
+        { "en": "Heat per unit mass per °C", "hi": "प्रति इकाई द्रव्यमान प्रति °C ऊष्मा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "The molecular energy increases with —",
+        "hi": "अणुओं की ऊर्जा किसके बढ़ने पर बढ़ती है?"
+      },
+      "options": [
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Work", "hi": "कार्य" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "The measure of average kinetic energy of molecules is —",
+        "hi": "अणुओं की औसत गतिज ऊर्जा का माप होता है —"
+      },
+      "options": [
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Volume", "hi": "आयतन" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "Density", "hi": "घनत्व" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "Which form of energy is released in a chemical reaction?",
+        "hi": "रासायनिक अभिक्रिया में किस रूप में ऊर्जा मुक्त होती है?"
+      },
+      "options": [
+        { "en": "Heat", "hi": "ऊष्मा" },
+        { "en": "Mechanical", "hi": "यांत्रिक" },
+        { "en": "Electrical", "hi": "विद्युत" },
+        { "en": "Light", "hi": "प्रकाश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "The reaction in which heat is evolved is —",
+        "hi": "वह अभिक्रिया जिसमें ऊष्मा उत्पन्न होती है, कहलाती है —"
+      },
+      "options": [
+        { "en": "Endothermic", "hi": "ऊष्माशोषी" },
+        { "en": "Isothermal", "hi": "समतापी" },
+        { "en": "Adiabatic", "hi": "रुद्धोष्म" },
+        { "en": "Exothermic", "hi": "ऊष्माक्षेपी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "1 calorie is equal to —",
+        "hi": "1 कैलोरी बराबर होती है —"
+      },
+      "options": [
+        { "en": "10 J", "hi": "10 J" },
+        { "en": "4.186 J", "hi": "4.186 J" },
+        { "en": "1 J", "hi": "1 J" },
+        { "en": "0.1 J", "hi": "0.1 J" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "Internal energy depends on —",
+        "hi": "आंतरिक ऊर्जा किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Work done", "hi": "किया गया कार्य" },
+        { "en": "Pressure only", "hi": "केवल दबाव" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "Heat of neutralization is —",
+        "hi": "उदासीनीकरण की ऊष्मा (Heat of Neutralization) है —"
+      },
+      "options": [
+        { "en": "Heat change when acid reacts with base", "hi": "अम्ल और क्षार की अभिक्रिया में ऊष्मा परिवर्तन" },
+        { "en": "Mixing with water", "hi": "पानी में मिलाने पर होने वाला परिवर्तन" },
+        { "en": "Heat released in gas", "hi": "गैस में मुक्त होने वाली ऊष्मा" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "Law of conservation of energy was given by —",
+        "hi": "ऊर्जा संरक्षण का नियम किसने प्रतिपादित किया?"
+      },
+      "options": [
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Dalton", "hi": "डाल्टन" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "A chemical reaction with no heat exchange is —",
+        "hi": "वह रासायनिक अभिक्रिया जिसमें कोई ऊष्मा आदान-प्रदान नहीं होता, कहलाती है —"
+      },
+      "options": [
+        { "en": "Endothermic", "hi": "ऊष्माशोषी" },
+        { "en": "Adiabatic", "hi": "रुद्धोष्म" },
+        { "en": "Exothermic", "hi": "ऊष्माक्षेपी" },
+        { "en": "Isothermal", "hi": "समतापी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "The total energy of the system and surroundings remains —",
+        "hi": "निकाय और परिवेश की कुल ऊर्जा रहती है —"
+      },
+      "options": [
+        { "en": "Variable", "hi": "परिवर्तनशील" },
+        { "en": "Zero", "hi": "शून्य" },
+        { "en": "Constant", "hi": "स्थिर" },
+        { "en": "Infinite", "hi": "अनंत" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "Heat absorbed per gram during melting is —",
+        "hi": "पिघलने के दौरान प्रति ग्राम अवशोषित ऊष्मा कहलाती है —"
+      },
+      "options": [
+        { "en": "Latent heat of fusion", "hi": "संलयन की गुप्त ऊष्मा" },
+        { "en": "Latent heat of vaporization", "hi": "वाष्पीकरण की गुप्त ऊष्मा" },
+        { "en": "Conduction heat", "hi": "चालन ऊष्मा" },
+        { "en": "Radiation heat", "hi": "विकिरण ऊष्मा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "Combustion of fuel is —",
+        "hi": "ईंधन का दहन (Combustion) है —"
+      },
+      "options": [
+        { "en": "Endothermic", "hi": "ऊष्माशोषी" },
+        { "en": "Neutral", "hi": "उदासीन" },
+        { "en": "None", "hi": "इनमें से कोई नहीं" },
+        { "en": "Exothermic", "hi": "ऊष्माक्षेपी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "Thermometer works on the principle of —",
+        "hi": "थर्मामीटर किस सिद्धांत पर कार्य करता है?"
+      },
+      "options": [
+        { "en": "Convection", "hi": "संवहन" },
+        { "en": "Thermal expansion", "hi": "ऊष्मीय प्रसार" },
+        { "en": "Friction", "hi": "घर्षण" },
+        { "en": "Energy conversion", "hi": "ऊर्जा रूपांतरण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "Work done by a gas depends on —",
+        "hi": "किसी गैस द्वारा किया गया कार्य किस पर निर्भर करता है?"
+      },
+      "options": [
+        { "en": "Mass", "hi": "द्रव्यमान" },
+        { "en": "Area", "hi": "क्षेत्रफल" },
+        { "en": "Pressure and Volume", "hi": "दबाव और आयतन" },
+        { "en": "Weight", "hi": "भार" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "Temperature at which ice melts is —",
+        "hi": "बर्फ किस तापमान पर पिघलती है?"
+      },
+      "options": [
+        { "en": "0°C", "hi": "0°C" },
+        { "en": "-273°C", "hi": "-273°C" },
+        { "en": "100°C", "hi": "100°C" },
+        { "en": "273°C", "hi": "273°C" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "The process of changing liquid into vapor is —",
+        "hi": "द्रव को वाष्प में बदलने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Condensation", "hi": "संघनन" },
+        { "en": "Fusion", "hi": "संलयन" },
+        { "en": "Freezing", "hi": "हिमीकरण" },
+        { "en": "Evaporation", "hi": "वाष्पीकरण" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "In conduction, heat is transferred by —",
+        "hi": "चालन (Conduction) में ऊष्मा का स्थानांतरण किसके द्वारा होता है?"
+      },
+      "options": [
+        { "en": "Movement of fluid", "hi": "द्रव के प्रवाह द्वारा" },
+        { "en": "Molecule to molecule contact", "hi": "अणु से अणु के संपर्क द्वारा" },
+        { "en": "Radiation", "hi": "विकिरण द्वारा" },
+        { "en": "Wave motion", "hi": "तरंग गति द्वारा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "In convection, heat transfer takes place due to —",
+        "hi": "संवहन (Convection) में ऊष्मा स्थानांतरण किसके कारण होता है?"
+      },
+      "options": [
+        { "en": "Fixed molecules", "hi": "स्थिर अणु" },
+        { "en": "Radiation", "hi": "विकिरण" },
+        { "en": "Movement of particles", "hi": "कणों की गति" },
+        { "en": "Vacuum", "hi": "निर्वात" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "Transfer of heat by electromagnetic waves is —",
+        "hi": "विद्युत चुम्बकीय तरंगों द्वारा ऊष्मा स्थानांतरण है —"
+      },
+      "options": [
+        { "en": "Radiation", "hi": "विकिरण" },
+        { "en": "Conduction", "hi": "चालन" },
+        { "en": "Convection", "hi": "संवहन" },
+        { "en": "Expansion", "hi": "प्रसार" }
+      ],
+      "correct": 0
+    }
+  ]
+}

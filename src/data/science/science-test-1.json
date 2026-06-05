@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "The unit of Force is —",
+        "hi": "बल की SI इकाई क्या है?"
+      },
+      "options": [
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Pascal", "hi": "पास्कल" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Newton's first law is also known as —",
+        "hi": "न्यूटन का पहला नियम किस नाम से भी जाना जाता है?"
+      },
+      "options": [
+        { "en": "Law of Force", "hi": "बल का नियम" },
+        { "en": "Law of Inertia", "hi": "जड़त्व का नियम" },
+        { "en": "Law of Momentum", "hi": "संवेग का नियम" },
+        { "en": "Law of Action", "hi": "क्रिया का नियम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "The product of mass and velocity is —",
+        "hi": "द्रव्यमान और वेग का गुणनफल क्या होता है?"
+      },
+      "options": [
+        { "en": "Momentum", "hi": "संवेग" },
+        { "en": "Force", "hi": "बल" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Power", "hi": "शक्ति" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "The rate of change of momentum is equal to —",
+        "hi": "संवेग परिवर्तन की दर किसके बराबर होती है?"
+      },
+      "options": [
+        { "en": "Work", "hi": "कार्य" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Force", "hi": "बल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Momentum has dimensions of —",
+        "hi": "संवेग की विमाएँ क्या होती हैं?"
+      },
+      "options": [
+        { "en": "ML²T⁻²", "hi": "ML²T⁻²" },
+        { "en": "MLT⁻¹", "hi": "MLT⁻¹" },
+        { "en": "MLT⁻²", "hi": "MLT⁻²" },
+        { "en": "M²L²T", "hi": "M²L²T" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "The SI unit of work is —",
+        "hi": "कार्य की SI इकाई क्या है?"
+      },
+      "options": [
+        { "en": "Erg", "hi": "अर्ग" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Newton", "hi": "न्यूटन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "1 kilowatt is equal to —",
+        "hi": "1 किलोवाट बराबर होता है —"
+      },
+      "options": [
+        { "en": "1000 W", "hi": "1000 W" },
+        { "en": "10 W", "hi": "10 W" },
+        { "en": "100 W", "hi": "100 W" },
+        { "en": "10⁻³ W", "hi": "10⁻³ W" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Work done is equal to —",
+        "hi": "किया गया कार्य बराबर होता है —"
+      },
+      "options": [
+        { "en": "Power × time", "hi": "शक्ति × समय" },
+        { "en": "Energy × mass", "hi": "ऊर्जा × द्रव्यमान" },
+        { "en": "Speed × time", "hi": "चाल × समय" },
+        { "en": "Force × distance", "hi": "बल × दूरी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Power is defined as —",
+        "hi": "शक्ति को किस रूप में परिभाषित किया जाता है?"
+      },
+      "options": [
+        { "en": "Force × area", "hi": "बल × क्षेत्रफल" },
+        { "en": "Work done per unit time", "hi": "प्रति इकाई समय में किया गया कार्य" },
+        { "en": "Force × time", "hi": "बल × समय" },
+        { "en": "Energy × mass", "hi": "ऊर्जा × द्रव्यमान" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Kinetic energy depends on —",
+        "hi": "गतिज ऊर्जा किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Mass and velocity", "hi": "द्रव्यमान और वेग" },
+        { "en": "Acceleration", "hi": "त्वरण" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Temperature", "hi": "तापमान" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "The SI unit of energy is —",
+        "hi": "ऊर्जा की SI इकाई है —"
+      },
+      "options": [
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Pascal", "hi": "पास्कल" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Newton", "hi": "न्यूटन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "The potential energy of a body depends on its —",
+        "hi": "किसी पिंड की स्थितिज ऊर्जा किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Speed", "hi": "चाल" },
+        { "en": "Direction", "hi": "दिशा" },
+        { "en": "Temperature", "hi": "तापमान" },
+        { "en": "Position or configuration", "hi": "स्थिति या विन्यास" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "The work done against gravity when lifting a mass m through height h is —",
+        "hi": "द्रव्यमान m को ऊँचाई h तक उठाने में गुरुत्व के विरुद्ध किया गया कार्य है —"
+      },
+      "options": [
+        { "en": "mgh²", "hi": "mgh²" },
+        { "en": "mgh", "hi": "mgh" },
+        { "en": "mg", "hi": "mg" },
+        { "en": "mh", "hi": "mh" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Power is measured in —",
+        "hi": "शक्ति को किसमें मापा जाता है?"
+      },
+      "options": [
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Joule", "hi": "जूल" },
+        { "en": "Newton", "hi": "न्यूटन" },
+        { "en": "Meter", "hi": "मीटर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "One horsepower is equal to —",
+        "hi": "एक अश्वशक्ति (Horsepower) बराबर होती है —"
+      },
+      "options": [
+        { "en": "1000 W", "hi": "1000 W" },
+        { "en": "500 W", "hi": "500 W" },
+        { "en": "746 W", "hi": "746 W" },
+        { "en": "100 W", "hi": "100 W" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "When net force on a body is zero, acceleration is —",
+        "hi": "जब किसी पिंड पर नेट बल शून्य हो, तो त्वरण होता है —"
+      },
+      "options": [
+        { "en": "1", "hi": "1" },
+        { "en": "Infinite", "hi": "अनंत" },
+        { "en": "Constant", "hi": "स्थिर" },
+        { "en": "Zero", "hi": "शून्य" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "A moving train comes to rest due to —",
+        "hi": "एक चलती हुई ट्रेन किसके कारण रुक जाती है?"
+      },
+      "options": [
+        { "en": "Inertia", "hi": "जड़त्व" },
+        { "en": "Frictional force", "hi": "घर्षण बल" },
+        { "en": "Momentum", "hi": "संवेग" },
+        { "en": "Power", "hi": "शक्ति" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "The third law of motion deals with —",
+        "hi": "गति का तीसरा नियम किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Action and reaction", "hi": "क्रिया और प्रतिक्रिया" },
+        { "en": "Energy", "hi": "ऊर्जा" },
+        { "en": "Inertia", "hi": "जड़त्व" },
+        { "en": "Velocity", "hi": "वेग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "The momentum of an object of mass 10 kg moving with speed 2 m/s is —",
+        "hi": "10 kg द्रव्यमान की वस्तु 2 m/s की चाल से चल रही है, तो उसका संवेग है —"
+      },
+      "options": [
+        { "en": "5 kg·m/s", "hi": "5 kg·m/s" },
+        { "en": "10 kg·m/s", "hi": "10 kg·m/s" },
+        { "en": "20 kg·m/s", "hi": "20 kg·m/s" },
+        { "en": "15 kg·m/s", "hi": "15 kg·m/s" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "If velocity doubles, kinetic energy becomes —",
+        "hi": "यदि वेग दोगुना हो जाए, तो गतिज ऊर्जा हो जाती है —"
+      },
+      "options": [
+        { "en": "Half", "hi": "आधी" },
+        { "en": "Same", "hi": "समान" },
+        { "en": "Double", "hi": "दोगुनी" },
+        { "en": "Four times", "hi": "चार गुनी" }
+      ],
+      "correct": 3
+    }
+  ]
+}

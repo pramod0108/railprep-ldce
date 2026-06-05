@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 25",
+  "questions": [
+    {
+      "id": 481,
+      "question": {
+        "en": "The hardness of metal is tested by —",
+        "hi": "धातु की कठोरता किससे जाँची जाती है?"
+      },
+      "options": [
+        { "en": "Izod test", "hi": "आइज़ोड परीक्षण" },
+        { "en": "Torsion test", "hi": "मरोड़ परीक्षण" },
+        { "en": "Brinell or Rockwell test", "hi": "ब्रिनेल या रॉकवेल परीक्षण" },
+        { "en": "Fatigue test", "hi": "थकान परीक्षण" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 482,
+      "question": {
+        "en": "The unit of hardness number in Brinell test is —",
+        "hi": "ब्रिनेल परीक्षण में कठोरता संख्या की इकाई है —"
+      },
+      "options": [
+        { "en": "Dimensionless number (BHN)", "hi": "विमाहीन संख्या (BHN)" },
+        { "en": "Kg", "hi": "Kg" },
+        { "en": "N/m²", "hi": "N/m²" },
+        { "en": "MPa", "hi": "MPa" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 483,
+      "question": {
+        "en": "The standard material for gauge blocks is —",
+        "hi": "गेज ब्लॉक (Gauge Blocks) के लिए मानक सामग्री है —"
+      },
+      "options": [
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Brass", "hi": "पीतल" },
+        { "en": "High-grade steel", "hi": "उच्च-श्रेणी स्टील" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 484,
+      "question": {
+        "en": "The Vernier height gauge is used to measure —",
+        "hi": "वर्नियर ऊँचाई गेज किसे मापने के लिए उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Diameter", "hi": "व्यास" },
+        { "en": "Angle", "hi": "कोण" },
+        { "en": "Flatness", "hi": "समतलता" },
+        { "en": "Height or depth from surface plate", "hi": "सर्फेस प्लेट से ऊँचाई या गहराई" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 485,
+      "question": {
+        "en": "The instrument used to measure small diameters of bores is —",
+        "hi": "बोर (Bore) के छोटे व्यास मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Inside micrometer", "hi": "इनसाइड माइक्रोमीटर" },
+        { "en": "Vernier", "hi": "वर्नियर" },
+        { "en": "Caliper", "hi": "कैलीपर" },
+        { "en": "Scale", "hi": "स्केल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 486,
+      "question": {
+        "en": "The least count of a Vernier height gauge is —",
+        "hi": "वर्नियर ऊँचाई गेज का अल्पतमांक होता है —"
+      },
+      "options": [
+        { "en": "0.1 mm", "hi": "0.1 mm" },
+        { "en": "0.02 mm", "hi": "0.02 mm" },
+        { "en": "1 mm", "hi": "1 mm" },
+        { "en": "0.5 mm", "hi": "0.5 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 487,
+      "question": {
+        "en": "The accuracy of measurement is affected by —",
+        "hi": "माप की सटीकता किससे प्रभावित होती है?"
+      },
+      "options": [
+        { "en": "Temperature and human error", "hi": "तापमान और मानवीय त्रुटि" },
+        { "en": "Tool color", "hi": "उपकरण का रंग" },
+        { "en": "Weight", "hi": "भार" },
+        { "en": "Shape", "hi": "आकार" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 488,
+      "question": {
+        "en": "The zero error in Vernier caliper is —",
+        "hi": "वर्नियर कैलीपर में शून्य त्रुटि (Zero Error) है —"
+      },
+      "options": [
+        { "en": "Measurement of zero", "hi": "शून्य का माप" },
+        { "en": "Linear error", "hi": "रेखीय त्रुटि" },
+        { "en": "Constant error", "hi": "स्थिर त्रुटि" },
+        { "en": "Error when jaws meet but reading is not zero", "hi": "जब जबड़े मिलते हैं लेकिन पाठ्यांक शून्य नहीं होता" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 489,
+      "question": {
+        "en": "To check roundness of a shaft, use —",
+        "hi": "शाफ्ट की गोलाई (Roundness) जाँचने के लिए उपयोग होता है —"
+      },
+      "options": [
+        { "en": "Dial gauge", "hi": "डायल गेज" },
+        { "en": "Vernier", "hi": "वर्नियर" },
+        { "en": "Caliper", "hi": "कैलीपर" },
+        { "en": "Feeler gauge", "hi": "फीलर गेज" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 490,
+      "question": {
+        "en": "The flatness of a surface can be checked by —",
+        "hi": "किसी सतह की समतलता किससे जाँची जा सकती है?"
+      },
+      "options": [
+        { "en": "Ruler", "hi": "रूलर" },
+        { "en": "Straight edge and feeler gauge", "hi": "सीधा किनारा और फीलर गेज" },
+        { "en": "Vernier", "hi": "वर्नियर" },
+        { "en": "Gauge block", "hi": "गेज ब्लॉक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 491,
+      "question": {
+        "en": "The main function of a surface gauge is —",
+        "hi": "सर्फेस गेज (Surface Gauge) का मुख्य कार्य है —"
+      },
+      "options": [
+        { "en": "Holding", "hi": "पकड़ना" },
+        { "en": "Cooling", "hi": "ठंडा करना" },
+        { "en": "Marking and testing parallelism", "hi": "समानांतरता चिह्नित करना और जाँचना" },
+        { "en": "Drilling", "hi": "ड्रिल करना" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 492,
+      "question": {
+        "en": "The term 'least count' means —",
+        "hi": "'अल्पतमांक' (Least Count) का अर्थ है —"
+      },
+      "options": [
+        { "en": "Largest division", "hi": "सबसे बड़ा विभाजन" },
+        { "en": "Range", "hi": "परास" },
+        { "en": "Error", "hi": "त्रुटि" },
+        { "en": "Smallest value measurable", "hi": "मापी जा सकने वाली सबसे छोटी मान" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 493,
+      "question": {
+        "en": "A plug gauge is used to check —",
+        "hi": "प्लग गेज किसे जाँचने के लिए उपयोग होता है?"
+      },
+      "options": [
+        { "en": "External diameter", "hi": "बाहरी व्यास" },
+        { "en": "Internal diameter", "hi": "आंतरिक व्यास" },
+        { "en": "Length", "hi": "लम्बाई" },
+        { "en": "Angle", "hi": "कोण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 494,
+      "question": {
+        "en": "Snap gauge checks —",
+        "hi": "स्नैप गेज (Snap Gauge) किसे जाँचता है?"
+      },
+      "options": [
+        { "en": "Internal threads", "hi": "आंतरिक धागे" },
+        { "en": "Bore", "hi": "बोर" },
+        { "en": "External diameter", "hi": "बाहरी व्यास" },
+        { "en": "Angle", "hi": "कोण" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 495,
+      "question": {
+        "en": "Feeler gauge is used to measure —",
+        "hi": "फीलर गेज (Feeler Gauge) किसे मापने के लिए उपयोग होता है?"
+      },
+      "options": [
+        { "en": "Diameter", "hi": "व्यास" },
+        { "en": "Depth", "hi": "गहराई" },
+        { "en": "Clearance or gap", "hi": "अंतराल या गैप" },
+        { "en": "Thickness", "hi": "मोटाई" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 496,
+      "question": {
+        "en": "A dial indicator measures —",
+        "hi": "डायल इंडिकेटर (Dial Indicator) किसे मापता है?"
+      },
+      "options": [
+        { "en": "Small linear displacements", "hi": "छोटे रेखीय विस्थापन" },
+        { "en": "Force", "hi": "बल" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Angle", "hi": "कोण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 497,
+      "question": {
+        "en": "The least count of a dial indicator is about —",
+        "hi": "डायल इंडिकेटर का अल्पतमांक लगभग होता है —"
+      },
+      "options": [
+        { "en": "0.1 mm", "hi": "0.1 mm" },
+        { "en": "1 mm", "hi": "1 mm" },
+        { "en": "0.5 mm", "hi": "0.5 mm" },
+        { "en": "0.01 mm", "hi": "0.01 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 498,
+      "question": {
+        "en": "The tolerance is the —",
+        "hi": "सहनसीमा (Tolerance) होती है —"
+      },
+      "options": [
+        { "en": "Allowable variation in size", "hi": "आकार में अनुज्ञेय भिन्नता" },
+        { "en": "Error", "hi": "त्रुटि" },
+        { "en": "Exact size", "hi": "सटीक आकार" },
+        { "en": "Rejection limit", "hi": "अस्वीकृति सीमा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 499,
+      "question": {
+        "en": "The device used to hold work for precision measurement is —",
+        "hi": "परिशुद्ध माप के लिए कार्यखंड पकड़ने का उपकरण है —"
+      },
+      "options": [
+        { "en": "Spanner", "hi": "स्पैनर" },
+        { "en": "Drill vice", "hi": "ड्रिल वाइस" },
+        { "en": "Clamp", "hi": "क्लैम्प" },
+        { "en": "V-block", "hi": "V-ब्लॉक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 500,
+      "question": {
+        "en": "In workshop practice, the three essential safety elements are —",
+        "hi": "कार्यशाला अभ्यास में तीन आवश्यक सुरक्षा तत्व हैं —"
+      },
+      "options": [
+        { "en": "Production, Power, Speed", "hi": "उत्पादन, शक्ति, गति" },
+        { "en": "Tool, Die, Chip", "hi": "उपकरण, डाई, चिप" },
+        { "en": "Man, Machine, and Method", "hi": "मानव, मशीन और विधि" },
+        { "en": "Energy, Time, Work", "hi": "ऊर्जा, समय, कार्य" }
+      ],
+      "correct": 2
+    }
+  ]
+}

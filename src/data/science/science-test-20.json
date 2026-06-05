@@ -1,0 +1,285 @@
+{
+  "paperName": "Science Mock Test – 20",
+  "questions": [
+    {
+      "id": 381,
+      "question": {
+        "en": "Carburizing is used to —",
+        "hi": "कार्बुराइज़िंग (Carburizing) किसलिए उपयोग की जाती है?"
+      },
+      "options": [
+        { "en": "Soften surface", "hi": "सतह को नरम करने के लिए" },
+        { "en": "Increase surface carbon content", "hi": "सतह पर कार्बन की मात्रा बढ़ाने के लिए" },
+        { "en": "Increase toughness", "hi": "दृढ़ता बढ़ाने के लिए" },
+        { "en": "Reduce wear", "hi": "घिसाव कम करने के लिए" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 382,
+      "question": {
+        "en": "Nitriding increases —",
+        "hi": "नाइट्राइडिंग (Nitriding) से बढ़ती है —"
+      },
+      "options": [
+        { "en": "Toughness", "hi": "दृढ़ता" },
+        { "en": "Surface hardness", "hi": "सतही कठोरता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 383,
+      "question": {
+        "en": "Case hardening is a process to —",
+        "hi": "केस हार्डनिंग (Case Hardening) किस उद्देश्य से की जाती है?"
+      },
+      "options": [
+        { "en": "Harden the surface while keeping core soft", "hi": "कोर को नरम रखते हुए सतह को कठोर करना" },
+        { "en": "Harden whole piece", "hi": "पूरे टुकड़े को कठोर करना" },
+        { "en": "Soften metal", "hi": "धातु को नरम करना" },
+        { "en": "Polish the surface", "hi": "सतह को पॉलिश करना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 384,
+      "question": {
+        "en": "Cold working is done —",
+        "hi": "शीत-कार्य (Cold Working) किस तापमान पर किया जाता है?"
+      },
+      "options": [
+        { "en": "Below recrystallization temperature", "hi": "पुनर्क्रिस्टलीकरण तापमान से नीचे" },
+        { "en": "Above recrystallization temperature", "hi": "पुनर्क्रिस्टलीकरण तापमान से ऊपर" },
+        { "en": "At melting point", "hi": "गलनांक पर" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 385,
+      "question": {
+        "en": "Hot working is done —",
+        "hi": "उष्ण-कार्य (Hot Working) किस तापमान पर किया जाता है?"
+      },
+      "options": [
+        { "en": "Below recrystallization temperature", "hi": "पुनर्क्रिस्टलीकरण तापमान से नीचे" },
+        { "en": "Above recrystallization temperature", "hi": "पुनर्क्रिस्टलीकरण तापमान से ऊपर" },
+        { "en": "Near melting point", "hi": "गलनांक के निकट" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 386,
+      "question": {
+        "en": "Forging improves —",
+        "hi": "फोर्जिंग (Forging) से धातु की क्या सुधार होती है?"
+      },
+      "options": [
+        { "en": "Machinability", "hi": "मशीनेबिलिटी" },
+        { "en": "Hardness only", "hi": "केवल कठोरता" },
+        { "en": "Plasticity only", "hi": "केवल सुघट्यता" },
+        { "en": "Strength and toughness", "hi": "शक्ति और दृढ़ता" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 387,
+      "question": {
+        "en": "The casting process involves —",
+        "hi": "ढलाई (Casting) प्रक्रिया में शामिल होता है —"
+      },
+      "options": [
+        { "en": "Welding", "hi": "वेल्डिंग" },
+        { "en": "Pouring molten metal into mould", "hi": "पिघली हुई धातु को साँचे में डालना" },
+        { "en": "Machining", "hi": "मशीनिंग" },
+        { "en": "Forging", "hi": "फोर्जिंग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 388,
+      "question": {
+        "en": "The process used for removing impurities from metal is —",
+        "hi": "धातु से अशुद्धियाँ हटाने की प्रक्रिया कहलाती है —"
+      },
+      "options": [
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Quenching", "hi": "शमन" },
+        { "en": "Refining", "hi": "शोधन" },
+        { "en": "Casting", "hi": "ढलाई" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 389,
+      "question": {
+        "en": "The crystal structure of metals is generally —",
+        "hi": "धातुओं की क्रिस्टल संरचना सामान्यतः होती है —"
+      },
+      "options": [
+        { "en": "BCC, FCC or HCP", "hi": "BCC, FCC या HCP" },
+        { "en": "Amorphous", "hi": "अक्रिस्टलीय" },
+        { "en": "Irregular", "hi": "अनियमित" },
+        { "en": "Porous", "hi": "छिद्रयुक्त" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 390,
+      "question": {
+        "en": "Pure iron at room temperature has —",
+        "hi": "कमरे के तापमान पर शुद्ध लोहे की संरचना होती है —"
+      },
+      "options": [
+        { "en": "FCC structure", "hi": "FCC संरचना" },
+        { "en": "HCP structure", "hi": "HCP संरचना" },
+        { "en": "None", "hi": "इनमें से कोई नहीं" },
+        { "en": "BCC structure", "hi": "BCC संरचना" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 391,
+      "question": {
+        "en": "The strength of a material per unit weight is called —",
+        "hi": "किसी पदार्थ की प्रति इकाई भार सामर्थ्य कहलाती है —"
+      },
+      "options": [
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Modulus", "hi": "गुणांक" },
+        { "en": "Specific strength", "hi": "विशिष्ट सामर्थ्य" },
+        { "en": "Stress ratio", "hi": "प्रतिबल अनुपात" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 392,
+      "question": {
+        "en": "Non-ferrous metals are those —",
+        "hi": "अलौह (Non-ferrous) धातुएँ वे हैं जो —"
+      },
+      "options": [
+        { "en": "Containing iron", "hi": "लोहा युक्त" },
+        { "en": "Without iron", "hi": "लोहे से रहित" },
+        { "en": "Steel-based", "hi": "स्टील आधारित" },
+        { "en": "Hard alloys", "hi": "कठोर मिश्रधातु" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 393,
+      "question": {
+        "en": "The main constituent of cast iron is —",
+        "hi": "ढलवाँ लोहे (Cast Iron) का मुख्य घटक है —"
+      },
+      "options": [
+        { "en": "Zinc", "hi": "जिंक" },
+        { "en": "Manganese", "hi": "मैंगनीज़" },
+        { "en": "Chromium", "hi": "क्रोमियम" },
+        { "en": "Carbon", "hi": "कार्बन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 394,
+      "question": {
+        "en": "The percentage of carbon in mild steel is about —",
+        "hi": "माइल्ड स्टील में कार्बन का प्रतिशत लगभग होता है —"
+      },
+      "options": [
+        { "en": "0.05–0.15", "hi": "0.05–0.15" },
+        { "en": "0.15–0.30", "hi": "0.15–0.30" },
+        { "en": "0.50–0.80", "hi": "0.50–0.80" },
+        { "en": "1.0–1.5", "hi": "1.0–1.5" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 395,
+      "question": {
+        "en": "The instrument used to measure hardness in Rockwell test is —",
+        "hi": "रॉकवेल परीक्षण में कठोरता मापने का यंत्र है —"
+      },
+      "options": [
+        { "en": "Dial gauge indicator", "hi": "डायल गेज इंडिकेटर" },
+        { "en": "Vernier", "hi": "वर्नियर" },
+        { "en": "Micrometer", "hi": "माइक्रोमीटर" },
+        { "en": "Pointer", "hi": "सूचक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 396,
+      "question": {
+        "en": "The process used to shape metal by pouring molten metal is —",
+        "hi": "पिघली हुई धातु डालकर आकार देने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Forging", "hi": "फोर्जिंग" },
+        { "en": "Extrusion", "hi": "बाह्यधान" },
+        { "en": "Drawing", "hi": "ड्रॉइंग" },
+        { "en": "Casting", "hi": "ढलाई" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 397,
+      "question": {
+        "en": "The property which allows a metal to be machined easily is —",
+        "hi": "किसी धातु को आसानी से मशीन करने देने का गुण कहलाता है —"
+      },
+      "options": [
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Machinability", "hi": "मशीनेबिलिटी" },
+        { "en": "Rigidity", "hi": "अनम्यता" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 398,
+      "question": {
+        "en": "The change in properties of metal due to repeated loading is called —",
+        "hi": "बार-बार भार पड़ने से धातु के गुणों में परिवर्तन को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Fatigue", "hi": "थकान" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 399,
+      "question": {
+        "en": "The ability of a material to resist softening at high temperature is —",
+        "hi": "उच्च तापमान पर पदार्थ के नरम न पड़ने की प्रतिरोध क्षमता कहलाती है —"
+      },
+      "options": [
+        { "en": "Cold strength", "hi": "शीत सामर्थ्य" },
+        { "en": "Fatigue", "hi": "थकान" },
+        { "en": "Creep", "hi": "सर्पण" },
+        { "en": "Hot hardness", "hi": "उष्ण कठोरता" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 400,
+      "question": {
+        "en": "The time-dependent deformation of metal under stress at high temperature is —",
+        "hi": "उच्च तापमान पर प्रतिबल के कारण समय के साथ धातु में होने वाला विरूपण कहलाता है —"
+      },
+      "options": [
+        { "en": "Fatigue", "hi": "थकान" },
+        { "en": "Toughness", "hi": "दृढ़ता" },
+        { "en": "Creep", "hi": "सर्पण" },
+        { "en": "Plasticity", "hi": "सुघट्यता" }
+      ],
+      "correct": 2
+    }
+  ]
+}
