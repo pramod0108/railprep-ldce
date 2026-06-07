@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 5",
+  "questions": [
+    {
+      "id": 81,
+      "question": {
+        "en": "The purpose of title block in drawing is —",
+        "hi": "ड्राइंग में शीर्षक ब्लॉक (title block) का उद्देश्य है —"
+      },
+      "options": [
+        { "en": "Decoration", "hi": "सजावट" },
+        { "en": "Provide details like name, scale, and date", "hi": "नाम, पैमाना और तिथि जैसे विवरण प्रदान करना" },
+        { "en": "Dimensions", "hi": "आयाम" },
+        { "en": "View", "hi": "दृश्य" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "Sectional view is used to —",
+        "hi": "सेक्शनल व्यू का उपयोग किसके लिए किया जाता है?"
+      },
+      "options": [
+        { "en": "Show hidden details clearly", "hi": "छिपे हुए विवरण स्पष्ट रूप से दिखाना" },
+        { "en": "Make drawing larger", "hi": "ड्राइंग को बड़ा बनाना" },
+        { "en": "Remove dimensions", "hi": "आयाम हटाना" },
+        { "en": "Decorate", "hi": "सजाना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "Full section is obtained by —",
+        "hi": "पूर्ण अनुभाग (Full section) कैसे प्राप्त किया जाता है?"
+      },
+      "options": [
+        { "en": "Cutting plane passing completely through object", "hi": "वस्तु से पूरी तरह से गुजरने वाला कटिंग प्लेन" },
+        { "en": "Half", "hi": "आधा" },
+        { "en": "Offset", "hi": "ऑफसेट" },
+        { "en": "Local", "hi": "स्थानीय" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "Hatching lines are not drawn on —",
+        "hi": "हैचिंग लाइनें किस पर नहीं खींची जाती हैं?"
+      },
+      "options": [
+        { "en": "Ribs, bolts, shafts", "hi": "पसलियों (Ribs), बोल्ट, शाफ्ट" },
+        { "en": "Walls", "hi": "दीवारें" },
+        { "en": "Plates", "hi": "प्लेटें" },
+        { "en": "Beams", "hi": "बीम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "Freehand sketching is used for —",
+        "hi": "फ्रीहैंड स्केचिंग का उपयोग किसके लिए किया जाता है —"
+      },
+      "options": [
+        { "en": "Quick representation without instruments", "hi": "उपकरणों के बिना त्वरित प्रतिनिधित्व" },
+        { "en": "Final drawing", "hi": "अंतिम ड्राइंग" },
+        { "en": "CAD only", "hi": "केवल कैड (CAD)" },
+        { "en": "Scaling", "hi": "स्केलिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "Assembly drawing shows —",
+        "hi": "असेंबली ड्राइंग क्या दिखाती है?"
+      },
+      "options": [
+        { "en": "How parts fit together", "hi": "पुर्जे एक साथ कैसे फिट होते हैं" },
+        { "en": "Each part", "hi": "प्रत्येक भाग" },
+        { "en": "Dimensions only", "hi": "केवल आयाम" },
+        { "en": "Section only", "hi": "केवल अनुभाग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "Detailed drawing shows —",
+        "hi": "विस्तृत (Detailed) ड्राइंग क्या दिखाती है?"
+      },
+      "options": [
+        { "en": "Individual parts with dimensions", "hi": "आयामों के साथ अलग-अलग हिस्से" },
+        { "en": "Assembled product", "hi": "इकट्ठा किया गया उत्पाद" },
+        { "en": "Schematic", "hi": "योजनाबद्ध (Schematic)" },
+        { "en": "None", "hi": "कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "Scale 1:2 means —",
+        "hi": "स्केल 1:2 का क्या अर्थ है?"
+      },
+      "options": [
+        { "en": "Drawing half of actual size", "hi": "वास्तविक आकार की आधी ड्राइंग" },
+        { "en": "Double", "hi": "दोगुना" },
+        { "en": "Same", "hi": "समान" },
+        { "en": "Enlarged", "hi": "बड़ा किया गया" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "Isometric projection is drawn at —",
+        "hi": "आइसोमेट्रिक प्रोजेक्शन किस कोण पर खींचा जाता है?"
+      },
+      "options": [
+        { "en": "45°", "hi": "45°" },
+        { "en": "30°", "hi": "30°" },
+        { "en": "60°", "hi": "60°" },
+        { "en": "90°", "hi": "90°" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "Oblique projection is drawn with receding axis at —",
+        "hi": "ऑब्लिक (Oblique) प्रोजेक्शन घटते अक्ष (receding axis) के साथ किस कोण पर खींचा जाता है?"
+      },
+      "options": [
+        { "en": "45°", "hi": "45°" },
+        { "en": "30° or 45°", "hi": "30° या 45°" },
+        { "en": "60°", "hi": "60°" },
+        { "en": "90°", "hi": "90°" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "The symbol for surface roughness of machining required is —",
+        "hi": "मशीनिंग की सतह खुरदरापन के लिए आवश्यक प्रतीक है —"
+      },
+      "options": [
+        { "en": "V with bar", "hi": "बार के साथ V" },
+        { "en": "V only", "hi": "केवल V" },
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Slash", "hi": "स्लैश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "Datum is a —",
+        "hi": "डेटम (Datum) क्या है?"
+      },
+      "options": [
+        { "en": "Drawing sheet", "hi": "ड्राइंग शीट" },
+        { "en": "Reference point or surface", "hi": "संदर्भ बिंदु या सतह" },
+        { "en": "Fit", "hi": "फिट" },
+        { "en": "Axis", "hi": "अक्ष" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "The section line spacing depends on —",
+        "hi": "सेक्शन लाइन रिक्ति (spacing) किस पर निर्भर करती है?"
+      },
+      "options": [
+        { "en": "Size of sectioned area", "hi": "सेक्शन किए गए क्षेत्र का आकार" },
+        { "en": "Scale", "hi": "स्केल" },
+        { "en": "Material", "hi": "सामग्री" },
+        { "en": "Symbol", "hi": "प्रतीक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "The least count of vernier in drawing instruments is —",
+        "hi": "ड्राइंग उपकरणों में वर्नियर का अल्पतमांक (least count) क्या है?"
+      },
+      "options": [
+        { "en": "0.01 mm", "hi": "0.01 मिमी" },
+        { "en": "0.02 mm", "hi": "0.02 मिमी" },
+        { "en": "0.1 mm", "hi": "0.1 मिमी" },
+        { "en": "1 mm", "hi": "1 मिमी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "The process of converting idea to technical sketch is —",
+        "hi": "विचार को तकनीकी स्केच में बदलने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Drafting", "hi": "ड्राफ्टिंग" },
+        { "en": "Plotting", "hi": "प्लॉटिंग" },
+        { "en": "Etching", "hi": "नक़्क़ाशी (Etching)" },
+        { "en": "Printing", "hi": "मुद्रण (Printing)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "CAD stands for —",
+        "hi": "CAD का पूर्ण रूप है —"
+      },
+      "options": [
+        { "en": "Computer Aided Device", "hi": "कंप्यूटर एडेड डिवाइस" },
+        { "en": "Computer Aided Design", "hi": "कंप्यूटर एडेड डिजाइन" },
+        { "en": "Controlled Auto Draft", "hi": "कंट्रोल्ड ऑटो ड्राफ्ट" },
+        { "en": "Common Area Design", "hi": "कॉमन एरिया डिजाइन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "The advantage of CAD drawing is —",
+        "hi": "CAD ड्राइंग का क्या लाभ है —"
+      },
+      "options": [
+        { "en": "Speed and accuracy", "hi": "गति और सटीकता" },
+        { "en": "Slower process", "hi": "धीमी प्रक्रिया" },
+        { "en": "High cost", "hi": "उच्च लागत" },
+        { "en": "Manual only", "hi": "केवल मैनुअल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "BIS stands for —",
+        "hi": "BIS का पूर्ण रूप है —"
+      },
+      "options": [
+        { "en": "Bureau of Indian Standards", "hi": "ब्यूरो ऑफ इंडियन स्टैंडर्ड्स" },
+        { "en": "Basic International Standard", "hi": "बेसिक इंटरनेशनल स्टैंडर्ड" },
+        { "en": "Binary Information System", "hi": "बाइनरी इंफॉर्मेशन सिस्टम" },
+        { "en": "Base Industrial System", "hi": "बेस इंडस्ट्रियल सिस्टम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "The abbreviation ISO means —",
+        "hi": "ISO का संक्षिप्त रूप है —"
+      },
+      "options": [
+        { "en": "Indian Standard Office", "hi": "इंडियन स्टैंडर्ड ऑफिस" },
+        { "en": "International Organization for Standardization", "hi": "इंटरनेशनल ऑर्गनाइजेशन फॉर स्टैंडर्डाइजेशन" },
+        { "en": "Industrial Safety Order", "hi": "इंडस्ट्रियल सेफ्टी ऑर्डर" },
+        { "en": "Internal Setup Order", "hi": "इंटरनल सेटअप ऑर्डर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "Geometric dimensioning and tolerancing ensures —",
+        "hi": "ज्यामितीय आयामी और सहनशीलता (GD&T) क्या सुनिश्चित करता है?"
+      },
+      "options": [
+        { "en": "Cost", "hi": "लागत" },
+        { "en": "Functional interchangeability and precision", "hi": "कार्यात्मक विनिमेयता (interchangeability) और सटीकता" },
+        { "en": "Appearance", "hi": "दिखावट" },
+        { "en": "Color", "hi": "रंग" }
+      ],
+      "correct": 1
+    }
+  ]
+}

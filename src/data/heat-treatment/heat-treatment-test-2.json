@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 2",
+  "questions": [
+    {
+      "id": 21,
+      "question": {
+        "en": "Hardening is done by —",
+        "hi": "हार्डनिंग (Hardening) किसके द्वारा की जाती है?"
+      },
+      "options": [
+        { "en": "Heating and sudden cooling", "hi": "गर्म करके अचानक ठंडा करना" },
+        { "en": "Heating and slow cooling", "hi": "गर्म करके धीरे-धीरे ठंडा करना" },
+        { "en": "Hammering", "hi": "हथौड़े से पीटना" },
+        { "en": "Polishing", "hi": "पॉलिश करना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Tempering is done after —",
+        "hi": "टेम्परिंग (Tempering) किसके बाद की जाती है?"
+      },
+      "options": [
+        { "en": "Hardening", "hi": "हार्डनिंग" },
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Normalizing", "hi": "नॉर्मलाइजिंग" },
+        { "en": "Forging", "hi": "फोर्जिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "The purpose of tempering is —",
+        "hi": "टेम्परिंग का उद्देश्य है —"
+      },
+      "options": [
+        { "en": "Reduce brittleness and improve toughness", "hi": "भंगुरता कम करना और दृढ़ता बढ़ाना" },
+        { "en": "Harden", "hi": "कठोर करना" },
+        { "en": "Soften", "hi": "मुलायम करना" },
+        { "en": "Cool", "hi": "ठंडा करना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Case hardening increases —",
+        "hi": "केस हार्डनिंग से क्या बढ़ता है?"
+      },
+      "options": [
+        { "en": "Surface hardness", "hi": "सतही कठोरता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Softness", "hi": "मुलायमपन" },
+        { "en": "Machinability", "hi": "मशीनेबिलिटी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "The process of heating steel in carbonaceous material to harden surface is —",
+        "hi": "सतह को कठोर बनाने के लिए कार्बनयुक्त सामग्री में स्टील को गर्म करने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Carburizing", "hi": "कार्बुराइजिंग" },
+        { "en": "Tempering", "hi": "टेम्परिंग" },
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Normalizing", "hi": "नॉर्मलाइजिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Nitriding is done in the presence of —",
+        "hi": "नाइट्राइडिंग किसकी उपस्थिति में की जाती है?"
+      },
+      "options": [
+        { "en": "Ammonia gas", "hi": "अमोनिया गैस" },
+        { "en": "Air", "hi": "वायु" },
+        { "en": "Carbon dioxide", "hi": "कार्बन डाइऑक्साइड" },
+        { "en": "Hydrogen", "hi": "हाइड्रोजन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "The tool steel contains —",
+        "hi": "टूल स्टील में क्या होता है?"
+      },
+      "options": [
+        { "en": "Tungsten, Vanadium, Chromium", "hi": "टंगस्टन, वैनेडियम, क्रोमियम" },
+        { "en": "Nickel, Copper", "hi": "निकेल, तांबा" },
+        { "en": "Tin, Zinc", "hi": "टिन, जिंक" },
+        { "en": "Aluminum, Manganese", "hi": "एल्यूमीनियम, मैंगनीज" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "The most malleable metal is —",
+        "hi": "सबसे अधिक आघातवर्ध्य (malleable) धातु कौन सी है?"
+      },
+      "options": [
+        { "en": "Silver", "hi": "चांदी" },
+        { "en": "Gold", "hi": "सोना" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Lead", "hi": "सीसा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "The most ductile metal is —",
+        "hi": "सबसे अधिक तन्य (ductile) धातु कौन सी है?"
+      },
+      "options": [
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Gold", "hi": "सोना" },
+        { "en": "Zinc", "hi": "जिंक" },
+        { "en": "Aluminum", "hi": "एल्यूमीनियम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Grey cast iron is used for —",
+        "hi": "ग्रे कास्ट आयरन का उपयोग किसके लिए किया जाता है?"
+      },
+      "options": [
+        { "en": "Machine beds", "hi": "मशीन बेड" },
+        { "en": "Springs", "hi": "स्प्रिंग्स" },
+        { "en": "Tools", "hi": "उपकरण" },
+        { "en": "Shafts", "hi": "शाफ्ट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "The property of resisting sudden impact is —",
+        "hi": "अचानक पड़ने वाले प्रभाव (impact) का विरोध करने का गुण है —"
+      },
+      "options": [
+        { "en": "Toughness", "hi": "दृढ़ता (Toughness)" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Brittleness", "hi": "भंगुरता" },
+        { "en": "Ductility", "hi": "तन्यता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "The Brinell test measures —",
+        "hi": "ब्रिनेल परीक्षण क्या मापता है?"
+      },
+      "options": [
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Strength", "hi": "शक्ति" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Fatigue", "hi": "थकान" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "The Rockwell hardness test uses —",
+        "hi": "रॉकवेल कठोरता परीक्षण में किसका उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Steel ball or diamond cone", "hi": "स्टील की गेंद या हीरे का शंकु" },
+        { "en": "Hammer", "hi": "हथौड़ा" },
+        { "en": "Load cell", "hi": "लोड सेल" },
+        { "en": "Pendulum", "hi": "पेंडुलम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "The ability of material to resist repeated loading is —",
+        "hi": "बार-बार भार (loading) को सहने की सामग्री की क्षमता है —"
+      },
+      "options": [
+        { "en": "Fatigue strength", "hi": "थकान शक्ति (Fatigue strength)" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Ductility", "hi": "तन्यता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "The expansion of metal on heating is due to —",
+        "hi": "गर्म करने पर धातु का फैलाव किसके कारण होता है?"
+      },
+      "options": [
+        { "en": "Weight", "hi": "वजन" },
+        { "en": "Pressure", "hi": "दबाव" },
+        { "en": "Increase in atomic vibration", "hi": "परमाणु कंपन में वृद्धि" },
+        { "en": "Density", "hi": "घनत्व" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "Thermal conductivity is the ability to —",
+        "hi": "तापीय चालकता किसकी क्षमता है?"
+      },
+      "options": [
+        { "en": "Conduct electricity", "hi": "विद्युत का संचालन करना" },
+        { "en": "Conduct heat", "hi": "ऊष्मा का संचालन करना" },
+        { "en": "Expand", "hi": "विस्तार करना" },
+        { "en": "Resist wear", "hi": "घिसाव का विरोध करना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "Electrical conductivity is highest in —",
+        "hi": "विद्युत चालकता सबसे अधिक किसमें होती है?"
+      },
+      "options": [
+        { "en": "Silver", "hi": "चांदी" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Aluminum", "hi": "एल्यूमीनियम" },
+        { "en": "Iron", "hi": "लोहा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "The density of steel is about —",
+        "hi": "स्टील का घनत्व लगभग होता है —"
+      },
+      "options": [
+        { "en": "2.7 g/cm³", "hi": "2.7 g/cm³" },
+        { "en": "7.8 g/cm³", "hi": "7.8 g/cm³" },
+        { "en": "11.3 g/cm³", "hi": "11.3 g/cm³" },
+        { "en": "8.9 g/cm³", "hi": "8.9 g/cm³" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Non-ferrous metals are —",
+        "hi": "अलौह (Non-ferrous) धातुएं हैं —"
+      },
+      "options": [
+        { "en": "Without iron", "hi": "लोहे के बिना" },
+        { "en": "With high carbon", "hi": "उच्च कार्बन के साथ" },
+        { "en": "Magnetic", "hi": "चुंबकीय" },
+        { "en": "Brittle", "hi": "भंगुर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "The common use of brass is —",
+        "hi": "पीतल का सामान्य उपयोग क्या है?"
+      },
+      "options": [
+        { "en": "Bearings and fittings", "hi": "बियरिंग और फिटिंग" },
+        { "en": "Tools", "hi": "उपकरण" },
+        { "en": "Machine beds", "hi": "मशीन बेड" },
+        { "en": "Pipes only", "hi": "केवल पाइप" }
+      ],
+      "correct": 0
+    }
+  ]
+}

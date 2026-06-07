@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 10",
+  "questions": [
+    {
+      "id": 81,
+      "question": {
+        "en": "Surface roughness symbol is represented by —",
+        "hi": "सतह खुरदरापन प्रतीक किसके द्वारा दर्शाया जाता है?"
+      },
+      "options": [
+        { "en": "Check mark-like symbol (√)", "hi": "चेक मार्क जैसा प्रतीक (√)" },
+        { "en": "Triangle", "hi": "त्रिकोण" },
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Arrow", "hi": "तीर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "The dimension 25±0.02 mm means —",
+        "hi": "डायमेंशन 25±0.02 मिमी का अर्थ है —"
+      },
+      "options": [
+        { "en": "Size can vary from 24.98 to 25.02 mm", "hi": "आकार 24.98 से 25.02 मिमी तक भिन्न हो सकता है" },
+        { "en": "Exact 25", "hi": "सटीक 25" },
+        { "en": "25±2", "hi": "25±2" },
+        { "en": "24-26", "hi": "24-26" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "A datum is —",
+        "hi": "डेटम (Datum) क्या है?"
+      },
+      "options": [
+        { "en": "Reference surface or line for measurement", "hi": "माप के लिए संदर्भ सतह या रेखा" },
+        { "en": "Size", "hi": "आकार" },
+        { "en": "Symbol", "hi": "प्रतीक" },
+        { "en": "View", "hi": "दृश्य" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "Geometrical tolerance controls —",
+        "hi": "ज्यामितीय सहनशीलता किसे नियंत्रित करती है?"
+      },
+      "options": [
+        { "en": "Shape, orientation, and position errors", "hi": "आकार, अभिविन्यास और स्थिति त्रुटियों को" },
+        { "en": "Size only", "hi": "केवल आकार" },
+        { "en": "Weight", "hi": "भार" },
+        { "en": "Length", "hi": "लम्बाई" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "The symbol ⌖ indicates —",
+        "hi": "प्रतीक ⌖ क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "True position", "hi": "सत्य स्थिति (True position)" },
+        { "en": "Flatness", "hi": "समतलता" },
+        { "en": "Roundness", "hi": "गोलाई" },
+        { "en": "Symmetry", "hi": "समरूपता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "Straightness tolerance controls —",
+        "hi": "सीधापन (Straightness) सहनशीलता किसे नियंत्रित करती है?"
+      },
+      "options": [
+        { "en": "Deviation from straight line", "hi": "सीधी रेखा से विचलन" },
+        { "en": "Roundness", "hi": "गोलाई" },
+        { "en": "Angle", "hi": "कोण" },
+        { "en": "Symmetry", "hi": "समरूपता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "The symbol ◎ represents —",
+        "hi": "प्रतीक ◎ क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "Position tolerance", "hi": "स्थिति सहनशीलता" },
+        { "en": "Concentricity", "hi": "केंद्रीकृतता (Concentricity)" },
+        { "en": "Perpendicularity", "hi": "लंबवतता" },
+        { "en": "Cylindricity", "hi": "बेलनाकारिता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "The symbol for parallelism is —",
+        "hi": "समानांतरता (Parallelism) का प्रतीक है —"
+      },
+      "options": [
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Two parallel lines", "hi": "दो समानांतर रेखाएँ" },
+        { "en": "Triangle", "hi": "त्रिकोण" },
+        { "en": "Cross", "hi": "क्रॉस" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "The perpendicularity symbol is —",
+        "hi": "लंबवतता (Perpendicularity) प्रतीक है —"
+      },
+      "options": [
+        { "en": "Upside down 'T'", "hi": "उल्टा 'T'" },
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Arrow", "hi": "तीर" },
+        { "en": "Triangle", "hi": "त्रिकोण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "The flatness symbol is —",
+        "hi": "समतलता (Flatness) का प्रतीक है —"
+      },
+      "options": [
+        { "en": "A parallelogram-like shape", "hi": "एक समानांतर चतुर्भुज जैसा आकार" },
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Arrow", "hi": "तीर" },
+        { "en": "Cross", "hi": "क्रॉस" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "Concentricity ensures —",
+        "hi": "केंद्रीकृतता (Concentricity) क्या सुनिश्चित करती है?"
+      },
+      "options": [
+        { "en": "Common center axis of two features", "hi": "दो विशेषताओं का सामान्य केंद्र अक्ष" },
+        { "en": "Flat surface", "hi": "समतल सतह" },
+        { "en": "Straight edge", "hi": "सीधा किनारा" },
+        { "en": "Parallel edges", "hi": "समानांतर किनारे" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "Cylindricity ensures —",
+        "hi": "बेलनाकारिता (Cylindricity) क्या सुनिश्चित करती है?"
+      },
+      "options": [
+        { "en": "Uniform cylinder shape", "hi": "एकसमान बेलनाकार आकार" },
+        { "en": "Flat shape", "hi": "सपाट आकार" },
+        { "en": "Spherical shape", "hi": "गोलाकार आकार" },
+        { "en": "Tapered", "hi": "टेपर्ड" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "Roundness is also called —",
+        "hi": "गोलाई (Roundness) को और क्या कहा जाता है?"
+      },
+      "options": [
+        { "en": "Circularity", "hi": "वृत्ताकारिता (Circularity)" },
+        { "en": "Straightness", "hi": "सीधापन" },
+        { "en": "Parallelism", "hi": "समानांतरता" },
+        { "en": "Flatness", "hi": "समतलता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "The process of enlarging a hole to accurate size is —",
+        "hi": "छेद को सटीक आकार में बड़ा करने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Reaming", "hi": "रीमिंग" },
+        { "en": "Boring", "hi": "बोरिंग" },
+        { "en": "Tapping", "hi": "टैपिंग" },
+        { "en": "Drilling", "hi": "ड्रिलिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "The term \"nominal size\" refers to —",
+        "hi": "शब्द \"नाममात्र आकार\" (Nominal size) किसे संदर्भित करता है?"
+      },
+      "options": [
+        { "en": "Design size before tolerance applied", "hi": "सहनशीलता लागू होने से पहले का डिज़ाइन आकार" },
+        { "en": "Measured size", "hi": "मापा गया आकार" },
+        { "en": "Actual", "hi": "वास्तविक आकार" },
+        { "en": "Basic deviation", "hi": "मूल विचलन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "The title block of drawing contains —",
+        "hi": "ड्राइंग के शीर्षक ब्लॉक में क्या होता है?"
+      },
+      "options": [
+        { "en": "Name, scale, drawing number, date", "hi": "नाम, पैमाना, ड्राइंग संख्या, दिनांक" },
+        { "en": "Sketch", "hi": "स्केच" },
+        { "en": "Sectional view", "hi": "सेक्शनल दृश्य" },
+        { "en": "Notes only", "hi": "केवल नोट्स" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "The projection symbol used in India is —",
+        "hi": "भारत में प्रयुक्त प्रक्षेपण (Projection) प्रतीक है —"
+      },
+      "options": [
+        { "en": "Third angle", "hi": "तीसरा कोण" },
+        { "en": "First angle", "hi": "प्रथम कोण" },
+        { "en": "Second angle", "hi": "दूसरा कोण" },
+        { "en": "Both", "hi": "दोनों" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "The recommended scale for general machine drawing is —",
+        "hi": "सामान्य मशीन ड्राइंग के लिए अनुशंसित स्केल है —"
+      },
+      "options": [
+        { "en": "1:1", "hi": "1:1" },
+        { "en": "1:2 or 1:5", "hi": "1:2 या 1:5" },
+        { "en": "2:1", "hi": "2:1" },
+        { "en": "10:1", "hi": "10:1" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "In assembly drawings, part numbers are connected using —",
+        "hi": "असेंबली ड्राइंग में, भाग संख्याएँ किसके उपयोग से जोड़ी जाती हैं?"
+      },
+      "options": [
+        { "en": "Center line", "hi": "केंद्र रेखा" },
+        { "en": "Leader line with balloon", "hi": "गुब्बारे के साथ लीडर लाइन" },
+        { "en": "Dimension line", "hi": "डायमेंशन रेखा" },
+        { "en": "Chain line", "hi": "चेन रेखा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "The key purpose of engineering drawing is —",
+        "hi": "इंजीनियरिंग ड्राइंग का मुख्य उद्देश्य है —"
+      },
+      "options": [
+        { "en": "Decoration", "hi": "सजावट" },
+        { "en": "Clear communication of technical information", "hi": "तकनीकी जानकारी का स्पष्ट संचार" },
+        { "en": "Artistic design", "hi": "कलात्मक डिज़ाइन" },
+        { "en": "Coloring", "hi": "रंग भरना" }
+      ],
+      "correct": 1
+    }
+  ]
+}

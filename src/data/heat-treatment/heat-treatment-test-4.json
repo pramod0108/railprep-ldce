@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 4",
+  "questions": [
+    {
+      "id": 61,
+      "question": {
+        "en": "The scale used to enlarge or reduce size is called —",
+        "hi": "आकार को बड़ा या छोटा करने के लिए उपयोग किए जाने वाले पैमाने को कहा जाता है —"
+      },
+      "options": [
+        { "en": "Engineer's scale", "hi": "इंजीनियर का पैमाना" },
+        { "en": "Representative scale", "hi": "प्रतिनिधि पैमाना (Representative scale)" },
+        { "en": "Ruler", "hi": "रूलर" },
+        { "en": "Vernier", "hi": "वर्नियर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "The total length of dimension line includes —",
+        "hi": "डायमेंशन रेखा की कुल लंबाई में क्या शामिल है?"
+      },
+      "options": [
+        { "en": "Arrow", "hi": "तीर" },
+        { "en": "Gap", "hi": "अंतराल (Gap)" },
+        { "en": "Arrow + figure space", "hi": "तीर + आकृति का स्थान" },
+        { "en": "None", "hi": "कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "The drawing sheet sizes are standardized by —",
+        "hi": "ड्राइंग शीट के आकार किसके द्वारा मानकीकृत किए जाते हैं?"
+      },
+      "options": [
+        { "en": "IS 3069", "hi": "IS 3069" },
+        { "en": "IS 10711 / ISO 216", "hi": "IS 10711 / ISO 216" },
+        { "en": "IS 1024", "hi": "IS 1024" },
+        { "en": "IS 2062", "hi": "IS 2062" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "A3 sheet size is —",
+        "hi": "A3 शीट का आकार है —"
+      },
+      "options": [
+        { "en": "210 x 297", "hi": "210 x 297 मिमी" },
+        { "en": "297 x 420 mm", "hi": "297 x 420 मिमी" },
+        { "en": "210 x 594", "hi": "210 x 594 मिमी" },
+        { "en": "420 x 594", "hi": "420 x 594 मिमी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "Tolerance is given to —",
+        "hi": "सहनशीलता (Tolerance) क्यों दी जाती है?"
+      },
+      "options": [
+        { "en": "Allow permissible variation in size", "hi": "आकार में स्वीकार्य भिन्नता की अनुमति देने के लिए" },
+        { "en": "Increase accuracy", "hi": "सटीकता बढ़ाने के लिए" },
+        { "en": "Save cost", "hi": "लागत बचाने के लिए" },
+        { "en": "Add margin", "hi": "मार्जिन जोड़ने के लिए" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "The difference between maximum and minimum size is —",
+        "hi": "अधिकतम और न्यूनतम आकार के बीच के अंतर को क्या कहते हैं?"
+      },
+      "options": [
+        { "en": "Tolerance", "hi": "सहनशीलता (Tolerance)" },
+        { "en": "Limit", "hi": "सीमा (Limit)" },
+        { "en": "Fit", "hi": "फिट (Fit)" },
+        { "en": "Deviation", "hi": "विचलन (Deviation)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "Allowance is —",
+        "hi": "छूट (Allowance) क्या है?"
+      },
+      "options": [
+        { "en": "Intentional difference between mating parts", "hi": "मिलने वाले भागों के बीच जानबूझकर रखा गया अंतर" },
+        { "en": "Error", "hi": "त्रुटि" },
+        { "en": "Fit", "hi": "फिट" },
+        { "en": "Limit", "hi": "सीमा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "A hole smaller than shaft represents —",
+        "hi": "शाफ्ट से छोटा छेद क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "Interference fit", "hi": "इंटरफेरेंस फिट" },
+        { "en": "Clearance", "hi": "क्लीयरेंस" },
+        { "en": "Transition", "hi": "ट्रांजिशन" },
+        { "en": "Loose fit", "hi": "लूज फिट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "A hole larger than shaft represents —",
+        "hi": "शाफ्ट से बड़ा छेद क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "Clearance fit", "hi": "क्लीयरेंस फिट" },
+        { "en": "Interference", "hi": "इंटरफेरेंस" },
+        { "en": "Tight", "hi": "टाइट" },
+        { "en": "Shrink", "hi": "श्रिंक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "Transition fit lies between —",
+        "hi": "ट्रांजिशन फिट किसके बीच होता है?"
+      },
+      "options": [
+        { "en": "Loose and tight", "hi": "ढीला और कड़ा" },
+        { "en": "Clearance and interference", "hi": "क्लीयरेंस और इंटरफेरेंस" },
+        { "en": "Limit and zero", "hi": "लिमिट और शून्य" },
+        { "en": "Positive", "hi": "सकारात्मक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "Surface roughness is indicated by —",
+        "hi": "सतह खुरदरापन किसके द्वारा दर्शाया जाता है?"
+      },
+      "options": [
+        { "en": "V-shaped symbol", "hi": "V-आकार का प्रतीक" },
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Arrow", "hi": "तीर" },
+        { "en": "Cross", "hi": "क्रॉस" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "Geometric tolerance ensures —",
+        "hi": "ज्यामितीय सहनशीलता क्या सुनिश्चित करती है?"
+      },
+      "options": [
+        { "en": "Shape and position accuracy", "hi": "आकार और स्थिति की सटीकता" },
+        { "en": "Size only", "hi": "केवल आकार" },
+        { "en": "Color", "hi": "रंग" },
+        { "en": "Weight", "hi": "वजन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "The tolerance grade IT7 indicates —",
+        "hi": "सहनशीलता ग्रेड IT7 क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "Medium precision", "hi": "मध्यम सटीकता" },
+        { "en": "Rough", "hi": "खुरदरा" },
+        { "en": "Fine", "hi": "महीन (Fine)" },
+        { "en": "Coarse", "hi": "मोटा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "The tolerance symbol for shaft is represented by —",
+        "hi": "शाफ्ट के लिए सहनशीलता प्रतीक किसके द्वारा दर्शाया जाता है?"
+      },
+      "options": [
+        { "en": "Lowercase letter (e.g., h7)", "hi": "छोटे अक्षर (उदा., h7)" },
+        { "en": "Uppercase", "hi": "बड़े अक्षर" },
+        { "en": "Number", "hi": "संख्या" },
+        { "en": "Symbol", "hi": "प्रतीक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "The tolerance symbol for hole is —",
+        "hi": "छेद (hole) के लिए सहनशीलता प्रतीक है —"
+      },
+      "options": [
+        { "en": "Uppercase letter (e.g., H7)", "hi": "बड़े अक्षर (उदा., H7)" },
+        { "en": "Lowercase", "hi": "छोटे अक्षर" },
+        { "en": "Symbol", "hi": "प्रतीक" },
+        { "en": "Sign", "hi": "चिह्न" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "Parallelism is a type of —",
+        "hi": "समानांतरता (Parallelism) एक प्रकार है —"
+      },
+      "options": [
+        { "en": "Geometric tolerance", "hi": "ज्यामितीय सहनशीलता (Geometric tolerance)" },
+        { "en": "Dimensional", "hi": "आयामी (Dimensional)" },
+        { "en": "Angular", "hi": "कोणीय (Angular)" },
+        { "en": "Linear", "hi": "रैखिक (Linear)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "Cylindricity controls —",
+        "hi": "बेलनाकारिता (Cylindricity) किसे नियंत्रित करती है —"
+      },
+      "options": [
+        { "en": "Roundness and straightness of cylinder", "hi": "सिलेंडर की गोलाई और सीधापन" },
+        { "en": "Diameter", "hi": "व्यास" },
+        { "en": "Axis only", "hi": "केवल अक्ष" },
+        { "en": "Position", "hi": "स्थिति" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "The symbol for flatness is —",
+        "hi": "समतलता (flatness) का प्रतीक है —"
+      },
+      "options": [
+        { "en": "Parallelogram", "hi": "समानांतर चतुर्भुज" },
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Triangle", "hi": "त्रिकोण" },
+        { "en": "Square", "hi": "वर्ग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "The term 'basic size' means —",
+        "hi": "शब्द 'मूल आकार (basic size)' का अर्थ है —"
+      },
+      "options": [
+        { "en": "Nominal", "hi": "नाममात्र (Nominal)" },
+        { "en": "Theoretical exact size", "hi": "सैद्धांतिक सटीक आकार" },
+        { "en": "Lower limit", "hi": "निचली सीमा" },
+        { "en": "Upper limit", "hi": "ऊपरी सीमा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "The system commonly used in India for limits and fits is —",
+        "hi": "भारत में सीमा और फिट के लिए आमतौर पर उपयोग की जाने वाली प्रणाली है —"
+      },
+      "options": [
+        { "en": "Hole basis system", "hi": "होल आधार प्रणाली" },
+        { "en": "Shaft basis", "hi": "शाफ्ट आधार" },
+        { "en": "Metric", "hi": "मीट्रिक" },
+        { "en": "ISO", "hi": "ISO" }
+      ],
+      "correct": 0
+    }
+  ]
+}

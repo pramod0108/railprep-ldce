@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 9",
+  "questions": [
+    {
+      "id": 61,
+      "question": {
+        "en": "The hatching lines in sectional views are drawn at an angle of —",
+        "hi": "सेक्शनल दृश्यों में हैचिंग लाइनें किस कोण पर खींची जाती हैं?"
+      },
+      "options": [
+        { "en": "45°", "hi": "45°" },
+        { "en": "30°", "hi": "30°" },
+        { "en": "60°", "hi": "60°" },
+        { "en": "90°", "hi": "90°" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "Hidden edges in engineering drawing are represented by —",
+        "hi": "इंजीनियरिंग ड्राइंग में छिपे हुए किनारों को किसके द्वारा दर्शाया जाता है?"
+      },
+      "options": [
+        { "en": "Continuous thick line", "hi": "निरंतर मोटी रेखा" },
+        { "en": "Short-dashed line", "hi": "छोटी डैश वाली रेखा" },
+        { "en": "Chain line", "hi": "चेन रेखा" },
+        { "en": "Dotted line", "hi": "बिंदीदार रेखा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "Center lines are drawn as —",
+        "hi": "केंद्र रेखाएं (Center lines) कैसे खींची जाती हैं?"
+      },
+      "options": [
+        { "en": "Long and short dashes alternately", "hi": "लंबे और छोटे डैश वैकल्पिक रूप से" },
+        { "en": "Continuous thick line", "hi": "निरंतर मोटी रेखा" },
+        { "en": "Wavy line", "hi": "लहरदार रेखा" },
+        { "en": "Chain line", "hi": "चेन रेखा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "Dimension lines are drawn —",
+        "hi": "डायमेंशन लाइनें कैसी खींची जाती हैं?"
+      },
+      "options": [
+        { "en": "Thin continuous line with arrowheads", "hi": "तीर के निशान के साथ पतली निरंतर रेखा" },
+        { "en": "Thick line", "hi": "मोटी रेखा" },
+        { "en": "Dotted line", "hi": "बिंदीदार रेखा" },
+        { "en": "Chain line", "hi": "चेन रेखा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "The extension line extends —",
+        "hi": "विस्तार रेखा (Extension line) कहाँ तक फैली होती है?"
+      },
+      "options": [
+        { "en": "Slightly beyond the dimension line", "hi": "डायमेंशन रेखा से थोड़ा आगे" },
+        { "en": "Ends before dimension", "hi": "डायमेंशन से पहले समाप्त होती है" },
+        { "en": "Thick", "hi": "मोटी होती है" },
+        { "en": "None", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "The isometric projection shows —",
+        "hi": "आइसोमेट्रिक प्रोजेक्शन क्या दिखाता है?"
+      },
+      "options": [
+        { "en": "Two dimensions", "hi": "दो आयाम" },
+        { "en": "Three dimensions", "hi": "तीन आयाम" },
+        { "en": "Only length", "hi": "केवल लंबाई" },
+        { "en": "Top view only", "hi": "केवल शीर्ष दृश्य" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "The angle between isometric axes is —",
+        "hi": "आइसोमेट्रिक अक्षों के बीच का कोण है —"
+      },
+      "options": [
+        { "en": "30°", "hi": "30°" },
+        { "en": "120°", "hi": "120°" },
+        { "en": "60°", "hi": "60°" },
+        { "en": "45°", "hi": "45°" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "A leader line is used to —",
+        "hi": "लीडर लाइन का उपयोग किया जाता है —"
+      },
+      "options": [
+        { "en": "Connect dimension", "hi": "डायमेंशन जोड़ने के लिए" },
+        { "en": "Connect note or number with feature", "hi": "नोट या संख्या को फीचर से जोड़ने के लिए" },
+        { "en": "Mark center", "hi": "केंद्र चिह्नित करने के लिए" },
+        { "en": "Represent axis", "hi": "अक्ष दर्शाने के लिए" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "The process of reducing drawing size proportionally is called —",
+        "hi": "ड्राइंग आकार को आनुपातिक रूप से कम करने की प्रक्रिया को कहा जाता है —"
+      },
+      "options": [
+        { "en": "Enlargement", "hi": "बड़ा करना (Enlargement)" },
+        { "en": "Scaling down", "hi": "स्केलिंग डाउन (Scaling down)" },
+        { "en": "Simplification", "hi": "सरलीकरण" },
+        { "en": "Dimensioning", "hi": "आयामीकरण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "The unit of linear dimension in mechanical drawing is —",
+        "hi": "मैकेनिकल ड्राइंग में रैखिक आयाम की इकाई है —"
+      },
+      "options": [
+        { "en": "Inch", "hi": "इंच" },
+        { "en": "Feet", "hi": "फीट" },
+        { "en": "Millimeter (mm)", "hi": "मिलीमीटर (mm)" },
+        { "en": "Centimeter", "hi": "सेंटीमीटर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "The drawing showing shape and dimensions of each part separately is —",
+        "hi": "प्रत्येक भाग का आकार और आयाम अलग-अलग दिखाने वाली ड्राइंग है —"
+      },
+      "options": [
+        { "en": "Assembly drawing", "hi": "असेंबली ड्राइंग" },
+        { "en": "Part drawing", "hi": "पार्ट ड्राइंग" },
+        { "en": "Diagram", "hi": "आरेख (Diagram)" },
+        { "en": "Block diagram", "hi": "ब्लॉक आरेख" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "The drawing showing complete machine with parts assembled is —",
+        "hi": "इकट्ठे किए गए पुर्जों के साथ पूरी मशीन को दिखाने वाली ड्राइंग है —"
+      },
+      "options": [
+        { "en": "Assembly drawing", "hi": "असेंबली ड्राइंग" },
+        { "en": "Detail drawing", "hi": "डिटेल ड्राइंग" },
+        { "en": "Sketch", "hi": "स्केच" },
+        { "en": "Exploded drawing", "hi": "एक्सप्लोडेड ड्राइंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "Tolerance is defined as —",
+        "hi": "सहनशीलता (Tolerance) को परिभाषित किया गया है —"
+      },
+      "options": [
+        { "en": "Permissible variation in size", "hi": "आकार में स्वीकार्य भिन्नता" },
+        { "en": "Exact size", "hi": "सटीक आकार" },
+        { "en": "Rejected size", "hi": "अस्वीकृत आकार" },
+        { "en": "None", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "The difference between maximum and minimum limit is called —",
+        "hi": "अधिकतम और न्यूनतम सीमा के बीच के अंतर को कहा जाता है —"
+      },
+      "options": [
+        { "en": "Allowance", "hi": "छूट (Allowance)" },
+        { "en": "Tolerance", "hi": "सहनशीलता (Tolerance)" },
+        { "en": "Clearance", "hi": "क्लीयरेंस" },
+        { "en": "Fit", "hi": "फिट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "Allowance is —",
+        "hi": "छूट (Allowance) है —"
+      },
+      "options": [
+        { "en": "Intentional difference between mating parts", "hi": "मिलने वाले भागों के बीच जानबूझकर रखा गया अंतर" },
+        { "en": "Error", "hi": "त्रुटि" },
+        { "en": "Rejection", "hi": "अस्वीकृति" },
+        { "en": "Clearance", "hi": "क्लीयरेंस" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "Clearance fit means —",
+        "hi": "क्लीयरेंस फिट का अर्थ है —"
+      },
+      "options": [
+        { "en": "Shaft is smaller than hole", "hi": "शाफ्ट छेद से छोटा है" },
+        { "en": "Shaft larger than hole", "hi": "शाफ्ट छेद से बड़ा है" },
+        { "en": "Tight fit", "hi": "टाइट फिट" },
+        { "en": "No gap", "hi": "कोई गैप नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "Interference fit means —",
+        "hi": "इंटरफेरेंस फिट का अर्थ है —"
+      },
+      "options": [
+        { "en": "Shaft is larger than hole", "hi": "शाफ्ट छेद से बड़ा है" },
+        { "en": "Shaft smaller", "hi": "शाफ्ट छोटा है" },
+        { "en": "Free fit", "hi": "फ्री फिट" },
+        { "en": "Running fit", "hi": "रनिंग फिट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "Transition fit means —",
+        "hi": "ट्रांजिशन फिट का अर्थ है —"
+      },
+      "options": [
+        { "en": "Loose fit", "hi": "ढीला फिट" },
+        { "en": "May have clearance or interference", "hi": "क्लीयरेंस या इंटरफेरेंस हो सकता है" },
+        { "en": "Free fit", "hi": "फ्री फिट" },
+        { "en": "Tight always", "hi": "हमेशा टाइट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "The difference between hole and shaft size when assembled is —",
+        "hi": "इकट्ठा होने पर छेद और शाफ्ट के आकार के बीच का अंतर है —"
+      },
+      "options": [
+        { "en": "Fit", "hi": "फिट" },
+        { "en": "Limit", "hi": "सीमा" },
+        { "en": "Tolerance", "hi": "सहनशीलता" },
+        { "en": "Dimension", "hi": "आयाम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "The H7/h6 fit represents —",
+        "hi": "H7/h6 फिट दर्शाता है —"
+      },
+      "options": [
+        { "en": "Hole basis system", "hi": "होल आधार प्रणाली" },
+        { "en": "Shaft basis", "hi": "शाफ्ट आधार" },
+        { "en": "Clearance only", "hi": "केवल क्लीयरेंस" },
+        { "en": "Interference only", "hi": "केवल इंटरफेरेंस" }
+      ],
+      "correct": 0
+    }
+  ]
+}

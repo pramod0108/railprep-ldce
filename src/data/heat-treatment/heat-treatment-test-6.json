@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 6",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "The main constituent of cast iron is —",
+        "hi": "ढलवाँ लोहे (Cast Iron) का मुख्य घटक है —"
+      },
+      "options": [
+        { "en": "Carbon", "hi": "कार्बन" },
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Silicon", "hi": "सिलिकॉन" },
+        { "en": "Manganese", "hi": "मैंगनीज़" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Pig iron is obtained by —",
+        "hi": "कच्चा लोहा (Pig Iron) किसके द्वारा प्राप्त किया जाता है?"
+      },
+      "options": [
+        { "en": "Open hearth", "hi": "ओपन हर्थ" },
+        { "en": "Blast furnace", "hi": "ब्लास्ट फर्नेस" },
+        { "en": "Cupola", "hi": "क्युपोला" },
+        { "en": "Electric furnace", "hi": "इलेक्ट्रिक भट्टी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Mild steel contains carbon up to —",
+        "hi": "माइल्ड स्टील में कार्बन की मात्रा कहाँ तक होती है?"
+      },
+      "options": [
+        { "en": "1%", "hi": "1%" },
+        { "en": "0.25%", "hi": "0.25%" },
+        { "en": "0.8%", "hi": "0.8%" },
+        { "en": "2%", "hi": "2%" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Wrought iron contains carbon about —",
+        "hi": "पिटवाँ लोहे (Wrought Iron) में कार्बन लगभग कितना होता है?"
+      },
+      "options": [
+        { "en": "1%", "hi": "1%" },
+        { "en": "0.05%", "hi": "0.05%" },
+        { "en": "0.8%", "hi": "0.8%" },
+        { "en": "2%", "hi": "2%" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Alloy steel is obtained by adding —",
+        "hi": "मिश्रधातु इस्पात (Alloy Steel) क्या मिलाकर प्राप्त किया जाता है?"
+      },
+      "options": [
+        { "en": "Only iron", "hi": "केवल लोहा" },
+        { "en": "Other alloying elements like Ni, Cr, Mo", "hi": "Ni, Cr, Mo जैसे अन्य मिश्रधातु तत्व" },
+        { "en": "Carbon only", "hi": "केवल कार्बन" },
+        { "en": "Non-metals", "hi": "अधातु" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "The metal used for railway rails is —",
+        "hi": "रेलवे पटरियों के लिए प्रयुक्त धातु है —"
+      },
+      "options": [
+        { "en": "Steel", "hi": "स्टील" },
+        { "en": "Brass", "hi": "पीतल" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Grey cast iron is named for its —",
+        "hi": "ग्रे कास्ट आयरन का नाम किसके कारण रखा गया है?"
+      },
+      "options": [
+        { "en": "Strength", "hi": "सामर्थ्य" },
+        { "en": "Graphitic grey fracture", "hi": "ग्रेफाइटिक ग्रे फ्रैक्चर" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Shine", "hi": "चमक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "White cast iron differs from grey cast iron in —",
+        "hi": "सफेद कास्ट आयरन ग्रे कास्ट आयरन से किसमें भिन्न होता है?"
+      },
+      "options": [
+        { "en": "Color", "hi": "रंग" },
+        { "en": "Carbon form (cementite in white)", "hi": "कार्बन का रूप (सफेद में सीमेंटाइट)" },
+        { "en": "Weight", "hi": "भार" },
+        { "en": "Composition of sulfur", "hi": "सल्फर की संरचना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Tool steel contains —",
+        "hi": "टूल स्टील में होता है —"
+      },
+      "options": [
+        { "en": "High carbon and alloy elements", "hi": "उच्च कार्बन और मिश्रधातु तत्व" },
+        { "en": "Low carbon", "hi": "निम्न कार्बन" },
+        { "en": "Pure iron", "hi": "शुद्ध लोहा" },
+        { "en": "Phosphorus", "hi": "फॉस्फोरस" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Stainless steel contains —",
+        "hi": "स्टेनलेस स्टील में होता है —"
+      },
+      "options": [
+        { "en": "Iron, Tin", "hi": "लोहा, टिन" },
+        { "en": "Iron, Chromium, Nickel", "hi": "लोहा, क्रोमियम, निकेल" },
+        { "en": "Iron + Zinc", "hi": "लोहा + जिंक" },
+        { "en": "Iron + Copper", "hi": "लोहा + तांबा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Brass is an alloy of —",
+        "hi": "पीतल (Brass) किसकी मिश्रधातु है?"
+      },
+      "options": [
+        { "en": "Copper and Zinc", "hi": "तांबा और जिंक" },
+        { "en": "Copper and Tin", "hi": "तांबा और टिन" },
+        { "en": "Lead and Zinc", "hi": "सीसा और जिंक" },
+        { "en": "Nickel and Iron", "hi": "निकेल और लोहा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Bronze is an alloy of —",
+        "hi": "काँसा (Bronze) किसकी मिश्रधातु है?"
+      },
+      "options": [
+        { "en": "Copper and Tin", "hi": "तांबा और टिन" },
+        { "en": "Copper and Zinc", "hi": "तांबा और जिंक" },
+        { "en": "Lead and Tin", "hi": "सीसा और टिन" },
+        { "en": "Nickel and Copper", "hi": "निकेल और तांबा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Duralumin is made of —",
+        "hi": "ड्यूरालुमिन (Duralumin) किससे बना होता है?"
+      },
+      "options": [
+        { "en": "Copper + Zinc", "hi": "तांबा + जिंक" },
+        { "en": "Aluminum, Copper, Manganese, Magnesium", "hi": "एल्युमिनियम, तांबा, मैंगनीज, मैग्नीशियम" },
+        { "en": "Iron + Tin", "hi": "लोहा + टिन" },
+        { "en": "Lead + Zinc", "hi": "सीसा + जिंक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Non-ferrous metals do not contain —",
+        "hi": "अलौह (Non-ferrous) धातुओं में क्या नहीं होता है?"
+      },
+      "options": [
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" },
+        { "en": "Zinc", "hi": "जिंक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "The lightest engineering metal is —",
+        "hi": "सबसे हल्की इंजीनियरिंग धातु है —"
+      },
+      "options": [
+        { "en": "Aluminum", "hi": "एल्युमिनियम" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Lead", "hi": "सीसा" },
+        { "en": "Zinc", "hi": "जिंक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "The best conductor of electricity is —",
+        "hi": "विद्युत का सबसे अच्छा सुचालक है —"
+      },
+      "options": [
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Zinc", "hi": "जिंक" },
+        { "en": "Aluminum", "hi": "एल्युमिनियम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "The non-ferrous metal used for bearings is —",
+        "hi": "बियरिंग के लिए प्रयुक्त अलौह धातु है —"
+      },
+      "options": [
+        { "en": "Brass", "hi": "पीतल" },
+        { "en": "Babbitt metal", "hi": "बैबिट धातु" },
+        { "en": "Steel", "hi": "स्टील" },
+        { "en": "Wrought iron", "hi": "पिटवाँ लोहा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "The metal having high resistance to corrosion is —",
+        "hi": "संक्षारण (corrosion) के प्रति उच्च प्रतिरोध वाली धातु है —"
+      },
+      "options": [
+        { "en": "Stainless steel", "hi": "स्टेनलेस स्टील" },
+        { "en": "Cast iron", "hi": "ढलवाँ लोहा" },
+        { "en": "Bronze", "hi": "काँसा" },
+        { "en": "Pig iron", "hi": "कच्चा लोहा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Gunmetal is an alloy of —",
+        "hi": "गनमेटल (Gunmetal) किसकी मिश्रधातु है?"
+      },
+      "options": [
+        { "en": "Copper, Tin, Zinc", "hi": "तांबा, टिन, जिंक" },
+        { "en": "Copper, Lead", "hi": "तांबा, सीसा" },
+        { "en": "Zinc, Lead", "hi": "जिंक, सीसा" },
+        { "en": "Iron, Nickel", "hi": "लोहा, निकेल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "A non-metal used for hardening steel is —",
+        "hi": "स्टील को कठोर करने के लिए प्रयुक्त अधातु है —"
+      },
+      "options": [
+        { "en": "Carbon", "hi": "कार्बन" },
+        { "en": "Sulfur", "hi": "सल्फर" },
+        { "en": "Lead", "hi": "सीसा" },
+        { "en": "Mercury", "hi": "पारा" }
+      ],
+      "correct": 0
+    }
+  ]
+}

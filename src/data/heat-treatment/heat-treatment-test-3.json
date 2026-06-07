@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 3",
+  "questions": [
+    {
+      "id": 41,
+      "question": {
+        "en": "The melting point of pure iron is approximately —",
+        "hi": "शुद्ध लोहे का गलनांक लगभग कितना होता है —"
+      },
+      "options": [
+        { "en": "900°C", "hi": "900°C" },
+        { "en": "1535°C", "hi": "1535°C" },
+        { "en": "1100°C", "hi": "1100°C" },
+        { "en": "2500°C", "hi": "2500°C" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "The purpose of alloying is to —",
+        "hi": "अलॉयिंग (मिश्रधातु बनाने) का उद्देश्य क्या है?"
+      },
+      "options": [
+        { "en": "Reduce strength", "hi": "शक्ति कम करना" },
+        { "en": "Improve properties", "hi": "गुणों में सुधार करना" },
+        { "en": "Weaken", "hi": "कमजोर करना" },
+        { "en": "Increase cost", "hi": "लागत बढ़ाना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "High-speed steel contains mainly —",
+        "hi": "हाई-स्पीड स्टील में मुख्य रूप से क्या होता है?"
+      },
+      "options": [
+        { "en": "Tungsten and Molybdenum", "hi": "टंगस्टन और मोलिब्डेनम" },
+        { "en": "Nickel and Carbon", "hi": "निकेल और कार्बन" },
+        { "en": "Zinc and Tin", "hi": "जिंक और टिन" },
+        { "en": "Copper and Lead", "hi": "तांबा और सीसा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "Galvanization is coating of —",
+        "hi": "गैल्वनाइजेशन किसकी कोटिंग है —"
+      },
+      "options": [
+        { "en": "Zinc on iron", "hi": "लोहे पर जिंक" },
+        { "en": "Nickel on steel", "hi": "स्टील पर निकेल" },
+        { "en": "Tin on copper", "hi": "तांबे पर टिन" },
+        { "en": "Lead on iron", "hi": "लोहे पर सीसा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "Stainless steel is used for —",
+        "hi": "स्टेनलेस स्टील का उपयोग किसके लिए किया जाता है?"
+      },
+      "options": [
+        { "en": "Corrosion resistance", "hi": "संक्षारण (जंग) प्रतिरोध" },
+        { "en": "Magnetic use", "hi": "चुंबकीय उपयोग" },
+        { "en": "Softness", "hi": "मुलायमपन" },
+        { "en": "Casting", "hi": "ढलाई" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "The type of iron most suitable for forging is —",
+        "hi": "फोर्जिंग के लिए सबसे उपयुक्त लोहे का प्रकार है —"
+      },
+      "options": [
+        { "en": "Pig iron", "hi": "कच्चा लोहा" },
+        { "en": "Wrought iron", "hi": "पिटवाँ लोहा" },
+        { "en": "Cast iron", "hi": "ढलवाँ लोहा" },
+        { "en": "Steel", "hi": "स्टील" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "The process of hardening by hammering or rolling is —",
+        "hi": "हथौड़े या रोलिंग द्वारा कठोर करने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Work hardening", "hi": "वर्क हार्डनिंग" },
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Quenching", "hi": "शमन (Quenching)" },
+        { "en": "Nitriding", "hi": "नाइट्राइडिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "The heat treatment process used to soften hardened steel is —",
+        "hi": "कठोर स्टील को मुलायम करने के लिए प्रयुक्त ऊष्मा उपचार प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Hardening", "hi": "हार्डनिंग" },
+        { "en": "Tempering", "hi": "टेम्परिंग" },
+        { "en": "Carburizing", "hi": "कार्बुराइजिंग" },
+        { "en": "Case hardening", "hi": "केस हार्डनिंग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "The most commonly used engineering metal is —",
+        "hi": "सबसे अधिक इस्तेमाल की जाने वाली इंजीनियरिंग धातु है —"
+      },
+      "options": [
+        { "en": "Steel", "hi": "स्टील" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Brass", "hi": "पीतल" },
+        { "en": "Zinc", "hi": "जिंक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "Non-metal used in steel making to remove impurities is —",
+        "hi": "स्टील निर्माण में अशुद्धियों को दूर करने के लिए उपयोग किया जाने वाला गैर-धातु है —"
+      },
+      "options": [
+        { "en": "Limestone", "hi": "चूना पत्थर" },
+        { "en": "Carbon", "hi": "कार्बन" },
+        { "en": "Tin", "hi": "टिन" },
+        { "en": "Nickel", "hi": "निकेल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "The standard unit of drawing dimension is —",
+        "hi": "ड्राइंग आयाम की मानक इकाई क्या है?"
+      },
+      "options": [
+        { "en": "cm", "hi": "सेमी (cm)" },
+        { "en": "mm", "hi": "मिमी (mm)" },
+        { "en": "inch", "hi": "इंच (inch)" },
+        { "en": "m", "hi": "मीटर (m)" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "Orthographic projection represents —",
+        "hi": "ऑर्थोग्राफिक प्रोजेक्शन क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "3D view", "hi": "3D दृश्य" },
+        { "en": "2D view of 3D object", "hi": "3D वस्तु का 2D दृश्य" },
+        { "en": "Perspective", "hi": "परिदृश्य" },
+        { "en": "Pictorial", "hi": "चित्रात्मक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "In first-angle projection, the object lies —",
+        "hi": "प्रथम-कोण (first-angle) प्रक्षेपण में, वस्तु कहाँ स्थित होती है?"
+      },
+      "options": [
+        { "en": "Between observer and plane", "hi": "पर्यवेक्षक और तल के बीच" },
+        { "en": "Between plane and observer", "hi": "तल और पर्यवेक्षक के बीच" },
+        { "en": "On both sides", "hi": "दोनों तरफ" },
+        { "en": "None", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "The symbol for first-angle projection is —",
+        "hi": "प्रथम-कोण प्रक्षेपण का प्रतीक है —"
+      },
+      "options": [
+        { "en": "Triangle", "hi": "त्रिकोण" },
+        { "en": "Frustum of cone", "hi": "शंकु का छिन्नक" },
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Square", "hi": "वर्ग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "The top view in first-angle projection is placed —",
+        "hi": "प्रथम-कोण प्रक्षेपण में शीर्ष दृश्य (top view) कहाँ रखा जाता है?"
+      },
+      "options": [
+        { "en": "Above front view", "hi": "सामने के दृश्य के ऊपर" },
+        { "en": "Below front view", "hi": "सामने के दृश्य के नीचे" },
+        { "en": "Right side", "hi": "दाईं ओर" },
+        { "en": "Left side", "hi": "बाईं ओर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "The line representing visible edges is —",
+        "hi": "दिखने वाले किनारों को दर्शाने वाली रेखा है —"
+      },
+      "options": [
+        { "en": "Continuous thick line", "hi": "निरंतर मोटी रेखा" },
+        { "en": "Dashed", "hi": "डैश की गई रेखा" },
+        { "en": "Dotted", "hi": "बिंदीदार रेखा" },
+        { "en": "Chain", "hi": "चेन रेखा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "Hidden edges are shown by —",
+        "hi": "छिपे हुए किनारों को किसके द्वारा दिखाया जाता है?"
+      },
+      "options": [
+        { "en": "Dashed lines", "hi": "डैश की गई रेखाओं" },
+        { "en": "Thick solid", "hi": "मोटी ठोस रेखा" },
+        { "en": "Thin continuous", "hi": "पतली निरंतर रेखा" },
+        { "en": "Chain line", "hi": "चेन रेखा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "Center lines are shown by —",
+        "hi": "केंद्र रेखाएं किसके द्वारा दिखाई जाती हैं?"
+      },
+      "options": [
+        { "en": "Continuous", "hi": "निरंतर रेखा" },
+        { "en": "Long and short dashes", "hi": "लंबे और छोटे डैश" },
+        { "en": "Thick", "hi": "मोटी रेखा" },
+        { "en": "Zigzag", "hi": "ज़िगज़ैग रेखा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "The section lines are drawn —",
+        "hi": "सेक्शन रेखाएं किस कोण पर खींची जाती हैं?"
+      },
+      "options": [
+        { "en": "At 45° inclination", "hi": "45° के झुकाव पर" },
+        { "en": "30°", "hi": "30°" },
+        { "en": "60°", "hi": "60°" },
+        { "en": "90°", "hi": "90°" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "Dimension lines are terminated by —",
+        "hi": "डायमेंशन रेखाएं किसके द्वारा समाप्त होती हैं?"
+      },
+      "options": [
+        { "en": "Arrowheads", "hi": "तीर के निशान (Arrowheads)" },
+        { "en": "Dots", "hi": "बिंदु (Dots)" },
+        { "en": "Dashes", "hi": "डैश" },
+        { "en": "Squares", "hi": "वर्ग" }
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 8",
+  "questions": [
+    {
+      "id": 41,
+      "question": {
+        "en": "Brittleness means —",
+        "hi": "भंगुरता (Brittleness) का अर्थ है —"
+      },
+      "options": [
+        { "en": "Breaking without much deformation", "hi": "बिना अधिक विरूपण के टूटना" },
+        { "en": "Flexibility", "hi": "लचीलापन" },
+        { "en": "Softness", "hi": "कोमलता" },
+        { "en": "Toughness", "hi": "दृढ़ता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "A good bearing material should have —",
+        "hi": "एक अच्छी बियरिंग सामग्री में क्या होना चाहिए?"
+      },
+      "options": [
+        { "en": "High hardness", "hi": "उच्च कठोरता" },
+        { "en": "Low coefficient of friction", "hi": "घर्षण का निम्न गुणांक" },
+        { "en": "Low melting point", "hi": "निम्न गलनांक" },
+        { "en": "High weight", "hi": "उच्च भार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "The physical property depending on temperature change is —",
+        "hi": "तापमान परिवर्तन पर निर्भर भौतिक गुण है —"
+      },
+      "options": [
+        { "en": "Thermal expansion", "hi": "तापीय विस्तार" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Strength", "hi": "सामर्थ्य" },
+        { "en": "Ductility", "hi": "तन्यता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "Corrosion resistance increases with addition of —",
+        "hi": "किसके मिलाए जाने से संक्षारण प्रतिरोध बढ़ता है?"
+      },
+      "options": [
+        { "en": "Chromium and Nickel", "hi": "क्रोमियम और निकेल" },
+        { "en": "Sulfur", "hi": "सल्फर" },
+        { "en": "Phosphorus", "hi": "फॉस्फोरस" },
+        { "en": "Manganese", "hi": "मैंगनीज" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "Chemical property is the one which involves —",
+        "hi": "रासायनिक गुण वह है जिसमें शामिल है —"
+      },
+      "options": [
+        { "en": "Reaction with other substances", "hi": "अन्य पदार्थों के साथ प्रतिक्रिया" },
+        { "en": "Weight only", "hi": "केवल भार" },
+        { "en": "Temperature only", "hi": "केवल तापमान" },
+        { "en": "Density only", "hi": "केवल घनत्व" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "Hardness test using diamond cone is —",
+        "hi": "हीरे के शंकु का उपयोग करके किया जाने वाला कठोरता परीक्षण है —"
+      },
+      "options": [
+        { "en": "Brinell", "hi": "ब्रिनेल" },
+        { "en": "Vickers", "hi": "विकर्स" },
+        { "en": "Rockwell", "hi": "रॉकवेल" },
+        { "en": "Izod", "hi": "आइज़ोड" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "The heat treatment process that refines grain and relieves internal stress is —",
+        "hi": "ग्रेन को परिष्कृत करने और आंतरिक तनाव को दूर करने वाली ऊष्मा उपचार प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Normalizing", "hi": "नॉर्मलाइजिंग" },
+        { "en": "Hardening", "hi": "हार्डनिंग" },
+        { "en": "Tempering", "hi": "टेम्परिंग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "Hardening temperature for medium carbon steel is around —",
+        "hi": "मध्यम कार्बन स्टील के लिए हार्डनिंग तापमान लगभग होता है —"
+      },
+      "options": [
+        { "en": "750-850°C", "hi": "750-850°C" },
+        { "en": "500°C", "hi": "500°C" },
+        { "en": "900°C", "hi": "900°C" },
+        { "en": "400°C", "hi": "400°C" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "Tempering temperature is generally —",
+        "hi": "टेम्परिंग तापमान सामान्यतः होता है —"
+      },
+      "options": [
+        { "en": "200-600°C", "hi": "200-600°C" },
+        { "en": "800°C", "hi": "800°C" },
+        { "en": "100°C", "hi": "100°C" },
+        { "en": "900°C", "hi": "900°C" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "The sequence of operations in hardening and tempering is —",
+        "hi": "हार्डनिंग और टेम्परिंग में संचालन का क्रम है —"
+      },
+      "options": [
+        { "en": "Heat -> Quench -> Reheat -> Cool", "hi": "गर्म करना -> शमन -> फिर से गर्म करना -> ठंडा करना" },
+        { "en": "Cool -> Heat", "hi": "ठंडा -> गर्म" },
+        { "en": "Temper -> Anneal", "hi": "टेम्पर -> अनील" },
+        { "en": "Quench -> Polish", "hi": "शमन -> पॉलिश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "Engineering drawing is also known as —",
+        "hi": "इंजीनियरिंग ड्राइंग को और किस नाम से जाना जाता है?"
+      },
+      "options": [
+        { "en": "Artistic drawing", "hi": "कलात्मक आरेखण" },
+        { "en": "Technical drawing", "hi": "तकनीकी आरेखण" },
+        { "en": "Rough sketch", "hi": "रफ स्केच" },
+        { "en": "Free-hand art", "hi": "फ्री-हैंड आर्ट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "The standard organization for engineering drawing is —",
+        "hi": "इंजीनियरिंग ड्राइंग के लिए मानक संगठन है —"
+      },
+      "options": [
+        { "en": "BIS (Bureau of Indian Standards)", "hi": "BIS (भारतीय मानक ब्यूरो)" },
+        { "en": "BHEL", "hi": "BHEL" },
+        { "en": "CSIR", "hi": "CSIR" },
+        { "en": "TATA", "hi": "TATA" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "The full form of BIS is —",
+        "hi": "BIS का पूर्ण रूप है —"
+      },
+      "options": [
+        { "en": "Bureau of Industrial Science", "hi": "ब्यूरो ऑफ इंडस्ट्रियल साइंस" },
+        { "en": "Bureau of Indian Standards", "hi": "ब्यूरो ऑफ इंडियन स्टैंडर्ड्स" },
+        { "en": "Basic Indian System", "hi": "बेसिक इंडियन सिस्टम" },
+        { "en": "Bharat Industrial Setup", "hi": "भारत इंडस्ट्रियल सेटअप" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "The standard sheet size A0 has an area of —",
+        "hi": "मानक शीट आकार A0 का क्षेत्रफल है —"
+      },
+      "options": [
+        { "en": "1 m²", "hi": "1 वर्ग मीटर" },
+        { "en": "0.5 m²", "hi": "0.5 वर्ग मीटर" },
+        { "en": "2 m²", "hi": "2 वर्ग मीटर" },
+        { "en": "1 m²", "hi": "1 वर्ग मीटर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "The scale 1:2 means —",
+        "hi": "स्केल 1:2 का अर्थ है —"
+      },
+      "options": [
+        { "en": "Drawing is half of actual size", "hi": "ड्राइंग वास्तविक आकार की आधी है" },
+        { "en": "Double size", "hi": "दोगुना आकार" },
+        { "en": "Same size", "hi": "समान आकार" },
+        { "en": "Enlarged drawing", "hi": "बढ़ाई गई ड्राइंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "Orthographic projection represents —",
+        "hi": "ऑर्थोग्राफिक प्रोजेक्शन क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "Object in several views at right angles", "hi": "समकोण पर कई दृश्यों में वस्तु" },
+        { "en": "Object in perspective", "hi": "परिप्रेक्ष्य में वस्तु" },
+        { "en": "Isometric view", "hi": "आइसोमेट्रिक दृश्य" },
+        { "en": "Pictorial drawing", "hi": "चित्रात्मक आरेखण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "In first-angle projection, the object lies —",
+        "hi": "प्रथम-कोण प्रक्षेपण में वस्तु कहाँ स्थित होती है?"
+      },
+      "options": [
+        { "en": "Between plane and observer", "hi": "तल और पर्यवेक्षक के बीच" },
+        { "en": "Between observer and plane", "hi": "पर्यवेक्षक और तल के बीच" },
+        { "en": "Above plane", "hi": "तल के ऊपर" },
+        { "en": "Behind plane", "hi": "तल के पीछे" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "The symbol used to denote first angle projection is —",
+        "hi": "प्रथम-कोण प्रक्षेपण को दर्शाने के लिए प्रयुक्त प्रतीक है —"
+      },
+      "options": [
+        { "en": "Circle", "hi": "वृत्त" },
+        { "en": "Truncated cone symbol", "hi": "छिन्नक शंकु प्रतीक" },
+        { "en": "Triangle", "hi": "त्रिकोण" },
+        { "en": "Square", "hi": "वर्ग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "In third-angle projection, the object lies —",
+        "hi": "तृतीय-कोण प्रक्षेपण में वस्तु कहाँ स्थित होती है?"
+      },
+      "options": [
+        { "en": "Between plane and observer", "hi": "तल और पर्यवेक्षक के बीच" },
+        { "en": "Between observer and plane", "hi": "पर्यवेक्षक और तल के बीच" },
+        { "en": "Behind observer", "hi": "पर्यवेक्षक के पीछे" },
+        { "en": "Above plane", "hi": "तल के ऊपर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "Sectional view is used to —",
+        "hi": "सेक्शनल व्यू का उपयोग किया जाता है —"
+      },
+      "options": [
+        { "en": "Show interior details", "hi": "आंतरिक विवरण दिखाने के लिए" },
+        { "en": "Increase drawing size", "hi": "ड्राइंग का आकार बढ़ाने के लिए" },
+        { "en": "Hide object", "hi": "वस्तु को छिपाने के लिए" },
+        { "en": "Reduce complexity", "hi": "जटिलता कम करने के लिए" }
+      ],
+      "correct": 0
+    }
+  ]
+}

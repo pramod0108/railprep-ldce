@@ -1,1 +1,12 @@
-[]
+[
+  { "id": "heat-treatment-test-1", "file": "heat-treatment-test-1.json", "paperName": "Heat Treatment Mock Test – 1" },
+  { "id": "heat-treatment-test-2", "file": "heat-treatment-test-2.json", "paperName": "Heat Treatment Mock Test – 2" },
+  { "id": "heat-treatment-test-3", "file": "heat-treatment-test-3.json", "paperName": "Heat Treatment Mock Test – 3" },
+  { "id": "heat-treatment-test-4", "file": "heat-treatment-test-4.json", "paperName": "Heat Treatment Mock Test – 4" },
+  { "id": "heat-treatment-test-5", "file": "heat-treatment-test-5.json", "paperName": "Heat Treatment Mock Test – 5" },
+  { "id": "heat-treatment-test-6", "file": "heat-treatment-test-6.json", "paperName": "Heat Treatment Mock Test – 6" },
+  { "id": "heat-treatment-test-7", "file": "heat-treatment-test-7.json", "paperName": "Heat Treatment Mock Test – 7" },
+  { "id": "heat-treatment-test-8", "file": "heat-treatment-test-8.json", "paperName": "Heat Treatment Mock Test – 8" },
+  { "id": "heat-treatment-test-9", "file": "heat-treatment-test-9.json", "paperName": "Heat Treatment Mock Test – 9" },
+  { "id": "heat-treatment-test-10", "file": "heat-treatment-test-10.json", "paperName": "Heat Treatment Mock Test – 10" }
+]

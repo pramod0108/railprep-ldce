@@ -1,0 +1,285 @@
+{
+  "paperName": "Technical Knowledge Mock Test – 7",
+  "questions": [
+    {
+      "id": 21,
+      "question": {
+        "en": "The hardness of a metal can be improved by —",
+        "hi": "किसी धातु की कठोरता किसके द्वारा सुधारी जा सकती है?"
+      },
+      "options": [
+        { "en": "Cooling", "hi": "ठंडा करना" },
+        { "en": "Heat treatment", "hi": "ऊष्मा उपचार" },
+        { "en": "Hammering only", "hi": "केवल हथौड़े से पीटना" },
+        { "en": "Casting", "hi": "ढलाई" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "The process of heating and cooling metals to change their properties is —",
+        "hi": "धातुओं के गुणों को बदलने के लिए उन्हें गर्म और ठंडा करने की प्रक्रिया है —"
+      },
+      "options": [
+        { "en": "Heat treatment", "hi": "ऊष्मा उपचार" },
+        { "en": "Hardening", "hi": "हार्डनिंग" },
+        { "en": "Casting", "hi": "ढलाई" },
+        { "en": "Forging", "hi": "फोर्जिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Annealing is used to —",
+        "hi": "अनीलिंग (Annealing) का उपयोग किया जाता है —"
+      },
+      "options": [
+        { "en": "Soften the metal", "hi": "धातु को नरम करने के लिए" },
+        { "en": "Harden", "hi": "कठोर करने के लिए" },
+        { "en": "Temper", "hi": "टेम्पर करने के लिए" },
+        { "en": "Quench", "hi": "शमन (Quench) के लिए" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Quenching means —",
+        "hi": "शमन (Quenching) का अर्थ है —"
+      },
+      "options": [
+        { "en": "Heating slowly", "hi": "धीरे-धीरे गर्म करना" },
+        { "en": "Cooling rapidly", "hi": "तेजी से ठंडा करना" },
+        { "en": "Cooling slowly", "hi": "धीरे-धीरे ठंडा करना" },
+        { "en": "Polishing", "hi": "पॉलिश करना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "The medium used for quenching is —",
+        "hi": "शमन के लिए प्रयुक्त माध्यम है —"
+      },
+      "options": [
+        { "en": "Water or oil", "hi": "पानी या तेल" },
+        { "en": "Steam", "hi": "भाप" },
+        { "en": "Air only", "hi": "केवल वायु" },
+        { "en": "Gas", "hi": "गैस" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Tempering is done after —",
+        "hi": "टेम्परिंग किसके बाद की जाती है?"
+      },
+      "options": [
+        { "en": "Hardening", "hi": "हार्डनिंग" },
+        { "en": "Annealing", "hi": "अनीलिंग" },
+        { "en": "Normalizing", "hi": "नॉर्मलाइजिंग" },
+        { "en": "Forging", "hi": "फोर्जिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "The purpose of tempering is to —",
+        "hi": "टेम्परिंग का उद्देश्य है —"
+      },
+      "options": [
+        { "en": "Reduce brittleness and increase toughness", "hi": "भंगुरता कम करना और दृढ़ता बढ़ाना" },
+        { "en": "Increase hardness only", "hi": "केवल कठोरता बढ़ाना" },
+        { "en": "Remove rust", "hi": "जंग हटाना" },
+        { "en": "Give color", "hi": "रंग देना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Normalizing is performed to —",
+        "hi": "नॉर्मलाइजिंग किसलिए की जाती है?"
+      },
+      "options": [
+        { "en": "Soften", "hi": "मुलायम करने के लिए" },
+        { "en": "Refine grain structure", "hi": "ग्रेन संरचना को परिष्कृत करने के लिए" },
+        { "en": "Polish", "hi": "पॉलिश करने के लिए" },
+        { "en": "Cool fast", "hi": "तेजी से ठंडा करने के लिए" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "Case hardening is used for —",
+        "hi": "केस हार्डनिंग का उपयोग होता है —"
+      },
+      "options": [
+        { "en": "Improving surface hardness", "hi": "सतही कठोरता में सुधार" },
+        { "en": "Reducing wear", "hi": "घिसाव कम करने" },
+        { "en": "Increasing ductility", "hi": "तन्यता बढ़ाने" },
+        { "en": "Both A and B", "hi": "A और B दोनों" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Carburizing involves —",
+        "hi": "कार्बुराइजिंग में शामिल है —"
+      },
+      "options": [
+        { "en": "Adding carbon to surface layer", "hi": "सतह की परत में कार्बन जोड़ना" },
+        { "en": "Removing carbon", "hi": "कार्बन निकालना" },
+        { "en": "Melting metal", "hi": "धातु पिघलाना" },
+        { "en": "Tempering", "hi": "टेम्परिंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "Nitriding is done by introducing —",
+        "hi": "नाइट्राइडिंग क्या प्रवेश कराकर की जाती है?"
+      },
+      "options": [
+        { "en": "Nitrogen", "hi": "नाइट्रोजन" },
+        { "en": "Carbon", "hi": "कार्बन" },
+        { "en": "Oxygen", "hi": "ऑक्सीजन" },
+        { "en": "Sulfur", "hi": "सल्फर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "Cyaniding uses —",
+        "hi": "सायनाइडिंग (Cyaniding) में उपयोग होता है —"
+      },
+      "options": [
+        { "en": "Cyanide salts", "hi": "सायनाइड लवण" },
+        { "en": "Water", "hi": "जल" },
+        { "en": "Acids", "hi": "अम्ल" },
+        { "en": "Steam", "hi": "भाप" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "The metal which can be magnetized easily is —",
+        "hi": "वह धातु जिसे आसानी से चुंबकित किया जा सकता है, है —"
+      },
+      "options": [
+        { "en": "Iron", "hi": "लोहा" },
+        { "en": "Copper", "hi": "तांबा" },
+        { "en": "Brass", "hi": "पीतल" },
+        { "en": "Lead", "hi": "सीसा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "The property of a material to regain its shape after deformation is —",
+        "hi": "विरूपण के बाद सामग्री के अपना आकार पुनः प्राप्त करने का गुण है —"
+      },
+      "options": [
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" },
+        { "en": "Ductility", "hi": "तन्यता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "The ability to be drawn into wire is —",
+        "hi": "तार में खींचे जाने की क्षमता है —"
+      },
+      "options": [
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" },
+        { "en": "Toughness", "hi": "दृढ़ता" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "The ability to be beaten into sheets is —",
+        "hi": "चादरों में पीटे जाने की क्षमता है —"
+      },
+      "options": [
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Toughness", "hi": "दृढ़ता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "The resistance to wear or scratching is —",
+        "hi": "पहनने (wear) या खरोंच का प्रतिरोध है —"
+      },
+      "options": [
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Strength", "hi": "सामर्थ्य" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Fatigue", "hi": "थकान" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "The resistance of a metal to breaking under load is —",
+        "hi": "भार के तहत टूटने के प्रति धातु का प्रतिरोध है —"
+      },
+      "options": [
+        { "en": "Tensile strength", "hi": "तन्य शक्ति" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Ductility", "hi": "तन्यता" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "The property due to which a metal can absorb energy before fracture is —",
+        "hi": "वह गुण जिसके कारण धातु फ्रैक्चर से पहले ऊर्जा को अवशोषित कर सकती है —"
+      },
+      "options": [
+        { "en": "Toughness", "hi": "दृढ़ता" },
+        { "en": "Elasticity", "hi": "प्रत्यास्थता" },
+        { "en": "Plasticity", "hi": "सुघट्यता" },
+        { "en": "Malleability", "hi": "आघातवर्धनीयता" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "The property to resist repeated stresses is —",
+        "hi": "बार-बार पड़ने वाले तनावों (repeated stresses) का विरोध करने का गुण है —"
+      },
+      "options": [
+        { "en": "Fatigue strength", "hi": "थकान सामर्थ्य" },
+        { "en": "Hardness", "hi": "कठोरता" },
+        { "en": "Brittleness", "hi": "भंगुरता" },
+        { "en": "Ductility", "hi": "तन्यता" }
+      ],
+      "correct": 0
+    }
+  ]
+}
