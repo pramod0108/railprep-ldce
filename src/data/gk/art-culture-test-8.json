@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 8",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "'Chhath Puja', one of the most ancient Vedic festivals, is dedicated to —", "hi": "अत्यंत प्राचीन वैदिक त्योहार 'छठ पूजा' किस देवता को समर्पित है?" },
+      "options": [
+        { "en": "Lord Ganesha", "hi": "भगवान गणेश" },
+        { "en": "Sun God (Surya)", "hi": "सूर्य देव" },
+        { "en": "Lord Krishna", "hi": "भगवान कृष्ण" },
+        { "en": "Goddess Durga", "hi": "देवी दुर्गा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": { "en": "The ancient Indian university of 'Takshashila' (Taxila), a major centre of learning, is located in present-day —", "hi": "ज्ञान का महान प्राचीन केंद्र 'तक्षशिला' (टैक्सिला) विश्वविद्यालय वर्तमान में किस देश में स्थित है?" },
+      "options": [
+        { "en": "Pakistan", "hi": "पाकिस्तान" },
+        { "en": "Afghanistan", "hi": "अफगानिस्तान" },
+        { "en": "Bangladesh", "hi": "बांग्लादेश" },
+        { "en": "Nepal", "hi": "नेपाल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": { "en": "The 'Navarasa' (nine emotions) in classical Indian performing arts are described in —", "hi": "शास्त्रीय भारतीय प्रदर्शन कलाओं में 'नवरस' (नौ भाव) का वर्णन किसमें किया गया है?" },
+      "options": [
+        { "en": "Natyashastra (Bharata Muni)", "hi": "नाट्यशास्त्र (भरत मुनि)" },
+        { "en": "Arthashastra (Chanakya)", "hi": "अर्थशास्त्र (चाणक्य)" },
+        { "en": "Ashtadhyayi (Panini)", "hi": "अष्टाध्यायी (पाणिनि)" },
+        { "en": "Ramayana (Valmiki)", "hi": "रामायण (वाल्मीकि)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": { "en": "The 'Shiva Nataraja' statue depicts —", "hi": "'शिव नटराज' की प्रतिमा क्या दर्शाती है?" },
+      "options": [
+        { "en": "The cosmic dance of Shiva", "hi": "शिव का ब्रह्मांडीय नृत्य (कॉस्मिक डांस)" },
+        { "en": "Shiva as a warrior", "hi": "योद्धा रूप में शिव" },
+        { "en": "Shiva in meditation", "hi": "ध्यान मुद्रा में शिव" },
+        { "en": "Shiva with Parvati", "hi": "पार्वती के साथ शिव" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": { "en": "The 'Ragamala Paintings' depict —", "hi": "'रागमाला चित्रकारी' में क्या चित्रित किया जाता है?" },
+      "options": [
+        { "en": "Musical modes (Ragas)", "hi": "संगीत के स्वर-राग" },
+        { "en": "Battle scenes", "hi": "युद्ध के दृश्य" },
+        { "en": "Kings and Queens", "hi": "राजा और रानियाँ" },
+        { "en": "Religious texts", "hi": "धार्मिक ग्रंथ" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": { "en": "The 'Harappan Seals' were mostly made of —", "hi": "'हड़प्पा मुहरें' (Harappan Seals) अधिकतर किससे बनी थीं?" },
+      "options": [
+        { "en": "Steatite", "hi": "सिलखड़ी (Steatite)" },
+        { "en": "Bronze", "hi": "कांसा" },
+        { "en": "Gold", "hi": "सोना" },
+        { "en": "Terracotta", "hi": "टेराकोटा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": { "en": "'Kolam' is a traditional floor art of —", "hi": "'कोलम' किस राज्य की पारंपरिक भूमि कला है?" },
+      "options": [
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": { "en": "'Thangka Paintings' are a traditional art form of —", "hi": "'थांका चित्रकारी' किस क्षेत्र की पारंपरिक कला है?" },
+      "options": [
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Bengal", "hi": "बंगाल" },
+        { "en": "Tibet and Ladakh", "hi": "तिब्बत और लद्दाख" },
+        { "en": "Assam", "hi": "असम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": { "en": "The 'Iron Pillar' in Delhi was built by —", "hi": "दिल्ली का 'लौह स्तंभ (Iron Pillar)' किसने बनवाया था?" },
+      "options": [
+        { "en": "Ashoka", "hi": "अशोक" },
+        { "en": "Chandragupta II (Vikramaditya)", "hi": "चंद्रगुप्त द्वितीय (विक्रमादित्य)" },
+        { "en": "Harsha", "hi": "हर्ष" },
+        { "en": "Samudragupta", "hi": "समुद्रगुप्त" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": { "en": "The 'Hoysaleswara Temple' is located in —", "hi": "'होयसलेश्वर मंदिर' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Madurai", "hi": "मदुरई" },
+        { "en": "Bhubaneswar", "hi": "भुवनेश्वर" },
+        { "en": "Tanjore", "hi": "तंजौर" },
+        { "en": "Halebidu, Karnataka", "hi": "हलेबिदु, कर्नाटक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": { "en": "The 'Amaravati Stupa' is located in —", "hi": "'अमरावती स्तूप' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Gujarat", "hi": "गुजरात" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": { "en": "'Koodiyattam' is recognized by UNESCO as the oldest living classical theatre form of —", "hi": "UNESCO द्वारा मान्यता प्राप्त सबसे पुरानी जीवित शास्त्रीय रंगमंच परंपरा 'कूडियाट्टम' किस राज्य की है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Kerala", "hi": "केरल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "question": { "en": "The 'Char Dham' includes Badrinath, Dwarka, Puri and —", "hi": "'चार धाम' में बद्रीनाथ, द्वारका, पुरी और कौन सा शामिल है?" },
+      "options": [
+        { "en": "Rameswaram", "hi": "रामेश्वरम" },
+        { "en": "Varanasi", "hi": "वाराणसी" },
+        { "en": "Amarnath", "hi": "अमरनाथ" },
+        { "en": "Kedarnath", "hi": "केदारनाथ" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": { "en": "The 'Lotus' symbol represents —", "hi": "'कमल' का प्रतीक किसका द्योतक है?" },
+      "options": [
+        { "en": "Wealth", "hi": "धन-संपत्ति" },
+        { "en": "Purity and Divinity", "hi": "पवित्रता और दिव्यता" },
+        { "en": "Victory", "hi": "विजय" },
+        { "en": "Courage", "hi": "साहस" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": { "en": "The 'Brihadeeswarar Temple' was built by —", "hi": "'बृहदेश्वर मंदिर' का निर्माण किसने करवाया था?" },
+      "options": [
+        { "en": "Rajendra Chola", "hi": "राजेंद्र चोल" },
+        { "en": "Ashoka", "hi": "अशोक" },
+        { "en": "Raja Raja Chola I", "hi": "राजा राजा चोल प्रथम" },
+        { "en": "Krishna Deva Raya", "hi": "कृष्ण देव राय" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": { "en": "The 'Gateway of India' was inaugurated in —", "hi": "'गेटवे ऑफ इंडिया' का उद्घाटन किस वर्ष हुआ?" },
+      "options": [
+        { "en": "1919", "hi": "1919" },
+        { "en": "1942", "hi": "1942" },
+        { "en": "1950", "hi": "1950" },
+        { "en": "1924", "hi": "1924" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "question": { "en": "'Chhau Dance' uses masks made of —", "hi": "'छाऊ नृत्य' में किस सामग्री के मुखौटे उपयोग किए जाते हैं?" },
+      "options": [
+        { "en": "Clay", "hi": "मिट्टी" },
+        { "en": "Papier-mache", "hi": "पेपियर-माशे (Papier-mache)" },
+        { "en": "Metal", "hi": "धातु" },
+        { "en": "Wood", "hi": "लकड़ी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": { "en": "The 'Veerabhadra Temple' (Lepakshi) is known for its —", "hi": "'वीरभद्र मंदिर' (लेपाक्षी) किसके लिए प्रसिद्ध है?" },
+      "options": [
+        { "en": "Musical Steps", "hi": "संगीत सीढ़ियाँ" },
+        { "en": "Bronze Idol", "hi": "कांस्य मूर्ति" },
+        { "en": "Frescoes", "hi": "भित्तिचित्र (फ्रेस्को)" },
+        { "en": "Hanging Pillar", "hi": "लटकता हुआ स्तंभ" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "question": { "en": "The 'Panchatantra' was written by —", "hi": "'पंचतंत्र' की रचना किसने की?" },
+      "options": [
+        { "en": "Vishnu Sharma", "hi": "विष्णु शर्मा" },
+        { "en": "Kalidasa", "hi": "कालिदास" },
+        { "en": "Valmiki", "hi": "वाल्मीकि" },
+        { "en": "Chanakya", "hi": "चाणक्य" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": { "en": "'Sufism' is closely associated with —", "hi": "'सूफीवाद' किससे घनिष्ठ रूप से संबंधित है?" },
+      "options": [
+        { "en": "Jainism", "hi": "जैन धर्म" },
+        { "en": "Buddhism", "hi": "बौद्ध धर्म" },
+        { "en": "Mystical Islamic Tradition", "hi": "रहस्यवादी इस्लामिक परंपरा" },
+        { "en": "Hinduism", "hi": "हिंदू धर्म" }
+      ],
+      "correct": 2
+    }
+  ]
+}

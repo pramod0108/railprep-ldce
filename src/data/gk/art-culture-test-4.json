@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 4",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "The 'Chera, Chola and Pandya' kingdoms flourished in —", "hi": "'चेर, चोल और पांड्य' राज्य किस क्षेत्र में फले-फूले?" },
+      "options": [
+        { "en": "North India", "hi": "उत्तर भारत" },
+        { "en": "East India", "hi": "पूर्वी भारत" },
+        { "en": "West India", "hi": "पश्चिम भारत" },
+        { "en": "South India", "hi": "दक्षिण भारत" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 2,
+      "question": { "en": "The 'Great Bath' of the Indus Valley Civilization was found at —", "hi": "सिंधु घाटी सभ्यता का 'महास्नानागार' (Great Bath) कहाँ पाया गया?" },
+      "options": [
+        { "en": "Harappa", "hi": "हड़प्पा" },
+        { "en": "Dholavira", "hi": "धोलावीरा" },
+        { "en": "Mohenjo-Daro", "hi": "मोहनजोदड़ो" },
+        { "en": "Kalibangan", "hi": "कालीबंगन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": { "en": "The 'Lotus Temple' in Delhi belongs to —", "hi": "दिल्ली का 'कमल मंदिर (Lotus Temple)' किस धर्म से संबंधित है?" },
+      "options": [
+        { "en": "Hinduism", "hi": "हिंदू धर्म" },
+        { "en": "Buddhism", "hi": "बौद्ध धर्म" },
+        { "en": "Sikhism", "hi": "सिख धर्म" },
+        { "en": "Baha'i Faith", "hi": "बहाई धर्म" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "question": { "en": "The 'Dilwara Temples' are famous for —", "hi": "'दिलवाड़ा मंदिर' किसके लिए प्रसिद्ध हैं?" },
+      "options": [
+        { "en": "Bronze art", "hi": "कांस्य कला" },
+        { "en": "Marble carvings", "hi": "संगमरमर की नक्काशी" },
+        { "en": "Paintings", "hi": "चित्रकारी" },
+        { "en": "Scripts", "hi": "लिपियाँ" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": { "en": "'Rangoli' is a form of —", "hi": "'रंगोली' किसका एक रूप है?" },
+      "options": [
+        { "en": "Classical dance", "hi": "शास्त्रीय नृत्य" },
+        { "en": "Pottery", "hi": "मृदभांड कला" },
+        { "en": "Sculpture", "hi": "मूर्तिकला" },
+        { "en": "Folk art design", "hi": "लोक कला डिज़ाइन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "question": { "en": "The 'Sangam literature' was written in —", "hi": "'संगम साहित्य' किस भाषा में लिखा गया?" },
+      "options": [
+        { "en": "Sanskrit", "hi": "संस्कृत" },
+        { "en": "Pali", "hi": "पालि" },
+        { "en": "Tamil", "hi": "तमिल" },
+        { "en": "Prakrit", "hi": "प्राकृत" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": { "en": "'Bhagavata Mela' is a dance drama from —", "hi": "'भागवत मेला' किस राज्य का नृत्य नाटक है?" },
+      "options": [
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Odisha", "hi": "ओडिशा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": { "en": "'Pung Cholom' dance uses which instrument?", "hi": "'पुंग चोलम' नृत्य में किस वाद्य यंत्र का उपयोग होता है?" },
+      "options": [
+        { "en": "Drum (Pung)", "hi": "ढोल (पुंग)" },
+        { "en": "Flute", "hi": "बाँसुरी" },
+        { "en": "Veena", "hi": "वीणा" },
+        { "en": "Tabla", "hi": "तबला" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": { "en": "'Nagamandala' ritual dance belongs to —", "hi": "'नागमंडल' अनुष्ठान नृत्य किस राज्य का है?" },
+      "options": [
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": { "en": "'Bharhut Stupa' is located in —", "hi": "'भरहुत स्तूप' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Madhya Pradesh", "hi": "मध्य प्रदेश" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Uttar Pradesh", "hi": "उत्तर प्रदेश" },
+        { "en": "Gujarat", "hi": "गुजरात" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": { "en": "Ancient 'Jain literature' was primarily composed in —", "hi": "प्राचीन 'जैन साहित्य' मुख्यतः किस भाषा में रचा गया था?" },
+      "options": [
+        { "en": "Sanskrit", "hi": "संस्कृत" },
+        { "en": "Prakrit", "hi": "प्राकृत" },
+        { "en": "Tamil", "hi": "तमिल" },
+        { "en": "Kannada", "hi": "कन्नड़" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": { "en": "'Cheriyal scroll painting' belongs to —", "hi": "'चेरियाल स्क्रॉल पेंटिंग' किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Telangana", "hi": "तेलंगाना" },
+        { "en": "Kerala", "hi": "केरल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": { "en": "The 'Ajmer Sharif Dargah' is associated with —", "hi": "'अजमेर शरीफ दरगाह' किससे संबंधित है?" },
+      "options": [
+        { "en": "Nizamuddin Auliya", "hi": "निज़ामुद्दीन औलिया" },
+        { "en": "Amir Khusrau", "hi": "अमीर खुसरो" },
+        { "en": "Bulleh Shah", "hi": "बुल्लेशाह" },
+        { "en": "Khwaja Moinuddin Chishti", "hi": "ख्वाजा मोइनुद्दीन चिश्ती" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 14,
+      "question": { "en": "'Sattriya' dance was introduced by —", "hi": "'सत्रीय' नृत्य किसने प्रारंभ किया?" },
+      "options": [
+        { "en": "Srimanta Sankaradeva", "hi": "श्रीमंत शंकरदेव" },
+        { "en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर" },
+        { "en": "Vallabhacharya", "hi": "वल्लभाचार्य" },
+        { "en": "Tulsidas", "hi": "तुलसीदास" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": { "en": "'Jharokha' in architecture refers to —", "hi": "वास्तुकला में 'झरोखा' किसे कहते हैं?" },
+      "options": [
+        { "en": "Dome", "hi": "गुंबद" },
+        { "en": "Overhanging balcony", "hi": "बाहर निकला हुआ बालकनी" },
+        { "en": "Pillar", "hi": "स्तंभ" },
+        { "en": "Gate", "hi": "द्वार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": { "en": "'Mughal paintings' reached their zenith during the reign of —", "hi": "'मुगल चित्रकला' किसके शासन काल में अपने चरम पर थी?" },
+      "options": [
+        { "en": "Babur", "hi": "बाबर" },
+        { "en": "Humayun", "hi": "हुमायूँ" },
+        { "en": "Jahangir", "hi": "जहाँगीर" },
+        { "en": "Aurangzeb", "hi": "औरंगज़ेब" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": { "en": "The 'Golden Temple' is located in —", "hi": "'स्वर्ण मंदिर (Golden Temple)' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Ludhiana", "hi": "लुधियाना" },
+        { "en": "Jalandhar", "hi": "जालंधर" },
+        { "en": "Amritsar", "hi": "अमृतसर" },
+        { "en": "Patiala", "hi": "पटियाला" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": { "en": "'Pandav Leni' caves are situated near —", "hi": "'पांडव लेणी' गुफाएँ कहाँ के निकट स्थित हैं?" },
+      "options": [
+        { "en": "Pune", "hi": "पुणे" },
+        { "en": "Ajanta", "hi": "अजंता" },
+        { "en": "Ellora", "hi": "एलोरा" },
+        { "en": "Nashik", "hi": "नासिक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "question": { "en": "The 'Char Minar' was built by —", "hi": "'चारमीनार' किसने बनवाया था?" },
+      "options": [
+        { "en": "Akbar", "hi": "अकबर" },
+        { "en": "Mohammad Quli Qutb Shah", "hi": "मोहम्मद कुली कुतुब शाह" },
+        { "en": "Shah Jahan", "hi": "शाहजहाँ" },
+        { "en": "Aurangzeb", "hi": "औरंगज़ेब" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": { "en": "'Vajrayana Buddhism' flourished in —", "hi": "'वज्रयान बौद्ध धर्म' किस क्षेत्र में फला-फूला?" },
+      "options": [
+        { "en": "Tibet and Eastern India", "hi": "तिब्बत और पूर्वी भारत" },
+        { "en": "South India", "hi": "दक्षिण भारत" },
+        { "en": "North India", "hi": "उत्तर भारत" },
+        { "en": "Sri Lanka", "hi": "श्रीलंका" }
+      ],
+      "correct": 0
+    }
+  ]
+}

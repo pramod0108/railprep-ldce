@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 6",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "'Pashmina' shawls are a traditional craft of —", "hi": "'पश्मीना' शॉल किस राज्य/केंद्र शासित प्रदेश की पारंपरिक शिल्पकला है?" },
+      "options": [
+        { "en": "Jammu & Kashmir", "hi": "जम्मू और कश्मीर" },
+        { "en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश" },
+        { "en": "Uttarakhand", "hi": "उत्तराखंड" },
+        { "en": "Rajasthan", "hi": "राजस्थान" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": { "en": "The 'Hornbill Festival', celebrating tribal heritage, is held in —", "hi": "आदिवासी विरासत का उत्सव 'हॉर्नबिल फेस्टिवल' किस राज्य में आयोजित होता है?" },
+      "options": [
+        { "en": "Manipur", "hi": "मणिपुर" },
+        { "en": "Assam", "hi": "असम" },
+        { "en": "Meghalaya", "hi": "मेघालय" },
+        { "en": "Nagaland", "hi": "नागालैंड" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 3,
+      "question": { "en": "Ustad 'Zakir Hussain' is a world-renowned maestro of the —", "hi": "उस्ताद 'ज़ाकिर हुसैन' किस वाद्य यंत्र के विश्वविख्यात उस्ताद हैं?" },
+      "options": [
+        { "en": "Sitar", "hi": "सितार" },
+        { "en": "Tabla", "hi": "तबला" },
+        { "en": "Sarod", "hi": "सरोद" },
+        { "en": "Mridangam", "hi": "मृदंगम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": { "en": "The 'Meghaduta' (Cloud Messenger) is a famous Sanskrit poem written by —", "hi": "'मेघदूत' एक प्रसिद्ध संस्कृत काव्य है, जिसकी रचना किसने की?" },
+      "options": [
+        { "en": "Valmiki", "hi": "वाल्मीकि" },
+        { "en": "Bharata Muni", "hi": "भरत मुनि" },
+        { "en": "Kalidasa", "hi": "कालिदास" },
+        { "en": "Tulsidas", "hi": "तुलसीदास" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": { "en": "'Gond art' is a form of tribal painting originating from —", "hi": "'गोंड कला' आदिवासी चित्रकारी का एक रूप है जो किस राज्य से उत्पन्न हुई?" },
+      "options": [
+        { "en": "Madhya Pradesh", "hi": "मध्य प्रदेश" },
+        { "en": "Jharkhand", "hi": "झारखंड" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Rajasthan", "hi": "राजस्थान" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": { "en": "The 'Hemis Festival', celebrated at Hemis Monastery, is a famous cultural event of —", "hi": "हेमिस मठ में मनाया जाने वाला 'हेमिस महोत्सव' किस क्षेत्र का प्रसिद्ध सांस्कृतिक उत्सव है?" },
+      "options": [
+        { "en": "Sikkim", "hi": "सिक्किम" },
+        { "en": "Arunachal Pradesh", "hi": "अरुणाचल प्रदेश" },
+        { "en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश" },
+        { "en": "Ladakh", "hi": "लद्दाख" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "question": { "en": "The 'Lingaraja Temple', a prime example of Kalinga architecture, is located in —", "hi": "कलिंग वास्तुकला का श्रेष्ठ उदाहरण 'लिंगराज मंदिर' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Puri", "hi": "पुरी" },
+        { "en": "Bhubaneswar", "hi": "भुवनेश्वर" },
+        { "en": "Konark", "hi": "कोणार्क" },
+        { "en": "Cuttack", "hi": "कटक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": { "en": "The 'Ashtadhyayi', the earliest known grammar of Sanskrit, was written by —", "hi": "संस्कृत का प्राचीनतम ज्ञात व्याकरण ग्रंथ 'अष्टाध्यायी' की रचना किसने की?" },
+      "options": [
+        { "en": "Bharata Muni", "hi": "भरत मुनि" },
+        { "en": "Chanakya", "hi": "चाणक्य" },
+        { "en": "Panini", "hi": "पाणिनि" },
+        { "en": "Patanjali", "hi": "पतंजलि" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": { "en": "'Thumri' is a form of —", "hi": "'ठुमरी' किस संगीत की एक विशेष शैली है?" },
+      "options": [
+        { "en": "Hindustani light classical music", "hi": "हिंदुस्तानी उप-शास्त्रीय संगीत" },
+        { "en": "Carnatic classical music", "hi": "कर्नाटक शास्त्रीय संगीत" },
+        { "en": "Folk music of Bihar", "hi": "बिहार का लोक संगीत" },
+        { "en": "Sufi devotional music", "hi": "सूफी भक्ति संगीत" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": { "en": "'Banarasi silk saree', a GI-tagged textile, is a traditional product of —", "hi": "GI-टैग प्राप्त 'बनारसी सिल्क साड़ी' किस शहर की पारंपरिक विशेषता है?" },
+      "options": [
+        { "en": "Surat", "hi": "सूरत" },
+        { "en": "Kanchipuram", "hi": "कांचीपुरम" },
+        { "en": "Mysuru", "hi": "मैसुरु" },
+        { "en": "Varanasi, Uttar Pradesh", "hi": "वाराणसी, उत्तर प्रदेश" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": { "en": "Pandit 'Hariprasad Chaurasia' is a legendary maestro of the —", "hi": "पंडित 'हरिप्रसाद चौरसिया' किस वाद्य यंत्र के महान उस्ताद हैं?" },
+      "options": [
+        { "en": "Tabla", "hi": "तबला" },
+        { "en": "Flute (Bansuri)", "hi": "बाँसुरी" },
+        { "en": "Sarod", "hi": "सरोद" },
+        { "en": "Sitar", "hi": "सितार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": { "en": "The 'Sun Temple at Modhera', built by the Solanki dynasty, is located in —", "hi": "सोलंकी वंश द्वारा निर्मित 'मोढेरा का सूर्य मंदिर' किस राज्य में स्थित है?" },
+      "options": [
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Maharashtra", "hi": "महाराष्ट्र" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Odisha", "hi": "ओडिशा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": { "en": "The Indus Valley site 'Dholavira', known for its unique water conservation system, is in —", "hi": "अपनी अनूठी जल संरक्षण प्रणाली के लिए प्रसिद्ध सिंधु घाटी स्थल 'धोलावीरा' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Haryana", "hi": "हरियाणा" },
+        { "en": "Punjab", "hi": "पंजाब" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": { "en": "'Pahari painting' is a style of miniature painting that developed in the —", "hi": "'पहाड़ी चित्रकला' लघु चित्रकारी की एक शैली है जो किस क्षेत्र में विकसित हुई?" },
+      "options": [
+        { "en": "Deccan plains", "hi": "दक्कन के मैदान" },
+        { "en": "Coastal areas of Kerala", "hi": "केरल के तटीय क्षेत्र" },
+        { "en": "Gangetic plains", "hi": "गांगेय मैदान" },
+        { "en": "Himalayan foothills (Himachal Pradesh & J&K)", "hi": "हिमालय की तलहटी (हिमाचल प्रदेश और जम्मू-कश्मीर)" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 15,
+      "question": { "en": "M. S. Subbulakshmi, the first musician to receive the Bharat Ratna, was associated with —", "hi": "भारत रत्न पाने वाली पहली संगीतकार एम. एस. सुब्बुलक्ष्मी किस संगीत से संबंधित थीं?" },
+      "options": [
+        { "en": "Hindustani classical singing", "hi": "हिंदुस्तानी शास्त्रीय गायन" },
+        { "en": "Carnatic classical music", "hi": "कर्नाटक शास्त्रीय संगीत" },
+        { "en": "Folk music of Tamil Nadu", "hi": "तमिलनाडु का लोक संगीत" },
+        { "en": "Bharatanatyam performance", "hi": "भरतनाट्यम प्रदर्शन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": { "en": "'Thrissur Pooram' is one of the most spectacular temple festivals of —", "hi": "'त्रिशूर पूरम' किस राज्य का सबसे भव्य मंदिर उत्सव है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": { "en": "'Bidri craft', known for its silver inlay on dark alloy metal, is from —", "hi": "काले मिश्र धातु पर चाँदी की जड़ाई के लिए प्रसिद्ध 'बीदरी शिल्प' किस स्थान से है?" },
+      "options": [
+        { "en": "Bidar, Karnataka", "hi": "बीदर, कर्नाटक" },
+        { "en": "Warangal, Telangana", "hi": "वारंगल, तेलंगाना" },
+        { "en": "Thanjavur, Tamil Nadu", "hi": "तंजावुर, तमिलनाडु" },
+        { "en": "Moradabad, Uttar Pradesh", "hi": "मुरादाबाद, उत्तर प्रदेश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": { "en": "'Manipuri' classical dance is primarily based on the theme of —", "hi": "'मणिपुरी' शास्त्रीय नृत्य मुख्यतः किस विषयवस्तु पर आधारित है?" },
+      "options": [
+        { "en": "Shaivism", "hi": "शैव धर्म" },
+        { "en": "Jainism", "hi": "जैन धर्म" },
+        { "en": "Buddhism", "hi": "बौद्ध धर्म" },
+        { "en": "Vaishnavism (Radha-Krishna)", "hi": "वैष्णव धर्म (राधा-कृष्ण)" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "question": { "en": "The 'Tabla' is traditionally believed to have been invented by —", "hi": "'तबला' का आविष्कार पारंपरिक रूप से किसने किया माना जाता है?" },
+      "options": [
+        { "en": "Tansen", "hi": "तानसेन" },
+        { "en": "Amir Khusrau", "hi": "अमीर खुसरो" },
+        { "en": "Bismillah Khan", "hi": "बिस्मिल्लाह खान" },
+        { "en": "Zakir Hussain", "hi": "ज़ाकिर हुसैन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": { "en": "'Aihole' in Karnataka is known as the —", "hi": "कर्नाटक में 'ऐहोल' किस नाम से जाना जाता है?" },
+      "options": [
+        { "en": "City of Temples", "hi": "मंदिरों का शहर" },
+        { "en": "Temple of Wonders", "hi": "चमत्कारों का मंदिर" },
+        { "en": "Cradle of Indian Temple Architecture", "hi": "भारतीय मंदिर वास्तुकला का उद्गम स्थल" },
+        { "en": "Land of Cave Paintings", "hi": "गुफा चित्रकारी की भूमि" }
+      ],
+      "correct": 2
+    }
+  ]
+}

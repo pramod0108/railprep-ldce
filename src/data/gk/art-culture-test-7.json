@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 7",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "'Mohiniyattam' was revived and given classical status in the 20th century by —", "hi": "'मोहिनीअट्टम' को 20वीं सदी में किसने पुनर्जीवित कर शास्त्रीय दर्जा दिलाया?" },
+      "options": [
+        { "en": "Vallathol Narayana Menon", "hi": "वल्लथोल नारायण मेनन" },
+        { "en": "Rukmini Devi Arundale", "hi": "रुक्मिणी देवी अरुंडेल" },
+        { "en": "Birju Maharaj", "hi": "बिरजू महाराज" },
+        { "en": "Kelucharan Mohapatra", "hi": "केलुचरण महापात्र" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": { "en": "The world-famous 'Pushkar Camel Fair' is held in —", "hi": "विश्व प्रसिद्ध 'पुष्कर ऊँट मेला' किस राज्य में आयोजित होता है?" },
+      "options": [
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Madhya Pradesh", "hi": "मध्य प्रदेश" },
+        { "en": "Haryana", "hi": "हरियाणा" },
+        { "en": "Rajasthan", "hi": "राजस्थान" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 3,
+      "question": { "en": "'Chikankari' is a traditional shadow-work embroidery associated with —", "hi": "'चिकनकारी' पारंपरिक कढ़ाई कला किस शहर की विशेषता है?" },
+      "options": [
+        { "en": "Jaipur", "hi": "जयपुर" },
+        { "en": "Lucknow", "hi": "लखनऊ" },
+        { "en": "Varanasi", "hi": "वाराणसी" },
+        { "en": "Agra", "hi": "आगरा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": { "en": "'Lothal', a significant port city of the Indus Valley Civilization, is located in present-day —", "hi": "सिंधु घाटी सभ्यता का महत्वपूर्ण बंदरगाह नगर 'लोथल' वर्तमान में किस राज्य में है?" },
+      "options": [
+        { "en": "Pakistan", "hi": "पाकिस्तान" },
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Haryana", "hi": "हरियाणा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": { "en": "'Girija Devi' was a legendary exponent of —", "hi": "'गिरिजा देवी' किस गायन शैली की महान गायिका थीं?" },
+      "options": [
+        { "en": "Thumri, Benares gharana", "hi": "ठुमरी, बनारस घराना" },
+        { "en": "Kathak dance", "hi": "कथक नृत्य" },
+        { "en": "Bharatanatyam", "hi": "भरतनाट्यम" },
+        { "en": "Dhrupad singing", "hi": "ध्रुपद गायन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": { "en": "'Dokra' is a traditional non-ferrous metal casting craft practised by tribal communities of —", "hi": "'डोकरा' पारंपरिक अलौह धातु ढलाई शिल्प मुख्यतः किस राज्य के आदिवासी समुदायों द्वारा की जाती है?" },
+      "options": [
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Assam", "hi": "असम" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Chhattisgarh & Jharkhand", "hi": "छत्तीसगढ़ और झारखंड" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "question": { "en": "'Madhubani painting' is also known as —", "hi": "'मधुबनी चित्रकला' को किस अन्य नाम से भी जाना जाता है?" },
+      "options": [
+        { "en": "Warli art", "hi": "वारली कला" },
+        { "en": "Mithila painting", "hi": "मिथिला चित्रकला" },
+        { "en": "Kalamkari", "hi": "कलमकारी" },
+        { "en": "Pattachitra", "hi": "पट्टचित्र" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": { "en": "The 'Meenakshi Amman Temple' at Madurai was significantly built and expanded by —", "hi": "मदुरई के 'मीनाक्षी अम्मन मंदिर' का मुख्य निर्माण एवं विस्तार किस राजवंश ने करवाया?" },
+      "options": [
+        { "en": "Pallava rulers", "hi": "पल्लव शासक" },
+        { "en": "Chola rulers", "hi": "चोल शासक" },
+        { "en": "Nayaka rulers", "hi": "नायक शासक" },
+        { "en": "Vijayanagara rulers", "hi": "विजयनगर शासक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": { "en": "The 'Pashupati Seal' found at Mohenjo-Daro depicts a figure believed to be a prototype of —", "hi": "मोहनजोदड़ो में मिली 'पशुपति मुहर' में अंकित आकृति किस देवता का प्रारंभिक रूप मानी जाती है?" },
+      "options": [
+        { "en": "Lord Shiva", "hi": "भगवान शिव" },
+        { "en": "Lord Vishnu", "hi": "भगवान विष्णु" },
+        { "en": "Lord Ganesha", "hi": "भगवान गणेश" },
+        { "en": "Lord Brahma", "hi": "भगवान ब्रह्मा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": { "en": "The 'Ramcharitmanas' by Tulsidas was composed in —", "hi": "तुलसीदास रचित 'रामचरितमानस' किस भाषा में लिखा गया?" },
+      "options": [
+        { "en": "Sanskrit", "hi": "संस्कृत" },
+        { "en": "Hindi", "hi": "हिंदी" },
+        { "en": "Braj Bhasha", "hi": "ब्रज भाषा" },
+        { "en": "Awadhi", "hi": "अवधी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": { "en": "'Sattriya' dance was officially recognized as a classical dance form of India in —", "hi": "'सत्रीय' नृत्य को भारत की शास्त्रीय नृत्य शैली के रूप में आधिकारिक मान्यता किस वर्ष मिली?" },
+      "options": [
+        { "en": "1975", "hi": "1975" },
+        { "en": "2000", "hi": "2000" },
+        { "en": "1985", "hi": "1985" },
+        { "en": "2010", "hi": "2010" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": { "en": "Dhrupad is a style of singing associated with which of the following?", "hi": "'ध्रुपद' गायन शैली किससे संबंधित है?" },
+      "options": [
+        { "en": "Ghazal", "hi": "ग़ज़ल" },
+        { "en": "Hindustani classical music", "hi": "हिंदुस्तानी शास्त्रीय संगीत" },
+        { "en": "Jazz music", "hi": "जैज़ संगीत" },
+        { "en": "Sufi music", "hi": "सूफी संगीत" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": { "en": "The 'Sur Sagar', a famous collection of devotional songs in Braj Bhasha, was composed by —", "hi": "ब्रज भाषा में भक्ति गीतों का प्रसिद्ध संग्रह 'सूरसागर' की रचना किसने की?" },
+      "options": [
+        { "en": "Surdas", "hi": "सूरदास" },
+        { "en": "Tulsidas", "hi": "तुलसीदास" },
+        { "en": "Kabir", "hi": "कबीर" },
+        { "en": "Mirabai", "hi": "मीराबाई" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": { "en": "'Humayun's Tomb' in Delhi, a UNESCO World Heritage Site, was commissioned by —", "hi": "दिल्ली में UNESCO विश्व धरोहर स्थल 'हुमायूँ का मकबरा' किसने बनवाया था?" },
+      "options": [
+        { "en": "Akbar", "hi": "अकबर" },
+        { "en": "Aurangzeb", "hi": "औरंगज़ेब" },
+        { "en": "Shah Jahan", "hi": "शाहजहाँ" },
+        { "en": "Haji Begum (Bega Begum)", "hi": "हाजी बेगम (बेगा बेगम)" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 15,
+      "question": { "en": "The 'Wangala Festival' (Hundred Drums Festival) is celebrated by the —", "hi": "'वांगला महोत्सव' (सौ ढोलों का उत्सव) किस जनजाति द्वारा मनाया जाता है?" },
+      "options": [
+        { "en": "Khasi tribe of Meghalaya", "hi": "मेघालय की खासी जनजाति" },
+        { "en": "Garo tribe of Meghalaya", "hi": "मेघालय की गारो जनजाति" },
+        { "en": "Naga tribe of Nagaland", "hi": "नागालैंड की नागा जनजाति" },
+        { "en": "Mizo tribe of Mizoram", "hi": "मिज़ोरम की मिज़ो जनजाति" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": { "en": "The 'Charminar' in Hyderabad was built in the year —", "hi": "हैदराबाद का 'चारमीनार' किस वर्ष बनाया गया था?" },
+      "options": [
+        { "en": "1526 CE", "hi": "1526 ई." },
+        { "en": "1632 CE", "hi": "1632 ई." },
+        { "en": "1591 CE", "hi": "1591 ई." },
+        { "en": "1648 CE", "hi": "1648 ई." }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": { "en": "'Pochampally Ikat' fabric, a GI-tagged handloom textile, is from —", "hi": "GI-टैग प्राप्त हथकरघा वस्त्र 'पोचमपल्ली इकत' किस राज्य का है?" },
+      "options": [
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Telangana", "hi": "तेलंगाना" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": { "en": "'Sanjhi' is a traditional paper-cut stencil art form primarily associated with —", "hi": "'संझी' पारंपरिक कागज़ कटाई कला मुख्यतः किस स्थान से संबंधित है?" },
+      "options": [
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Mathura, Uttar Pradesh", "hi": "मथुरा, उत्तर प्रदेश" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "West Bengal", "hi": "पश्चिम बंगाल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": { "en": "'Theyyam' is an ancient ritual performing art form of —", "hi": "'थेय्यम' एक प्राचीन अनुष्ठान प्रदर्शन कला है जो किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": { "en": "'Rauf' is a traditional folk dance performed by women of —", "hi": "'रौफ' महिलाओं द्वारा किया जाने वाला पारंपरिक लोक नृत्य किस राज्य का है?" },
+      "options": [
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश" },
+        { "en": "Uttarakhand", "hi": "उत्तराखंड" },
+        { "en": "Jammu & Kashmir", "hi": "जम्मू और कश्मीर" }
+      ],
+      "correct": 3
+    }
+  ]
+}

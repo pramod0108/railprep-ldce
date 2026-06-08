@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "The classical dance form Bharatanatyam originated in —", "hi": "शास्त्रीय नृत्य शैली भरतनाट्यम की उत्पत्ति कहाँ हुई?" },
+      "options": [
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Kerala", "hi": "केरल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": { "en": "The famous cave paintings of Ajanta belong to which period?", "hi": "अजंता की प्रसिद्ध गुफा चित्रकारी किस काल से संबंधित है?" },
+      "options": [
+        { "en": "Mauryan Period", "hi": "मौर्य काल" },
+        { "en": "Gupta Period", "hi": "गुप्त काल" },
+        { "en": "Mughal Period", "hi": "मुगल काल" },
+        { "en": "Chola Period", "hi": "चोल काल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": { "en": "The Sanchi Stupa was built by —", "hi": "सांची का स्तूप किसने बनवाया था?" },
+      "options": [
+        { "en": "Harsha", "hi": "हर्ष" },
+        { "en": "Kanishka", "hi": "कनिष्क" },
+        { "en": "Chandragupta Maurya", "hi": "चंद्रगुप्त मौर्य" },
+        { "en": "Ashoka the Great", "hi": "सम्राट अशोक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "question": { "en": "Kathakali is a dance form of —", "hi": "कथकली किस राज्य का नृत्य रूप है?" },
+      "options": [
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Karnataka", "hi": "कर्नाटक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": { "en": "The 'Natyashastra' was written by —", "hi": "'नाट्यशास्त्र' की रचना किसने की?" },
+      "options": [
+        { "en": "Panini", "hi": "पाणिनि" },
+        { "en": "Kalidasa", "hi": "कालिदास" },
+        { "en": "Bharata Muni", "hi": "भरत मुनि" },
+        { "en": "Chanakya", "hi": "चाणक्य" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": { "en": "The Sun Temple at Konark was built by —", "hi": "कोणार्क का सूर्य मंदिर किसने बनवाया था?" },
+      "options": [
+        { "en": "Narasimhadeva I", "hi": "नरसिम्हदेव प्रथम" },
+        { "en": "Ashoka", "hi": "अशोक" },
+        { "en": "Raja Raja Chola", "hi": "राजा राजा चोल" },
+        { "en": "Krishnadevaraya", "hi": "कृष्णदेवराय" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": { "en": "The Meenakshi Temple is located at —", "hi": "मीनाक्षी मंदिर कहाँ स्थित है?" },
+      "options": [
+        { "en": "Chennai", "hi": "चेन्नई" },
+        { "en": "Kanchipuram", "hi": "कांचीपुरम" },
+        { "en": "Madurai", "hi": "मदुरई" },
+        { "en": "Thanjavur", "hi": "तंजावुर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": { "en": "The 'Garba' dance is associated with —", "hi": "'गरबा' नृत्य किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Haryana", "hi": "हरियाणा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": { "en": "'Odissi' dance originated in —", "hi": "'ओडिसी' नृत्य की उत्पत्ति कहाँ हुई?" },
+      "options": [
+        { "en": "West Bengal", "hi": "पश्चिम बंगाल" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Bihar", "hi": "बिहार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": { "en": "The classical language declared by the Government of India first was —", "hi": "भारत सरकार द्वारा सर्वप्रथम शास्त्रीय भाषा घोषित की गई भाषा कौन सी थी?" },
+      "options": [
+        { "en": "Sanskrit", "hi": "संस्कृत" },
+        { "en": "Kannada", "hi": "कन्नड़" },
+        { "en": "Telugu", "hi": "तेलुगु" },
+        { "en": "Tamil", "hi": "तमिल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": { "en": "The Bihu dance is popular in —", "hi": "बिहू नृत्य किस राज्य में प्रसिद्ध है?" },
+      "options": [
+        { "en": "Assam", "hi": "असम" },
+        { "en": "Tripura", "hi": "त्रिपुरा" },
+        { "en": "Manipur", "hi": "मणिपुर" },
+        { "en": "Nagaland", "hi": "नागालैंड" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": { "en": "The festival 'Onam' is celebrated in —", "hi": "'ओणम' त्योहार किस राज्य में मनाया जाता है?" },
+      "options": [
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": { "en": "'Rath Yatra' is celebrated in which city?", "hi": "'रथ यात्रा' किस शहर में मनाई जाती है?" },
+      "options": [
+        { "en": "Kolkata", "hi": "कोलकाता" },
+        { "en": "Puri", "hi": "पुरी" },
+        { "en": "Varanasi", "hi": "वाराणसी" },
+        { "en": "Madurai", "hi": "मदुरई" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": { "en": "The Ajanta Caves are dedicated mainly to —", "hi": "अजंता गुफाएँ मुख्यतः किस धर्म को समर्पित हैं?" },
+      "options": [
+        { "en": "Hinduism", "hi": "हिंदू धर्म" },
+        { "en": "Buddhism", "hi": "बौद्ध धर्म" },
+        { "en": "Jainism", "hi": "जैन धर्म" },
+        { "en": "Sikhism", "hi": "सिख धर्म" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": { "en": "The 'Yakshagana' is a traditional theatre form of —", "hi": "'यक्षगान' किस राज्य की परंपरागत रंगमंच शैली है?" },
+      "options": [
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": { "en": "The 'Pattachitra' painting is from —", "hi": "'पट्टचित्र' चित्रकला किस राज्य की है?" },
+      "options": [
+        { "en": "Bengal", "hi": "बंगाल" },
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Assam", "hi": "असम" },
+        { "en": "Odisha", "hi": "ओडिशा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "question": { "en": "The 'Warli' painting is a folk art of —", "hi": "'वारली' चित्रकला किस राज्य की लोक कला है?" },
+      "options": [
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Maharashtra", "hi": "महाराष्ट्र" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": { "en": "The Sitar is a —", "hi": "सितार एक __________ है।" },
+      "options": [
+        { "en": "Percussion Instrument", "hi": "ताल वाद्य यंत्र" },
+        { "en": "Wind Instrument", "hi": "वायु वाद्य यंत्र" },
+        { "en": "String Instrument", "hi": "तार वाद्य यंत्र" },
+        { "en": "Electronic Instrument", "hi": "इलेक्ट्रॉनिक वाद्य यंत्र" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": { "en": "The famous 'Ellora Caves' were built during —", "hi": "प्रसिद्ध 'एलोरा गुफाएँ' किस काल में बनाई गई थीं?" },
+      "options": [
+        { "en": "Rashtrakuta Dynasty", "hi": "राष्ट्रकूट राजवंश" },
+        { "en": "Maurya Dynasty", "hi": "मौर्य राजवंश" },
+        { "en": "Gupta Dynasty", "hi": "गुप्त राजवंश" },
+        { "en": "Pala Dynasty", "hi": "पाल राजवंश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": { "en": "The dance 'Mohiniyattam' belongs to —", "hi": "'मोहिनीअट्टम' नृत्य किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" }
+      ],
+      "correct": 2
+    }
+  ]
+}

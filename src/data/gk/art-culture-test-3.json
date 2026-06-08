@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 3",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "The 'Dravidian' style of temples belongs to —", "hi": "'द्रविड़' शैली के मंदिर किस क्षेत्र से संबंधित हैं?" },
+      "options": [
+        { "en": "North India", "hi": "उत्तर भारत" },
+        { "en": "East India", "hi": "पूर्वी भारत" },
+        { "en": "South India", "hi": "दक्षिण भारत" },
+        { "en": "Central India", "hi": "मध्य भारत" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": { "en": "The 'Vesara' temple architecture is a mix of —", "hi": "'वेसर' मंदिर वास्तुकला किन दो शैलियों का मिश्रण है?" },
+      "options": [
+        { "en": "Nagara and Dravidian styles", "hi": "नागर और द्रविड़ शैलियाँ" },
+        { "en": "Indo-Islamic and Mughal styles", "hi": "इंडो-इस्लामिक और मुगल शैलियाँ" },
+        { "en": "Mughal and Gupta styles", "hi": "मुगल और गुप्त शैलियाँ" },
+        { "en": "Pala and Mauryan styles", "hi": "पाल और मौर्य शैलियाँ" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": { "en": "The 'Rock-cut Kailasa Temple' is at —", "hi": "'शैलकृत कैलाश मंदिर' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Ajanta", "hi": "अजंता" },
+        { "en": "Elephanta", "hi": "एलीफेंटा" },
+        { "en": "Badami", "hi": "बादामी" },
+        { "en": "Ellora", "hi": "एलोरा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "question": { "en": "The 'Qutub Minar' is made of —", "hi": "'कुतुब मीनार' मुख्यतः किससे बनी है?" },
+      "options": [
+        { "en": "White marble", "hi": "सफेद संगमरमर" },
+        { "en": "Red sandstone", "hi": "लाल बलुआ पत्थर" },
+        { "en": "Granite", "hi": "ग्रेनाइट" },
+        { "en": "Slate", "hi": "स्लेट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": { "en": "'Chola Bronzes' were made using —", "hi": "'चोल कांस्य मूर्तियाँ' किस तकनीक से बनाई जाती थीं?" },
+      "options": [
+        { "en": "Stone carving", "hi": "पत्थर तराशना" },
+        { "en": "Lost-wax casting", "hi": "लॉस्ट-वैक्स कास्टिंग (मधुच्छिष्ट विधि)" },
+        { "en": "Metal welding", "hi": "धातु वेल्डिंग" },
+        { "en": "Embroidery", "hi": "कढ़ाई" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": { "en": "'Sufi music' is popularly known as —", "hi": "'सूफी संगीत' किस नाम से लोकप्रिय है?" },
+      "options": [
+        { "en": "Bhajan", "hi": "भजन" },
+        { "en": "Qawwali", "hi": "कव्वाली" },
+        { "en": "Kirtan", "hi": "कीर्तन" },
+        { "en": "Raaga", "hi": "राग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": { "en": "The 'Jataka Tales' are related to —", "hi": "'जातक कथाएँ' किससे संबंधित हैं?" },
+      "options": [
+        { "en": "Hinduism", "hi": "हिंदू धर्म" },
+        { "en": "Buddhism", "hi": "बौद्ध धर्म" },
+        { "en": "Jainism", "hi": "जैन धर्म" },
+        { "en": "Sikhism", "hi": "सिख धर्म" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": { "en": "The famous 'Ellora Caves' represent the faiths of —", "hi": "प्रसिद्ध 'एलोरा गुफाएँ' किन धर्मों का प्रतिनिधित्व करती हैं?" },
+      "options": [
+        { "en": "Only Hinduism", "hi": "केवल हिंदू धर्म" },
+        { "en": "Only Jain art", "hi": "केवल जैन कला" },
+        { "en": "Only Buddhist art", "hi": "केवल बौद्ध कला" },
+        { "en": "Hinduism, Buddhism and Jainism", "hi": "हिंदू धर्म, बौद्ध धर्म और जैन धर्म" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 9,
+      "question": { "en": "'Kalbelia' dance form is associated with —", "hi": "'कालबेलिया' नृत्य शैली किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Odisha", "hi": "ओडिशा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": { "en": "The 'Gomateshwara' statue is located at —", "hi": "'गोमतेश्वर' की प्रतिमा कहाँ स्थित है?" },
+      "options": [
+        { "en": "Hampi", "hi": "हम्पी" },
+        { "en": "Mysore", "hi": "मैसूर" },
+        { "en": "Shravanabelagola", "hi": "श्रवणबेलगोला" },
+        { "en": "Badami", "hi": "बादामी" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": { "en": "The 'Blue Pottery' is famous in —", "hi": "'ब्लू पॉटरी' किस शहर में प्रसिद्ध है?" },
+      "options": [
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Hyderabad", "hi": "हैदराबाद" },
+        { "en": "Jaipur", "hi": "जयपुर" },
+        { "en": "Chennai", "hi": "चेन्नई" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": { "en": "'Kuchipudi' dance originated in —", "hi": "'कुचिपुड़ी' नृत्य की उत्पत्ति कहाँ हुई?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Karnataka", "hi": "कर्नाटक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": { "en": "The 'Sankirtana' tradition is from —", "hi": "'संकीर्तन' परंपरा किस राज्य से है?" },
+      "options": [
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Manipur", "hi": "मणिपुर" },
+        { "en": "Assam", "hi": "असम" },
+        { "en": "Tripura", "hi": "त्रिपुरा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": { "en": "'Phulkari' embroidery is famous in —", "hi": "'फुलकारी' कढ़ाई किस राज्य में प्रसिद्ध है?" },
+      "options": [
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Haryana", "hi": "हरियाणा" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Rajasthan", "hi": "राजस्थान" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": { "en": "'Raas Leela' is traditionally performed in honor of —", "hi": "'रास लीला' किस देवता के सम्मान में परंपरागत रूप से प्रस्तुत की जाती है?" },
+      "options": [
+        { "en": "Lord Rama", "hi": "भगवान राम" },
+        { "en": "Lord Shiva", "hi": "भगवान शिव" },
+        { "en": "Lord Vishnu", "hi": "भगवान विष्णु" },
+        { "en": "Lord Krishna", "hi": "भगवान कृष्ण" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 16,
+      "question": { "en": "The famous rock-cut temples at Mahabalipuram were built by —", "hi": "महाबलिपुरम के प्रसिद्ध शैलकृत मंदिर किसने बनवाए थे?" },
+      "options": [
+        { "en": "Chola rulers", "hi": "चोल शासक" },
+        { "en": "Pandya rulers", "hi": "पांड्य शासक" },
+        { "en": "Pallava rulers", "hi": "पल्लव शासक" },
+        { "en": "Satavahana rulers", "hi": "सातवाहन शासक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": { "en": "'Kalamkari' paintings are traditionally done on —", "hi": "'कलमकारी' चित्रकारी पारंपरिक रूप से किस पर की जाती है?" },
+      "options": [
+        { "en": "Wood", "hi": "लकड़ी" },
+        { "en": "Cloth", "hi": "कपड़ा" },
+        { "en": "Marble", "hi": "संगमरमर" },
+        { "en": "Metal", "hi": "धातु" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": { "en": "The 'Veeragase' dance form belongs to —", "hi": "'वीरगासे' नृत्य शैली किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Goa", "hi": "गोवा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": { "en": "'Giddha' is performed by women of —", "hi": "'गिद्धा' किस राज्य की महिलाओं द्वारा किया जाता है?" },
+      "options": [
+        { "en": "Haryana", "hi": "हरियाणा" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Uttar Pradesh", "hi": "उत्तर प्रदेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": { "en": "The 'Veena' instrument was invented during which period?", "hi": "'वीणा' वाद्य यंत्र का आविष्कार किस काल में हुआ था?" },
+      "options": [
+        { "en": "Vedic period", "hi": "वैदिक काल" },
+        { "en": "Gupta period", "hi": "गुप्त काल" },
+        { "en": "Mughal period", "hi": "मुगल काल" },
+        { "en": "Mauryan period", "hi": "मौर्य काल" }
+      ],
+      "correct": 0
+    }
+  ]
+}

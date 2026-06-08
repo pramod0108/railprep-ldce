@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 9",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "'Phad Painting' originated in —", "hi": "'फड़ चित्रकारी' (Phad Painting) की उत्पत्ति कहाँ हुई?" },
+      "options": [
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Odisha", "hi": "ओडिशा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": { "en": "The 'Ajanta Paintings' used which technique?", "hi": "'अजंता चित्रकारी' में किस तकनीक का उपयोग किया गया था?" },
+      "options": [
+        { "en": "Tempera", "hi": "टेम्पेरा" },
+        { "en": "Watercolor", "hi": "जलरंग" },
+        { "en": "Oil painting", "hi": "तेल चित्रकारी" },
+        { "en": "Fresco-secco", "hi": "फ्रेस्को-सेक्को (Fresco-secco)" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 3,
+      "question": { "en": "The 'Kangra Painting' style is famous for —", "hi": "'कांगड़ा चित्रकला' शैली किसके लिए प्रसिद्ध है?" },
+      "options": [
+        { "en": "Love stories of Radha-Krishna", "hi": "राधा-कृष्ण की प्रेम कहानियाँ" },
+        { "en": "War scenes", "hi": "युद्ध के दृश्य" },
+        { "en": "Portraits of Kings", "hi": "राजाओं के चित्र" },
+        { "en": "Landscapes", "hi": "प्रकृति दृश्य" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": { "en": "'Pallava Architecture' is known for —", "hi": "'पल्लव वास्तुकला' किस विशेषता के लिए जानी जाती है?" },
+      "options": [
+        { "en": "Wooden Temples", "hi": "लकड़ी के मंदिर" },
+        { "en": "Metal Work", "hi": "धातु कार्य" },
+        { "en": "Rock-cut Temples", "hi": "शैलकृत मंदिर" },
+        { "en": "Caves only", "hi": "केवल गुफाएँ" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": { "en": "The 'Badami Caves' are located in —", "hi": "'बादामी गुफाएँ' कहाँ स्थित हैं?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Maharashtra", "hi": "महाराष्ट्र" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": { "en": "'Mohiniyattam' literally means —", "hi": "'मोहिनीअट्टम' का शाब्दिक अर्थ क्या है?" },
+      "options": [
+        { "en": "Dance of Lord Vishnu", "hi": "भगवान विष्णु का नृत्य" },
+        { "en": "Folk Dance", "hi": "लोक नृत्य" },
+        { "en": "Ritual Dance", "hi": "अनुष्ठान नृत्य" },
+        { "en": "Dance of the Enchantress", "hi": "मोहिनी का नृत्य" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "question": { "en": "The 'Konark Dance Festival' is held in the state of —", "hi": "'कोणार्क नृत्य महोत्सव' किस राज्य में आयोजित होता है?" },
+      "options": [
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Karnataka", "hi": "कर्नाटक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": { "en": "The 'Gita Govinda' was composed by —", "hi": "'गीत गोविंद' की रचना किसने की?" },
+      "options": [
+        { "en": "Tulsidas", "hi": "तुलसीदास" },
+        { "en": "Jayadeva", "hi": "जयदेव" },
+        { "en": "Surdas", "hi": "सूरदास" },
+        { "en": "Mirabai", "hi": "मीराबाई" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": { "en": "'Ragam-Tanam-Pallavi' belongs to —", "hi": "'राग-ताना-पल्लवी' किस संगीत परंपरा से संबंधित है?" },
+      "options": [
+        { "en": "Hindustani Music", "hi": "हिंदुस्तानी संगीत" },
+        { "en": "Folk Music", "hi": "लोक संगीत" },
+        { "en": "Carnatic Music", "hi": "कर्नाटक संगीत" },
+        { "en": "Sufi Music", "hi": "सूफी संगीत" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": { "en": "The 'Ajanta Caves' were rediscovered by —", "hi": "'अजंता गुफाओं' की पुनः खोज किसने की?" },
+      "options": [
+        { "en": "Portuguese Traders", "hi": "पुर्तगाली व्यापारी" },
+        { "en": "Indian Kings", "hi": "भारतीय राजा" },
+        { "en": "French Missionaries", "hi": "फ्रांसीसी मिशनरी" },
+        { "en": "British Officers in 1819", "hi": "ब्रिटिश अधिकारियों ने 1819 में" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": { "en": "'Talam' in Indian music refers to —", "hi": "भारतीय संगीत में 'ताल' किसे संदर्भित करता है?" },
+      "options": [
+        { "en": "Rhythm", "hi": "लय (Rhythm)" },
+        { "en": "Melody", "hi": "धुन (Melody)" },
+        { "en": "Lyrics", "hi": "शब्द (Lyrics)" },
+        { "en": "Pitch", "hi": "स्वर की ऊँचाई (Pitch)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": { "en": "The 'Shivaji Festival' was started by —", "hi": "'शिवाजी महोत्सव' किसने शुरू किया था?" },
+      "options": [
+        { "en": "Gopal Krishna Gokhale", "hi": "गोपाल कृष्ण गोखले" },
+        { "en": "Bal Gangadhar Tilak", "hi": "बाल गंगाधर तिलक" },
+        { "en": "Lala Lajpat Rai", "hi": "लाला लाजपत राय" },
+        { "en": "Mahatma Gandhi", "hi": "महात्मा गांधी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": { "en": "The 'Kandariya Mahadeva Temple' is dedicated to —", "hi": "'कंदारिया महादेव मंदिर' किस देवता को समर्पित है?" },
+      "options": [
+        { "en": "Lord Vishnu", "hi": "भगवान विष्णु" },
+        { "en": "Goddess Durga", "hi": "देवी दुर्गा" },
+        { "en": "Lord Shiva", "hi": "भगवान शिव" },
+        { "en": "Lord Ganesha", "hi": "भगवान गणेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": { "en": "The 'Rock Shelters of Bhimbetka' belong to —", "hi": "'भीमबेटका शैलाश्रय' किस काल से संबंधित हैं?" },
+      "options": [
+        { "en": "Medieval Period", "hi": "मध्यकाल" },
+        { "en": "Mughal Period", "hi": "मुगल काल" },
+        { "en": "Gupta Period", "hi": "गुप्त काल" },
+        { "en": "Prehistoric Period", "hi": "प्रागैतिहासिक काल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 15,
+      "question": { "en": "The 'Jagannath Temple' follows which architectural style?", "hi": "'जगन्नाथ मंदिर' किस वास्तुकला शैली का अनुसरण करता है?" },
+      "options": [
+        { "en": "Kalinga Style", "hi": "कलिंग शैली" },
+        { "en": "Dravidian Style", "hi": "द्रविड़ शैली" },
+        { "en": "Nagara Style", "hi": "नागर शैली" },
+        { "en": "Indo-Saracenic Style", "hi": "इंडो-सारसेनिक शैली" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": { "en": "Banaras Hindu University (BHU) was founded by —", "hi": "बनारस हिंदू विश्वविद्यालय (BHU) की स्थापना किसने की?" },
+      "options": [
+        { "en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर" },
+        { "en": "Madan Mohan Malaviya", "hi": "मदन मोहन मालवीय" },
+        { "en": "Lala Lajpat Rai", "hi": "लाला लाजपत राय" },
+        { "en": "Annie Besant", "hi": "एनी बेसेंट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": { "en": "The 'Draupadi Ratha' at Mahabalipuram is dedicated to —", "hi": "महाबलिपुरम का 'द्रौपदी रथ' किस देवता को समर्पित है?" },
+      "options": [
+        { "en": "Lord Shiva", "hi": "भगवान शिव" },
+        { "en": "Lord Vishnu", "hi": "भगवान विष्णु" },
+        { "en": "Lord Indra", "hi": "भगवान इंद्र" },
+        { "en": "Goddess Durga", "hi": "देवी दुर्गा" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": { "en": "The Sanskrit play 'Mrichchhakatika' (The Little Clay Cart) was written by —", "hi": "संस्कृत नाटक 'मृच्छकटिक' (The Little Clay Cart) की रचना किसने की?" },
+      "options": [
+        { "en": "Kalidasa", "hi": "कालिदास" },
+        { "en": "Shudraka", "hi": "शूद्रक" },
+        { "en": "Bhasa", "hi": "भास" },
+        { "en": "Bhavabhuti", "hi": "भवभूति" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": { "en": "The 'Brihadeeswarar Temple', a UNESCO World Heritage Site, is located in —", "hi": "UNESCO विश्व धरोहर स्थल 'बृहदेश्वर मंदिर' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Madurai, Tamil Nadu", "hi": "मदुरई, तमिलनाडु" },
+        { "en": "Kanchipuram, Tamil Nadu", "hi": "कांचीपुरम, तमिलनाडु" },
+        { "en": "Thanjavur, Tamil Nadu", "hi": "तंजावुर, तमिलनाडु" },
+        { "en": "Mahabalipuram, Tamil Nadu", "hi": "महाबलिपुरम, तमिलनाडु" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": { "en": "The Sanskrit play 'Abhijnanasakuntalam' was written by —", "hi": "संस्कृत नाटक 'अभिज्ञानशाकुन्तलम्' की रचना किसने की?" },
+      "options": [
+        { "en": "Valmiki", "hi": "वाल्मीकि" },
+        { "en": "Vishnu Sharma", "hi": "विष्णु शर्मा" },
+        { "en": "Bharata Muni", "hi": "भरत मुनि" },
+        { "en": "Kalidasa", "hi": "कालिदास" }
+      ],
+      "correct": 3
+    }
+  ]
+}

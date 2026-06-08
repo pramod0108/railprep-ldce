@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 10",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "'Cheraw' is a traditional bamboo dance belonging to the state of —", "hi": "'चेराव' किस राज्य का एक पारंपरिक बांस नृत्य है?" },
+      "options": [
+        { "en": "Mizoram", "hi": "मिज़ोरम" },
+        { "en": "Assam", "hi": "असम" },
+        { "en": "Tripura", "hi": "त्रिपुरा" },
+        { "en": "Manipur", "hi": "मणिपुर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": { "en": "'Kalaripayattu' is a renowned martial art form of —", "hi": "'कलरीपायट्टु' किस राज्य की एक प्रसिद्ध मार्शल आर्ट (युद्ध कला) है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Odisha", "hi": "ओडिशा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": { "en": "The 'Hornbill Festival' of Nagaland is named after —", "hi": "नागालैंड के 'हॉर्नबिल महोत्सव' का नाम किसके नाम पर रखा गया है?" },
+      "options": [
+        { "en": "A revered river", "hi": "एक पूजनीय नदी" },
+        { "en": "A sacred mountain", "hi": "एक पवित्र पर्वत" },
+        { "en": "A culturally significant bird", "hi": "एक सांस्कृतिक रूप से महत्वपूर्ण पक्षी" },
+        { "en": "An ancient tribal king", "hi": "एक प्राचीन आदिवासी राजा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": { "en": "The traditional 'Garia Puja' and dance festival is primarily celebrated in —", "hi": "पारंपरिक 'गरिया पूजा' और नृत्य उत्सव मुख्य रूप से किस राज्य में मनाया जाता है?" },
+      "options": [
+        { "en": "Meghalaya", "hi": "मेघालय" },
+        { "en": "Tripura", "hi": "त्रिपुरा" },
+        { "en": "Sikkim", "hi": "सिक्किम" },
+        { "en": "Arunachal Pradesh", "hi": "अरुणाचल प्रदेश" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": { "en": "The Sanchi Stupa was significantly expanded and added with stone railings during the reign of the —", "hi": "सांची स्तूप का महत्वपूर्ण विस्तार और उसमें पत्थर की रेलिंग (वेदिका) किस राजवंश के दौरान जोड़ी गई?" },
+      "options": [
+        { "en": "Mauryan Dynasty", "hi": "मौर्य राजवंश" },
+        { "en": "Sunga Dynasty", "hi": "शुंग राजवंश" },
+        { "en": "Gupta Dynasty", "hi": "गुप्त राजवंश" },
+        { "en": "Satavahana Dynasty", "hi": "सातवाहन राजवंश" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": { "en": "The literal meaning of the word 'Kalamkari' is —", "hi": "'कलमकारी' शब्द का शाब्दिक अर्थ क्या है?" },
+      "options": [
+        { "en": "Pen craft", "hi": "कलम शिल्प (Pen craft)" },
+        { "en": "Thread work", "hi": "धागे का काम" },
+        { "en": "Stone carving", "hi": "पत्थर की नक्काशी" },
+        { "en": "Metal engraving", "hi": "धातु पर नक्काशी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": { "en": "The 'Sankirtana' of Manipur essentially incorporates —", "hi": "मणिपुर के 'संकीर्तन' में अनिवार्य रूप से क्या शामिल होता है?" },
+      "options": [
+        { "en": "Mask making and wearing", "hi": "मुखौटा बनाना और पहनना" },
+        { "en": "Singing, drumming, and dancing", "hi": "गायन, ढोलवादन और नृत्य" },
+        { "en": "Martial arts combat", "hi": "मार्शल आर्ट युद्ध" },
+        { "en": "Puppetry shows", "hi": "कठपुतली का खेल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": { "en": "Raja Ravi Varma is a celebrated figure in Indian history for his contributions to —", "hi": "राजा रवि वर्मा भारतीय इतिहास में किस क्षेत्र में अपने योगदान के लिए विख्यात हैं?" },
+      "options": [
+        { "en": "Classical Music", "hi": "शास्त्रीय संगीत" },
+        { "en": "Painting", "hi": "चित्रकला" },
+        { "en": "Classical Dance", "hi": "शास्त्रीय नृत्य" },
+        { "en": "Architecture", "hi": "वास्तुकला" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": { "en": "Amrita Sher-Gil was a pioneer of —", "hi": "अमृता शेर-गिल किसकी अग्रणी (पायनियर) थीं?" },
+      "options": [
+        { "en": "Modern Indian Art", "hi": "आधुनिक भारतीय कला" },
+        { "en": "Hindustani Classical Singing", "hi": "हिंदुस्तानी शास्त्रीय गायन" },
+        { "en": "Kathak Choreography", "hi": "कथक कोरियोग्राफी" },
+        { "en": "Sanskrit Literature", "hi": "संस्कृत साहित्य" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": { "en": "The city of Kanchipuram is world-renowned for its heritage in —", "hi": "कांचीपुरम शहर अपनी किस विरासत के लिए विश्व-प्रसिद्ध है?" },
+      "options": [
+        { "en": "Diamond cutting", "hi": "हीरा कटाई" },
+        { "en": "Silk sarees", "hi": "रेशम की साड़ियाँ" },
+        { "en": "Blue pottery", "hi": "ब्लू पॉटरी" },
+        { "en": "Wood carving", "hi": "लकड़ी की नक्काशी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": { "en": "The language originally used to compose the ancient Indian texts known as 'Vedas' is —", "hi": "प्राचीन भारतीय ग्रंथों जिन्हें 'वेद' कहा जाता है, की रचना मूल रूप से किस भाषा में की गई थी?" },
+      "options": [
+        { "en": "Pali", "hi": "पालि" },
+        { "en": "Prakrit", "hi": "प्राकृत" },
+        { "en": "Sanskrit", "hi": "संस्कृत" },
+        { "en": "Tamil", "hi": "तमिल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": { "en": "The famous collection of short stories titled 'Malgudi Days' was written by —", "hi": "लघु कथाओं के प्रसिद्ध संग्रह 'मालगुडी डेज़' की रचना किसने की थी?" },
+      "options": [
+        { "en": "R. K. Narayan", "hi": "आर. के. नारायण" },
+        { "en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर" },
+        { "en": "Mulk Raj Anand", "hi": "मुल्क राज आनंद" },
+        { "en": "Khushwant Singh", "hi": "खुशवंत सिंह" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": { "en": "India's national song 'Vande Mataram' was originally a part of which novel?", "hi": "भारत का राष्ट्रीय गीत 'वंदे मातरम' मूल रूप से किस उपन्यास का हिस्सा था?" },
+      "options": [
+        { "en": "Gitanjali", "hi": "गीतांजलि" },
+        { "en": "Godan", "hi": "गोदान" },
+        { "en": "Anandamath", "hi": "आनंदमठ" },
+        { "en": "Devdas", "hi": "देवदास" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": { "en": "Who is the author of the historical novel 'Anandamath'?", "hi": "ऐतिहासिक उपन्यास 'आनंदमठ' के लेखक कौन हैं?" },
+      "options": [
+        { "en": "Sri Aurobindo", "hi": "श्री अरबिंदो" },
+        { "en": "Bankim Chandra Chattopadhyay", "hi": "बंकिम चंद्र चट्टोपाध्याय" },
+        { "en": "Sarat Chandra Chattopadhyay", "hi": "शरत चंद्र चट्टोपाध्याय" },
+        { "en": "Munshi Premchand", "hi": "मुंशी प्रेमचंद" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": { "en": "The traditional weapon-based martial art 'Thang-Ta' belongs to the state of —", "hi": "हथियारों पर आधारित पारंपरिक मार्शल आर्ट 'थांग-ता' किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Manipur", "hi": "मणिपुर" },
+        { "en": "Meghalaya", "hi": "मेघालय" },
+        { "en": "Nagaland", "hi": "नागालैंड" },
+        { "en": "Mizoram", "hi": "मिज़ोरम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": { "en": "'Gatka' is a traditional stick-fighting martial art originating from —", "hi": "'गतका' एक पारंपरिक लाठी-युद्ध वाली मार्शल आर्ट है जिसकी उत्पत्ति कहाँ हुई?" },
+      "options": [
+        { "en": "Maharashtra", "hi": "महाराष्ट्र" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Rajasthan", "hi": "राजस्थान" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": { "en": "'Mallakhamb', an acrobatic performance on a vertical wooden pole, is the traditional state sport of —", "hi": "लकड़ी के खंभे पर किया जाने वाला कलाबाज़ी खेल 'मल्खंब' मुख्य रूप से किस राज्य का पारंपरिक खेल है?" },
+      "options": [
+        { "en": "Madhya Pradesh", "hi": "मध्य प्रदेश" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Assam", "hi": "असम" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": { "en": "'Jallikattu' is a traditional bull-taming event practiced mostly in —", "hi": "'जलीकट्टू' पारंपरिक सांड को वश में करने वाला खेल मुख्य रूप से कहाँ खेला जाता है?" },
+      "options": [
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Kerala", "hi": "केरल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": { "en": "The Assamese festival of 'Bihu' is celebrated how many times in a year?", "hi": "असम का त्योहार 'बिहू' एक वर्ष में कितनी बार मनाया जाता है?" },
+      "options": [
+        { "en": "Once", "hi": "एक बार" },
+        { "en": "Twice", "hi": "दो बार" },
+        { "en": "Three times", "hi": "तीन बार" },
+        { "en": "Four times", "hi": "चार बार" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": { "en": "The famous 'Kumbh Mela' rotates among four places: Prayagraj, Haridwar, Ujjain, and —", "hi": "प्रसिद्ध 'कुंभ मेला' चार स्थानों के बीच क्रम से लगता है: प्रयागराज, हरिद्वार, उज्जैन और चौथा स्थान कौन सा है?" },
+      "options": [
+        { "en": "Varanasi", "hi": "वाराणसी" },
+        { "en": "Nashik", "hi": "नासिक" },
+        { "en": "Ayodhya", "hi": "अयोध्या" },
+        { "en": "Rishikesh", "hi": "ऋषिकेश" }
+      ],
+      "correct": 1
+    }
+  ]
+}

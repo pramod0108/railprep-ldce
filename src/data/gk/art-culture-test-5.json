@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 5",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "The 'Harappan script' remains —", "hi": "'हड़प्पा लिपि' अभी तक कैसी है?" },
+      "options": [
+        { "en": "Translated fully", "hi": "पूर्ण रूप से अनुवादित" },
+        { "en": "Written in Greek", "hi": "ग्रीक में लिखी गई" },
+        { "en": "Lost completely", "hi": "पूरी तरह खो गई" },
+        { "en": "Undeciphered", "hi": "अभी तक अपठित (अनसुलझी)" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 2,
+      "question": { "en": "'Gurudwara Bangla Sahib' is associated with Guru —", "hi": "'गुरुद्वारा बंगला साहिब' किस गुरु से संबंधित है?" },
+      "options": [
+        { "en": "Guru Har Krishan Sahib Ji", "hi": "गुरु हर किशन साहिब जी" },
+        { "en": "Guru Nanak", "hi": "गुरु नानक" },
+        { "en": "Guru Govind Singh", "hi": "गुरु गोविंद सिंह" },
+        { "en": "Guru Angad", "hi": "गुरु अंगद" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": { "en": "The 'Elephanta Caves' are near —", "hi": "'एलीफेंटा गुफाएँ' किसके निकट हैं?" },
+      "options": [
+        { "en": "Aurangabad", "hi": "औरंगाबाद" },
+        { "en": "Chennai", "hi": "चेन्नई" },
+        { "en": "Nagpur", "hi": "नागपुर" },
+        { "en": "Mumbai", "hi": "मुंबई" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "question": { "en": "'Mysore Painting' style uses —", "hi": "'मैसूर चित्रकला' शैली में किसका उपयोग होता है?" },
+      "options": [
+        { "en": "Tempera", "hi": "टेम्पेरा" },
+        { "en": "Charcoal", "hi": "चारकोल" },
+        { "en": "Gesso work and gold leaf", "hi": "जेस्सो कार्य और सोने की पत्ती" },
+        { "en": "Fresco", "hi": "फ्रेस्को" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": { "en": "The 'Puri Jagannath Temple' was built by —", "hi": "'पुरी जगन्नाथ मंदिर' किसने बनवाया था?" },
+      "options": [
+        { "en": "Ashoka", "hi": "अशोक" },
+        { "en": "Chodaganga Deva", "hi": "चोडगंग देव" },
+        { "en": "Kanishka", "hi": "कनिष्क" },
+        { "en": "Bhoja", "hi": "भोज" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": { "en": "'Dhol and Tasha' are traditional instruments used in —", "hi": "'ढोल और ताशा' का उपयोग पारंपरिक रूप से किसमें होता है?" },
+      "options": [
+        { "en": "Rajasthan processions", "hi": "राजस्थान के जुलूस" },
+        { "en": "Gujarat processions", "hi": "गुजरात के जुलूस" },
+        { "en": "Kerala processions", "hi": "केरल के जुलूस" },
+        { "en": "Maharashtra processions", "hi": "महाराष्ट्र के जुलूस" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "question": { "en": "'Guru Shishya Parampara' means —", "hi": "'गुरु शिष्य परंपरा' का अर्थ क्या है?" },
+      "options": [
+        { "en": "Teacher–student lineage", "hi": "गुरु-शिष्य वंश परंपरा" },
+        { "en": "Traditional teacher–disciple relationship", "hi": "पारंपरिक गुरु-शिष्य संबंध" },
+        { "en": "Prayer gathering", "hi": "प्रार्थना सभा" },
+        { "en": "Annual festival", "hi": "वार्षिक उत्सव" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": { "en": "The 'Kumbh Mela' is held every —", "hi": "'कुंभ मेला' कितने वर्षों में एक बार आयोजित होता है?" },
+      "options": [
+        { "en": "12 years", "hi": "12 वर्ष" },
+        { "en": "5 years", "hi": "5 वर्ष" },
+        { "en": "10 years", "hi": "10 वर्ष" },
+        { "en": "7 years", "hi": "7 वर्ष" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": { "en": "The 'Ramayana' was written by —", "hi": "'रामायण' की रचना किसने की?" },
+      "options": [
+        { "en": "Tulsidas", "hi": "तुलसीदास" },
+        { "en": "Valmiki", "hi": "वाल्मीकि" },
+        { "en": "Ved Vyasa", "hi": "वेद व्यास" },
+        { "en": "Kalidasa", "hi": "कालिदास" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": { "en": "The 'Mahabharata' was written by —", "hi": "'महाभारत' की रचना किसने की?" },
+      "options": [
+        { "en": "Valmiki", "hi": "वाल्मीकि" },
+        { "en": "Kalhana", "hi": "कल्हण" },
+        { "en": "Banabhatta", "hi": "बाणभट्ट" },
+        { "en": "Ved Vyasa", "hi": "वेद व्यास" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": { "en": "The 'Chandni Chowk' was established by —", "hi": "'चांदनी चौक' की स्थापना किसने की थी?" },
+      "options": [
+        { "en": "Akbar", "hi": "अकबर" },
+        { "en": "Jahanara Begum", "hi": "जहाँआरा बेगम" },
+        { "en": "Shah Jahan", "hi": "शाहजहाँ" },
+        { "en": "Aurangzeb", "hi": "औरंगज़ेब" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": { "en": "'Rajasthani Miniature Painting' developed during —", "hi": "'राजस्थानी लघुचित्र' किस काल में विकसित हुई?" },
+      "options": [
+        { "en": "Mughal period", "hi": "मुगल काल" },
+        { "en": "Gupta period", "hi": "गुप्त काल" },
+        { "en": "Rajput period", "hi": "राजपूत काल" },
+        { "en": "Mauryan period", "hi": "मौर्य काल" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": { "en": "'Baul' is a form of folk music and mystical tradition from —", "hi": "'बाउल' किस राज्य की लोक संगीत एवं रहस्यवादी परंपरा है?" },
+      "options": [
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Bengal", "hi": "बंगाल" },
+        { "en": "Assam", "hi": "असम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": { "en": "'Pongal' is a harvest festival celebrated in —", "hi": "'पोंगल' एक फसल उत्सव है जो किस राज्य में मनाया जाता है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Karnataka", "hi": "कर्नाटक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": { "en": "The Tamil version of the Ramayana was written by —", "hi": "रामायण का तमिल संस्करण किसने लिखा था?" },
+      "options": [
+        { "en": "Thiruvalluvar", "hi": "तिरुवल्लुवर" },
+        { "en": "Kamban", "hi": "कम्बन" },
+        { "en": "Ilango Adigal", "hi": "इलांगो अडिगल" },
+        { "en": "Avvaiyar", "hi": "औवैयार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": { "en": "The 'Shore Temple' at Mahabalipuram is dedicated to —", "hi": "महाबलिपुरम का 'शोर टेंपल' किसे समर्पित है?" },
+      "options": [
+        { "en": "Brahma and Vishnu", "hi": "ब्रह्मा और विष्णु" },
+        { "en": "Shiva and Brahma", "hi": "शिव और ब्रह्मा" },
+        { "en": "Shiva and Vishnu", "hi": "शिव और विष्णु" },
+        { "en": "Ganesha only", "hi": "केवल गणेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": { "en": "The 'Mridangam' is the primary percussion instrument of —", "hi": "'मृदंगम' किस शास्त्रीय संगीत परंपरा का प्रमुख ताल वाद्य है?" },
+      "options": [
+        { "en": "Folk music", "hi": "लोक संगीत" },
+        { "en": "Hindustani music", "hi": "हिंदुस्तानी संगीत" },
+        { "en": "Sufi music", "hi": "सूफी संगीत" },
+        { "en": "Carnatic music", "hi": "कर्नाटक संगीत" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": { "en": "The 'Arthashastra', a treatise on statecraft and economics, was written by —", "hi": "राजनीति एवं अर्थशास्त्र पर ग्रंथ 'अर्थशास्त्र' की रचना किसने की?" },
+      "options": [
+        { "en": "Chanakya (Kautilya)", "hi": "चाणक्य (कौटिल्य)" },
+        { "en": "Valmiki", "hi": "वाल्मीकि" },
+        { "en": "Panini", "hi": "पाणिनि" },
+        { "en": "Manu", "hi": "मनु" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": { "en": "The ancient university of Nalanda was located in —", "hi": "प्राचीन नालंदा विश्वविद्यालय किस राज्य में स्थित था?" },
+      "options": [
+        { "en": "Uttar Pradesh", "hi": "उत्तर प्रदेश" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "West Bengal", "hi": "पश्चिम बंगाल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": { "en": "The 'Vittala Temple', famous for its musical pillars, is located at —", "hi": "संगीत स्तंभों के लिए प्रसिद्ध 'विट्ठल मंदिर' कहाँ स्थित है?" },
+      "options": [
+        { "en": "Badami", "hi": "बादामी" },
+        { "en": "Aihole", "hi": "ऐहोल" },
+        { "en": "Hampi, Karnataka", "hi": "हम्पी, कर्नाटक" },
+        { "en": "Belur", "hi": "बेलूर" }
+      ],
+      "correct": 2
+    }
+  ]
+}

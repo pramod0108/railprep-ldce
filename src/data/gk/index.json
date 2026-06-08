@@ -1,8 +1,18 @@
 [
-  { "id": "sports-test-1", "file": "sports-test-1.json", "paperName": "Sports Mock Test – 1" },
-  { "id": "sports-test-2", "file": "sports-test-2.json", "paperName": "Sports Mock Test – 2" },
-  { "id": "sports-test-3", "file": "sports-test-3.json", "paperName": "Sports Mock Test – 3" },
-  { "id": "sports-test-4", "file": "sports-test-4.json", "paperName": "Sports Mock Test – 4" },
-  { "id": "sports-test-5", "file": "sports-test-5.json", "paperName": "Sports Mock Test – 5" },
-  { "id": "sports-test-6", "file": "sports-test-6.json", "paperName": "Sports Mock Test – 6" }
+  { "id": "art-culture-test-1",  "file": "art-culture-test-1.json",  "paperName": "Art and Culture Mock Test – 1"  },
+  { "id": "art-culture-test-2",  "file": "art-culture-test-2.json",  "paperName": "Art and Culture Mock Test – 2"  },
+  { "id": "art-culture-test-3",  "file": "art-culture-test-3.json",  "paperName": "Art and Culture Mock Test – 3"  },
+  { "id": "art-culture-test-4",  "file": "art-culture-test-4.json",  "paperName": "Art and Culture Mock Test – 4"  },
+  { "id": "art-culture-test-5",  "file": "art-culture-test-5.json",  "paperName": "Art and Culture Mock Test – 5"  },
+  { "id": "art-culture-test-6",  "file": "art-culture-test-6.json",  "paperName": "Art and Culture Mock Test – 6"  },
+  { "id": "art-culture-test-7",  "file": "art-culture-test-7.json",  "paperName": "Art and Culture Mock Test – 7"  },
+  { "id": "art-culture-test-8",  "file": "art-culture-test-8.json",  "paperName": "Art and Culture Mock Test – 8"  },
+  { "id": "art-culture-test-9",  "file": "art-culture-test-9.json",  "paperName": "Art and Culture Mock Test – 9"  },
+  { "id": "art-culture-test-10", "file": "art-culture-test-10.json", "paperName": "Art and Culture Mock Test – 10" },
+  { "id": "sports-test-1",       "file": "sports-test-1.json",       "paperName": "Sports Mock Test – 1"           },
+  { "id": "sports-test-2",       "file": "sports-test-2.json",       "paperName": "Sports Mock Test – 2"           },
+  { "id": "sports-test-3",       "file": "sports-test-3.json",       "paperName": "Sports Mock Test – 3"           },
+  { "id": "sports-test-4",       "file": "sports-test-4.json",       "paperName": "Sports Mock Test – 4"           },
+  { "id": "sports-test-5",       "file": "sports-test-5.json",       "paperName": "Sports Mock Test – 5"           },
+  { "id": "sports-test-6",       "file": "sports-test-6.json",       "paperName": "Current Affairs 2026 Mock Test – 1" }
 ]

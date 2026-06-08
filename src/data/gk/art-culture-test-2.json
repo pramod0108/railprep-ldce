@@ -1,0 +1,225 @@
+{
+  "paperName": "Art and Culture Mock Test – 2",
+  "questions": [
+    {
+      "id": 1,
+      "question": { "en": "Who composed India's National Anthem?", "hi": "भारत का राष्ट्रगान किसने रचा?" },
+      "options": [
+        { "en": "Bankim Chandra Chatterjee", "hi": "बंकिम चंद्र चटर्जी" },
+        { "en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर" },
+        { "en": "Subhas Chandra Bose", "hi": "सुभाष चंद्र बोस" },
+        { "en": "Mahatma Gandhi", "hi": "महात्मा गांधी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": { "en": "'Kathak' dance originated in —", "hi": "'कथक' नृत्य की उत्पत्ति कहाँ हुई?" },
+      "options": [
+        { "en": "East India", "hi": "पूर्वी भारत" },
+        { "en": "South India", "hi": "दक्षिण भारत" },
+        { "en": "West India", "hi": "पश्चिम भारत" },
+        { "en": "North India", "hi": "उत्तर भारत" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 3,
+      "question": { "en": "'Manipuri' dance is associated with —", "hi": "'मणिपुरी' नृत्य किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Mizoram", "hi": "मिज़ोरम" },
+        { "en": "Manipur", "hi": "मणिपुर" },
+        { "en": "Assam", "hi": "असम" },
+        { "en": "Nagaland", "hi": "नागालैंड" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": { "en": "The 'Madhubani' painting is famous in —", "hi": "'मधुबनी' चित्रकला किस राज्य में प्रसिद्ध है?" },
+      "options": [
+        { "en": "West Bengal", "hi": "पश्चिम बंगाल" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Uttar Pradesh", "hi": "उत्तर प्रदेश" },
+        { "en": "Bihar", "hi": "बिहार" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "question": { "en": "The Khajuraho temples were built by —", "hi": "खजुराहो के मंदिरों का निर्माण किसने करवाया था?" },
+      "options": [
+        { "en": "Maurya rulers", "hi": "मौर्य शासक" },
+        { "en": "Gupta rulers", "hi": "गुप्त शासक" },
+        { "en": "Pallava rulers", "hi": "पल्लव शासक" },
+        { "en": "Chandela rulers", "hi": "चंदेल शासक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "question": { "en": "'Chhau' dance belongs to —", "hi": "'छाऊ' नृत्य किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "West Bengal", "hi": "पश्चिम बंगाल" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Assam", "hi": "असम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": { "en": "The traditional instrument 'Shehnai' is played by —", "hi": "पारंपरिक वाद्य यंत्र 'शहनाई' किसके द्वारा बजाया जाता है?" },
+      "options": [
+        { "en": "Zakir Hussain", "hi": "ज़ाकिर हुसैन" },
+        { "en": "Pandit Ravi Shankar", "hi": "पंडित रवि शंकर" },
+        { "en": "Amjad Ali Khan", "hi": "अमजद अली खान" },
+        { "en": "Ustad Bismillah Khan", "hi": "उस्ताद बिस्मिल्लाह खान" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 8,
+      "question": { "en": "The festival of 'Lohri' marks —", "hi": "'लोहड़ी' त्योहार किसका प्रतीक है?" },
+      "options": [
+        { "en": "Harvest of Kharif crops", "hi": "खरीफ फसल की कटाई" },
+        { "en": "Harvest of Rabi crops", "hi": "रबी फसल की कटाई" },
+        { "en": "Beginning of summer", "hi": "गर्मी की शुरुआत" },
+        { "en": "Festival of lights", "hi": "रोशनी का त्योहार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": { "en": "The architectural style of Qutub Minar is —", "hi": "कुतुब मीनार की वास्तुकला शैली कौन सी है?" },
+      "options": [
+        { "en": "Mughal", "hi": "मुगल" },
+        { "en": "Mauryan", "hi": "मौर्य" },
+        { "en": "Gupta", "hi": "गुप्त" },
+        { "en": "Indo-Islamic", "hi": "इंडो-इस्लामिक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 10,
+      "question": { "en": "The Red Fort of Delhi was built by —", "hi": "दिल्ली का लाल किला किसने बनवाया था?" },
+      "options": [
+        { "en": "Akbar", "hi": "अकबर" },
+        { "en": "Aurangzeb", "hi": "औरंगज़ेब" },
+        { "en": "Shah Jahan", "hi": "शाहजहाँ" },
+        { "en": "Babur", "hi": "बाबर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": { "en": "The 'Ghoomar' dance is from —", "hi": "'घूमर' नृत्य किस राज्य से है?" },
+      "options": [
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Haryana", "hi": "हरियाणा" },
+        { "en": "Madhya Pradesh", "hi": "मध्य प्रदेश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": { "en": "The 'Bhangra' dance is associated with —", "hi": "'भांगड़ा' नृत्य किस राज्य से संबंधित है?" },
+      "options": [
+        { "en": "Uttar Pradesh", "hi": "उत्तर प्रदेश" },
+        { "en": "Haryana", "hi": "हरियाणा" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Punjab", "hi": "पंजाब" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "question": { "en": "The 'Lavani' folk dance belongs to —", "hi": "'लावणी' लोक नृत्य किस राज्य का है?" },
+      "options": [
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Maharashtra", "hi": "महाराष्ट्र" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Punjab", "hi": "पंजाब" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": { "en": "'Raga' is associated with —", "hi": "'राग' किससे संबंधित है?" },
+      "options": [
+        { "en": "Painting", "hi": "चित्रकला" },
+        { "en": "Dance", "hi": "नृत्य" },
+        { "en": "Music", "hi": "संगीत" },
+        { "en": "Sculpture", "hi": "मूर्तिकला" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": { "en": "'Sitar' was popularized globally by —", "hi": "'सितार' को विश्व स्तर पर किसने लोकप्रिय बनाया?" },
+      "options": [
+        { "en": "Pandit Ravi Shankar", "hi": "पंडित रवि शंकर" },
+        { "en": "Zakir Hussain", "hi": "ज़ाकिर हुसैन" },
+        { "en": "Amjad Ali Khan", "hi": "अमजद अली खान" },
+        { "en": "Bismillah Khan", "hi": "बिस्मिल्लाह खान" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": { "en": "The 'Veena' is associated with Goddess —", "hi": "'वीणा' किस देवी से संबंधित है?" },
+      "options": [
+        { "en": "Lakshmi", "hi": "लक्ष्मी" },
+        { "en": "Durga", "hi": "दुर्गा" },
+        { "en": "Saraswati", "hi": "सरस्वती" },
+        { "en": "Kali", "hi": "काली" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": { "en": "The 'Taj Mahal' was built in memory of —", "hi": "'ताज महल' किसकी याद में बनाया गया था?" },
+      "options": [
+        { "en": "Jodha Bai", "hi": "जोधा बाई" },
+        { "en": "Noor Jahan", "hi": "नूर जहाँ" },
+        { "en": "Razia Sultan", "hi": "रज़िया सुल्तान" },
+        { "en": "Mumtaz Mahal", "hi": "मुमताज महल" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": { "en": "'Tanjore' paintings originated in —", "hi": "'तंजौर' चित्रकला की उत्पत्ति कहाँ हुई?" },
+      "options": [
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Karnataka", "hi": "कर्नाटक" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": { "en": "The 'Bronze Dancing Girl' was found in —", "hi": "'कांस्य नृत्यांगना मूर्ति' कहाँ से मिली थी?" },
+      "options": [
+        { "en": "Mohenjo-Daro", "hi": "मोहनजोदड़ो" },
+        { "en": "Harappa", "hi": "हड़प्पा" },
+        { "en": "Lothal", "hi": "लोथल" },
+        { "en": "Kalibangan", "hi": "कालीबंगन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": { "en": "The 'Nagara' style of temple architecture developed in —", "hi": "'नागर' शैली की मंदिर वास्तुकला किस क्षेत्र में विकसित हुई?" },
+      "options": [
+        { "en": "South India", "hi": "दक्षिण भारत" },
+        { "en": "East India", "hi": "पूर्वी भारत" },
+        { "en": "North India", "hi": "उत्तर भारत" },
+        { "en": "West India", "hi": "पश्चिम भारत" }
+      ],
+      "correct": 2
+    }
+  ]
+}
