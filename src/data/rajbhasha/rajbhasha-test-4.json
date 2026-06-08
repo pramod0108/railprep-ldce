@@ -1,0 +1,145 @@
+{
+  "paperName": "Rajbhasha Mock Test - 4",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When was the Official Languages Act, 1963 amended?",
+        "hi": "राजभाषा अधिनियम, 1963 में संशोधन कब किया गया था?"
+      },
+      "options": [
+        { "en": "1957", "hi": "1957" },
+        { "en": "1947", "hi": "1947" },
+        { "en": "1967", "hi": "1967" },
+        { "en": "1977", "hi": "1977" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "When is ‘Hindi Day’ celebrated every year?",
+        "hi": "‘हिंदी दिवस’ प्रतिवर्ष कब मनाया जाता है?"
+      },
+      "options": [
+        { "en": "14 September", "hi": "14 सितंबर" },
+        { "en": "18 September", "hi": "18 सितंबर" },
+        { "en": "24 September", "hi": "24 सितंबर" },
+        { "en": "28 September", "hi": "28 सितंबर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "According to the Official Languages Rules, Andaman & Nicobar Islands fall under which region?",
+        "hi": "राजभाषा नियमों के अनुसार अंडमान एवं निकोबार द्वीपसमूह किस क्षेत्र में आते हैं?"
+      },
+      "options": [
+        { "en": "‘A’ Region", "hi": "‘क’ क्षेत्र" },
+        { "en": "‘B’ Region", "hi": "‘ख’ क्षेत्र" },
+        { "en": "‘C’ Region", "hi": "‘ग’ क्षेत्र" },
+        { "en": "None of the above", "hi": "उपरोक्त में से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "From when did Section 3(3) of the Official Languages Act come into effect?",
+        "hi": "राजभाषा अधिनियम की धारा 3(3) कब से प्रभावी हुई?"
+      },
+      "options": [
+        { "en": "26 January 1965", "hi": "26 जनवरी 1965" },
+        { "en": "26 January 1967", "hi": "26 जनवरी 1967" },
+        { "en": "15 August 1965", "hi": "15 अगस्त 1965" },
+        { "en": "15 August 1967", "hi": "15 अगस्त 1967" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "At present, how many languages are included in the Eighth Schedule of the Constitution of India?",
+        "hi": "वर्तमान में भारतीय संविधान की आठवीं अनुसूची में कितनी भाषाएँ सम्मिलित हैं?"
+      },
+      "options": [
+        { "en": "14", "hi": "14" },
+        { "en": "22", "hi": "22" },
+        { "en": "28", "hi": "28" },
+        { "en": "36", "hi": "36" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Who was the first Chairman of the Official Language Commission?",
+        "hi": "राजभाषा आयोग के प्रथम अध्यक्ष कौन थे?"
+      },
+      "options": [
+        { "en": "Mahatma Gandhi", "hi": "महात्मा गांधी" },
+        { "en": "Vallabhbhai Patel", "hi": "वल्लभभाई पटेल" },
+        { "en": "B. G. Kher", "hi": "बी. जी. खेर" },
+        { "en": "Sarojini Naidu", "hi": "सरोजिनी नायडू" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "As per the Constitution, which ministry is responsible for translating statutory rules, regulations and orders?",
+        "hi": "संविधान के अनुसार वैधानिक नियमों, विनियमों एवं आदेशों का अनुवाद कौन सा मंत्रालय करता है?"
+      },
+      "options": [
+        { "en": "Ministry of Home Affairs", "hi": "गृह मंत्रालय" },
+        { "en": "Ministry of Law", "hi": "विधि मंत्रालय" },
+        { "en": "Ministry of Education", "hi": "शिक्षा मंत्रालय" },
+        { "en": "Ministry of Finance", "hi": "वित्त मंत्रालय" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Which of the following states does NOT fall under ‘A’ Region?",
+        "hi": "निम्नलिखित में से कौन सा राज्य ‘क’ क्षेत्र में नहीं आता है?"
+      },
+      "options": [
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Rajasthan", "hi": "राजस्थान" },
+        { "en": "West Bengal", "hi": "पश्चिम बंगाल" },
+        { "en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Who is the Chairman of the Central Hindi Committee?",
+        "hi": "केंद्रीय हिंदी समिति के अध्यक्ष कौन होते हैं?"
+      },
+      "options": [
+        { "en": "Prime Minister", "hi": "प्रधानमंत्री" },
+        { "en": "Home Minister", "hi": "गृह मंत्री" },
+        { "en": "Law Minister", "hi": "विधि मंत्री" },
+        { "en": "Speaker of Lok Sabha", "hi": "लोकसभा अध्यक्ष" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "How many Lok Sabha Members are there in the Committee of Parliament on Official Language?",
+        "hi": "राजभाषा संबंधी संसदीय समिति में लोकसभा के कितने सदस्य होते हैं?"
+      },
+      "options": [
+        { "en": "12", "hi": "12" },
+        { "en": "20", "hi": "20" },
+        { "en": "32", "hi": "32" },
+        { "en": "42", "hi": "42" }
+      ],
+      "correct": 1
+    }
+  ]
+}

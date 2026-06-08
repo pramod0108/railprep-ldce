@@ -1,0 +1,145 @@
+{
+  "paperName": "Rajbhasha Mock Test - 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When the Constitution was adopted, how many languages were included in the Eighth Schedule initially?",
+        "hi": "संविधान अपनाए जाने के समय, आठवीं अनुसूची में कितनी भाषाएं प्रारंभिक रूप से शामिल की गई थीं?"
+      },
+      "options": [
+        { "en": "Fourteen", "hi": "चौदह" },
+        { "en": "Twelve", "hi": "बारह" },
+        { "en": "Eighteen", "hi": "अठारह" },
+        { "en": "Sixteen", "hi": "सोलह" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "As per Article 343(1) of the constitution when Hindi became the official language of the Union of India?",
+        "hi": "संविधान के अनुच्छेद 343(1) के अनुसार, हिंदी भारत संघ की आधिकारिक भाषा कब बनी?"
+      },
+      "options": [
+        { "en": "26.01.1965", "hi": "26.01.1965" },
+        { "en": "26.01.1969", "hi": "26.01.1969" },
+        { "en": "26.01.1950", "hi": "26.01.1950" },
+        { "en": "15.07.1947", "hi": "15.07.1947" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Which is the Official Language of Arunachal Pradesh?",
+        "hi": "अरुणाचल प्रदेश की आधिकारिक भाषा कौन-सी है?"
+      },
+      "options": [
+        { "en": "English", "hi": "अंग्रेज़ी" },
+        { "en": "Bodo", "hi": "बोडो" },
+        { "en": "Hindi", "hi": "हिंदी" },
+        { "en": "Arunachali", "hi": "अरुणाचली" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "When is “Hindi Day” celebrated every year?",
+        "hi": "हर वर्ष \"हिंदी दिवस\" कब मनाया जाता है?"
+      },
+      "options": [
+        { "en": "14th September", "hi": "14 सितंबर" },
+        { "en": "14th October", "hi": "14 अक्टूबर" },
+        { "en": "24th September", "hi": "24 सितंबर" },
+        { "en": "04th October", "hi": "04 अक्टूबर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "when was the official languages act passed?",
+        "hi": "आधिकारिक भाषा अधिनियम कब पारित हुआ था?"
+      },
+      "options": [
+        { "en": "1969", "hi": "1969" },
+        { "en": "1979", "hi": "1979" },
+        { "en": "1963", "hi": "1963" },
+        { "en": "1983", "hi": "1983" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "who is the chairman of parliamentary official language committee?",
+        "hi": "संसदीय राजभाषा समिति के अध्यक्ष कौन होते हैं?"
+      },
+      "options": [
+        { "en": "Prime minister", "hi": "प्रधानमंत्री" },
+        { "en": "Home minister", "hi": "गृह मंत्री" },
+        { "en": "President", "hi": "राष्ट्रपति" },
+        { "en": "Finance minister", "hi": "वित्त मंत्री" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Telangana state comes under region as per official language policy ?",
+        "hi": "तेलंगाना राज्य आधिकारिक भाषा नीति के अनुसार किस क्षेत्र के अंतर्गत आता है?"
+      },
+      "options": [
+        { "en": "A region", "hi": "क्षेत्र \"A\"" },
+        { "en": "B region", "hi": "क्षेत्र \"B\"" },
+        { "en": "C region", "hi": "क्षेत्र \"C\"" },
+        { "en": "D region", "hi": "क्षेत्र \"D\"" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Which committee reviews the progress of the use of Hindi in government departments?",
+        "hi": "सरकारी विभागों में हिंदी के उपयोग की प्रगति की समीक्षा कौन-सी समिति करती है?"
+      },
+      "options": [
+        { "en": "Parliament Rajbhasha Committee", "hi": "संसदीय राजभाषा समिति" },
+        { "en": "Central Hindi Committee", "hi": "केंद्रीय हिंदी समिति" },
+        { "en": "National Language Promotion Committee", "hi": "राष्ट्रीय भाषा संवर्धन समिति" },
+        { "en": "Administrative Language Bureau", "hi": "प्रशासनिक भाषा ब्यूरो" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Under the Official Language Policy, which of the following is not categorized as \"Region A\"?",
+        "hi": "आधिकारिक भाषा नीति के अंतर्गत, निम्नलिखित में से कौन-सा \"क्षेत्र A\" में शामिल नहीं है?"
+      },
+      "options": [
+        { "en": "Uttar Pradesh", "hi": "उत्तर प्रदेश" },
+        { "en": "Punjab", "hi": "पंजाब" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Rajasthan", "hi": "राजस्थान" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which region is officially exempt from adopting Hindi for official work?",
+        "hi": "आधिकारिक कार्य के लिए हिंदी को अपनाने से औपचारिक रूप से किस क्षेत्र को छूट दी गई है?"
+      },
+      "options": [
+        { "en": "North-East India", "hi": "पूर्वोत्तर भारत" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Jammu and Kashmir", "hi": "जम्मू और कश्मीर" }
+      ],
+      "correct": 1
+    }
+  ]
+}

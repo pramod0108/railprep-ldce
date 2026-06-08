@@ -1,0 +1,145 @@
+{
+  "paperName": "Rajbhasha Mock Test - 5",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When was the Official Languages Act, 1963 passed?",
+        "hi": "राजभाषा अधिनियम 1963 कब पारित हुआ ?"
+      },
+      "options": [
+        { "en": "10.09.1963", "hi": "10.09.1963" },
+        { "en": "14.09.1963", "hi": "14.09.1963" },
+        { "en": "26.01.1963", "hi": "26.01.1963" },
+        { "en": "10.05.1963", "hi": "10.05.1963" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "What is the official language of Arunachal Pradesh?",
+        "hi": "अरुणाचल प्रदेश की राजभाषा क्या है?"
+      },
+      "options": [
+        { "en": "Hindi", "hi": "हिन्दी" },
+        { "en": "Maithili", "hi": "मैथिली" },
+        { "en": "English", "hi": "अंग्रेज़ी" },
+        { "en": "Santhali", "hi": "संथाली" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "In which states has Urdu been declared as an official language?",
+        "hi": "किन-किन राज्यों में उर्दू को राजभाषा के रूप में घोषित किया गया है ?"
+      },
+      "options": [
+        { "en": "Mizoram & Arunachal Pradesh", "hi": "मिज़ोरम व अरुणाचल प्रदेश" },
+        { "en": "Telangana & Bihar", "hi": "तेलंगाना व बिहार" },
+        { "en": "Karnataka & Tamil Nadu", "hi": "कर्नाटक व तमिलनाडु" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "In which Article are the provisions related to official language policy in Part V of the Constitution?",
+        "hi": "संविधान के भाग-V में राजभाषा नीति संबंधित उपबंध किस अनुच्छेद में हैं ?"
+      },
+      "options": [
+        { "en": "Article 120", "hi": "अनुच्छेद-120" },
+        { "en": "Article 210", "hi": "अनुच्छेद-210" },
+        { "en": "Article 343", "hi": "अनुच्छेद-343" },
+        { "en": "Article 351", "hi": "अनुच्छेद-351" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Who was the first Chairman of the Official Language Commission?",
+        "hi": "राजभाषा आयोग के प्रथम अध्यक्ष कौन थे ?"
+      },
+      "options": [
+        { "en": "G.B. Pant", "hi": "जी.बी.पंत" },
+        { "en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू" },
+        { "en": "Mahatma Gandhi", "hi": "महात्मा गांधी" },
+        { "en": "B.G. Kher", "hi": "बी.जी.खेर" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "According to the Constitution, who translates statutory rules, regulations and orders?",
+        "hi": "संविधान के अनुसार सांविधिक नियमों, विनियमों और आदेशों का अनुवाद कौन करता है ?"
+      },
+      "options": [
+        { "en": "Ministry of Railways", "hi": "रेल मंत्रालय" },
+        { "en": "Ministry of Finance", "hi": "वित्त मंत्रालय" },
+        { "en": "Ministry of Law", "hi": "विधि मंत्रालय" },
+        { "en": "Ministry of Home Affairs", "hi": "गृह मंत्रालय" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Who chaired the first Railway Hindi Advisory Committee formed in the year 1973?",
+        "hi": "वर्ष 1973 में गठित पहली रेलवे हिंदी सलाहकार समिति की अध्यक्षता किसने की ?"
+      },
+      "options": [
+        { "en": "Dr. B.R. Ambedkar", "hi": "डॉ बी.आर.अंबेडकर" },
+        { "en": "Shri Lalit Narayan Mishra", "hi": "श्री ललित नारायण मिश्र" },
+        { "en": "G.B. Pant", "hi": "जी.बी.पंत" },
+        { "en": "Dr. Rajendra Prasad", "hi": "डॉ राजेंद्र प्रसाद" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Which one of the following listed in the 8th Schedule of the Constitution is the official language of a state?",
+        "hi": "संविधान की 8वीं अनुसूची में सूचीबद्ध निम्नोक्त में से कौन - सी एक किसी राज्य की राजभाषा है ?"
+      },
+      "options": [
+        { "en": "Kashmiri", "hi": "कश्मीरी" },
+        { "en": "Urdu", "hi": "उर्दू" },
+        { "en": "Sindhi", "hi": "सिंधी" },
+        { "en": "Nepali", "hi": "नेपाली" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Under which Article of the Constitution has Hindi been granted the status of official language?",
+        "hi": "संविधान के किस अनुच्छेद के अंतर्गत हिंदी को राजभाषा के रूप में दर्जा प्रदान किया गया है ?"
+      },
+      "options": [
+        { "en": "Article 348 (i)", "hi": "अनुच्छेद 348 (i)" },
+        { "en": "Article 346 (i)", "hi": "अनुच्छेद 346 (i)" },
+        { "en": "Article 343 (i)", "hi": "अनुच्छेद 343 (i)" },
+        { "en": "Article 345 (i)", "hi": "अनुच्छेद 345 (i)" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which of the following languages is not in the 8th Schedule of the Constitution?",
+        "hi": "निम्नलिखित में कौन-सी भाषा संविधान की 8वीं अनुसूची में नहीं है ?"
+      },
+      "options": [
+        { "en": "Urdu", "hi": "उर्दू" },
+        { "en": "Nepali", "hi": "नेपाली" },
+        { "en": "Konkani", "hi": "कोंकणी" },
+        { "en": "Bhojpuri", "hi": "भोजपुरी" }
+      ],
+      "correct": 3
+    }
+  ]
+}

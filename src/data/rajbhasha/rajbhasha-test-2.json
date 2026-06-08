@@ -1,0 +1,145 @@
+{
+  "paperName": "Rajbhasha Mock Test - 2",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "The Official Languages Act was enacted in:",
+        "hi": "राजभाषा अधिनियम कब लागू किया गया:"
+      },
+      "options": [
+        { "en": "1950", "hi": "1950" },
+        { "en": "1963", "hi": "1963" },
+        { "en": "1976", "hi": "1976" },
+        { "en": "1990", "hi": "1990" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Hindi Day is celebrated in India on:",
+        "hi": "भारत में हिंदी दिवस कब मनाया जाता है:"
+      },
+      "options": [
+        { "en": "14th September", "hi": "14 सितंबर" },
+        { "en": "15th August", "hi": "15 अगस्त" },
+        { "en": "26th January", "hi": "26 जनवरी" },
+        { "en": "2nd October", "hi": "2 अक्टूबर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "According to which sub-rule of Official Language Rules, 1976, an employee can submit his application, appeal or representation in Hindi or English?",
+        "hi": "आधिकारिक भाषा नियम, 1976 के किस उप-नियम के अनुसार कर्मचारी अपनी आवेदन, अपील या अभ्यावेदन हिंदी या अंग्रेजी में प्रस्तुत कर सकता है?"
+      },
+      "options": [
+        { "en": "Rule 7(1)", "hi": "नियम 7(1)" },
+        { "en": "Rule 7(3)", "hi": "नियम 7(3)" },
+        { "en": "Rule 8(1)", "hi": "नियम 8(1)" },
+        { "en": "Rule 8(3)", "hi": "नियम 8(3)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which is the elementary course in Hindi teaching schemes for Central Govt. employees?",
+        "hi": "केंद्रीय सरकारी कर्मचारियों के लिए हिंदी शिक्षण योजना का प्रारंभिक कोर्स कौन सा है:"
+      },
+      "options": [
+        { "en": "Praveen", "hi": "प्रवीण" },
+        { "en": "Pragya", "hi": "प्रज्ञा" },
+        { "en": "Prabodh", "hi": "प्रबोध" },
+        { "en": "Parangat", "hi": "पारंगत" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "As per Official Language Rules, Andaman & Nicobar Islands fall under which region?",
+        "hi": "राजभाषा नियमों के अनुसार अंडमान और निकोबार द्वीपसमूह किस क्षेत्र में आता है:"
+      },
+      "options": [
+        { "en": "A", "hi": "A" },
+        { "en": "B", "hi": "B" },
+        { "en": "C", "hi": "C" },
+        { "en": "D", "hi": "D" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Which among the following is the second official language of Uttar Pradesh?",
+        "hi": "उत्तर प्रदेश की दूसरी राजभाषा कौन सी है:"
+      },
+      "options": [
+        { "en": "English", "hi": "अंग्रेजी" },
+        { "en": "Awadhi", "hi": "अवधी" },
+        { "en": "Bhojpuri", "hi": "भोजपुरी" },
+        { "en": "Urdu", "hi": "उर्दू" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "How many languages are listed in the Eighth Schedule of the Constitution?",
+        "hi": "संविधान की आठवीं अनुसूची में कितनी भाषाएँ शामिल हैं:"
+      },
+      "options": [
+        { "en": "22", "hi": "22" },
+        { "en": "16", "hi": "16" },
+        { "en": "18", "hi": "18" },
+        { "en": "24", "hi": "24" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Which Article deals with the official language of the Union of India?",
+        "hi": "संघ की राजभाषा से कौन सा अनुच्छेद संबंधित है?"
+      },
+      "options": [
+        { "en": "Article 345", "hi": "अनुच्छेद 345" },
+        { "en": "Article 343", "hi": "अनुच्छेद 343" },
+        { "en": "Article 346", "hi": "अनुच्छेद 346" },
+        { "en": "Article 348", "hi": "अनुच्छेद 348" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which Article deals with the official language of States?",
+        "hi": "राज्य की राजभाषा किस अनुच्छेद में वर्णित है:"
+      },
+      "options": [
+        { "en": "Article 345", "hi": "अनुच्छेद 345" },
+        { "en": "Article 343", "hi": "अनुच्छेद 343" },
+        { "en": "Article 346", "hi": "अनुच्छेद 346" },
+        { "en": "Article 348", "hi": "अनुच्छेद 348" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Rajbhasha Bharti is a __________ magazine.",
+        "hi": "'राजभाषा भारती' एक __________ पत्रिका है:"
+      },
+      "options": [
+        { "en": "Monthly", "hi": "मासिक" },
+        { "en": "Quarterly", "hi": "त्रैमासिक" },
+        { "en": "Yearly", "hi": "वार्षिक" },
+        { "en": "Fortnightly", "hi": "पाक्षिक" }
+      ],
+      "correct": 1
+    }
+  ]
+}
