@@ -1,0 +1,285 @@
+{
+  "paperName": "Sports Mock Test – 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which country won the ICC Men's T20 World Cup 2024?",
+        "hi": "ICC पुरुष T20 विश्व कप 2024 किस देश ने जीता?"
+      },
+      "options": [
+        { "en": "Australia", "hi": "ऑस्ट्रेलिया" },
+        { "en": "India", "hi": "भारत" },
+        { "en": "England", "hi": "इंग्लैंड" },
+        { "en": "South Africa", "hi": "दक्षिण अफ्रीका" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Who won the Indian Premier League (IPL) in 2026?",
+        "hi": "2026 में इंडियन प्रीमियर लीग (IPL) किसने जीता?"
+      },
+      "options": [
+        { "en": "Gujarat Titans", "hi": "गुजरात टाइटंस" },
+        { "en": "Chennai Super Kings", "hi": "चेन्नई सुपर किंग्स" },
+        { "en": "Royal Challengers Bengaluru", "hi": "रॉयल चैलेंजर्स बेंगलुरु" },
+        { "en": "Mumbai Indians", "hi": "मुंबई इंडियंस" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Which countries are co-hosting the FIFA World Cup 2026?",
+        "hi": "कौन से देश फीफा विश्व कप 2026 की सह-मेजबानी कर रहे हैं?"
+      },
+      "options": [
+        { "en": "USA, Canada, Mexico", "hi": "यूएसए, कनाडा, मैक्सिको" },
+        { "en": "Spain, Portugal, Morocco", "hi": "स्पेन, पुर्तगाल, मोरक्को" },
+        { "en": "Japan, South Korea", "hi": "जापान, दक्षिण कोरिया" },
+        { "en": "Argentina, Uruguay", "hi": "अर्जेंटीना, उरुग्वे" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "At the Paris 2024 Olympics, the Indian men's hockey team won which medal?",
+        "hi": "पेरिस 2024 ओलंपिक में भारतीय पुरुष हॉकी टीम ने कौन सा पदक जीता?"
+      },
+      "options": [
+        { "en": "Gold", "hi": "स्वर्ण" },
+        { "en": "Silver", "hi": "रजत" },
+        { "en": "Bronze", "hi": "कांस्य" },
+        { "en": "None", "hi": "कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Khelo India Youth Games 2025 were held in which state?",
+        "hi": "खेलो इंडिया यूथ गेम्स 2025 किस राज्य में आयोजित किए गए थे?"
+      },
+      "options": [
+        { "en": "Haryana", "hi": "हरियाणा" },
+        { "en": "Maharashtra", "hi": "महाराष्ट्र" },
+        { "en": "Bihar", "hi": "बिहार" },
+        { "en": "Assam", "hi": "असम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "The National Games of India 2024 were hosted by —",
+        "hi": "भारत के राष्ट्रीय खेल 2024 की मेजबानी किसके द्वारा की गई?"
+      },
+      "options": [
+        { "en": "Goa", "hi": "गोवा" },
+        { "en": "Uttarakhand", "hi": "उत्तराखंड" },
+        { "en": "Gujarat", "hi": "गुजरात" },
+        { "en": "Kerala", "hi": "केरल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "The Commonwealth Games 2026 are scheduled to be held in —",
+        "hi": "राष्ट्रमंडल खेल 2026 कहाँ आयोजित होने वाले हैं?"
+      },
+      "options": [
+        { "en": "Victoria", "hi": "विक्टोरिया" },
+        { "en": "Glasgow", "hi": "ग्लासगो" },
+        { "en": "New Delhi", "hi": "नई दिल्ली" },
+        { "en": "London", "hi": "लंदन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "The Chess Olympiad 2024 was hosted by —",
+        "hi": "शतरंज ओलंपियाड 2024 की मेजबानी किसने की?"
+      },
+      "options": [
+        { "en": "Chennai, India", "hi": "चेन्नई, भारत" },
+        { "en": "Budapest, Hungary", "hi": "बुडापेस्ट, हंगरी" },
+        { "en": "Tashkent, Uzbekistan", "hi": "ताशकंद, उज्बेकिस्तान" },
+        { "en": "Moscow, Russia", "hi": "मास्को, रूस" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Who won the F1 World Championship in 2024?",
+        "hi": "2024 में F1 विश्व चैम्पियनशिप किसने जीती?"
+      },
+      "options": [
+        { "en": "Lewis Hamilton", "hi": "लुईस हैमिल्टन" },
+        { "en": "Charles Leclerc", "hi": "चार्ल्स लेक्लेर" },
+        { "en": "Max Verstappen", "hi": "मैक्स वेरस्टैपेन" },
+        { "en": "Lando Norris", "hi": "लैंडो नॉरिस" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Davis Cup 2024 was won by —",
+        "hi": "डेविस कप 2024 किसने जीता?"
+      },
+      "options": [
+        { "en": "Spain", "hi": "स्पेन" },
+        { "en": "Australia", "hi": "ऑस्ट्रेलिया" },
+        { "en": "Italy", "hi": "इटली" },
+        { "en": "Canada", "hi": "कनाडा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Who won the Women's Premier League (WPL) in 2026?",
+        "hi": "2026 में महिला प्रीमियर लीग (WPL) किसने जीती?"
+      },
+      "options": [
+        { "en": "Mumbai Indians", "hi": "मुंबई इंडियंस" },
+        { "en": "Delhi Capitals", "hi": "दिल्ली कैपिटल्स" },
+        { "en": "UP Warriorz", "hi": "यूपी वॉरियर्स" },
+        { "en": "Royal Challengers Bengaluru", "hi": "रॉयल चैलेंजर्स बेंगलुरु" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "The Olympic Games 2028 will be hosted in —",
+        "hi": "ओलंपिक खेल 2028 की मेजबानी कहाँ की जाएगी?"
+      },
+      "options": [
+        { "en": "Paris", "hi": "पेरिस" },
+        { "en": "Los Angeles", "hi": "लॉस एंजिल्स" },
+        { "en": "Brisbane", "hi": "ब्रिस्बेन" },
+        { "en": "Tokyo", "hi": "टोक्यो" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Which sport was re-introduced for the LA 2028 Olympics?",
+        "hi": "LA 2028 ओलंपिक के लिए किस खेल को फिर से शामिल किया गया?"
+      },
+      "options": [
+        { "en": "Cricket", "hi": "क्रिकेट" },
+        { "en": "Polo", "hi": "पोलो" },
+        { "en": "Tug of War", "hi": "रस्साकशी" },
+        { "en": "Chess", "hi": "शतरंज" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Which country won the ICC Women's T20 World Cup in 2024?",
+        "hi": "2024 में ICC महिला T20 विश्व कप किस देश ने जीता?"
+      },
+      "options": [
+        { "en": "Australia", "hi": "ऑस्ट्रेलिया" },
+        { "en": "South Africa", "hi": "दक्षिण अफ्रीका" },
+        { "en": "New Zealand", "hi": "न्यूजीलैंड" },
+        { "en": "India", "hi": "भारत" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Wrestling Federation of India (WFI) was founded in —",
+        "hi": "भारतीय कुश्ती महासंघ (WFI) की स्थापना किस वर्ष हुई थी?"
+      },
+      "options": [
+        { "en": "1964", "hi": "1964" },
+        { "en": "1967", "hi": "1967" },
+        { "en": "1971", "hi": "1971" },
+        { "en": "1958", "hi": "1958" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Thomas Cup is associated with which sport?",
+        "hi": "थॉमस कप किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Tennis", "hi": "टेनिस" },
+        { "en": "Badminton", "hi": "बैडमिंटन" },
+        { "en": "Table Tennis", "hi": "टेबल टेनिस" },
+        { "en": "Golf", "hi": "गोल्फ" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Who is the first Indian to win an individual Olympic gold medal?",
+        "hi": "व्यक्तिगत ओलंपिक स्वर्ण पदक जीतने वाले पहले भारतीय कौन हैं?"
+      },
+      "options": [
+        { "en": "Neeraj Chopra", "hi": "नीरज चोपड़ा" },
+        { "en": "Abhinav Bindra", "hi": "अभिनव बिंद्रा" },
+        { "en": "K.D. Jadhav", "hi": "के.डी. जाधव" },
+        { "en": "Sushil Kumar", "hi": "सुशील कुमार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Which country has won the most FIFA World Cups?",
+        "hi": "किस देश ने सबसे अधिक फीफा विश्व कप जीते हैं?"
+      },
+      "options": [
+        { "en": "Germany", "hi": "जर्मनी" },
+        { "en": "Italy", "hi": "इटली" },
+        { "en": "Brazil", "hi": "ब्राज़ील" },
+        { "en": "Argentina", "hi": "अर्जेंटीना" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "The term 'Butterfly Stroke' is associated with —",
+        "hi": "'बटरफ्लाई स्ट्रोक' शब्द किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Wrestling", "hi": "कुश्ती" },
+        { "en": "Boxing", "hi": "मुक्केबाज़ी" },
+        { "en": "Swimming", "hi": "तैराकी" },
+        { "en": "Rowing", "hi": "रोइंग" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Ryder Cup is awarded to the players of which sport?",
+        "hi": "राइडर कप किस खेल के खिलाड़ियों को दिया जाता है?"
+      },
+      "options": [
+        { "en": "Baseball", "hi": "बेसबॉल" },
+        { "en": "Basketball", "hi": "बास्केटबॉल" },
+        { "en": "Cards", "hi": "ताश" },
+        { "en": "Golf", "hi": "गोल्फ" }
+      ],
+      "correct": 3
+    }
+  ]
+}

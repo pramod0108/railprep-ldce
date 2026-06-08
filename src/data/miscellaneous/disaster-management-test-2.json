@@ -1,0 +1,243 @@
+{
+  "paperName": "Disaster Management Mock Test – Set 2",
+  "questions": [
+    {
+      "id": 21,
+      "question": {
+        "en": "The height of 52 kg rail section is?",
+        "hi": "52 किग्रा रेल सेक्शन की ऊँचाई कितनी है?"
+      },
+      "options": [
+        { "en": "143 mm", "hi": "143 mm" },
+        { "en": "156 mm", "hi": "156 mm" },
+        { "en": "172 mm", "hi": "172 mm" },
+        { "en": "129 mm", "hi": "129 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Which type of fire extinguisher must not be used in case of electrical base fire?",
+        "hi": "विद्युत आधारित आग लगने की स्थिति में किस प्रकार के अग्निशामक यंत्र का उपयोग नहीं करना चाहिए?"
+      },
+      "options": [
+        { "en": "Halon extinguisher", "hi": "हेलॉन अग्निशामक" },
+        { "en": "Carbon chloride extinguisher", "hi": "कार्बन क्लोराइड अग्निशामक" },
+        { "en": "Foam extinguisher", "hi": "फोम अग्निशामक" },
+        { "en": "Dry powder extinguisher", "hi": "ड्राई पाउडर अग्निशामक" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Bleeding can be controlled by all methods except?",
+        "hi": "रक्तस्राव को सभी तरीकों से नियंत्रित किया जा सकता है, सिवाय किसके?"
+      },
+      "options": [
+        { "en": "Compression", "hi": "दबाव" },
+        { "en": "Pour hot water", "hi": "गर्म पानी डालना" },
+        { "en": "Tourniquet", "hi": "टूर्निकेट" },
+        { "en": "Lift the limb above the head", "hi": "अंग को सिर के ऊपर उठाना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "The type of HRD used for demonstration is?",
+        "hi": "प्रदर्शन (डेमॉन्स्ट्रेशन) के लिए किस प्रकार का HRD उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Lucas", "hi": "लुकास" },
+        { "en": "Holmetro", "hi": "होल्मेट्रो" },
+        { "en": "Weber", "hi": "वेबर" },
+        { "en": "Libervit", "hi": "लिबरविट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "Site sketch is prepared by?",
+        "hi": "साइट स्केच किसके द्वारा तैयार किया जाता है?"
+      },
+      "options": [
+        { "en": "Traffic Inspector", "hi": "ट्रैफिक इंस्पेक्टर" },
+        { "en": "SSE P-Way", "hi": "SSE P-Way" },
+        { "en": "SSE C&W", "hi": "SSE C&W" },
+        { "en": "CLI", "hi": "CLI" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "The lighting arrangement is done at accident site by?",
+        "hi": "दुर्घटना स्थल पर प्रकाश की व्यवस्था किसके द्वारा की जाती है?"
+      },
+      "options": [
+        { "en": "Electrical-TRD", "hi": "इलेक्ट्रिकल-TRD" },
+        { "en": "Electrical General", "hi": "इलेक्ट्रिकल जनरल" },
+        { "en": "Electrical TRO", "hi": "इलेक्ट्रिकल TRO" },
+        { "en": "Electrical-AC", "hi": "इलेक्ट्रिकल-AC" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "The length of re-railing bridge is how many meters?",
+        "hi": "री-रेलिंग ब्रिज की लंबाई कितने मीटर होती है?"
+      },
+      "options": [
+        { "en": "3.4", "hi": "3.4" },
+        { "en": "1.5", "hi": "1.5" },
+        { "en": "2.5", "hi": "2.5" },
+        { "en": "4.4", "hi": "4.4" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Which of the following device is used in HRE for operating the lifting and traversing jacks?",
+        "hi": "लिफ्टिंग और ट्रैवर्सिंग जैक को संचालित करने के लिए HRE में निम्नलिखित में से किस उपकरण का उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Control desk", "hi": "कंट्रोल डेस्क" },
+        { "en": "Telescopic rams", "hi": "टेलीस्कोपिक रैम्स" },
+        { "en": "Traversing unit", "hi": "ट्रैवर्सिंग यूनिट" },
+        { "en": "Special jacks", "hi": "विशेष जैक" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "Formula for super elevation is?",
+        "hi": "सुपर एलिवेशन का सूत्र क्या है?"
+      },
+      "options": [
+        { "en": "e = v / 225r", "hi": "e = v / 225r" },
+        { "en": "e + f = v² / 127R", "hi": "e + f = v² / 127R" },
+        { "en": "e = v / 225R", "hi": "e = v / 225R" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "The full form of HRE is?",
+        "hi": "HRE का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        { "en": "Heavy Railing Equipment", "hi": "हेवी रेलिंग इक्विपमेंट" },
+        { "en": "Hydraulic Rescue Engine", "hi": "हाइड्रोलिक रेस्क्यू इंजन" },
+        { "en": "Hydraulic Re-railing Equipment", "hi": "हाइड्रोलिक री-रेलिंग इक्विपमेंट" },
+        { "en": "Hydraulic Recovery Equipment", "hi": "हाइड्रोलिक रिकवरी इक्विपमेंट" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "How many teams are there of NDRF in India?",
+        "hi": "भारत में NDRF की कितनी टीमें हैं?"
+      },
+      "options": [
+        { "en": "22", "hi": "22" },
+        { "en": "25", "hi": "25" },
+        { "en": "23", "hi": "23" },
+        { "en": "24", "hi": "24" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "As per statistical reasons accidents are classified in alphabets.",
+        "hi": "सांख्यिकीय कारणों के अनुसार दुर्घटनाओं को अक्षरों में वर्गीकृत किया गया है।"
+      },
+      "options": [
+        { "en": "A to R (16 classes)", "hi": "A से R (16 श्रेणियाँ)" },
+        { "en": "A to J (10 classes)", "hi": "A से J (10 श्रेणियाँ)" },
+        { "en": "A to M (13 classes)", "hi": "A से M (13 श्रेणियाँ)" },
+        { "en": "A to D (4 classes)", "hi": "A से D (4 श्रेणियाँ)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "As per statistical reasons collision comes under which class of accident?",
+        "hi": "सांख्यिकीय कारणों के अनुसार टक्कर किस श्रेणी की दुर्घटना में आती है?"
+      },
+      "options": [
+        { "en": "Class 'A' Accident", "hi": "क्लास 'A' दुर्घटना" },
+        { "en": "Class 'B' Accident", "hi": "क्लास 'B' दुर्घटना" },
+        { "en": "Class 'C' Accident", "hi": "क्लास 'C' दुर्घटना" },
+        { "en": "Class 'D' Accident", "hi": "क्लास 'D' दुर्घटना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "As per statistical reasons fire comes under which class of accident?",
+        "hi": "सांख्यिकीय कारणों के अनुसार आग किस श्रेणी की दुर्घटना में आती है?"
+      },
+      "options": [
+        { "en": "Class 'A' Accident", "hi": "क्लास 'A' दुर्घटना" },
+        { "en": "Class 'B' Accident", "hi": "क्लास 'B' दुर्घटना" },
+        { "en": "Class 'C' Accident", "hi": "क्लास 'C' दुर्घटना" },
+        { "en": "Class 'D' Accident", "hi": "क्लास 'D' दुर्घटना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "As per statistical reasons LC Gate accidents come under which class?",
+        "hi": "सांख्यिकीय कारणों के अनुसार लेवल क्रॉसिंग गेट दुर्घटनाएं किस श्रेणी में आती हैं?"
+      },
+      "options": [
+        { "en": "Class 'A' Accident", "hi": "क्लास 'A' दुर्घटना" },
+        { "en": "Class 'B' Accident", "hi": "क्लास 'B' दुर्घटना" },
+        { "en": "Class 'C' Accident", "hi": "क्लास 'C' दुर्घटना" },
+        { "en": "Class 'D' Accident", "hi": "क्लास 'D' दुर्घटना" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "As per statistical reasons derailment accidents come under which class?",
+        "hi": "सांख्यिकीय कारणों के अनुसार पटरी से उतरने की दुर्घटनाएं किस श्रेणी में आती हैं?"
+      },
+      "options": [
+        { "en": "Class 'A' Accident", "hi": "क्लास 'A' दुर्घटना" },
+        { "en": "Class 'B' Accident", "hi": "क्लास 'B' दुर्घटना" },
+        { "en": "Class 'C' Accident", "hi": "क्लास 'C' दुर्घटना" },
+        { "en": "Class 'D' Accident", "hi": "क्लास 'D' दुर्घटना" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "Accident can be declared as disaster by which authority?",
+        "hi": "दुर्घटना को आपदा किस प्राधिकरण द्वारा घोषित किया जा सकता है?"
+      },
+      "options": [
+        { "en": "GM of a Zone or AGM in absence of GM", "hi": "जोनल GM या उनकी अनुपस्थिति में AGM" },
+        { "en": "DRM", "hi": "DRM" },
+        { "en": "Sr. DME PCSO in absence of GM and AGM", "hi": "GM और AGM की अनुपस्थिति में Sr. DME PCSO" },
+        { "en": "CRS", "hi": "CRS" }
+      ],
+      "correct": 0
+    }
+  ]
+}

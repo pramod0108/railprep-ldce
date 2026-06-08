@@ -1,0 +1,285 @@
+{
+  "paperName": "Sports Mock Test – 2",
+  "questions": [
+    {
+      "id": 21,
+      "question": {
+        "en": "Durand Cup is associated with which sport?",
+        "hi": "डूरंड कप किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Polo", "hi": "पोलो" },
+        { "en": "Cricket", "hi": "क्रिकेट" },
+        { "en": "Hockey", "hi": "हॉकी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Who holds the record for the most Grand Slam men's singles titles as of 2026?",
+        "hi": "2026 तक सर्वाधिक ग्रैंड स्लैम पुरुष एकल खिताब का रिकॉर्ड किसके नाम है?"
+      },
+      "options": [
+        { "en": "Roger Federer", "hi": "रोजर फेडरर" },
+        { "en": "Rafael Nadal", "hi": "राफेल नडाल" },
+        { "en": "Novak Djokovic", "hi": "नोवाक जोकोविच" },
+        { "en": "Carlos Alcaraz", "hi": "कार्लोस अल्कराज" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "The Asian Games 2026 will be held in which country?",
+        "hi": "एशियाई खेल 2026 किस देश में आयोजित किए जाएंगे?"
+      },
+      "options": [
+        { "en": "China", "hi": "चीन" },
+        { "en": "Japan", "hi": "जापान" },
+        { "en": "South Korea", "hi": "दक्षिण कोरिया" },
+        { "en": "India", "hi": "भारत" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Which Indian athlete is known as the 'Dhing Express'?",
+        "hi": "किस भारतीय एथलीट को 'ढिंग एक्सप्रेस' के नाम से जाना जाता है?"
+      },
+      "options": [
+        { "en": "P.T. Usha", "hi": "पी.टी. उषा" },
+        { "en": "Hima Das", "hi": "हिमा दास" },
+        { "en": "Dutee Chand", "hi": "दुती चंद" },
+        { "en": "Mary Kom", "hi": "मैरी कॉम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "Santosh Trophy is associated with which sport in India?",
+        "hi": "भारत में संतोष ट्रॉफी किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Cricket", "hi": "क्रिकेट" },
+        { "en": "Hockey", "hi": "हॉकी" },
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Badminton", "hi": "बैडमिंटन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "How many players are there on a standard basketball team on the court?",
+        "hi": "कोर्ट पर एक मानक बास्केटबॉल टीम में कितने खिलाड़ी होते हैं?"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "6", "hi": "6" },
+        { "en": "7", "hi": "7" },
+        { "en": "9", "hi": "9" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "What is the national sport of Canada (Winter)?",
+        "hi": "कनाडा का राष्ट्रीय खेल (सर्दियों का) क्या है?"
+      },
+      "options": [
+        { "en": "Lacrosse", "hi": "लैक्रॉस" },
+        { "en": "Ice Hockey", "hi": "आइस हॉकी" },
+        { "en": "Curling", "hi": "कर्लिंग" },
+        { "en": "Skiing", "hi": "स्कीइंग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Which award is the highest sporting honour in India?",
+        "hi": "भारत में सर्वोच्च खेल सम्मान कौन सा पुरस्कार है?"
+      },
+      "options": [
+        { "en": "Arjuna Award", "hi": "अर्जुन पुरस्कार" },
+        { "en": "Dronacharya Award", "hi": "द्रोणाचार्य पुरस्कार" },
+        { "en": "Major Dhyan Chand Khel Ratna", "hi": "मेजर ध्यानचंद खेल रत्न" },
+        { "en": "Padma Shri", "hi": "पद्म श्री" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "The term 'LBW' is used in which sport?",
+        "hi": "'LBW' शब्द का प्रयोग किस खेल में किया जाता है?"
+      },
+      "options": [
+        { "en": "Hockey", "hi": "हॉकी" },
+        { "en": "Cricket", "hi": "क्रिकेट" },
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Baseball", "hi": "बेसबॉल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Who was the first Indian woman to win an Olympic medal?",
+        "hi": "ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थी?"
+      },
+      "options": [
+        { "en": "P.V. Sindhu", "hi": "पी.वी. सिंधु" },
+        { "en": "Karnam Malleswari", "hi": "कर्णम मल्लेश्वरी" },
+        { "en": "Saina Nehwal", "hi": "साइना नेहवाल" },
+        { "en": "Mary Kom", "hi": "मैरी कॉम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "Which track and field star holds the world record for the 100m sprint?",
+        "hi": "100 मीटर स्प्रिंट का विश्व रिकॉर्ड किस ट्रैक एंड फील्ड स्टार के नाम है?"
+      },
+      "options": [
+        { "en": "Tyson Gay", "hi": "टायसन गे" },
+        { "en": "Usain Bolt", "hi": "उसैन बोल्ट" },
+        { "en": "Yohan Blake", "hi": "योहान ब्लेक" },
+        { "en": "Noah Lyles", "hi": "नूह लायल्स" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "The distance of a standard marathon is approximately —",
+        "hi": "एक मानक मैराथन की दूरी लगभग होती है —"
+      },
+      "options": [
+        { "en": "21 km", "hi": "21 किमी" },
+        { "en": "42.195 km", "hi": "42.195 किमी" },
+        { "en": "50 km", "hi": "50 किमी" },
+        { "en": "10 km", "hi": "10 किमी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "In which city is the famous Wimbledon tennis tournament held?",
+        "hi": "प्रसिद्ध विंबलडन टेनिस टूर्नामेंट किस शहर में आयोजित किया जाता है?"
+      },
+      "options": [
+        { "en": "Paris", "hi": "पेरिस" },
+        { "en": "New York", "hi": "न्यूयॉर्क" },
+        { "en": "London", "hi": "लंदन" },
+        { "en": "Melbourne", "hi": "मेलबोर्न" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "Bulls-eye is used in which sport?",
+        "hi": "बुल्स-आई का प्रयोग किस खेल में किया जाता है?"
+      },
+      "options": [
+        { "en": "Shooting", "hi": "निशानेबाजी" },
+        { "en": "Boxing", "hi": "मुक्केबाजी" },
+        { "en": "Billiards", "hi": "बिलियर्ड्स" },
+        { "en": "Golf", "hi": "गोल्फ" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "Which country is the origin of the martial art 'Judo'?",
+        "hi": "मार्शल आर्ट 'जूडो' की उत्पत्ति किस देश से हुई है?"
+      },
+      "options": [
+        { "en": "China", "hi": "चीन" },
+        { "en": "Japan", "hi": "जापान" },
+        { "en": "South Korea", "hi": "दक्षिण कोरिया" },
+        { "en": "Thailand", "hi": "थाईलैंड" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "Aga Khan Cup is associated with which sport?",
+        "hi": "आगा खान कप किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Hockey", "hi": "हॉकी" },
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Cricket", "hi": "क्रिकेट" },
+        { "en": "Tennis", "hi": "टेनिस" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "What is the maximum score you can achieve in a single game of bowling?",
+        "hi": "बॉलिंग के एक खेल में आप अधिकतम कितना स्कोर प्राप्त कर सकते हैं?"
+      },
+      "options": [
+        { "en": "200", "hi": "200" },
+        { "en": "250", "hi": "250" },
+        { "en": "300", "hi": "300" },
+        { "en": "400", "hi": "400" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "Who is known as the 'Flying Sikh' of India?",
+        "hi": "भारत के 'फ्लाइंग सिख' के नाम से किसे जाना जाता है?"
+      },
+      "options": [
+        { "en": "Milkha Singh", "hi": "मिल्खा सिंह" },
+        { "en": "Navjot Singh Sidhu", "hi": "नवजोत सिंह सिद्धू" },
+        { "en": "Harbhajan Singh", "hi": "हरभजन सिंह" },
+        { "en": "Gurbachan Singh Randhawa", "hi": "गुरबचन सिंह रंधावा" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Which of the following is not a Grand Slam tournament?",
+        "hi": "निम्नलिखित में से कौन सा ग्रैंड स्लैम टूर्नामेंट नहीं है?"
+      },
+      "options": [
+        { "en": "US Open", "hi": "यूएस ओपन" },
+        { "en": "French Open", "hi": "फ्रेंच ओपन" },
+        { "en": "ATP Finals", "hi": "एटीपी फाइनल" },
+        { "en": "Wimbledon", "hi": "विंबलडन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "How many rings are there on the Olympic flag?",
+        "hi": "ओलंपिक ध्वज पर कितने छल्ले होते हैं?"
+      },
+      "options": [
+        { "en": "4", "hi": "4" },
+        { "en": "5", "hi": "5" },
+        { "en": "6", "hi": "6" },
+        { "en": "7", "hi": "7" }
+      ],
+      "correct": 1
+    }
+  ]
+}

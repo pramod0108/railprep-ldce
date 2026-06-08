@@ -1,0 +1,285 @@
+{
+  "paperName": "Sports Mock Test – 4",
+  "questions": [
+    {
+      "id": 61,
+      "question": {
+        "en": "What is the length of a professional football match (excluding extra time)?",
+        "hi": "एक पेशेवर फुटबॉल मैच की लंबाई (अतिरिक्त समय को छोड़कर) कितनी होती है?"
+      },
+      "options": [
+        { "en": "60 mins", "hi": "60 मिनट" },
+        { "en": "90 mins", "hi": "90 मिनट" },
+        { "en": "100 mins", "hi": "100 मिनट" },
+        { "en": "120 mins", "hi": "120 मिनट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "Which country won the inaugural ICC Men's World Test Championship?",
+        "hi": "उद्घाटन ICC पुरुष विश्व टेस्ट चैम्पियनशिप किस देश ने जीती?"
+      },
+      "options": [
+        { "en": "India", "hi": "भारत" },
+        { "en": "Australia", "hi": "ऑस्ट्रेलिया" },
+        { "en": "New Zealand", "hi": "न्यूजीलैंड" },
+        { "en": "England", "hi": "इंग्लैंड" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "Billiards and Snooker are played on a table with how many pockets?",
+        "hi": "बिलियर्ड्स और स्नूकर कितने पॉकेट वाली टेबल पर खेले जाते हैं?"
+      },
+      "options": [
+        { "en": "4", "hi": "4" },
+        { "en": "6", "hi": "6" },
+        { "en": "8", "hi": "8" },
+        { "en": "10", "hi": "10" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "The 'Dakar Rally' is famously associated with which sport?",
+        "hi": "'डकार रैली' प्रसिद्ध रूप से किस खेल से जुड़ी है?"
+      },
+      "options": [
+        { "en": "Cycling", "hi": "साइकिलिंग" },
+        { "en": "Motorsports", "hi": "मोटरस्पोर्ट्स" },
+        { "en": "Marathon", "hi": "मैराथन" },
+        { "en": "Swimming", "hi": "तैराकी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "Who was the first captain of the Indian ODI cricket team?",
+        "hi": "भारतीय वनडे क्रिकेट टीम के पहले कप्तान कौन थे?"
+      },
+      "options": [
+        { "en": "Mansoor Ali Khan Pataudi", "hi": "मंसूर अली खान पटौदी" },
+        { "en": "Ajit Wadekar", "hi": "अजीत वाडेकर" },
+        { "en": "Kapil Dev", "hi": "कपिल देव" },
+        { "en": "Bishan Singh Bedi", "hi": "बिशन सिंह बेदी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "In gymnastics, the 'Pommel Horse' is an apparatus used by —",
+        "hi": "जिम्नास्टिक में, 'पॉमेल हॉर्स' एक उपकरण है जिसका उपयोग किया जाता है —"
+      },
+      "options": [
+        { "en": "Men only", "hi": "केवल पुरुषों द्वारा" },
+        { "en": "Women only", "hi": "केवल महिलाओं द्वारा" },
+        { "en": "Both Men and Women", "hi": "पुरुषों और महिलाओं दोनों द्वारा" },
+        { "en": "None of the above", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "Which player holds the record for most runs in a single IPL season?",
+        "hi": "एक IPL सीज़न में सर्वाधिक रन बनाने का रिकॉर्ड किस खिलाड़ी के नाम है?"
+      },
+      "options": [
+        { "en": "Chris Gayle", "hi": "क्रिस गेल" },
+        { "en": "David Warner", "hi": "डेविड वार्नर" },
+        { "en": "Virat Kohli", "hi": "विराट कोहली" },
+        { "en": "Jos Buttler", "hi": "जोस बटलर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "A standard golf course has how many holes?",
+        "hi": "एक मानक गोल्फ कोर्स में कितने छेद होते हैं?"
+      },
+      "options": [
+        { "en": "9", "hi": "9" },
+        { "en": "12", "hi": "12" },
+        { "en": "18", "hi": "18" },
+        { "en": "21", "hi": "21" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "Which country is renowned for inventing the sport of Judo?",
+        "hi": "कौन सा देश जूडो खेल के आविष्कार के लिए प्रसिद्ध है?"
+      },
+      "options": [
+        { "en": "China", "hi": "चीन" },
+        { "en": "Japan", "hi": "जापान" },
+        { "en": "Korea", "hi": "कोरिया" },
+        { "en": "Vietnam", "hi": "वियतनाम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "What colour are the five interlocking rings of the Olympic flag?",
+        "hi": "ओलंपिक ध्वज के पांच आपस में जुड़े छल्ले किस रंग के हैं?"
+      },
+      "options": [
+        { "en": "Blue, Yellow, Black, Green, Red", "hi": "नीला, पीला, काला, हरा, लाल" },
+        { "en": "Blue, White, Black, Green, Red", "hi": "नीला, सफेद, काला, हरा, लाल" },
+        { "en": "Blue, Yellow, Brown, Green, Red", "hi": "नीला, पीला, भूरा, हरा, लाल" },
+        { "en": "Blue, Yellow, Black, Orange, Red", "hi": "नीला, पीला, काला, नारंगी, लाल" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "The 'Sudirman Cup' is associated with which sport?",
+        "hi": "'सुदीरमन कप' किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Tennis", "hi": "टेनिस" },
+        { "en": "Badminton", "hi": "बैडमिंटन" },
+        { "en": "Table Tennis", "hi": "टेबल टेनिस" },
+        { "en": "Golf", "hi": "गोल्फ" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "How many times did Major Dhyan Chand win the Olympic gold medal?",
+        "hi": "मेजर ध्यानचंद ने कितनी बार ओलंपिक स्वर्ण पदक जीता?"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "3", "hi": "3" },
+        { "en": "4", "hi": "4" },
+        { "en": "1", "hi": "1" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "In baseball, what is a 'home run'?",
+        "hi": "बेसबॉल में 'होम रन' क्या है?"
+      },
+      "options": [
+        { "en": "Hitting the ball out of the park", "hi": "गेंद को पार्क के बाहर मारना" },
+        { "en": "Scoring without a hit", "hi": "बिना हिट के स्कोर करना" },
+        { "en": "Striking out three batters", "hi": "तीन बल्लेबाजों को आउट करना" },
+        { "en": "Catching a fly ball", "hi": "फ्लाई बॉल पकड़ना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "Which of the following is an indoor sport?",
+        "hi": "निम्नलिखित में से कौन सा एक इनडोर खेल है?"
+      },
+      "options": [
+        { "en": "Rugby", "hi": "रग्बी" },
+        { "en": "Squash", "hi": "स्क्वैश" },
+        { "en": "Baseball", "hi": "बेसबॉल" },
+        { "en": "Polo", "hi": "पोलो" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "The terms 'Puck' and 'Stick' are associated with?",
+        "hi": "'पक' और 'स्टिक' शब्द किससे संबंधित हैं?"
+      },
+      "options": [
+        { "en": "Ice Hockey", "hi": "आइस हॉकी" },
+        { "en": "Field Hockey", "hi": "फील्ड हॉकी" },
+        { "en": "Golf", "hi": "गोल्फ" },
+        { "en": "Polo", "hi": "पोलो" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "The famous sports brand 'Nike' originated in which country?",
+        "hi": "प्रसिद्ध खेल ब्रांड 'नाइकी' की उत्पत्ति किस देश में हुई?"
+      },
+      "options": [
+        { "en": "Germany", "hi": "जर्मनी" },
+        { "en": "USA", "hi": "यूएसए" },
+        { "en": "UK", "hi": "यूके" },
+        { "en": "France", "hi": "फ्रांस" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "Who is the first Indian to win a medal in Badminton at the Olympics?",
+        "hi": "ओलंपिक में बैडमिंटन में पदक जीतने वाले पहले भारतीय कौन हैं?"
+      },
+      "options": [
+        { "en": "P.V. Sindhu", "hi": "पी.वी. सिंधु" },
+        { "en": "Saina Nehwal", "hi": "साइना नेहवाल" },
+        { "en": "Prakash Padukone", "hi": "प्रकाश पादुकोण" },
+        { "en": "Pullela Gopichand", "hi": "पुलेला गोपीचंद" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "What is the standard weight of a men's shot put?",
+        "hi": "पुरुषों के शॉट पुट का मानक वजन क्या है?"
+      },
+      "options": [
+        { "en": "5.26 kg", "hi": "5.26 किग्रा" },
+        { "en": "7.26 kg", "hi": "7.26 किग्रा" },
+        { "en": "8.50 kg", "hi": "8.50 किग्रा" },
+        { "en": "10.0 kg", "hi": "10.0 किग्रा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "In which sport is the 'Deuce' called?",
+        "hi": "'ड्यूस' किस खेल में कहा जाता है?"
+      },
+      "options": [
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Tennis", "hi": "टेनिस" },
+        { "en": "Cricket", "hi": "क्रिकेट" },
+        { "en": "Basketball", "hi": "बास्केटबॉल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "Who won the ICC Men's ODI Cricket World Cup in 2023?",
+        "hi": "2023 में ICC पुरुष वनडे क्रिकेट विश्व कप किसने जीता?"
+      },
+      "options": [
+        { "en": "India", "hi": "भारत" },
+        { "en": "Australia", "hi": "ऑस्ट्रेलिया" },
+        { "en": "New Zealand", "hi": "न्यूजीलैंड" },
+        { "en": "England", "hi": "इंग्लैंड" }
+      ],
+      "correct": 1
+    }
+  ]
+}

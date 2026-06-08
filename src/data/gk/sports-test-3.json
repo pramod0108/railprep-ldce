@@ -1,0 +1,285 @@
+{
+  "paperName": "Sports Mock Test – 3",
+  "questions": [
+    {
+      "id": 41,
+      "question": {
+        "en": "Where is the headquarters of the International Olympic Committee (IOC) located?",
+        "hi": "अंतर्राष्ट्रीय ओलंपिक समिति (IOC) का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        { "en": "Lausanne", "hi": "लुसाने" },
+        { "en": "Geneva", "hi": "जिनेवा" },
+        { "en": "Paris", "hi": "पेरिस" },
+        { "en": "London", "hi": "लंदन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "The term 'Checkmate' is used in which sport?",
+        "hi": "'चेकमेट' शब्द का प्रयोग किस खेल में किया जाता है?"
+      },
+      "options": [
+        { "en": "Boxing", "hi": "मुक्केबाजी" },
+        { "en": "Wrestling", "hi": "कुश्ती" },
+        { "en": "Chess", "hi": "शतरंज" },
+        { "en": "Billiards", "hi": "बिलियर्ड्स" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "Which female gymnast has won the most World Championship medals?",
+        "hi": "किस महिला जिम्नास्ट ने विश्व चैम्पियनशिप में सबसे अधिक पदक जीते हैं?"
+      },
+      "options": [
+        { "en": "Nadia Comăneci", "hi": "नादिया कोमानेसी" },
+        { "en": "Simone Biles", "hi": "सिमोन बाइल्स" },
+        { "en": "Svetlana Khorkina", "hi": "स्वेतलाना खोरकिना" },
+        { "en": "Aliya Mustafina", "hi": "आलिया मुस्तफिना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "Hopman Cup is related to which sports?",
+        "hi": "हॉपमैन कप किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Tennis", "hi": "टेनिस" },
+        { "en": "Badminton", "hi": "बैडमिंटन" },
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Hockey", "hi": "हॉकी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "Which country is the birthplace of the sport 'Golf'?",
+        "hi": "'गोल्फ' खेल का जन्मस्थान कौन सा देश है?"
+      },
+      "options": [
+        { "en": "USA", "hi": "यूएसए" },
+        { "en": "England", "hi": "इंग्लैंड" },
+        { "en": "Scotland", "hi": "स्कॉटलैंड" },
+        { "en": "Ireland", "hi": "आयरलैंड" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "What is the standard length of a cricket pitch?",
+        "hi": "क्रिकेट पिच की मानक लंबाई क्या है?"
+      },
+      "options": [
+        { "en": "20 yards", "hi": "20 गज" },
+        { "en": "22 yards", "hi": "22 गज" },
+        { "en": "24 yards", "hi": "24 गज" },
+        { "en": "26 yards", "hi": "26 गज" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "Who is the first Indian chess player to win the World Junior Chess Championship?",
+        "hi": "विश्व जूनियर शतरंज चैम्पियनशिप जीतने वाले पहले भारतीय शतरंज खिलाड़ी कौन हैं?"
+      },
+      "options": [
+        { "en": "Viswanathan Anand", "hi": "विश्वनाथन आनंद" },
+        { "en": "Pentala Harikrishna", "hi": "पेंटाला हरिकृष्ण" },
+        { "en": "R Praggnanandhaa", "hi": "आर प्रज्ञानानंद" },
+        { "en": "D Gukesh", "hi": "डी गुकेश" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "The Dronacharya Award is given to —",
+        "hi": "द्रोणाचार्य पुरस्कार किसे दिया जाता है?"
+      },
+      "options": [
+        { "en": "Best Athletes", "hi": "सर्वश्रेष्ठ एथलीटों को" },
+        { "en": "Best Coaches", "hi": "सर्वश्रेष्ठ कोचों को" },
+        { "en": "Umpires", "hi": "अंपायरों को" },
+        { "en": "Sports Journalists", "hi": "खेल पत्रकारों को" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "How many squares are there on a standard chessboard?",
+        "hi": "एक मानक शतरंज बोर्ड पर कितने वर्ग होते हैं?"
+      },
+      "options": [
+        { "en": "54", "hi": "54" },
+        { "en": "60", "hi": "60" },
+        { "en": "64", "hi": "64" },
+        { "en": "72", "hi": "72" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "The 'Ashes' series is played between which two countries?",
+        "hi": "'एशेज' सीरीज़ किन दो देशों के बीच खेली जाती है?"
+      },
+      "options": [
+        { "en": "India and Pakistan", "hi": "भारत और पाकिस्तान" },
+        { "en": "Australia and England", "hi": "ऑस्ट्रेलिया और इंग्लैंड" },
+        { "en": "South Africa and New Zealand", "hi": "दक्षिण अफ्रीका और न्यूजीलैंड" },
+        { "en": "West Indies and England", "hi": "वेस्टइंडीज और इंग्लैंड" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "Which state hosts the traditional boat race 'Vallam Kali'?",
+        "hi": "पारंपरिक नाव दौड़ 'वल्लम कली' किस राज्य में आयोजित की जाती है?"
+      },
+      "options": [
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Goa", "hi": "गोवा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "Who won the Golden Boot at the 2022 FIFA World Cup?",
+        "hi": "2022 फीफा विश्व कप में गोल्डन बूट किसने जीता?"
+      },
+      "options": [
+        { "en": "Lionel Messi", "hi": "लियोनेल मेसी" },
+        { "en": "Kylian Mbappe", "hi": "कैलियन एम्बाप्पे" },
+        { "en": "Neymar Jr", "hi": "नेमार जूनियर" },
+        { "en": "Cristiano Ronaldo", "hi": "क्रिस्टियानो रोनाल्डो" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "The terms 'Smash' and 'Drop' are primarily used in —",
+        "hi": "'स्मैश' और 'ड्रॉप' शब्दों का प्रयोग मुख्य रूप से किसमें किया जाता है?"
+      },
+      "options": [
+        { "en": "Badminton", "hi": "बैडमिंटन" },
+        { "en": "Chess", "hi": "शतरंज" },
+        { "en": "Wrestling", "hi": "कुश्ती" },
+        { "en": "Swimming", "hi": "तैराकी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "Where is the Eden Gardens stadium located?",
+        "hi": "ईडन गार्डन्स स्टेडियम कहाँ स्थित है?"
+      },
+      "options": [
+        { "en": "Mumbai", "hi": "मुंबई" },
+        { "en": "Kolkata", "hi": "कोलकाता" },
+        { "en": "Chennai", "hi": "चेन्नई" },
+        { "en": "New Delhi", "hi": "नई दिल्ली" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "Who is known as the 'God of Cricket'?",
+        "hi": "किसे 'क्रिकेट का भगवान' कहा जाता है?"
+      },
+      "options": [
+        { "en": "Sir Don Bradman", "hi": "सर डॉन ब्रैडमैन" },
+        { "en": "Sachin Tendulkar", "hi": "सचिन तेंदुलकर" },
+        { "en": "Brian Lara", "hi": "ब्रायन लारा" },
+        { "en": "Ricky Ponting", "hi": "रिकी पोंटिंग" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "In table tennis, what is another name for the sport?",
+        "hi": "टेबल टेनिस में, खेल का दूसरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Ping Pong", "hi": "पिंग पोंग" },
+        { "en": "Whiff Whaff", "hi": "व्हिफ वाफ" },
+        { "en": "Paddleball", "hi": "पैडलबॉल" },
+        { "en": "Both Ping Pong and Whiff Whaff", "hi": "पिंग पोंग और व्हिफ वाफ दोनों" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "Which sport uses a 'shuttlecock'?",
+        "hi": "किस खेल में 'शटलकॉक' का उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Squash", "hi": "स्क्वैश" },
+        { "en": "Tennis", "hi": "टेनिस" },
+        { "en": "Badminton", "hi": "बैडमिंटन" },
+        { "en": "Polo", "hi": "पोलो" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "Which boxer was known as 'The Greatest'?",
+        "hi": "किस मुक्केबाज़ को 'द ग्रेटेस्ट' के नाम से जाना जाता था?"
+      },
+      "options": [
+        { "en": "Mike Tyson", "hi": "माइक टायसन" },
+        { "en": "Muhammad Ali", "hi": "मुहम्मद अली" },
+        { "en": "Floyd Mayweather", "hi": "फ्लॉयड मेवेदर" },
+        { "en": "George Foreman", "hi": "जॉर्ज फोरमैन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "What does 'FIFA' stand for?",
+        "hi": "'फीफा (FIFA)' का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        { "en": "Federation of International Football Associations", "hi": "फेडरेशन ऑफ इंटरनेशनल फुटबॉल एसोसिएशन" },
+        { "en": "Fédération Internationale de Football Association", "hi": "फेडरेशन इंटरनेशनेल डी फुटबॉल एसोसिएशन" },
+        { "en": "First International Football Association", "hi": "फर्स्ट इंटरनेशनल फुटबॉल एसोसिएशन" },
+        { "en": "Federal Institute of Football Authorities", "hi": "फेडरल इंस्टीट्यूट ऑफ फुटबॉल अथॉरिटीज" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "Subroto Cup is associated with which sport?",
+        "hi": "सुब्रतो कप किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Cricket", "hi": "क्रिकेट" },
+        { "en": "Volleyball", "hi": "वॉलीबॉल" },
+        { "en": "Basketball", "hi": "बास्केटबॉल" }
+      ],
+      "correct": 0
+    }
+  ]
+}

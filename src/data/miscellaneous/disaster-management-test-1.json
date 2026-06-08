@@ -1,0 +1,285 @@
+{
+  "paperName": "Disaster Management Mock Test – Set 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What is the full form of NDMA?",
+        "hi": "NDMA का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        { "en": "National disaster management act", "hi": "नेशनल डिजास्टर मैनेजमेंट एक्ट" },
+        { "en": "National disaster movement act", "hi": "नेशनल डिजास्टर मूवमेंट एक्ट" },
+        { "en": "Non disaster management activity", "hi": "नॉन डिजास्टर मैनेजमेंट एक्टिविटी" },
+        { "en": "National disaster management authority", "hi": "नेशनल डिजास्टर मैनेजमेंट अथॉरिटी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Disaster Management Act came into existence in which year?",
+        "hi": "आपदा प्रबंधन अधिनियम किस वर्ष अस्तित्व में आया?"
+      },
+      "options": [
+        { "en": "2000", "hi": "2000" },
+        { "en": "2005", "hi": "2005" },
+        { "en": "2002", "hi": "2002" },
+        { "en": "2003", "hi": "2003" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Who acts as Chairman of NDMA in India?",
+        "hi": "भारत में NDMA के अध्यक्ष के रूप में कौन कार्य करता है?"
+      },
+      "options": [
+        { "en": "President", "hi": "राष्ट्रपति" },
+        { "en": "Prime Minister", "hi": "प्रधानमंत्री" },
+        { "en": "Home Minister", "hi": "गृह मंत्री" },
+        { "en": "NSA", "hi": "NSA" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "As per statistical reasons accidents are classified in alphabets.",
+        "hi": "सांख्यिकीय कारणों के अनुसार दुर्घटनाओं को अक्षरों में वर्गीकृत किया गया है।"
+      },
+      "options": [
+        { "en": "A to R (16 classes)", "hi": "A से R (16 श्रेणियाँ)" },
+        { "en": "A to J (10 classes)", "hi": "A से J (10 श्रेणियाँ)" },
+        { "en": "A to M (13 classes)", "hi": "A से M (13 श्रेणियाँ)" },
+        { "en": "A to D (4 classes)", "hi": "A से D (4 श्रेणियाँ)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "One long hooter of 90 seconds duration indicates cancellation of ART.",
+        "hi": "90 सेकंड की अवधि का एक लंबा हूटर ART को रद्द करने का संकेत देता है।"
+      },
+      "options": [
+        { "en": "45", "hi": "45" },
+        { "en": "60", "hi": "60" },
+        { "en": "75", "hi": "75" },
+        { "en": "90", "hi": "90" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Emergency telephone point is located at every ______ meters in OHE area.",
+        "hi": "OHE क्षेत्र में आपातकालीन टेलीफोन बिंदु प्रत्येक कितने मीटर पर स्थित होता है?"
+      },
+      "options": [
+        { "en": "1000", "hi": "1000" },
+        { "en": "1500", "hi": "1500" },
+        { "en": "900", "hi": "900" },
+        { "en": "1600", "hi": "1600" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "140 T crane is available with ______ class ART.",
+        "hi": "140 टन क्रेन किस क्लास ART के साथ उपलब्ध है?"
+      },
+      "options": [
+        { "en": "A", "hi": "A" },
+        { "en": "C", "hi": "C" },
+        { "en": "B", "hi": "B" },
+        { "en": "None of the above", "hi": "उपरोक्त में से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Number of hooters to be sounded, when an accident takes place at outstation and main line is affected/blocked and ART and MRV are required.",
+        "hi": "आउटस्टेशन पर दुर्घटना, मेन लाइन प्रभावित/अवरोधित, ART और MRV की आवश्यकता होने पर हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "04 long & 01 short", "hi": "04 लंबे और 01 छोटा" },
+        { "en": "03 long & 01 short", "hi": "03 लंबे और 01 छोटा" },
+        { "en": "04 long", "hi": "04 लंबे" },
+        { "en": "02 long", "hi": "02 लंबे" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "When an accident takes place at an out-station and main line is blocked, ART is to be moved.",
+        "hi": "जब किसी आउट-स्टेशन पर दुर्घटना होती है और मेन लाइन अवरुद्ध हो जाती है, तो ART को ले जाने हेतु हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "04 long & 01 short", "hi": "04 लंबे और 01 छोटा" },
+        { "en": "03 long & 01 short", "hi": "03 लंबे और 01 छोटा" },
+        { "en": "04 long", "hi": "04 लंबे" },
+        { "en": "02 long", "hi": "02 लंबे" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Number of hooters to be sounded when an accident takes place in the loco shed or traffic yard adjoining the loco shed.",
+        "hi": "लोको शेड या उससे सटे ट्रैफिक यार्ड में दुर्घटना होने पर हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "04 long & 01 short", "hi": "04 लंबे और 01 छोटा" },
+        { "en": "03 long & 01 short", "hi": "03 लंबे और 01 छोटा" },
+        { "en": "04 long", "hi": "04 लंबे" },
+        { "en": "02 long", "hi": "02 लंबे" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Hooter code for accidents in loco sheds/yards requiring only breakdown train.",
+        "hi": "लोको शेड/यार्ड में दुर्घटना होने पर केवल ब्रेकडाउन ट्रेन की आवश्यकता हेतु हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "Two long sirens", "hi": "दो लंबे सायरन" },
+        { "en": "Three long sirens", "hi": "तीन लंबे सायरन" },
+        { "en": "Four long sirens", "hi": "चार लंबे सायरन" },
+        { "en": "Five long sirens", "hi": "पाँच लंबे सायरन" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Hooter code for accidents outside the home station requiring only breakdown train.",
+        "hi": "होम स्टेशन के बाहर दुर्घटना होने पर केवल ब्रेकडाउन ट्रेन की आवश्यकता हेतु हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "Two long sirens", "hi": "दो लंबे सायरन" },
+        { "en": "Three long sirens", "hi": "तीन लंबे सायरन" },
+        { "en": "Four long sirens", "hi": "चार लंबे सायरन" },
+        { "en": "Five long sirens", "hi": "पाँच लंबे सायरन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Hooter code for accidents at home station requiring both medical van and breakdown train.",
+        "hi": "होम स्टेशन पर दुर्घटना होने पर मेडिकल वैन और ब्रेकडाउन ट्रेन दोनों हेतु हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "Two long sirens", "hi": "दो लंबे सायरन" },
+        { "en": "Three long sirens", "hi": "तीन लंबे सायरन" },
+        { "en": "Four long sirens", "hi": "चार लंबे सायरन" },
+        { "en": "Five long sirens", "hi": "पाँच लंबे सायरन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Hooter code for accidents outside the home station requiring both medical van and breakdown train.",
+        "hi": "होम स्टेशन के बाहर दुर्घटना होने पर मेडिकल वैन और ब्रेकडाउन ट्रेन दोनों हेतु हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "Two long sirens", "hi": "दो लंबे सायरन" },
+        { "en": "Three long sirens", "hi": "तीन लंबे सायरन" },
+        { "en": "Four long sirens", "hi": "चार लंबे सायरन" },
+        { "en": "Five long sirens", "hi": "पाँच लंबे सायरन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Hooter code for cancellation of medical van and breakdown train?",
+        "hi": "मेडिकल वैन एवं ब्रेकडाउन ट्रेन को रद्द करने हेतु हूटर कोड क्या है?"
+      },
+      "options": [
+        { "en": "Two long sirens", "hi": "दो लंबे सायरन" },
+        { "en": "Three long sirens", "hi": "तीन लंबे सायरन" },
+        { "en": "Four long sirens", "hi": "चार लंबे सायरन" },
+        { "en": "One long siren of 90 seconds", "hi": "90 सेकंड का एक लंबा सायरन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Electrical equipment fire is classified as which class of fire?",
+        "hi": "विद्युत उपकरणों की आग किस श्रेणी (Class) की आग है?"
+      },
+      "options": [
+        { "en": "Class A", "hi": "क्लास A" },
+        { "en": "Class C", "hi": "क्लास C" },
+        { "en": "Class C (Electrical)", "hi": "क्लास C (इलेक्ट्रिकल)" },
+        { "en": "Class B", "hi": "क्लास B" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Any deviations from the Schedule of Dimensions require prior sanction of?",
+        "hi": "Schedule of Dimensions से किसी भी विचलन के लिए पूर्व स्वीकृति किसकी आवश्यक है?"
+      },
+      "options": [
+        { "en": "Zonal Railway", "hi": "जोनल रेलवे" },
+        { "en": "Railway Board", "hi": "रेलवे बोर्ड" },
+        { "en": "CRS", "hi": "CRS" },
+        { "en": "All of them", "hi": "सभी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Which of the following is an accident?",
+        "hi": "निम्नलिखित में से कौन सी एक दुर्घटना है?"
+      },
+      "options": [
+        { "en": "Derailment", "hi": "पटरी से उतरना" },
+        { "en": "Fire in train", "hi": "ट्रेन में आग" },
+        { "en": "SPAD", "hi": "SPAD" },
+        { "en": "All of the above", "hi": "उपरोक्त सभी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "The accident due to collision falls under which category?",
+        "hi": "टक्कर (Collision) से होने वाली दुर्घटना किस श्रेणी में आती है?"
+      },
+      "options": [
+        { "en": "Class A", "hi": "क्लास A" },
+        { "en": "Class B", "hi": "क्लास B" },
+        { "en": "Class C", "hi": "क्लास C" },
+        { "en": "Class D", "hi": "क्लास D" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "The SPMRV shall move within how many minutes after siren sounds during day?",
+        "hi": "दिन के दौरान सायरन बजने के बाद SPMRV कितने मिनट के भीतर चल पड़ेगी?"
+      },
+      "options": [
+        { "en": "25", "hi": "25" },
+        { "en": "20", "hi": "20" },
+        { "en": "30", "hi": "30" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 1
+    }
+  ]
+}

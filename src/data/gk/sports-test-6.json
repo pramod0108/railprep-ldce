@@ -1,0 +1,285 @@
+{
+  "paperName": "Current Affairs 2026 Mock Test – 1",
+  "questions": [
+    {
+      "id": 101,
+      "question": {
+        "en": "Who is the President of India as of 2026?",
+        "hi": "2026 तक भारत के राष्ट्रपति कौन हैं?"
+      },
+      "options": [
+        { "en": "Ram Nath Kovind", "hi": "राम नाथ कोविंद" },
+        { "en": "Pratibha Patil", "hi": "प्रतिभा पाटिल" },
+        { "en": "Droupadi Murmu", "hi": "द्रौपदी मुर्मू" },
+        { "en": "A. P. J. Abdul Kalam", "hi": "ए. पी. जे. अब्दुल कलाम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 102,
+      "question": {
+        "en": "Which country is the host of the G20 Summit in 2026?",
+        "hi": "2026 में G20 शिखर सम्मेलन का मेजबान कौन सा देश है?"
+      },
+      "options": [
+        { "en": "Brazil", "hi": "ब्राज़ील" },
+        { "en": "South Africa", "hi": "दक्षिण अफ्रीका" },
+        { "en": "United States", "hi": "संयुक्त राज्य अमेरिका" },
+        { "en": "India", "hi": "भारत" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 103,
+      "question": {
+        "en": "Which country successfully hosted the COP30 Climate Summit in 2025?",
+        "hi": "किस देश ने 2025 में COP30 जलवायु शिखर सम्मेलन की सफलतापूर्वक मेजबानी की?"
+      },
+      "options": [
+        { "en": "Brazil", "hi": "ब्राज़ील" },
+        { "en": "UAE", "hi": "यूएई" },
+        { "en": "UK", "hi": "यूके" },
+        { "en": "Australia", "hi": "ऑस्ट्रेलिया" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 104,
+      "question": {
+        "en": "NASA's Artemis III mission, targeting a crewed lunar landing, is officially planned for the lunar region of?",
+        "hi": "नासा का आर्टेमिस III मिशन, जो एक चालक दल के चंद्र लैंडिंग का लक्ष्य रखता है, आधिकारिक तौर पर चंद्रमा के किस क्षेत्र के लिए योजनाबद्ध है?"
+      },
+      "options": [
+        { "en": "Lunar Equator", "hi": "चंद्र भूमध्य रेखा" },
+        { "en": "Lunar North Pole", "hi": "चंद्र उत्तरी ध्रुव" },
+        { "en": "Lunar South Pole", "hi": "चंद्र दक्षिणी ध्रुव" },
+        { "en": "Sea of Tranquility", "hi": "शांति का सागर (Sea of Tranquility)" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 105,
+      "question": {
+        "en": "Who is the Prime Minister of the United Kingdom as of 2026?",
+        "hi": "2026 तक यूनाइटेड किंगडम के प्रधान मंत्री कौन हैं?"
+      },
+      "options": [
+        { "en": "Rishi Sunak", "hi": "ऋषि सुनक" },
+        { "en": "Keir Starmer", "hi": "कीर स्टारर" },
+        { "en": "Boris Johnson", "hi": "बोरिस जॉनसन" },
+        { "en": "Theresa May", "hi": "थेरेसा मे" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 106,
+      "question": {
+        "en": "Which space agency launched the 'Gaganyaan' mission (India's first crewed orbital spacecraft)?",
+        "hi": "'गगनयान' मिशन (भारत का पहला मानवयुक्त कक्षीय अंतरिक्ष यान) किस अंतरिक्ष एजेंसी द्वारा लॉन्च किया गया?"
+      },
+      "options": [
+        { "en": "ISRO", "hi": "इसरो (ISRO)" },
+        { "en": "NASA", "hi": "नासा (NASA)" },
+        { "en": "ESA", "hi": "ईएसए (ESA)" },
+        { "en": "Roscosmos", "hi": "रोस्कोसमोस (Roscosmos)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 107,
+      "question": {
+        "en": "What is the primary focus of the UN's 'Pact for the Future' agreed upon in recent years?",
+        "hi": "हाल के वर्षों में सहमत संयुक्त राष्ट्र के 'भविष्य के लिए समझौते (Pact for the Future)' का प्राथमिक फोकस क्या है?"
+      },
+      "options": [
+        { "en": "Space Colonization", "hi": "अंतरिक्ष उपनिवेशीकरण" },
+        { "en": "Sustainable Development and AI Governance", "hi": "सतत विकास और AI शासन" },
+        { "en": "Nuclear Disarmament entirely", "hi": "पूरी तरह से परमाणु निरस्त्रीकरण" },
+        { "en": "Global Currency", "hi": "वैश्विक मुद्रा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 108,
+      "question": {
+        "en": "Which tech company continues to develop the 'Gemini' AI models?",
+        "hi": "कौन सी टेक कंपनी 'जेमिनी (Gemini)' AI मॉडल विकसित करना जारी रखे हुए है?"
+      },
+      "options": [
+        { "en": "Microsoft", "hi": "माइक्रोसॉफ्ट" },
+        { "en": "OpenAI", "hi": "ओपनएआई" },
+        { "en": "Google", "hi": "गूगल" },
+        { "en": "Meta", "hi": "मेटा" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 109,
+      "question": {
+        "en": "As of 2026, which country has the largest population in the world?",
+        "hi": "2026 तक दुनिया में सबसे बड़ी आबादी वाला देश कौन सा है?"
+      },
+      "options": [
+        { "en": "China", "hi": "चीन" },
+        { "en": "India", "hi": "भारत" },
+        { "en": "USA", "hi": "यूएसए" },
+        { "en": "Indonesia", "hi": "इंडोनेशिया" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 110,
+      "question": {
+        "en": "What is the theme of the BRICS Summit 2026?",
+        "hi": "ब्रिक्स शिखर सम्मेलन 2026 का विषय क्या है?"
+      },
+      "options": [
+        { "en": "Partnership for Global Stability", "hi": "वैश्विक स्थिरता के लिए साझेदारी" },
+        { "en": "Economic Integration and Fair Multilateralism", "hi": "आर्थिक एकीकरण और निष्पक्ष बहुपक्षवाद" },
+        { "en": "Digital Transformation of Nations", "hi": "राष्ट्रों का डिजिटल परिवर्तन" },
+        { "en": "Climate Change Action", "hi": "जलवायु परिवर्तन कार्रवाई" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 111,
+      "question": {
+        "en": "Who was appointed as the Chief Justice of India in November 2024?",
+        "hi": "नवंबर 2024 में भारत के मुख्य न्यायाधीश के रूप में किसे नियुक्त किया गया था?"
+      },
+      "options": [
+        { "en": "Sanjiv Khanna", "hi": "संजीव खन्ना" },
+        { "en": "D. Y. Chandrachud", "hi": "डी. वाई. चंद्रचूड़" },
+        { "en": "U. U. Lalit", "hi": "यू. यू. ललित" },
+        { "en": "N. V. Ramana", "hi": "एन. वी. रमण" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 112,
+      "question": {
+        "en": "The European Union's comprehensive 'AI Act' primarily aims to regulate:",
+        "hi": "यूरोपीय संघ के व्यापक 'एआई अधिनियम (AI Act)' का मुख्य उद्देश्य किसे विनियमित करना है?"
+      },
+      "options": [
+        { "en": "Only self-driving cars", "hi": "केवल स्व-ड्राइविंग कारें" },
+        { "en": "Cryptocurrency mining", "hi": "क्रिप्टोकरेंसी माइनिंग" },
+        { "en": "Artificial Intelligence systems based on risk", "hi": "जोखिम के आधार पर आर्टिफिशियल इंटेलिजेंस सिस्टम" },
+        { "en": "Social media content", "hi": "सोशल मीडिया सामग्री" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 113,
+      "question": {
+        "en": "Which nation recently launched the 'Aditya-L1' mission to study the Sun?",
+        "hi": "किस राष्ट्र ने हाल ही में सूर्य का अध्ययन करने के लिए 'आदित्य-L1' मिशन लॉन्च किया?"
+      },
+      "options": [
+        { "en": "China", "hi": "चीन" },
+        { "en": "Japan", "hi": "जापान" },
+        { "en": "India", "hi": "भारत" },
+        { "en": "USA", "hi": "यूएसए" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 114,
+      "question": {
+        "en": "In 2026, which country holds the presidency of the ASEAN summit?",
+        "hi": "2026 में आसियान (ASEAN) शिखर सम्मेलन की अध्यक्षता किस देश के पास है?"
+      },
+      "options": [
+        { "en": "Malaysia", "hi": "मलेशिया" },
+        { "en": "Philippines", "hi": "फिलीपींस" },
+        { "en": "Indonesia", "hi": "इंडोनेशिया" },
+        { "en": "Vietnam", "hi": "वियतनाम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 115,
+      "question": {
+        "en": "Which major global event did Paris host in the summer of 2024?",
+        "hi": "2024 की गर्मियों में पेरिस ने किस प्रमुख वैश्विक कार्यक्रम की मेजबानी की थी?"
+      },
+      "options": [
+        { "en": "FIFA World Cup", "hi": "फीफा विश्व कप" },
+        { "en": "Summer Olympic Games", "hi": "ग्रीष्मकालीन ओलंपिक खेल" },
+        { "en": "Commonwealth Games", "hi": "राष्ट्रमंडल खेल" },
+        { "en": "G7 Summit", "hi": "G7 शिखर सम्मेलन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 116,
+      "question": {
+        "en": "Who is the Secretary-General of the United Nations (as of early 2026)?",
+        "hi": "संयुक्त राष्ट्र के महासचिव कौन हैं (2026 की शुरुआत तक)?"
+      },
+      "options": [
+        { "en": "Ban Ki-moon", "hi": "बान की मून" },
+        { "en": "Kofi Annan", "hi": "कोफी अन्नान" },
+        { "en": "António Guterres", "hi": "एंटोनियो गुटेरेस" },
+        { "en": "Tedros Adhanom", "hi": "टेड्रोस एडनॉम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 117,
+      "question": {
+        "en": "What is the name of the central bank digital currency (CBDC) launched by the RBI?",
+        "hi": "RBI द्वारा लॉन्च की गई सेंट्रल बैंक डिजिटल करेंसी (CBDC) का क्या नाम है?"
+      },
+      "options": [
+        { "en": "e-Rupee", "hi": "ई-रुपया (e-Rupee)" },
+        { "en": "DigiCoin", "hi": "डिजीकॉइन" },
+        { "en": "BharatCoin", "hi": "भारतकॉइन" },
+        { "en": "CryptoRupee", "hi": "क्रिप्टोरुपया" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 118,
+      "question": {
+        "en": "The 'NavIC' system, developed by India, is an alternative to which global system?",
+        "hi": "भारत द्वारा विकसित 'NavIC' प्रणाली किस वैश्विक प्रणाली का विकल्प है?"
+      },
+      "options": [
+        { "en": "SWIFT", "hi": "स्विफ्ट (SWIFT)" },
+        { "en": "GPS", "hi": "जीपीएस (GPS)" },
+        { "en": "Internet", "hi": "इंटरनेट" },
+        { "en": "5G Network", "hi": "5G नेटवर्क" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 119,
+      "question": {
+        "en": "Which major city in India is famously constructing the 'Navi Mumbai International Airport'?",
+        "hi": "भारत का कौन सा प्रमुख शहर 'नवी मुंबई अंतर्राष्ट्रीय हवाई अड्डे' का निर्माण कर रहा है?"
+      },
+      "options": [
+        { "en": "Delhi", "hi": "दिल्ली" },
+        { "en": "Bangalore", "hi": "बैंगलोर" },
+        { "en": "Mumbai", "hi": "मुंबई" },
+        { "en": "Chennai", "hi": "चेन्नई" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 120,
+      "question": {
+        "en": "Which new tax regime has become the default option for Indian taxpayers?",
+        "hi": "भारतीय करदाताओं के लिए कौन सी नई कर व्यवस्था डिफ़ॉल्ट विकल्प बन गई है?"
+      },
+      "options": [
+        { "en": "Old Tax Regime", "hi": "पुरानी कर व्यवस्था" },
+        { "en": "New Tax Regime", "hi": "नई कर व्यवस्था" },
+        { "en": "GST Regime", "hi": "जीएसटी व्यवस्था" },
+        { "en": "Corporate Tax Regime", "hi": "कॉर्पोरेट कर व्यवस्था" }
+      ],
+      "correct": 1
+    }
+  ]
+}

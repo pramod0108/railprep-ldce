@@ -4,5 +4,6 @@
   { "id": "english", "name": { "en": "English", "hi": "अंग्रेज़ी" }, "icon": "📚" },
   { "id": "rajbhasha", "name": { "en": "Rajbhasha", "hi": "राजभाषा" }, "icon": "🇮🇳" },
   { "id": "heat-treatment", "name": { "en": "Heat Treatment", "hi": "ऊष्मा उपचार" }, "icon": "🔥" },
-  { "id": "mathematics", "name": { "en": "Mathematics", "hi": "गणित" }, "icon": "🧮" }
+  { "id": "mathematics", "name": { "en": "Mathematics", "hi": "गणित" }, "icon": "🧮" },
+  { "id": "miscellaneous", "name": { "en": "Miscellaneous", "hi": "विविध" }, "icon": "🗂️" }
 ]

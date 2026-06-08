@@ -1,0 +1,285 @@
+{
+  "paperName": "Sports Mock Test – 5",
+  "questions": [
+    {
+      "id": 81,
+      "question": {
+        "en": "Which sport uses the term 'Silambam'?",
+        "hi": "किस खेल में 'सिलंबम' शब्द का प्रयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Archery", "hi": "तीरंदाजी" },
+        { "en": "Traditional Martial Arts", "hi": "पारंपरिक मार्शल आर्ट" },
+        { "en": "Boat Racing", "hi": "नौका दौड़" },
+        { "en": "Wrestling", "hi": "कुश्ती" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "The 'Super Bowl' is the championship game of which sport?",
+        "hi": "'सुपर बाउल' किस खेल का चैंपियनशिप गेम है?"
+      },
+      "options": [
+        { "en": "Baseball", "hi": "बेसबॉल" },
+        { "en": "Basketball", "hi": "बास्केटबॉल" },
+        { "en": "American Football", "hi": "अमेरिकी फुटबॉल" },
+        { "en": "Rugby", "hi": "रग्बी" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "Where were the first modern Olympic Games held in 1896?",
+        "hi": "1896 में पहले आधुनिक ओलंपिक खेल कहाँ आयोजित किए गए थे?"
+      },
+      "options": [
+        { "en": "Paris", "hi": "पेरिस" },
+        { "en": "London", "hi": "लंदन" },
+        { "en": "Athens", "hi": "एथेंस" },
+        { "en": "Rome", "hi": "रोम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "In which sport are the terms 'Hook', 'Jab', and 'Uppercut' used?",
+        "hi": "किस खेल में 'हुक', 'जैब' और 'अपरकट' शब्दों का प्रयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Boxing", "hi": "मुक्केबाजी" },
+        { "en": "Wrestling", "hi": "कुश्ती" },
+        { "en": "Fencing", "hi": "तलवारबाजी" },
+        { "en": "Judo", "hi": "जूडो" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "The 'Walker Cup' is associated with which sport?",
+        "hi": "'वॉकर कप' किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Golf", "hi": "गोल्फ" },
+        { "en": "Tennis", "hi": "टेनिस" },
+        { "en": "Polo", "hi": "पोलो" },
+        { "en": "Rowing", "hi": "रोइंग" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "Who holds the record for most wickets in ODI cricket history?",
+        "hi": "वनडे क्रिकेट इतिहास में सर्वाधिक विकेट लेने का रिकॉर्ड किसके नाम है?"
+      },
+      "options": [
+        { "en": "Wasim Akram", "hi": "वसीम अकरम" },
+        { "en": "Muttiah Muralitharan", "hi": "मुथैया मुरलीधरन" },
+        { "en": "Shane Warne", "hi": "शेन वार्न" },
+        { "en": "Glenn McGrath", "hi": "ग्लेन मैकग्रा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "How many players make up a volleyball team on the court?",
+        "hi": "कोर्ट पर वॉलीबॉल टीम में कितने खिलाड़ी होते हैं?"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "6", "hi": "6" },
+        { "en": "7", "hi": "7" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "The term 'Grandmaster' is awarded in which sport?",
+        "hi": "'ग्रैंडमास्टर' की उपाधि किस खेल में दी जाती है?"
+      },
+      "options": [
+        { "en": "Table Tennis", "hi": "टेबल टेनिस" },
+        { "en": "Chess", "hi": "शतरंज" },
+        { "en": "Badminton", "hi": "बैडमिंटन" },
+        { "en": "Snooker", "hi": "स्नूकर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "Polo is typically played on which animal?",
+        "hi": "पोलो आमतौर पर किस जानवर पर खेला जाता है?"
+      },
+      "options": [
+        { "en": "Elephant", "hi": "हाथी" },
+        { "en": "Camel", "hi": "ऊंट" },
+        { "en": "Horse", "hi": "घोड़ा" },
+        { "en": "Ostrich", "hi": "शुतुरमुर्ग" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "Which country is the host of the Tour de France?",
+        "hi": "टूर डी फ्रांस का मेजबान कौन सा देश है?"
+      },
+      "options": [
+        { "en": "Spain", "hi": "स्पेन" },
+        { "en": "France", "hi": "फ्रांस" },
+        { "en": "Italy", "hi": "इटली" },
+        { "en": "Germany", "hi": "जर्मनी" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "A 'Hat-trick' in sports refers to achieving something how many times consecutively?",
+        "hi": "खेलों में 'हैट-ट्रिक' का अर्थ लगातार कितनी बार कुछ हासिल करना है?"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "3", "hi": "3" },
+        { "en": "4", "hi": "4" },
+        { "en": "5", "hi": "5" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "Rovers Cup is related to which sport?",
+        "hi": "रोवर्स कप किस खेल से संबंधित है?"
+      },
+      "options": [
+        { "en": "Football", "hi": "फुटबॉल" },
+        { "en": "Hockey", "hi": "हॉकी" },
+        { "en": "Tennis", "hi": "टेनिस" },
+        { "en": "Cricket", "hi": "क्रिकेट" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "Who won the ICC Under-19 Men's Cricket World Cup in 2024?",
+        "hi": "2024 में ICC अंडर-19 पुरुष क्रिकेट विश्व कप किसने जीता?"
+      },
+      "options": [
+        { "en": "India", "hi": "भारत" },
+        { "en": "Australia", "hi": "ऑस्ट्रेलिया" },
+        { "en": "Pakistan", "hi": "पाकिस्तान" },
+        { "en": "South Africa", "hi": "दक्षिण अफ्रीका" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "What is the maximum number of clubs a golfer is allowed to carry in their bag?",
+        "hi": "एक गोल्फर को अपने बैग में अधिकतम कितने क्लब ले जाने की अनुमति है?"
+      },
+      "options": [
+        { "en": "10", "hi": "10" },
+        { "en": "12", "hi": "12" },
+        { "en": "14", "hi": "14" },
+        { "en": "16", "hi": "16" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "Which team won the inaugural season of the Women's Premier League (WPL)?",
+        "hi": "महिला प्रीमियर लीग (WPL) का उद्घाटन सीज़न किस टीम ने जीता था?"
+      },
+      "options": [
+        { "en": "Delhi Capitals", "hi": "दिल्ली कैपिटल्स" },
+        { "en": "Royal Challengers Bangalore", "hi": "रॉयल चैलेंजर्स बैंगलोर" },
+        { "en": "Mumbai Indians", "hi": "मुंबई इंडियंस" },
+        { "en": "UP Warriorz", "hi": "यूपी वॉरियर्स" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "The 'BWF World Championships' is a tournament for which sport?",
+        "hi": "'BWF विश्व चैंपियनशिप' किस खेल का टूर्नामेंट है?"
+      },
+      "options": [
+        { "en": "Boxing", "hi": "मुक्केबाजी" },
+        { "en": "Badminton", "hi": "बैडमिंटन" },
+        { "en": "Wrestling", "hi": "कुश्ती" },
+        { "en": "Weightlifting", "hi": "भारोत्तोलन" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "In which sport is the 'Scrum' formation used?",
+        "hi": "'स्क्रैम (Scrum)' फॉर्मेशन का उपयोग किस खेल में किया जाता है?"
+      },
+      "options": [
+        { "en": "American Football", "hi": "अमेरिकी फुटबॉल" },
+        { "en": "Rugby", "hi": "रग्बी" },
+        { "en": "Hockey", "hi": "हॉकी" },
+        { "en": "Soccer", "hi": "सॉकर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "Which country is the traditional home of the martial art 'Taekwondo'?",
+        "hi": "मार्शल आर्ट 'ताइक्वांडो' का पारंपरिक घर कौन सा देश है?"
+      },
+      "options": [
+        { "en": "Japan", "hi": "जापान" },
+        { "en": "China", "hi": "चीन" },
+        { "en": "South Korea", "hi": "दक्षिण कोरिया" },
+        { "en": "Thailand", "hi": "थाईलैंड" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "Which Indian shooter won a gold medal at the 2008 Beijing Olympics?",
+        "hi": "किस भारतीय निशानेबाज ने 2008 बीजिंग ओलंपिक में स्वर्ण पदक जीता?"
+      },
+      "options": [
+        { "en": "Gagan Narang", "hi": "गगन नारंग" },
+        { "en": "Rajyavardhan Singh Rathore", "hi": "राज्यवर्धन सिंह राठौर" },
+        { "en": "Abhinav Bindra", "hi": "अभिनव बिंद्रा" },
+        { "en": "Vijay Kumar", "hi": "विजय कुमार" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "The famous 'Wembley Stadium' is situated in?",
+        "hi": "प्रसिद्ध 'वेम्बली स्टेडियम' कहाँ स्थित है?"
+      },
+      "options": [
+        { "en": "London", "hi": "लंदन" },
+        { "en": "Manchester", "hi": "मैनचेस्टर" },
+        { "en": "Madrid", "hi": "मैड्रिड" },
+        { "en": "Paris", "hi": "पेरिस" }
+      ],
+      "correct": 0
+    }
+  ]
+}

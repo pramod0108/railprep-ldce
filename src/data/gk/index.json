@@ -1,1 +1,8 @@
-[]
+[
+  { "id": "sports-test-1", "file": "sports-test-1.json", "paperName": "Sports Mock Test – 1" },
+  { "id": "sports-test-2", "file": "sports-test-2.json", "paperName": "Sports Mock Test – 2" },
+  { "id": "sports-test-3", "file": "sports-test-3.json", "paperName": "Sports Mock Test – 3" },
+  { "id": "sports-test-4", "file": "sports-test-4.json", "paperName": "Sports Mock Test – 4" },
+  { "id": "sports-test-5", "file": "sports-test-5.json", "paperName": "Sports Mock Test – 5" },
+  { "id": "sports-test-6", "file": "sports-test-6.json", "paperName": "Sports Mock Test – 6" }
+]
