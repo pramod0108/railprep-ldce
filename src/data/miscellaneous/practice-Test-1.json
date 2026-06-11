@@ -1,0 +1,565 @@
+{
+  "paperName": "Practice Test-1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which file is used for precision filing?",
+        "hi": "Precision filing के लिए कौन-सी file उपयोग की जाती है?"
+      },
+      "options": [
+        { "en": "Rough file", "hi": "Rough file" },
+        { "en": "Bastard file", "hi": "Bastard file" },
+        { "en": "Smooth file", "hi": "Smooth file" },
+        { "en": "Round file", "hi": "Round file" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "What is the point angle of a centre punch?",
+        "hi": "Centre punch का point angle कितना होता है?"
+      },
+      "options": [
+        { "en": "30°", "hi": "30°" },
+        { "en": "45°", "hi": "45°" },
+        { "en": "60°", "hi": "60°" },
+        { "en": "90°", "hi": "90°" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Hacksaw blade is generally made of which material?",
+        "hi": "Hacksaw blade सामान्यतः किस material का बना होता है?"
+      },
+      "options": [
+        { "en": "Mild Steel", "hi": "Mild Steel" },
+        { "en": "Cast Iron", "hi": "Cast Iron" },
+        { "en": "High Speed Steel", "hi": "High Speed Steel" },
+        { "en": "Carbon Steel", "hi": "Carbon Steel" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which tool works on shearing force?",
+        "hi": "Shearing force से कौन-सा tool कार्य करता है?"
+      },
+      "options": [
+        { "en": "File", "hi": "File" },
+        { "en": "Chisel", "hi": "Chisel" },
+        { "en": "Reamer", "hi": "Reamer" },
+        { "en": "Tap", "hi": "Tap" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What is the point angle of a drill?",
+        "hi": "Drill का point angle कितना होता है?"
+      },
+      "options": [
+        { "en": "90°", "hi": "90°" },
+        { "en": "100°", "hi": "100°" },
+        { "en": "118°", "hi": "118°" },
+        { "en": "135°", "hi": "135°" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Which instrument is used to check flatness?",
+        "hi": "Flatness check करने के लिए कौन-सा instrument प्रयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "Vernier Caliper", "hi": "Vernier Caliper" },
+        { "en": "Micrometer", "hi": "Micrometer" },
+        { "en": "Try Square", "hi": "Try Square" },
+        { "en": "Divider", "hi": "Divider" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "What is the meaning of SWL?",
+        "hi": "SWL का अर्थ क्या है?"
+      },
+      "options": [
+        { "en": "Standard Working Load", "hi": "Standard Working Load" },
+        { "en": "Safe Working Load", "hi": "Safe Working Load" },
+        { "en": "Safety Weight Limit", "hi": "Safety Weight Limit" },
+        { "en": "Standard Weight Limit", "hi": "Standard Weight Limit" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What does SWL represent?",
+        "hi": "SWL किसे दर्शाता है?"
+      },
+      "options": [
+        { "en": "Minimum Load", "hi": "Minimum Load" },
+        { "en": "Average Load", "hi": "Average Load" },
+        { "en": "Maximum Safe Load", "hi": "Maximum Safe Load" },
+        { "en": "Breaking Load", "hi": "Breaking Load" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which knot is used to lift a cylindrical object?",
+        "hi": "Cylinder जैसी वस्तु उठाने के लिए कौन-सी knot उपयोग होती है?"
+      },
+      "options": [
+        { "en": "Reef Knot", "hi": "Reef Knot" },
+        { "en": "Timber Hitch", "hi": "Timber Hitch" },
+        { "en": "Bowline Knot", "hi": "Bowline Knot" },
+        { "en": "Clove Hitch", "hi": "Clove Hitch" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which tap is used for the final finishing of a thread?",
+        "hi": "Thread की अंतिम finishing के लिए कौन-सा tap प्रयोग होता है?"
+      },
+      "options": [
+        { "en": "Taper Tap", "hi": "Taper Tap" },
+        { "en": "Plug Tap", "hi": "Plug Tap" },
+        { "en": "Bottoming Tap", "hi": "Bottoming Tap" },
+        { "en": "Machine Tap", "hi": "Machine Tap" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "By approximately how much does the hole size increase in a reaming operation?",
+        "hi": "Reaming operation से hole size लगभग कितना बढ़ता है?"
+      },
+      "options": [
+        { "en": "0.01–0.05 mm", "hi": "0.01–0.05 mm" },
+        { "en": "0.1–0.5 mm", "hi": "0.1–0.5 mm" },
+        { "en": "1–2 mm", "hi": "1–2 mm" },
+        { "en": "2–3 mm", "hi": "2–3 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Which welding is suitable for thin sheet metal joining?",
+        "hi": "Thin sheet metal joining के लिए कौन-सी welding उपयुक्त है?"
+      },
+      "options": [
+        { "en": "TIG Welding", "hi": "TIG Welding" },
+        { "en": "Gas Welding", "hi": "Gas Welding" },
+        { "en": "MIG/MAG Welding", "hi": "MIG/MAG Welding" },
+        { "en": "Spot Welding", "hi": "Spot Welding" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "What are the principal views in Engineering Drawing?",
+        "hi": "Engineering Drawing की principal views कौन-सी हैं?"
+      },
+      "options": [
+        { "en": "Front, Top, Side", "hi": "Front, Top, Side" },
+        { "en": "Front, Bottom, Side", "hi": "Front, Bottom, Side" },
+        { "en": "Left, Right, Top", "hi": "Left, Right, Top" },
+        { "en": "Front, Rear, Side", "hi": "Front, Rear, Side" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What is the general forging temperature?",
+        "hi": "Forging temperature सामान्यतः कितनी होती है?"
+      },
+      "options": [
+        { "en": "500–700°C", "hi": "500–700°C" },
+        { "en": "700–850°C", "hi": "700–850°C" },
+        { "en": "900–1000°C", "hi": "900–1000°C" },
+        { "en": "1100–1200°C", "hi": "1100–1200°C" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "What is obtained from carburising?",
+        "hi": "Carburising से क्या प्राप्त होता है?"
+      },
+      "options": [
+        { "en": "Soft Surface", "hi": "Soft Surface" },
+        { "en": "Hard Surface", "hi": "Hard Surface" },
+        { "en": "Brittle Core", "hi": "Brittle Core" },
+        { "en": "Soft Core", "hi": "Soft Core" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "What is the full form of PDCA?",
+        "hi": "PDCA का पूरा रूप क्या है?"
+      },
+      "options": [
+        { "en": "Plan-Do-Check-Act", "hi": "Plan-Do-Check-Act" },
+        { "en": "Plan-Do-Control-Act", "hi": "Plan-Do-Control-Act" },
+        { "en": "Prepare-Do-Check-Act", "hi": "Prepare-Do-Check-Act" },
+        { "en": "Plan-Develop-Check-Act", "hi": "Plan-Develop-Check-Act" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "With which ISO Standard is the PDCA Cycle associated?",
+        "hi": "PDCA Cycle किस ISO Standard से संबंधित है?"
+      },
+      "options": [
+        { "en": "ISO 14001", "hi": "ISO 14001" },
+        { "en": "ISO 45001", "hi": "ISO 45001" },
+        { "en": "ISO 9001", "hi": "ISO 9001" },
+        { "en": "ISO 22000", "hi": "ISO 22000" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "What is the characteristic of Powder Coating Paint?",
+        "hi": "Powder Coating Paint की विशेषता क्या है?"
+      },
+      "options": [
+        { "en": "Water Soluble", "hi": "Water Soluble" },
+        { "en": "UV Resistant", "hi": "UV Resistant" },
+        { "en": "Acid Soluble", "hi": "Acid Soluble" },
+        { "en": "Magnetic", "hi": "Magnetic" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Which property of steel increases by annealing?",
+        "hi": "Annealing से steel की कौन-सी property बढ़ती है?"
+      },
+      "options": [
+        { "en": "Hardness", "hi": "Hardness" },
+        { "en": "Toughness", "hi": "Toughness" },
+        { "en": "Ductility", "hi": "Ductility" },
+        { "en": "Brittleness", "hi": "Brittleness" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Solder is mainly a mixture of which metals?",
+        "hi": "Solder मुख्यतः किन धातुओं का मिश्रण है?"
+      },
+      "options": [
+        { "en": "Copper + Zinc", "hi": "Copper + Zinc" },
+        { "en": "Lead + Tin", "hi": "Lead + Tin" },
+        { "en": "Iron + Carbon", "hi": "Iron + Carbon" },
+        { "en": "Aluminium + Tin", "hi": "Aluminium + Tin" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "In GD&T, what does the symbol of Concentricity indicate?",
+        "hi": "GD&T में Concentricity का symbol किसे दर्शाता है?"
+      },
+      "options": [
+        { "en": "Circularity", "hi": "Circularity" },
+        { "en": "Cylindricity", "hi": "Cylindricity" },
+        { "en": "Concentricity", "hi": "Concentricity" },
+        { "en": "Parallelism", "hi": "Parallelism" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "What type of tolerance is Circularity?",
+        "hi": "Circularity किस प्रकार की tolerance है?"
+      },
+      "options": [
+        { "en": "Form Tolerance", "hi": "Form Tolerance" },
+        { "en": "Position Tolerance", "hi": "Position Tolerance" },
+        { "en": "Profile Tolerance", "hi": "Profile Tolerance" },
+        { "en": "Runout Tolerance", "hi": "Runout Tolerance" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What does the symbol of Parallelism represent?",
+        "hi": "Parallelism का प्रतीक क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "⊥", "hi": "⊥" },
+        { "en": "//", "hi": "//" },
+        { "en": "○", "hi": "○" },
+        { "en": "∠", "hi": "∠" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What does Mild Steel absorb in the cyaniding process?",
+        "hi": "Cyaniding प्रक्रिया में Mild Steel किसे absorb करती है?"
+      },
+      "options": [
+        { "en": "Oxygen and Hydrogen", "hi": "Oxygen और Hydrogen" },
+        { "en": "Carbon and Nitrogen", "hi": "Carbon और Nitrogen" },
+        { "en": "Sulphur and Carbon", "hi": "Sulphur और Carbon" },
+        { "en": "Nitrogen and Oxygen", "hi": "Nitrogen और Oxygen" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "What is the main purpose of Cyaniding?",
+        "hi": "Cyaniding का मुख्य उद्देश्य क्या है?"
+      },
+      "options": [
+        { "en": "To make a soft surface", "hi": "Soft Surface बनाना" },
+        { "en": "To make a hard surface", "hi": "Hard Surface बनाना" },
+        { "en": "To remove rust", "hi": "Rust हटाना" },
+        { "en": "Grain Refining", "hi": "Grain Refining" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Where is annealing generally done?",
+        "hi": "Annealing सामान्यतः कहाँ किया जाता है?"
+      },
+      "options": [
+        { "en": "Water Tank", "hi": "Water Tank" },
+        { "en": "Furnace", "hi": "Furnace" },
+        { "en": "Open Air", "hi": "Open Air" },
+        { "en": "Oil Bath", "hi": "Oil Bath" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "What is the full name of OHSAS?",
+        "hi": "OHSAS का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Occupational Health and Safety Assessment Series", "hi": "Occupational Health and Safety Assessment Series" },
+        { "en": "Occupational Hazard and Safety Assessment System", "hi": "Occupational Hazard and Safety Assessment System" },
+        { "en": "Occupational Health Safety Audit Series", "hi": "Occupational Health Safety Audit Series" },
+        { "en": "Occupational Health and Security Assessment Series", "hi": "Occupational Health and Security Assessment Series" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "What is the full name of IRIS?",
+        "hi": "IRIS का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Indian Railway Inspection Standard", "hi": "Indian Railway Inspection Standard" },
+        { "en": "International Railway Industry Standard", "hi": "International Railway Industry Standard" },
+        { "en": "International Railway Inspection System", "hi": "International Railway Inspection System" },
+        { "en": "Indian Railway Industry System", "hi": "Indian Railway Industry System" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "What is the maximum limit of Leave Not Due (LND)?",
+        "hi": "Leave Not Due (LND) की अधिकतम सीमा कितनी है?"
+      },
+      "options": [
+        { "en": "180 Days", "hi": "180 Days" },
+        { "en": "240 Days", "hi": "240 Days" },
+        { "en": "300 Days", "hi": "300 Days" },
+        { "en": "360 Days", "hi": "360 Days" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "In which year was DAR implemented?",
+        "hi": "DAR किस वर्ष लागू हुआ?"
+      },
+      "options": [
+        { "en": "1958", "hi": "1958" },
+        { "en": "1962", "hi": "1962" },
+        { "en": "1968", "hi": "1968" },
+        { "en": "1972", "hi": "1972" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "What is the date of implementation of the Factories Act?",
+        "hi": "Factories Act लागू होने की तिथि क्या है?"
+      },
+      "options": [
+        { "en": "15 August 1947", "hi": "15 August 1947" },
+        { "en": "26 January 1950", "hi": "26 January 1950" },
+        { "en": "1 April 1949", "hi": "1 April 1949" },
+        { "en": "1 January 1951", "hi": "1 January 1951" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "What is the meaning of Child according to the Factories Act?",
+        "hi": "Factories Act के अनुसार Child का अर्थ क्या है?"
+      },
+      "options": [
+        { "en": "Under 12 years", "hi": "12 वर्ष से कम" },
+        { "en": "Under 14 years", "hi": "14 वर्ष से कम" },
+        { "en": "Has not completed 15 years", "hi": "15 वर्ष पूर्ण न किया हो" },
+        { "en": "Under 16 years", "hi": "16 वर्ष से कम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "What rotates in a Lathe Machine?",
+        "hi": "Lathe Machine में कौन घूमता है?"
+      },
+      "options": [
+        { "en": "Tool", "hi": "Tool" },
+        { "en": "Workpiece", "hi": "Workpiece" },
+        { "en": "Tailstock", "hi": "Tailstock" },
+        { "en": "Tool Post", "hi": "Tool Post" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "How many jaws does a Universal Lathe Chuck generally have?",
+        "hi": "Universal Lathe Chuck सामान्यतः कितने jaw वाला होता है?"
+      },
+      "options": [
+        { "en": "2 Jaw", "hi": "2 Jaw" },
+        { "en": "3 Jaw", "hi": "3 Jaw" },
+        { "en": "4 Jaw", "hi": "4 Jaw" },
+        { "en": "6 Jaw", "hi": "6 Jaw" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "Where is the cutting tool mounted in a Milling Machine?",
+        "hi": "Milling Machine में Cutting Tool कहाँ लगा होता है?"
+      },
+      "options": [
+        { "en": "On Tailstock", "hi": "Tailstock पर" },
+        { "en": "On Tool Post", "hi": "Tool Post पर" },
+        { "en": "On Arbor", "hi": "Arbor पर" },
+        { "en": "On Chuck", "hi": "Chuck पर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "How is metal removed in Broaching?",
+        "hi": "Broaching में metal removal कैसे होता है?"
+      },
+      "options": [
+        { "en": "By Grinding", "hi": "Grinding द्वारा" },
+        { "en": "By Pulling/Pushing", "hi": "Pulling/Pushing द्वारा" },
+        { "en": "By Hammering", "hi": "Hammering द्वारा" },
+        { "en": "By Forging", "hi": "Forging द्वारा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "By what other name is Down Milling known?",
+        "hi": "Down Milling को और किस नाम से जाना जाता है?"
+      },
+      "options": [
+        { "en": "Up Milling", "hi": "Up Milling" },
+        { "en": "Face Milling", "hi": "Face Milling" },
+        { "en": "Climb Milling", "hi": "Climb Milling" },
+        { "en": "End Milling", "hi": "End Milling" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "Cylindricity is which category of tolerance?",
+        "hi": "Cylindricity किस श्रेणी की tolerance है?"
+      },
+      "options": [
+        { "en": "Form Tolerance", "hi": "Form Tolerance" },
+        { "en": "Position Tolerance", "hi": "Position Tolerance" },
+        { "en": "Orientation Tolerance", "hi": "Orientation Tolerance" },
+        { "en": "Runout Tolerance", "hi": "Runout Tolerance" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "What is the symbol of Circularity?",
+        "hi": "Circularity का symbol क्या होता है?"
+      },
+      "options": [
+        { "en": "□", "hi": "□" },
+        { "en": "○", "hi": "○" },
+        { "en": "△", "hi": "△" },
+        { "en": "//", "hi": "//" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "What is the main purpose of Annealing?",
+        "hi": "Annealing का मुख्य उद्देश्य क्या है?"
+      },
+      "options": [
+        { "en": "To increase hardness", "hi": "Hardness बढ़ाना" },
+        { "en": "To increase ductility", "hi": "Ductility बढ़ाना" },
+        { "en": "To increase brittleness", "hi": "Brittleness बढ़ाना" },
+        { "en": "To increase wear resistance", "hi": "Wear Resistance बढ़ाना" }
+      ],
+      "correct": 1
+    }
+  ]
+}
