@@ -2,5 +2,6 @@
   { "id": "disaster-management-test-1", "file": "disaster-management-test-1.json", "paperName": "Disaster Management Mock Test – Set 1" },
   { "id": "disaster-management-test-2", "file": "disaster-management-test-2.json", "paperName": "Disaster Management Mock Test – Set 2" },
   { "id": "practice-Test-1", "file": "practice-Test-1.json", "paperName": "Practice Test-1" },
-  { "id": "practice-Test-2", "file": "practice-Test-2.json", "paperName": "Practice Test-2" }
+  { "id": "practice-Test-2", "file": "practice-Test-2.json", "paperName": "Practice Test-2" },
+  { "id": "practice-Test-3", "file": "practice-Test-3.json", "paperName": "Practice Test-3" }
 ]
