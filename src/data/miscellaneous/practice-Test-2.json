@@ -1,0 +1,565 @@
+{
+  "paperName": "LDCE Mechanical JE MCQs (Q1-Q40)",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What is the full form of IREPS?",
+        "hi": "IREPS का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Indian Railway E-Procurement System", "hi": "Indian Railway E-Procurement System" },
+        { "en": "Indian Railway E-Purchase System", "hi": "Indian Railway E-Purchase System" },
+        { "en": "Indian Rail Procurement Service", "hi": "Indian Rail Procurement Service" },
+        { "en": "Integrated Railway Procurement System", "hi": "Integrated Railway Procurement System" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Who is the Secretary of the Division PNM Meeting?",
+        "hi": "Division PNM Meeting का Secretary कौन होता है?"
+      },
+      "options": [
+        { "en": "DRM", "hi": "DRM" },
+        { "en": "Sr. DPO/DPO", "hi": "Sr. DPO/DPO" },
+        { "en": "APO", "hi": "APO" },
+        { "en": "Sr. DME", "hi": "Sr. DME" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "What is the full form of WRIL?",
+        "hi": "WRIL का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Work Related Injury Leave", "hi": "Work Related Injury Leave" },
+        { "en": "Work Related Illness Leave", "hi": "Work Related Illness Leave" },
+        { "en": "Work Related Illness and Injury Leave", "hi": "Work Related Illness and Injury Leave" },
+        { "en": "Worker Injury Leave", "hi": "Worker Injury Leave" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "What type of leave is WRIL?",
+        "hi": "WRIL किस प्रकार की छुट्टी है?"
+      },
+      "options": [
+        { "en": "LAP", "hi": "LAP" },
+        { "en": "LHAP", "hi": "LHAP" },
+        { "en": "Hospital Leave", "hi": "Hospital Leave" },
+        { "en": "Casual Leave", "hi": "Casual Leave" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "When was NPS implemented?",
+        "hi": "NPS कब लागू हुआ?"
+      },
+      "options": [
+        { "en": "01.01.2003", "hi": "01.01.2003" },
+        { "en": "01.01.2004", "hi": "01.01.2004" },
+        { "en": "01.04.2004", "hi": "01.04.2004" },
+        { "en": "01.01.2005", "hi": "01.01.2005" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "How many days of LHAP are earned per month?",
+        "hi": "LHAP कितने दिन प्रति माह अर्जित होती है?"
+      },
+      "options": [
+        { "en": "1 day", "hi": "1 दिन" },
+        { "en": "1.5 days", "hi": "1.5 दिन" },
+        { "en": "5/3 days", "hi": "5/3 दिन" },
+        { "en": "2 days", "hi": "2 दिन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "What is the full form of MACP?",
+        "hi": "MACP का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Modified Assured Career Progression", "hi": "Modified Assured Career Progression" },
+        { "en": "Maximum Assured Career Promotion", "hi": "Maximum Assured Career Promotion" },
+        { "en": "Modified Career Promotion", "hi": "Modified Career Promotion" },
+        { "en": "Merit Assured Career Progression", "hi": "Merit Assured Career Progression" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What are the Long On Hours for an Essential Intermittent Employee?",
+        "hi": "Essential Intermittent Employee के लिए Long On Hours कितने हैं?"
+      },
+      "options": [
+        { "en": "10 hours", "hi": "10 घंटे" },
+        { "en": "11 hours", "hi": "11 घंटे" },
+        { "en": "12 hours", "hi": "12 घंटे" },
+        { "en": "13 hours", "hi": "13 घंटे" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "How much Joining Time is given on transfer over a distance of more than 2000 km?",
+        "hi": "2000 km से अधिक दूरी पर Transfer होने पर Joining Time कितना मिलता है?"
+      },
+      "options": [
+        { "en": "10 days", "hi": "10 दिन" },
+        { "en": "12 days", "hi": "12 दिन" },
+        { "en": "15 days", "hi": "15 दिन" },
+        { "en": "20 days", "hi": "20 दिन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What is the maximum limit for Leave Conversion?",
+        "hi": "Leave Conversion की अधिकतम सीमा कितनी है?"
+      },
+      "options": [
+        { "en": "15 days", "hi": "15 दिन" },
+        { "en": "20 days", "hi": "20 दिन" },
+        { "en": "30 days", "hi": "30 दिन" },
+        { "en": "45 days", "hi": "45 दिन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "What should be the minimum service for a Post Retirement Pass?",
+        "hi": "Post Retirement Pass के लिए न्यूनतम सेवा कितनी होनी चाहिए?"
+      },
+      "options": [
+        { "en": "10 years", "hi": "10 वर्ष" },
+        { "en": "15 years", "hi": "15 वर्ष" },
+        { "en": "20 years", "hi": "20 वर्ष" },
+        { "en": "25 years", "hi": "25 वर्ष" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What is the Railway Code of Southern Railway?",
+        "hi": "Southern Railway का Railway Code क्या है?"
+      },
+      "options": [
+        { "en": "9450", "hi": "9450" },
+        { "en": "9451", "hi": "9451" },
+        { "en": "9452", "hi": "9452" },
+        { "en": "9453", "hi": "9453" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "What is the capacity of each Air Spring?",
+        "hi": "प्रत्येक Air Spring की Capacity कितनी होती है?"
+      },
+      "options": [
+        { "en": "40 Litre", "hi": "40 Litre" },
+        { "en": "50 Litre", "hi": "50 Litre" },
+        { "en": "60 Litre", "hi": "60 Litre" },
+        { "en": "70 Litre", "hi": "70 Litre" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Which is the BPC Coaching Train Portal?",
+        "hi": "BPC Coaching Train Portal कौन-सा है?"
+      },
+      "options": [
+        { "en": "FOIS", "hi": "FOIS" },
+        { "en": "CMM", "hi": "CMM" },
+        { "en": "UDM", "hi": "UDM" },
+        { "en": "PRS", "hi": "PRS" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "What is the type of ICF Brake Van?",
+        "hi": "ICF Brake Van का प्रकार क्या है?"
+      },
+      "options": [
+        { "en": "BVZG", "hi": "BVZG" },
+        { "en": "BVZI", "hi": "BVZI" },
+        { "en": "BVZC", "hi": "BVZC" },
+        { "en": "BVZM", "hi": "BVZM" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "What is the distance between 'A Dimension'?",
+        "hi": "'A Dimension' किसके बीच की दूरी है?"
+      },
+      "options": [
+        { "en": "Wheel and Brake Pad", "hi": "Wheel और Brake Pad" },
+        { "en": "Axle Box Top and Axle Box Crown", "hi": "Axle Box Top और Axle Box Crown" },
+        { "en": "Spring and Bolster", "hi": "Spring और Bolster" },
+        { "en": "SAB and Disc", "hi": "SAB और Disc" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Feed Pipe works in which type of Toilet System?",
+        "hi": "Feed Pipe किस प्रकार के Toilet System में कार्य करता है?"
+      },
+      "options": [
+        { "en": "Vacuum Toilet", "hi": "Vacuum Toilet" },
+        { "en": "Bio Vacuum Toilet", "hi": "Bio Vacuum Toilet" },
+        { "en": "Chemical Toilet", "hi": "Chemical Toilet" },
+        { "en": "Gravity Toilet", "hi": "Gravity Toilet" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Which Flushing System is used in a Bio Vacuum Toilet?",
+        "hi": "Bio Vacuum Toilet में कौन-सा Flushing System प्रयोग होता है?"
+      },
+      "options": [
+        { "en": "Hydraulic", "hi": "Hydraulic" },
+        { "en": "Gravity", "hi": "Gravity" },
+        { "en": "Electro Pneumatic Pressurized Flushing System", "hi": "Electro Pneumatic Pressurized Flushing System" },
+        { "en": "Manual", "hi": "Manual" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What is the Ratlam Division Code?",
+        "hi": "Ratlam Division Code क्या है?"
+      },
+      "options": [
+        { "en": "97022", "hi": "97022" },
+        { "en": "97023", "hi": "97023" },
+        { "en": "97024", "hi": "97024" },
+        { "en": "97025", "hi": "97025" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "What is WRIL related to?",
+        "hi": "WRIL का संबंध किससे है?"
+      },
+      "options": [
+        { "en": "Study Leave", "hi": "Study Leave" },
+        { "en": "Work Related Illness and Injury", "hi": "Work Related Illness and Injury" },
+        { "en": "Maternity Leave", "hi": "Maternity Leave" },
+        { "en": "LAP", "hi": "LAP" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "What is the name of the device that restricts coupler vertical sliding?",
+        "hi": "Coupler vertical sliding restrict करने वाले device का नाम क्या है?"
+      },
+      "options": [
+        { "en": "Locking Plate", "hi": "Locking Plate" },
+        { "en": "Restrictor", "hi": "Restrictor" },
+        { "en": "Equalizer", "hi": "Equalizer" },
+        { "en": "Anchor Link", "hi": "Anchor Link" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "What is the Root Radius of a New Wheel?",
+        "hi": "New Wheel का Root Radius कितना होता है?"
+      },
+      "options": [
+        { "en": "10 mm", "hi": "10 mm" },
+        { "en": "12 mm", "hi": "12 mm" },
+        { "en": "14 mm", "hi": "14 mm" },
+        { "en": "16 mm", "hi": "16 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What is the Minimum Buffer Projection from the Headstock?",
+        "hi": "Headstock से Minimum Buffer Projection कितनी है?"
+      },
+      "options": [
+        { "en": "564 mm", "hi": "564 mm" },
+        { "en": "574 mm", "hi": "574 mm" },
+        { "en": "584 mm", "hi": "584 mm" },
+        { "en": "594 mm", "hi": "594 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What is the Gauge Tolerance on a Straight Track?",
+        "hi": "Straight Track पर Gauge Tolerance कितना है?"
+      },
+      "options": [
+        { "en": "±4 mm", "hi": "±4 mm" },
+        { "en": "±5 mm", "hi": "±5 mm" },
+        { "en": "±6 mm", "hi": "±6 mm" },
+        { "en": "±8 mm", "hi": "±8 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "What is the full form of FOIS?",
+        "hi": "FOIS का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Freight Operation Information System", "hi": "Freight Operation Information System" },
+        { "en": "Freight Operations and Information System", "hi": "Freight Operations and Information System" },
+        { "en": "Freight Organisation Information System", "hi": "Freight Organisation Information System" },
+        { "en": "Freight Online Information System", "hi": "Freight Online Information System" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "What is the capacity of the Main Reservoir of an Air Spring?",
+        "hi": "Main Reservoir of Air Spring की Capacity कितनी है?"
+      },
+      "options": [
+        { "en": "100 Litre", "hi": "100 Litre" },
+        { "en": "120 Litre", "hi": "120 Litre" },
+        { "en": "150 Litre", "hi": "150 Litre" },
+        { "en": "180 Litre", "hi": "180 Litre" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "What is the position of the handle in DV Working Condition?",
+        "hi": "DV Working Condition में Handle की Position?"
+      },
+      "options": [
+        { "en": "Horizontal", "hi": "Horizontal" },
+        { "en": "Inclined", "hi": "Inclined" },
+        { "en": "Vertical", "hi": "Vertical" },
+        { "en": "Closed", "hi": "Closed" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "What is not required for a purchase up to ₹2.5 Lakh?",
+        "hi": "₹2.5 Lakh तक की Purchase में क्या आवश्यक नहीं है?"
+      },
+      "options": [
+        { "en": "Tender", "hi": "Tender" },
+        { "en": "Vetting", "hi": "Vetting" },
+        { "en": "Inspection", "hi": "Inspection" },
+        { "en": "Indent", "hi": "Indent" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "What is the CBC Overhauling Period?",
+        "hi": "CBC Overhauling Period कितना है?"
+      },
+      "options": [
+        { "en": "4 years", "hi": "4 वर्ष" },
+        { "en": "5 years", "hi": "5 वर्ष" },
+        { "en": "6 years", "hi": "6 वर्ष" },
+        { "en": "8 years", "hi": "8 वर्ष" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Which was the first train launched under Make in India?",
+        "hi": "Make in India के अंतर्गत पहली launch train?"
+      },
+      "options": [
+        { "en": "Rajdhani", "hi": "Rajdhani" },
+        { "en": "Gatimaan", "hi": "Gatimaan" },
+        { "en": "Tejas", "hi": "Tejas" },
+        { "en": "Vande Bharat", "hi": "Vande Bharat" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "What is the Control Reservoir used for?",
+        "hi": "Control Reservoir का उपयोग किस लिए होता है?"
+      },
+      "options": [
+        { "en": "Suspension", "hi": "Suspension" },
+        { "en": "Brake System Control", "hi": "Brake System Control" },
+        { "en": "Air Spring Filling", "hi": "Air Spring Filling" },
+        { "en": "Toilet Flushing", "hi": "Toilet Flushing" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "Between what is SAB Clearance measured?",
+        "hi": "SAB Clearance किसके बीच मापा जाता है?"
+      },
+      "options": [
+        { "en": "Wheel and Axle", "hi": "Wheel और Axle" },
+        { "en": "Wheel and Brake Block", "hi": "Wheel और Brake Block" },
+        { "en": "Disc and Pad", "hi": "Disc और Pad" },
+        { "en": "Spring and Bolster", "hi": "Spring और Bolster" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "Which gas is used in MIG Welding?",
+        "hi": "MIG Welding में कौन-सी Gas प्रयुक्त होती है?"
+      },
+      "options": [
+        { "en": "Oxygen", "hi": "Oxygen" },
+        { "en": "Nitrogen", "hi": "Nitrogen" },
+        { "en": "Carbon Dioxide", "hi": "Carbon Dioxide" },
+        { "en": "Argon+Hydrogen", "hi": "Argon+Hydrogen" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "What type of defects are detected by DPT Test?",
+        "hi": "DPT Test द्वारा किस प्रकार के Defects का पता लगाया जाता है?"
+      },
+      "options": [
+        { "en": "Internal", "hi": "Internal" },
+        { "en": "Surface", "hi": "Surface" },
+        { "en": "Volumetric", "hi": "Volumetric" },
+        { "en": "Hidden", "hi": "Hidden" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "What is S-1313 related to?",
+        "hi": "S-1313 किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Condemned Item", "hi": "Condemned Item" },
+        { "en": "Scrap Item", "hi": "Scrap Item" },
+        { "en": "Issued Stock Item", "hi": "Issued Stock Item" },
+        { "en": "Returned Item", "hi": "Returned Item" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "According to Rule 5, what can Railway Employees not join?",
+        "hi": "Rule 5 के अनुसार Railway Employees किसमें शामिल नहीं हो सकते?"
+      },
+      "options": [
+        { "en": "Trade Union", "hi": "Trade Union" },
+        { "en": "Sports Association", "hi": "Sports Association" },
+        { "en": "Political Parties", "hi": "Political Parties" },
+        { "en": "Cooperative Society", "hi": "Cooperative Society" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "What is the value of Gauge Tolerance?",
+        "hi": "Gauge Tolerance का मान कितना है?"
+      },
+      "options": [
+        { "en": "±4 mm", "hi": "±4 mm" },
+        { "en": "±5 mm", "hi": "±5 mm" },
+        { "en": "±6 mm", "hi": "±6 mm" },
+        { "en": "±8 mm", "hi": "±8 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "In how many years is the CBC Overhauling Period done?",
+        "hi": "CBC Overhauling Period कितने वर्षों में किया जाता है?"
+      },
+      "options": [
+        { "en": "4", "hi": "4" },
+        { "en": "5", "hi": "5" },
+        { "en": "6", "hi": "6" },
+        { "en": "7", "hi": "7" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "In which position does the DV Handle remain in Working Condition?",
+        "hi": "DV Handle Working Condition में किस Position में रहता है?"
+      },
+      "options": [
+        { "en": "Open", "hi": "Open" },
+        { "en": "Vertical", "hi": "Vertical" },
+        { "en": "Horizontal", "hi": "Horizontal" },
+        { "en": "Locked", "hi": "Locked" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "Which test is used for Surface Defect Detection?",
+        "hi": "Surface Defect Detection के लिए कौन-सा Test उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "UT", "hi": "UT" },
+        { "en": "RT", "hi": "RT" },
+        { "en": "MPT", "hi": "MPT" },
+        { "en": "DPT", "hi": "DPT" }
+      ],
+      "correct": 3
+    }
+  ]
+}
