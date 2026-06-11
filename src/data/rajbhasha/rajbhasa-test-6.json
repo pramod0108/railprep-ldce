@@ -1,0 +1,285 @@
+{
+  "paperName": "Rajbhasha Mock Test - 6",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When was the Central Official Language Committee formed?",
+        "hi": "केंद्रीय राजभाषा समिति का गठन कब हुआ?"
+      },
+      "options": [
+        { "en": "January 1975", "hi": "जनवरी 1975" },
+        { "en": "January 1976", "hi": "जनवरी 1976" },
+        { "en": "January 1977", "hi": "जनवरी 1977" },
+        { "en": "January 1978", "hi": "जनवरी 1978" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "The language to be used in courts is mentioned in which article of the Constitution?",
+        "hi": "न्यायालयों में प्रयोग की जाने वाली भाषा संविधान के किस अनुच्छेद में वर्णित है?"
+      },
+      "options": [
+        { "en": "343", "hi": "343" },
+        { "en": "344", "hi": "344" },
+        { "en": "348", "hi": "348" },
+        { "en": "351", "hi": "351" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Which language was included in the Eighth Schedule by the 71st Constitutional Amendment?",
+        "hi": "71वें संविधान संशोधन द्वारा किस भाषा को आठवीं अनुसूची में शामिल किया गया?"
+      },
+      "options": [
+        { "en": "Sindhi", "hi": "सिंधी" },
+        { "en": "Nepali", "hi": "नेपाली" },
+        { "en": "Bodo", "hi": "बोडो" },
+        { "en": "Maithili", "hi": "मैथिली" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which article is related to the development of the Hindi language?",
+        "hi": "हिंदी भाषा के विकास से संबंधित अनुच्छेद कौन-सा है?"
+      },
+      "options": [
+        { "en": "343", "hi": "343" },
+        { "en": "344", "hi": "344" },
+        { "en": "348", "hi": "348" },
+        { "en": "351", "hi": "351" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Officers who have acquired proficiency are ordered to do 100% of their work in which language?",
+        "hi": "प्रवीणता प्राप्त अधिकारियों को किस भाषा में 100% कार्य करने के आदेश हैं?"
+      },
+      "options": [
+        { "en": "English", "hi": "अंग्रेजी" },
+        { "en": "Hindi", "hi": "हिंदी" },
+        { "en": "Urdu", "hi": "उर्दू" },
+        { "en": "Sanskrit", "hi": "संस्कृत" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "How often is the ZOLIC meeting held?",
+        "hi": "ZOLIC की बैठक कितने समय में एक बार होती है?"
+      },
+      "options": [
+        { "en": "Every month", "hi": "प्रति माह" },
+        { "en": "Every two months", "hi": "दो माह" },
+        { "en": "Every three months", "hi": "तीन माह" },
+        { "en": "Every six months", "hi": "छह माह" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "How many languages are there in the Eighth Schedule?",
+        "hi": "आठवीं अनुसूची में कितनी भाषाएँ हैं?"
+      },
+      "options": [
+        { "en": "18", "hi": "18" },
+        { "en": "20", "hi": "20" },
+        { "en": "22", "hi": "22" },
+        { "en": "24", "hi": "24" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What is the Elementary Hindi Course called?",
+        "hi": "Elementary Hindi Course को क्या कहा जाता है?"
+      },
+      "options": [
+        { "en": "Pragya", "hi": "प्राज्ञ" },
+        { "en": "Prabodh", "hi": "प्रबोध" },
+        { "en": "Praveen", "hi": "प्रवीण" },
+        { "en": "Pragyaa", "hi": "प्रज्ञा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Who is the Chairman of ZOLIC?",
+        "hi": "ZOLIC का Chairman कौन होता है?"
+      },
+      "options": [
+        { "en": "DRM", "hi": "DRM" },
+        { "en": "AGM", "hi": "AGM" },
+        { "en": "GM", "hi": "GM" },
+        { "en": "CPO", "hi": "CPO" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "When was the Official Language Resolution passed?",
+        "hi": "Official Language Resolution कब पारित हुआ?"
+      },
+      "options": [
+        { "en": "1965", "hi": "1965" },
+        { "en": "1966", "hi": "1966" },
+        { "en": "1968", "hi": "1968" },
+        { "en": "1976", "hi": "1976" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "How often is the Hindi workshop organized?",
+        "hi": "हिंदी कार्यशाला कितनी बार आयोजित की जाती है?"
+      },
+      "options": [
+        { "en": "Once a month", "hi": "महीने में एक बार" },
+        { "en": "Once in a quarter", "hi": "तिमाही में एक बार" },
+        { "en": "Once a year", "hi": "वर्ष में एक बार" },
+        { "en": "Once in six months", "hi": "छह माह में एक बार" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Chandigarh comes under which region?",
+        "hi": "चंडीगढ़ किस क्षेत्र में आता है?"
+      },
+      "options": [
+        { "en": "A", "hi": "A" },
+        { "en": "B", "hi": "B" },
+        { "en": "C", "hi": "C" },
+        { "en": "D", "hi": "D" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Which article is related to the official language of the states?",
+        "hi": "राज्यों की राजभाषा से संबंधित अनुच्छेद कौन-सा है?"
+      },
+      "options": [
+        { "en": "343", "hi": "343" },
+        { "en": "344", "hi": "344" },
+        { "en": "345", "hi": "345" },
+        { "en": "351", "hi": "351" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "When was the Sindhi language added to the Eighth Schedule?",
+        "hi": "सिंधी भाषा आठवीं अनुसूची में कब जोड़ी गई?"
+      },
+      "options": [
+        { "en": "1965", "hi": "1965" },
+        { "en": "1967", "hi": "1967" },
+        { "en": "1968", "hi": "1968" },
+        { "en": "1971", "hi": "1971" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Which languages were added by the 92nd Constitutional Amendment (2003)?",
+        "hi": "92वें संविधान संशोधन (2003) द्वारा कौन-सी भाषाएँ जोड़ी गईं?"
+      },
+      "options": [
+        { "en": "Nepali, Sindhi, Konkani, Manipuri", "hi": "नेपाली, सिंधी, कोंकणी, मणिपुरी" },
+        { "en": "Bodo, Dogri, Santhali, Maithili", "hi": "बोडो, डोगरी, संथाली, मैथिली" },
+        { "en": "Kashmiri, Urdu, Punjabi, Nepali", "hi": "कश्मीरी, उर्दू, पंजाबी, नेपाली" },
+        { "en": "Sanskrit, Sindhi, Dogri, Maithili", "hi": "संस्कृत, सिंधी, डोगरी, मैथिली" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "In which part of the Constitution are the provisions relating to Official Language?",
+        "hi": "राजभाषा संबंधी प्रावधान संविधान के किस भाग में हैं?"
+      },
+      "options": [
+        { "en": "Part 4, 5, 6", "hi": "भाग 4,5,6" },
+        { "en": "Part 5, 6, 17", "hi": "भाग 5,6,17" },
+        { "en": "Part 14, 15, 16", "hi": "भाग 14,15,16" },
+        { "en": "Part 7, 8, 9", "hi": "भाग 7,8,9" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Article 344(1) is related to what?",
+        "hi": "अनुच्छेद 344(1) किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Official language of States", "hi": "राज्यों की राजभाषा" },
+        { "en": "Constitution of Official Language Commission", "hi": "राजभाषा आयोग का गठन" },
+        { "en": "Language of the Court", "hi": "न्यायालय की भाषा" },
+        { "en": "Hindi Training", "hi": "हिंदी प्रशिक्षण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Article 344(4) is related to what?",
+        "hi": "अनुच्छेद 344(4) किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Central Official Language Committee", "hi": "केंद्रीय राजभाषा समिति" },
+        { "en": "Committee of Parliament on Official Language", "hi": "संसदीय राजभाषा समिति" },
+        { "en": "Official Language Commission", "hi": "राजभाषा आयोग" },
+        { "en": "Hindi Training", "hi": "हिंदी प्रशिक्षण" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "How many members are there in the Committee of Parliament on Official Language?",
+        "hi": "संसदीय राजभाषा समिति में कुल कितने सदस्य होते हैं?"
+      },
+      "options": [
+        { "en": "20", "hi": "20" },
+        { "en": "25", "hi": "25" },
+        { "en": "30", "hi": "30" },
+        { "en": "35", "hi": "35" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "How often is the OLIC Meeting held in Indian Railways?",
+        "hi": "Indian Railways में OLIC Meeting कितने समय में एक बार होती है?"
+      },
+      "options": [
+        { "en": "Every month", "hi": "प्रति माह" },
+        { "en": "Every two months", "hi": "दो माह" },
+        { "en": "Every three months", "hi": "तीन माह" },
+        { "en": "Every six months", "hi": "छह माह" }
+      ],
+      "correct": 2
+    }
+  ]
+}

@@ -3,5 +3,6 @@
   { "id": "rajbhasha-test-2",  "file": "rajbhasha-test-2.json",  "paperName": "Rajbhasha Mock Test - 2"  },
   { "id": "rajbhasha-test-3",  "file": "rajbhasha-test-3.json",  "paperName": "Rajbhasha Mock Test - 3"  },
   { "id": "rajbhasha-test-4",  "file": "rajbhasha-test-4.json",  "paperName": "Rajbhasha Mock Test - 4"  },
-  { "id": "rajbhasha-test-5",  "file": "rajbhasha-test-5.json",  "paperName": "Rajbhasha Mock Test - 5"  }
+  { "id": "rajbhasha-test-5",  "file": "rajbhasha-test-5.json",  "paperName": "Rajbhasha Mock Test - 5"  },
+  { "id": "rajbhasha-test-6",  "file": "rajbhasha-test-6.json",  "paperName": "Rajbhasha Mock Test - 6"  }
 ]

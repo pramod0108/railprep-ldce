@@ -1,0 +1,579 @@
+{
+  "paperName": "LDCE Mechanical JE MCQs (Q41-Q81)",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What force is required to operate the Automatic Locking and Lifting Twist Lock (ATL)?",
+        "hi": "Automatic Locking and Lifting Twist Lock (ATL) को operate करने के लिए कितनी force आवश्यक है?"
+      },
+      "options": [
+        { "en": "400–800 kg", "hi": "400–800 kg" },
+        { "en": "500–900 kg", "hi": "500–900 kg" },
+        { "en": "600–1000 kg", "hi": "600–1000 kg" },
+        { "en": "700–1100 kg", "hi": "700–1100 kg" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "How much does the Control Rod Head move when the Control Rod of SAB is given one full rotation?",
+        "hi": "SAB की Control Rod को एक पूरा चक्कर घुमाने पर Control Rod Head कितना move करता है?"
+      },
+      "options": [
+        { "en": "1.0 mm", "hi": "1.0 mm" },
+        { "en": "1.5 mm", "hi": "1.5 mm" },
+        { "en": "2.0 mm", "hi": "2.0 mm" },
+        { "en": "2.5 mm", "hi": "2.5 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "What is the Diagonal Gauge for the Axle Guide of 13T and 16.25T Bogie?",
+        "hi": "13T एवं 16.25T Bogie के Axle Guide के लिए Diagonal Gauge कितना होता है?"
+      },
+      "options": [
+        { "en": "3600 ± 1.0 mm", "hi": "3600 ± 1.0 mm" },
+        { "en": "3610 ± 1.0 mm", "hi": "3610 ± 1.0 mm" },
+        { "en": "3612 ± 1.0 mm", "hi": "3612 ± 1.0 mm" },
+        { "en": "3620 ± 1.0 mm", "hi": "3620 ± 1.0 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "What is the allowed Restricted Speed in Vande Bharat if the Outer Coil Spring breaks?",
+        "hi": "Vande Bharat में Outer Coil Spring टूटने पर Restricted Speed कितनी अनुमत है?"
+      },
+      "options": [
+        { "en": "75 kmph", "hi": "75 kmph" },
+        { "en": "85 kmph", "hi": "85 kmph" },
+        { "en": "95 kmph", "hi": "95 kmph" },
+        { "en": "105 kmph", "hi": "105 kmph" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What is the Seating Capacity of DTG in a 16 Car Vande Bharat?",
+        "hi": "16 Car Vande Bharat में DTG की Seating Capacity कितनी है?"
+      },
+      "options": [
+        { "en": "40", "hi": "40" },
+        { "en": "42", "hi": "42" },
+        { "en": "44", "hi": "44" },
+        { "en": "48", "hi": "48" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "What is the maximum allowed rotation of the Automatic Twist Lock (ATL)?",
+        "hi": "Automatic Twist Lock (ATL) की Maximum Rotation कितनी अनुमत है?"
+      },
+      "options": [
+        { "en": "10°", "hi": "10°" },
+        { "en": "12°", "hi": "12°" },
+        { "en": "15°", "hi": "15°" },
+        { "en": "18°", "hi": "18°" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "What is the Maximum Tractive Effort of a Single Motor Coach of Vande Bharat?",
+        "hi": "Vande Bharat के Single Motor Coach का Maximum Tractive Effort कितना है?"
+      },
+      "options": [
+        { "en": "96 kN", "hi": "96 kN" },
+        { "en": "100 kN", "hi": "100 kN" },
+        { "en": "106 kN", "hi": "106 kN" },
+        { "en": "110 kN", "hi": "110 kN" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What is the Average Acceleration of Vande Bharat from 0–40 kmph?",
+        "hi": "Vande Bharat में 0–40 kmph तक की Average Acceleration कितनी है?"
+      },
+      "options": [
+        { "en": "0.6 m/s²", "hi": "0.6 m/s²" },
+        { "en": "0.7 m/s²", "hi": "0.7 m/s²" },
+        { "en": "0.8 m/s²", "hi": "0.8 m/s²" },
+        { "en": "0.9 m/s²", "hi": "0.9 m/s²" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "What is the Input Current of LTC in Vande Bharat?",
+        "hi": "Vande Bharat में LTC का Input Current कितना है?"
+      },
+      "options": [
+        { "en": "529 A", "hi": "529 A" },
+        { "en": "629 A", "hi": "629 A" },
+        { "en": "639 A", "hi": "639 A" },
+        { "en": "739 A", "hi": "739 A" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What is the Efficiency of the Traction Motor of Vande Bharat Train?",
+        "hi": "Vande Bharat Train के Traction Motor की Efficiency कितनी है?"
+      },
+      "options": [
+        { "en": "92.1%", "hi": "92.1%" },
+        { "en": "93.5%", "hi": "93.5%" },
+        { "en": "94.2%", "hi": "94.2%" },
+        { "en": "95.1%", "hi": "95.1%" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "In which Chapter is the provision of Hours of Work and Period of Rest given?",
+        "hi": "Hours of Work and Period of Rest का प्रावधान किस Chapter में है?"
+      },
+      "options": [
+        { "en": "XII", "hi": "XII" },
+        { "en": "XIII", "hi": "XIII" },
+        { "en": "XIV", "hi": "XIV" },
+        { "en": "XV", "hi": "XV" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What is the full form of ATL?",
+        "hi": "ATL का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Automatic Track Lock", "hi": "Automatic Track Lock" },
+        { "en": "Automatic Twist Lock", "hi": "Automatic Twist Lock" },
+        { "en": "Automatic Train Lock", "hi": "Automatic Train Lock" },
+        { "en": "Automatic Trailer Lock", "hi": "Automatic Trailer Lock" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "What is the Head Movement for one rotation of the SAB Control Rod?",
+        "hi": "SAB Control Rod के एक Rotation पर Head Movement कितना होता है?"
+      },
+      "options": [
+        { "en": "1 mm", "hi": "1 mm" },
+        { "en": "1.5 mm", "hi": "1.5 mm" },
+        { "en": "2 mm", "hi": "2 mm" },
+        { "en": "2.5 mm", "hi": "2.5 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What is the Restricted Speed of Vande Bharat?",
+        "hi": "Vande Bharat Restricted Speed कितनी है?"
+      },
+      "options": [
+        { "en": "80 kmph", "hi": "80 kmph" },
+        { "en": "90 kmph", "hi": "90 kmph" },
+        { "en": "95 kmph", "hi": "95 kmph" },
+        { "en": "100 kmph", "hi": "100 kmph" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "What is the Seating Capacity of a DTG Coach?",
+        "hi": "DTG Coach की Seating Capacity कितनी है?"
+      },
+      "options": [
+        { "en": "42", "hi": "42" },
+        { "en": "43", "hi": "43" },
+        { "en": "44", "hi": "44" },
+        { "en": "45", "hi": "45" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Maximum Rotation Allowed for ATL?",
+        "hi": "Maximum Rotation Allowed for ATL?"
+      },
+      "options": [
+        { "en": "10°", "hi": "10°" },
+        { "en": "12°", "hi": "12°" },
+        { "en": "15°", "hi": "15°" },
+        { "en": "20°", "hi": "20°" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Maximum Tractive Effort of a Single Motor Coach?",
+        "hi": "Single Motor Coach का Maximum Tractive Effort?"
+      },
+      "options": [
+        { "en": "100 kN", "hi": "100 kN" },
+        { "en": "104 kN", "hi": "104 kN" },
+        { "en": "106 kN", "hi": "106 kN" },
+        { "en": "108 kN", "hi": "108 kN" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Average Acceleration of VB Train?",
+        "hi": "Average Acceleration of VB Train?"
+      },
+      "options": [
+        { "en": "0.6", "hi": "0.6" },
+        { "en": "0.7", "hi": "0.7" },
+        { "en": "0.8", "hi": "0.8" },
+        { "en": "0.9", "hi": "0.9" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What is the Full Form of LTC?",
+        "hi": "LTC का Full Form क्या है?"
+      },
+      "options": [
+        { "en": "Line Traction Converter", "hi": "Line Traction Converter" },
+        { "en": "Load Traction Converter", "hi": "Load Traction Converter" },
+        { "en": "Line Train Controller", "hi": "Line Train Controller" },
+        { "en": "Load Train Converter", "hi": "Load Train Converter" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Vande Bharat Traction Motor Efficiency?",
+        "hi": "Vande Bharat Traction Motor Efficiency?"
+      },
+      "options": [
+        { "en": "93.1%", "hi": "93.1%" },
+        { "en": "94.1%", "hi": "94.1%" },
+        { "en": "95.1%", "hi": "95.1%" },
+        { "en": "96.1%", "hi": "96.1%" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "What should be the first action if a Hot Axle is found during Train Examination?",
+        "hi": "Train Examination के दौरान Hot Axle मिलने पर पहला कार्य क्या होना चाहिए?"
+      },
+      "options": [
+        { "en": "Continue running the Coach", "hi": "Coach आगे चलाना" },
+        { "en": "Inform Control/Section Engineer and Detach the Coach", "hi": "Inform Control/Section Engineer और Coach Detach करना" },
+        { "en": "Brake Release", "hi": "Brake Release" },
+        { "en": "Speed Restriction", "hi": "Speed Restriction" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "How many Yaw Dampers are there in an LHB Coach?",
+        "hi": "LHB Coach में Yaw Damper की संख्या कितनी होती है?"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "3", "hi": "3" },
+        { "en": "4", "hi": "4" },
+        { "en": "6", "hi": "6" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What is the full name of RDSO?",
+        "hi": "RDSO का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Railway Design and Standard Organisation", "hi": "Railway Design and Standard Organisation" },
+        { "en": "Research Design and Standards Organisation", "hi": "Research Design and Standards Organisation" },
+        { "en": "Railway Development and Standards Organisation", "hi": "Railway Development and Standards Organisation" },
+        { "en": "Research Development and Standard Office", "hi": "Research Development and Standard Office" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What is the full name of TPWS?",
+        "hi": "TPWS का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Train Protection and Warning System", "hi": "Train Protection and Warning System" },
+        { "en": "Train Protection and Working System", "hi": "Train Protection and Working System" },
+        { "en": "Track Protection and Warning System", "hi": "Track Protection and Warning System" },
+        { "en": "Train Protection Warning Service", "hi": "Train Protection Warning Service" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "What is 'A Dimension' in SAB?",
+        "hi": "SAB में A Dimension क्या है?"
+      },
+      "options": [
+        { "en": "Wheel and Brake Block", "hi": "Wheel और Brake Block" },
+        { "en": "Control Rod Head and SAB Barrel", "hi": "Control Rod Head और SAB Barrel" },
+        { "en": "Axle Box and Wheel", "hi": "Axle Box और Wheel" },
+        { "en": "Disc and Pad", "hi": "Disc और Pad" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "What should be the OH when connecting a Camping Coach with a Track Machine?",
+        "hi": "Camping Coach को Track Machine के साथ जोड़ने पर OH कितना होना चाहिए?"
+      },
+      "options": [
+        { "en": "20 mm", "hi": "20 mm" },
+        { "en": "22 mm", "hi": "22 mm" },
+        { "en": "24 mm", "hi": "24 mm" },
+        { "en": "25 mm", "hi": "25 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "What is the Gap between ATL Base Plate and Sole Bar?",
+        "hi": "ATL Base Plate और Sole Bar के बीच Gap कितना होता है?"
+      },
+      "options": [
+        { "en": "15 mm", "hi": "15 mm" },
+        { "en": "17 mm", "hi": "17 mm" },
+        { "en": "19 mm", "hi": "19 mm" },
+        { "en": "21 mm", "hi": "21 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "What is the Pay Load of WGS2AC?",
+        "hi": "WGS2AC का Pay Load कितना है?"
+      },
+      "options": [
+        { "en": "5.480 t", "hi": "5.480 t" },
+        { "en": "5.580 t", "hi": "5.580 t" },
+        { "en": "5.680 t", "hi": "5.680 t" },
+        { "en": "5.780 t", "hi": "5.780 t" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "How much is Coach Clearance A?",
+        "hi": "Coach Clearance A कितना होता है?"
+      },
+      "options": [
+        { "en": "40", "hi": "40" },
+        { "en": "41", "hi": "41" },
+        { "en": "42", "hi": "42" },
+        { "en": "43", "hi": "43" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Permissible limit of Wheel Diameter Difference on the Same Axle?",
+        "hi": "Same Axle पर Wheel Diameter Difference की अनुमत सीमा?"
+      },
+      "options": [
+        { "en": "0.3 mm", "hi": "0.3 mm" },
+        { "en": "0.4 mm", "hi": "0.4 mm" },
+        { "en": "0.5 mm", "hi": "0.5 mm" },
+        { "en": "0.6 mm", "hi": "0.6 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "What is the angle of BSS Hanger Suspension?",
+        "hi": "BSS Hanger Suspension का Angle कितना होता है?"
+      },
+      "options": [
+        { "en": "5°", "hi": "5°" },
+        { "en": "6°", "hi": "6°" },
+        { "en": "7°", "hi": "7°" },
+        { "en": "8°", "hi": "8°" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "Lateral Movement of Bolster in an ICF Bogie is controlled by?",
+        "hi": "ICF Bogie में Bolster की Lateral Movement किसके द्वारा नियंत्रित होती है?"
+      },
+      "options": [
+        { "en": "Anchor Link", "hi": "Anchor Link" },
+        { "en": "Equalising Stay", "hi": "Equalising Stay" },
+        { "en": "Side Bearer", "hi": "Side Bearer" },
+        { "en": "Spring Plank", "hi": "Spring Plank" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "Longitudinal Movement of Bolster in an ICF Bogie is controlled by?",
+        "hi": "ICF Bogie में Bolster की Longitudinal Movement किसके द्वारा नियंत्रित होती है?"
+      },
+      "options": [
+        { "en": "Equalising Stay", "hi": "Equalising Stay" },
+        { "en": "Side Bearer", "hi": "Side Bearer" },
+        { "en": "Anchor Link", "hi": "Anchor Link" },
+        { "en": "Spring Plank", "hi": "Spring Plank" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "ABC Analysis is related to?",
+        "hi": "ABC Analysis किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Wheel Profiling", "hi": "Wheel Profiling" },
+        { "en": "Procurement of Stock Item", "hi": "Procurement of Stock Item" },
+        { "en": "Brake Testing", "hi": "Brake Testing" },
+        { "en": "Bogie Inspection", "hi": "Bogie Inspection" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "What is done with the Coach after Hot Axle Detection?",
+        "hi": "Hot Axle Detection के बाद Coach के साथ क्या किया जाता है?"
+      },
+      "options": [
+        { "en": "Continue Journey", "hi": "Continue Journey" },
+        { "en": "Speed Restriction", "hi": "Speed Restriction" },
+        { "en": "Detach the Coach", "hi": "Detach the Coach" },
+        { "en": "Brake Isolation", "hi": "Brake Isolation" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "How many total Yaw Dampers are there in an LHB Coach?",
+        "hi": "LHB Coach में कुल Yaw Dampers कितने होते हैं?"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "4", "hi": "4" },
+        { "en": "6", "hi": "6" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "What is TPWS related to?",
+        "hi": "TPWS किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Signalling Safety System", "hi": "Signalling Safety System" },
+        { "en": "Coach Suspension", "hi": "Coach Suspension" },
+        { "en": "Air Brake System", "hi": "Air Brake System" },
+        { "en": "Wheel Monitoring", "hi": "Wheel Monitoring" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "What is the function of Equalising Stay?",
+        "hi": "Equalising Stay का कार्य क्या है?"
+      },
+      "options": [
+        { "en": "Longitudinal", "hi": "Longitudinal" },
+        { "en": "Lateral", "hi": "Lateral" },
+        { "en": "Vertical", "hi": "Vertical" },
+        { "en": "Brake Adjustment", "hi": "Brake Adjustment" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "What is the function of Anchor Link?",
+        "hi": "Anchor Link का कार्य क्या है?"
+      },
+      "options": [
+        { "en": "Lateral", "hi": "Lateral" },
+        { "en": "Vertical", "hi": "Vertical" },
+        { "en": "Longitudinal", "hi": "Longitudinal" },
+        { "en": "Brake Force", "hi": "Brake Force" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "What is the main objective of ABC Analysis?",
+        "hi": "ABC Analysis का मुख्य उद्देश्य क्या है?"
+      },
+      "options": [
+        { "en": "Bogie Maintenance", "hi": "Bogie Maintenance" },
+        { "en": "To Regulate Procurement of Stock Items", "hi": "Procurement of Stock Items को Regulate करना" },
+        { "en": "Wheel Turning", "hi": "Wheel Turning" },
+        { "en": "Brake Testing", "hi": "Brake Testing" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "question": {
+        "en": "What is the Required Voltage for Dump Valve Operation?",
+        "hi": "Dump Valve Operation के लिए Required Voltage कितना है?"
+      },
+      "options": [
+        { "en": "12V DC", "hi": "12V DC" },
+        { "en": "18V DC", "hi": "18V DC" },
+        { "en": "24V DC", "hi": "24V DC" },
+        { "en": "48V DC", "hi": "48V DC" }
+      ],
+      "correct": 2
+    }
+  ]
+}
