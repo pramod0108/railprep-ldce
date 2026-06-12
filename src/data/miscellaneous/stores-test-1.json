@@ -1,0 +1,425 @@
+{
+  "paperName": "Stores Test-1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "In Railways, the Stores Department is primarily concerned with:",
+        "hi": "रेलवे में, स्टोर विभाग मुख्य रूप से किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Purchasing for resale", "hi": "पुनर्विक्रय के लिए खरीदारी" },
+        { "en": "Purchasing for manufacturing and consumption", "hi": "विनिर्माण और खपत के लिए खरीदारी" },
+        { "en": "Export of goods", "hi": "माल का निर्यात" },
+        { "en": "Trading activities", "hi": "व्यापारिक गतिविधियाँ" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Which of the following is a primary function of the Materials Management Department?",
+        "hi": "सामग्री प्रबंधन विभाग का प्राथमिक कार्य निम्नलिखित में से कौन सा है?"
+      },
+      "options": [
+        { "en": "Advertising", "hi": "विज्ञापन" },
+        { "en": "Planning", "hi": "योजना (Planning)" },
+        { "en": "Legal management", "hi": "कानूनी प्रबंधन" },
+        { "en": "Taxation", "hi": "कराधान" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "The main objective of inventory control is:",
+        "hi": "इन्वेंटरी नियंत्रण का मुख्य उद्देश्य है:"
+      },
+      "options": [
+        { "en": "To maximize storage", "hi": "भंडारण को अधिकतम करना" },
+        { "en": "To minimize total costs related to materials", "hi": "सामग्री से संबंधित कुल लागत को कम करना" },
+        { "en": "To increase imports", "hi": "आयात बढ़ाना" },
+        { "en": "To reduce manpower", "hi": "जनशक्ति को कम करना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which of the following items are maintained in stock for day-to-day use in workshops?",
+        "hi": "कार्यशालाओं में दिन-प्रतिदिन के उपयोग के लिए स्टॉक में निम्नलिखित में से कौन सी वस्तुएं रखी जाती हैं?"
+      },
+      "options": [
+        { "en": "Custody stores", "hi": "कस्टडी स्टोर (Custody stores)" },
+        { "en": "Imprest stores", "hi": "इम्प्रेस्ट स्टोर (Imprest stores)" },
+        { "en": "Surplus stores", "hi": "सरप्लस स्टोर (Surplus stores)" },
+        { "en": "Special stores", "hi": "स्पेशल स्टोर (Special stores)" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Stores which are purchased for special works and left in custody of stores department are called:",
+        "hi": "विशेष कार्यों के लिए खरीदे गए और स्टोर विभाग की कस्टडी में रखे गए स्टोर को क्या कहा जाता है?"
+      },
+      "options": [
+        { "en": "Special stores", "hi": "स्पेशल स्टोर" },
+        { "en": "Custody stores", "hi": "कस्टडी स्टोर" },
+        { "en": "Surplus stores", "hi": "सरप्लस स्टोर" },
+        { "en": "Emergency stores", "hi": "इमरजेंसी स्टोर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Items that have not been issued for the last 24 months are classified as:",
+        "hi": "पिछले 24 महीनों से जारी नहीं की गई वस्तुओं को किस रूप में वर्गीकृत किया गया है?"
+      },
+      "options": [
+        { "en": "Inactive stores", "hi": "निष्क्रिय स्टोर (Inactive stores)" },
+        { "en": "Emergency stores", "hi": "इमरजेंसी स्टोर" },
+        { "en": "Surplus stores", "hi": "सरप्लस स्टोर" },
+        { "en": "Imprest stores", "hi": "इम्प्रेस्ट स्टोर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "\"Dead surplus\" items are those which:",
+        "hi": "\"डेड सरप्लस\" (Dead surplus) आइटम वे हैं जो:"
+      },
+      "options": [
+        { "en": "Have no issues for 12 months", "hi": "12 महीने तक जारी नहीं हुए हैं" },
+        { "en": "Will not be used in next 24 months", "hi": "अगले 24 महीनों में उपयोग नहीं किए जाएंगे" },
+        { "en": "Are always in demand", "hi": "हमेशा मांग में रहते हैं" },
+        { "en": "Are stocked for emergencies", "hi": "आपात स्थिति के लिए स्टॉक किए जाते हैं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "In nomenclature lists, items are arranged based on:",
+        "hi": "नामकरण सूचियों (nomenclature lists) में, वस्तुओं को किस आधार पर व्यवस्थित किया जाता है?"
+      },
+      "options": [
+        { "en": "Brand name", "hi": "ब्रांड का नाम" },
+        { "en": "Alphabetical order", "hi": "वर्णमाला के क्रम में (Alphabetical order)" },
+        { "en": "Country of origin", "hi": "मूल देश" },
+        { "en": "Vendor's choice", "hi": "विक्रेता की पसंद" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "The PL (Price List) number system in Indian Railways uses how many digits?",
+        "hi": "भारतीय रेलवे में पीएल (PL - Price List) नंबर प्रणाली कितने अंकों का उपयोग करती है?"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "6", "hi": "6" },
+        { "en": "8", "hi": "8" },
+        { "en": "10", "hi": "10" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "The last digit in the PL number is used as:",
+        "hi": "पीएल नंबर में अंतिम अंक का उपयोग किस रूप में किया जाता है?"
+      },
+      "options": [
+        { "en": "Vendor code", "hi": "वेंडर कोड" },
+        { "en": "Check digit", "hi": "चेक डिजिट (Check digit)" },
+        { "en": "Depot code", "hi": "डिपो कोड" },
+        { "en": "Quantity code", "hi": "मात्रा कोड" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "The form used for recoupment of imprest stores is:",
+        "hi": "इम्प्रेस्ट स्टोर (imprest stores) की भरपाई के लिए किस फॉर्म का उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "S-1313", "hi": "S-1313" },
+        { "en": "S-1830", "hi": "S-1830" },
+        { "en": "S-1302", "hi": "S-1302" },
+        { "en": "S-1539", "hi": "S-1539" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Requisition and issue note is prepared in how many foils?",
+        "hi": "मांग और निर्गम नोट (Requisition and issue note) कितनी प्रतियों (foils) में तैयार किया जाता है?"
+      },
+      "options": [
+        { "en": "2", "hi": "2" },
+        { "en": "4", "hi": "4" },
+        { "en": "5", "hi": "5" },
+        { "en": "6", "hi": "6" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Buffer stock is maintained to cover:",
+        "hi": "बफर स्टॉक (Buffer stock) किस लिए बनाए रखा जाता है?"
+      },
+      "options": [
+        { "en": "Increased profit margin", "hi": "बढ़े हुए लाभ मार्जिन" },
+        { "en": "Fluctuations in lead time and consumption", "hi": "लीड समय और खपत में उतार-चढ़ाव" },
+        { "en": "Reducing storage costs", "hi": "भंडारण लागत को कम करने के लिए" },
+        { "en": "Increase in surplus stores", "hi": "सरप्लस स्टोर में वृद्धि" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Global tenders usually involve:",
+        "hi": "ग्लोबल टेंडर में आमतौर पर शामिल होते हैं:"
+      },
+      "options": [
+        { "en": "Domestic suppliers only", "hi": "केवल घरेलू आपूर्तिकर्ता" },
+        { "en": "Small value items", "hi": "कम मूल्य की वस्तुएं" },
+        { "en": "Worldwide suppliers and foreign exchange", "hi": "दुनिया भर के आपूर्तिकर्ता और विदेशी मुद्रा" },
+        { "en": "Scrap items only", "hi": "केवल स्क्रैप आइटम" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Rate contracts are useful because:",
+        "hi": "रेट कॉन्ट्रैक्ट (Rate contracts) उपयोगी होते हैं क्योंकि:"
+      },
+      "options": [
+        { "en": "Quantity and consignee are fixed", "hi": "मात्रा और कंसाइनी तय होते हैं" },
+        { "en": "Price and conditions are fixed, but quantity is not", "hi": "कीमत और शर्तें तय हैं, लेकिन मात्रा नहीं" },
+        { "en": "They apply only to imports", "hi": "वे केवल आयात पर लागू होते हैं" },
+        { "en": "They cannot be modified", "hi": "उन्हें संशोधित नहीं किया जा सकता" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "In tender committees, members generally include:",
+        "hi": "टेंडर समितियों में, सदस्यों में आम तौर पर शामिल होते हैं:"
+      },
+      "options": [
+        { "en": "Stores, Accounts, and Consuming department representatives", "hi": "स्टोर, लेखा और खपत विभाग के प्रतिनिधि" },
+        { "en": "Stores only", "hi": "केवल स्टोर" },
+        { "en": "Accounts only", "hi": "केवल लेखा" },
+        { "en": "Finance ministry officials only", "hi": "केवल वित्त मंत्रालय के अधिकारी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Items that have no issues for the last 12 months but still exist in stock are called:",
+        "hi": "वे वस्तुएं जिनका पिछले 12 महीनों से कोई निर्गम (issue) नहीं हुआ है लेकिन फिर भी स्टॉक में मौजूद हैं, कहलाती हैं:"
+      },
+      "options": [
+        { "en": "Inactive stores", "hi": "निष्क्रिय स्टोर (Inactive stores)" },
+        { "en": "Surplus stores", "hi": "सरप्लस स्टोर" },
+        { "en": "Special stores", "hi": "स्पेशल स्टोर" },
+        { "en": "Custody stores", "hi": "कस्टडी स्टोर" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Returned stores are accompanied by which form?",
+        "hi": "लौटाई गई सामग्री (Returned stores) के साथ कौन सा फॉर्म होता है?"
+      },
+      "options": [
+        { "en": "S-1830", "hi": "S-1830" },
+        { "en": "S-1539", "hi": "S-1539" },
+        { "en": "S-1313", "hi": "S-1313" },
+        { "en": "S-1622", "hi": "S-1622" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "\"A\" category items in ABC analysis represent about:",
+        "hi": "एबीसी विश्लेषण में \"A\" श्रेणी के आइटम कुल वार्षिक उपयोग मूल्य का लगभग कितना प्रतिनिधित्व करते हैं?"
+      },
+      "options": [
+        { "en": "70% of total annual usage value", "hi": "कुल वार्षिक उपयोग मूल्य का 70%" },
+        { "en": "20% of annual usage value", "hi": "वार्षिक उपयोग मूल्य का 20%" },
+        { "en": "10% of annual usage value", "hi": "वार्षिक उपयोग मूल्य का 10%" },
+        { "en": "5% of annual usage value", "hi": "वार्षिक उपयोग मूल्य का 5%" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "VED classification is based on:",
+        "hi": "VED वर्गीकरण किस पर आधारित है?"
+      },
+      "options": [
+        { "en": "Consumption rate", "hi": "खपत दर" },
+        { "en": "Item's criticality", "hi": "आइटम की गंभीरता (Criticality)" },
+        { "en": "Unit cost", "hi": "इकाई लागत" },
+        { "en": "Method of procurement", "hi": "खरीद की विधि" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Compliance percentage target in Stores Department is usually between:",
+        "hi": "स्टोर विभाग में अनुपालन प्रतिशत लक्ष्य (Compliance percentage target) आमतौर पर किसके बीच होता है?"
+      },
+      "options": [
+        { "en": "50-60%", "hi": "50-60%" },
+        { "en": "70-80%", "hi": "70-80%" },
+        { "en": "95-98%", "hi": "95-98%" },
+        { "en": "99-100%", "hi": "99-100%" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Scrap disposal methods include all EXCEPT:",
+        "hi": "स्क्रैप निपटान विधियों में निम्नलिखित को छोड़कर सभी शामिल हैं:"
+      },
+      "options": [
+        { "en": "Auction", "hi": "नीलामी (Auction)" },
+        { "en": "Tender sales", "hi": "निविदा बिक्री (Tender sales)" },
+        { "en": "Direct sales", "hi": "सीधी बिक्री (Direct sales)" },
+        { "en": "Requisition forms", "hi": "मांग प्रपत्र (Requisition forms)" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "A Survey Committee in scrap disposal generally consists of:",
+        "hi": "स्क्रैप निपटान में सर्वेक्षण समिति (Survey Committee) में आमतौर पर कौन शामिल होते हैं?"
+      },
+      "options": [
+        { "en": "Only depot clerks", "hi": "केवल डिपो क्लर्क" },
+        { "en": "Stores and technical officers", "hi": "स्टोर और तकनीकी अधिकारी" },
+        { "en": "Accounts officers only", "hi": "केवल लेखा अधिकारी" },
+        { "en": "Railway Board members only", "hi": "केवल रेलवे बोर्ड के सदस्य" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "The lot register in scrap disposal contains:",
+        "hi": "स्क्रैप निपटान में लॉट रजिस्टर (lot register) में शामिल है:"
+      },
+      "options": [
+        { "en": "Employee attendance", "hi": "कर्मचारी उपस्थिति" },
+        { "en": "Scrap lot details and past auction rates", "hi": "स्क्रैप लॉट विवरण और पिछली नीलामी दरें" },
+        { "en": "Consignee codes", "hi": "कंसाइनी कोड" },
+        { "en": "Purchase orders", "hi": "खरीद आदेश (Purchase orders)" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "Which agency handles pre-dispatch inspection of materials?",
+        "hi": "कौन सी एजेंसी सामग्री के प्रेषण-पूर्व निरीक्षण (pre-dispatch inspection) को संभालती है?"
+      },
+      "options": [
+        { "en": "COS office only", "hi": "केवल COS कार्यालय" },
+        { "en": "RITES / RDSO / DOI", "hi": "RITES / RDSO / DOI" },
+        { "en": "Accounts department", "hi": "लेखा विभाग" },
+        { "en": "DGS&D only", "hi": "केवल DGS&D" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "The unit code \"15\" in nomenclature list represents:",
+        "hi": "नामकरण सूची में यूनिट कोड \"15\" क्या दर्शाता है?"
+      },
+      "options": [
+        { "en": "Number", "hi": "संख्या" },
+        { "en": "Metric Tonne", "hi": "मीट्रिक टन" },
+        { "en": "Kilogram", "hi": "किलोग्राम" },
+        { "en": "Quintal", "hi": "क्विंटल" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "In which year did Railways dispose scrap worth Rs. 4000 crores?",
+        "hi": "रेलवे ने किस वर्ष 4000 करोड़ रुपये के स्क्रैप का निपटान किया?"
+      },
+      "options": [
+        { "en": "2008-09", "hi": "2008-09" },
+        { "en": "2011-12", "hi": "2011-12" },
+        { "en": "2015-16", "hi": "2015-16" },
+        { "en": "2018-19", "hi": "2018-19" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "The main tool used for identifying stock items uniquely in Railways is:",
+        "hi": "रेलवे में स्टॉक आइटम को विशिष्ट रूप से पहचानने के लिए उपयोग किया जाने वाला मुख्य उपकरण है:"
+      },
+      "options": [
+        { "en": "Depot code", "hi": "डिपो कोड" },
+        { "en": "PL number", "hi": "पीएल नंबर (PL number)" },
+        { "en": "Tender number", "hi": "टेंडर नंबर" },
+        { "en": "Invoice number", "hi": "चालान नंबर (Invoice number)" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "PL No. of an item is 98-05-0400. This item may be an item of-",
+        "hi": "एक आइटम का PL No. 98-05-0400 है। यह आइटम किसका हो सकता है?"
+      },
+      "options": [
+        { "en": "Uniforms", "hi": "Uniforms" },
+        { "en": "Stationery", "hi": "Stationery" },
+        { "en": "Steam Locomotive", "hi": "Steam Locomotive" },
+        { "en": "Scrap", "hi": "Scrap" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "PL No. of an item is 11360010. This item may be an item of-",
+        "hi": "एक आइटम का PL No. 11360010 है। यह आइटम किसका हो सकता है?"
+      },
+      "options": [
+        { "en": "Stationery", "hi": "Stationery" },
+        { "en": "Steam Locomotive", "hi": "Steam Locomotive" },
+        { "en": "Electrical item", "hi": "Electrical item" },
+        { "en": "Diesel Locomotive", "hi": "Diesel Locomotive" }
+      ],
+      "correct": 3
+    }
+  ]
+}

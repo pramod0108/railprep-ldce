@@ -1,0 +1,299 @@
+{
+  "paperName": "Factories Act",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "In which year was the Factories Act enacted?",
+        "hi": "फैक्ट्रीज एक्ट (Factories Act) किस वर्ष अधिनियमित किया गया था?"
+      },
+      "options": [
+        { "en": "1947", "hi": "1947" },
+        { "en": "1948", "hi": "1948" },
+        { "en": "1950", "hi": "1950" },
+        { "en": "1952", "hi": "1952" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "The Factories Act, 1948 extends to the whole of:",
+        "hi": "फैक्ट्रीज एक्ट, 1948 का विस्तार है:"
+      },
+      "options": [
+        { "en": "Delhi", "hi": "दिल्ली" },
+        { "en": "All Indian States", "hi": "सम्पूर्ण भारत के राज्य" },
+        { "en": "Only Union Territories", "hi": "केवल केंद्र शासित प्रदेश" },
+        { "en": "Jammu & Kashmir only", "hi": "केवल जम्मू और कश्मीर" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "The Factories Act primarily deals with:",
+        "hi": "फैक्ट्रीज एक्ट मुख्य रूप से किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Labour welfare", "hi": "श्रम कल्याण" },
+        { "en": "Tax collection", "hi": "कर संग्रह" },
+        { "en": "Factory design", "hi": "कारखाने का डिज़ाइन" },
+        { "en": "Import-Export policy", "hi": "आयात-निर्यात नीति" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "A 'factory' under the Act means premises where ___ or more workers are employed with power.",
+        "hi": "अधिनियम के तहत 'कारखाना' का अर्थ है वह परिसर जहाँ बिजली के साथ ___ या अधिक कर्मचारी कार्यरत हैं।"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "10", "hi": "10" },
+        { "en": "15", "hi": "15" },
+        { "en": "20", "hi": "20" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "A 'factory' under the Act means premises where ___ or more workers are employed without power.",
+        "hi": "अधिनियम के तहत 'कारखाना' का अर्थ है वह परिसर जहाँ बिना बिजली के ___ या अधिक कर्मचारी कार्यरत हैं।"
+      },
+      "options": [
+        { "en": "10", "hi": "10" },
+        { "en": "15", "hi": "15" },
+        { "en": "20", "hi": "20" },
+        { "en": "25", "hi": "25" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "The Act defines a 'worker' as a person employed:",
+        "hi": "अधिनियम 'कर्मचारी' (worker) को एक ऐसे व्यक्ति के रूप में परिभाषित करता है जो कार्यरत है:"
+      },
+      "options": [
+        { "en": "Directly or indirectly in manufacturing process", "hi": "निर्माण प्रक्रिया में प्रत्यक्ष या अप्रत्यक्ष रूप से" },
+        { "en": "Only in management", "hi": "केवल प्रबंधन में" },
+        { "en": "Only in cleaning premises", "hi": "केवल परिसर की सफाई में" },
+        { "en": "Only part-time", "hi": "केवल अंशकालिक (part-time)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "The Factories Act, 1948 came into force on:",
+        "hi": "फैक्ट्रीज एक्ट, 1948 कब लागू हुआ?"
+      },
+      "options": [
+        { "en": "1st January 1949", "hi": "1 जनवरी 1949" },
+        { "en": "1st April 1948", "hi": "1 अप्रैल 1948" },
+        { "en": "23rd September 1948", "hi": "23 सितंबर 1948" },
+        { "en": "1st December 1948", "hi": "1 दिसंबर 1948" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "The main objective of the Act is:",
+        "hi": "अधिनियम का मुख्य उद्देश्य क्या है?"
+      },
+      "options": [
+        { "en": "Safety, Health and Welfare of workers", "hi": "श्रमिकों की सुरक्षा, स्वास्थ्य और कल्याण" },
+        { "en": "Production increase", "hi": "उत्पादन में वृद्धि" },
+        { "en": "Tax reduction", "hi": "कर में कमी" },
+        { "en": "Export promotion", "hi": "निर्यात को बढ़ावा देना" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Under the Act, who is responsible for the health of workers?",
+        "hi": "अधिनियम के तहत, श्रमिकों के स्वास्थ्य के लिए कौन जिम्मेदार है?"
+      },
+      "options": [
+        { "en": "Workers themselves", "hi": "स्वयं श्रमिक" },
+        { "en": "Factory Manager", "hi": "फैक्ट्री मैनेजर" },
+        { "en": "Occupier of the Factory", "hi": "कारखाने का अधिष्ठाता (Occupier)" },
+        { "en": "Contractor", "hi": "ठेकेदार" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Drinking water is to be provided at a distance of not more than:",
+        "hi": "पीने का पानी अधिक से अधिक कितनी दूरी पर उपलब्ध कराया जाना चाहिए?"
+      },
+      "options": [
+        { "en": "10 metres", "hi": "10 मीटर" },
+        { "en": "15 metres", "hi": "15 मीटर" },
+        { "en": "20 metres", "hi": "20 मीटर" },
+        { "en": "50 metres", "hi": "50 मीटर" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Adult workers are allowed to work for maximum hours per week:",
+        "hi": "वयस्क श्रमिकों को प्रति सप्ताह अधिकतम कितने घंटे काम करने की अनुमति है?"
+      },
+      "options": [
+        { "en": "35", "hi": "35" },
+        { "en": "40", "hi": "40" },
+        { "en": "44", "hi": "44" },
+        { "en": "48", "hi": "48" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "A child below ___ years is prohibited from working in factories.",
+        "hi": "___ वर्ष से कम आयु के बच्चे को कारखानों में काम करने की मनाही है।"
+      },
+      "options": [
+        { "en": "12", "hi": "12" },
+        { "en": "14", "hi": "14" },
+        { "en": "16", "hi": "16" },
+        { "en": "18", "hi": "18" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "The term 'Occupier' refers to:",
+        "hi": "'Occupier' (अधिष्ठाता) शब्द का तात्पर्य है:"
+      },
+      "options": [
+        { "en": "Owner of the factory", "hi": "कारखाने का मालिक" },
+        { "en": "Inspector", "hi": "निरीक्षक" },
+        { "en": "Contractor", "hi": "ठेकेदार" },
+        { "en": "Worker", "hi": "कर्मचारी" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "The maximum daily hours for adult workers is:",
+        "hi": "वयस्क श्रमिकों के लिए अधिकतम दैनिक घंटे हैं:"
+      },
+      "options": [
+        { "en": "8", "hi": "8" },
+        { "en": "9", "hi": "9" },
+        { "en": "10", "hi": "10" },
+        { "en": "12", "hi": "12" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Overtime wages are to be paid at:",
+        "hi": "ओवरटाइम मजदूरी का भुगतान किस दर पर किया जाना है?"
+      },
+      "options": [
+        { "en": "Single rate", "hi": "सामान्य दर" },
+        { "en": "Double the ordinary rate", "hi": "सामान्य दर से दोगुना" },
+        { "en": "Triple the ordinary rate", "hi": "सामान्य दर से तीन गुना" },
+        { "en": "None of the above", "hi": "उपरोक्त में से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "The Act mandates that canteens should be provided in factories employing more than:",
+        "hi": "अधिनियम यह अनिवार्य करता है कि कैंटीन उन कारखानों में प्रदान की जानी चाहिए जहाँ ___ से अधिक कर्मचारी कार्यरत हैं:"
+      },
+      "options": [
+        { "en": "100 workers", "hi": "100 कर्मचारी" },
+        { "en": "200 workers", "hi": "200 कर्मचारी" },
+        { "en": "250 workers", "hi": "250 कर्मचारी" },
+        { "en": "300 workers", "hi": "300 कर्मचारी" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Welfare officers are required in factories with more than:",
+        "hi": "___ से अधिक कर्मचारियों वाले कारखानों में कल्याण अधिकारियों (Welfare officers) की आवश्यकता होती है:"
+      },
+      "options": [
+        { "en": "300 workers", "hi": "300 कर्मचारी" },
+        { "en": "400 workers", "hi": "400 कर्मचारी" },
+        { "en": "500 workers", "hi": "500 कर्मचारी" },
+        { "en": "600 workers", "hi": "600 कर्मचारी" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Adult workers are entitled to rest intervals of at least:",
+        "hi": "वयस्क श्रमिक कम से कम कितने विश्राम अंतराल (rest intervals) के हकदार हैं?"
+      },
+      "options": [
+        { "en": "15 minutes", "hi": "15 मिनट" },
+        { "en": "30 minutes", "hi": "30 मिनट" },
+        { "en": "45 minutes", "hi": "45 मिनट" },
+        { "en": "1 hour", "hi": "1 घंटा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "For over-time calculation, working hours beyond ___ per week are considered.",
+        "hi": "ओवरटाइम की गणना के लिए, प्रति सप्ताह ___ से अधिक काम के घंटों पर विचार किया जाता है।"
+      },
+      "options": [
+        { "en": "40", "hi": "40" },
+        { "en": "44", "hi": "44" },
+        { "en": "48", "hi": "48" },
+        { "en": "50", "hi": "50" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Which of the following is NOT true about the Factories Act?",
+        "hi": "फैक्ट्रीज एक्ट के बारे में निम्नलिखित में से कौन-सा सत्य नहीं है?"
+      },
+      "options": [
+        { "en": "It governs working conditions", "hi": "यह काम करने की स्थिति को नियंत्रित करता है" },
+        { "en": "It imposes tax on factories", "hi": "यह कारखानों पर कर (tax) लगाता है" },
+        { "en": "It ensures worker safety", "hi": "यह श्रमिकों की सुरक्षा सुनिश्चित करता है" },
+        { "en": "It regulates hours of work", "hi": "यह काम के घंटों को नियंत्रित करता है" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Who has the power to appoint the Chief Inspector of Factories?",
+        "hi": "मुख्य कारखाना निरीक्षक (Chief Inspector of Factories) को नियुक्त करने की शक्ति किसके पास है?"
+      },
+      "options": [
+        { "en": "President", "hi": "राष्ट्रपति" },
+        { "en": "State Government", "hi": "राज्य सरकार" },
+        { "en": "Central Government", "hi": "केंद्र सरकार" },
+        { "en": "Labour Union", "hi": "मजदूर संघ (Labour Union)" }
+      ],
+      "correct": 1
+    }
+  ]
+}

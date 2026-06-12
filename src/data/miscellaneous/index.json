@@ -3,5 +3,9 @@
   { "id": "disaster-management-test-2", "file": "disaster-management-test-2.json", "paperName": "Disaster Management Mock Test – Set 2" },
   { "id": "practice-Test-1", "file": "practice-Test-1.json", "paperName": "Practice Test-1" },
   { "id": "practice-Test-2", "file": "practice-Test-2.json", "paperName": "Practice Test-2" },
-  { "id": "practice-Test-3", "file": "practice-Test-3.json", "paperName": "Practice Test-3" }
+  { "id": "practice-Test-3", "file": "practice-Test-3.json", "paperName": "Practice Test-3" },
+  { "id": "general-service-rule", "file": "general-service-rule.json", "paperName": "General Service Rule" },
+  { "id": "factories-act", "file": "factories-act.json", "paperName": "Factories Act" },
+  { "id": "stores-test-1", "file": "stores-test-1.json", "paperName": "Stores Test-1" },
+  { "id": "stores-test-2", "file": "stores-test-2.json", "paperName": "Stores Test-2" }
 ]

@@ -1,0 +1,425 @@
+{
+  "paperName": "Stores Test-2",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "The head of the Railway Stores Department at Zonal level is known as",
+        "hi": "Zonal level पर Railway Stores Department का प्रमुख कौन होता है?"
+      },
+      "options": [
+        { "en": "Chief Materials Manager", "hi": "Chief Materials Manager" },
+        { "en": "Principal Chief Materials Manager", "hi": "Principal Chief Materials Manager" },
+        { "en": "Deputy Chief Materials Manager", "hi": "Deputy Chief Materials Manager" },
+        { "en": "SDGM", "hi": "SDGM" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "The Stores Department's budget is part of",
+        "hi": "Stores Department का बजट किस Demand का हिस्सा है?"
+      },
+      "options": [
+        { "en": "Demand No. 16", "hi": "Demand No. 16" },
+        { "en": "Demand No. 8", "hi": "Demand No. 8" },
+        { "en": "Demand No. 12", "hi": "Demand No. 12" },
+        { "en": "Demand No. 4", "hi": "Demand No. 4" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "\"Lead time\" in stores management refers to",
+        "hi": "Stores management में \"Lead time\" का अर्थ क्या है?"
+      },
+      "options": [
+        { "en": "Travel time of train carrying stores", "hi": "स्टोर ले जाने वाली ट्रेन का यात्रा समय" },
+        { "en": "Time between placing order and receiving material", "hi": "ऑर्डर देने और सामग्री प्राप्त करने के बीच का समय" },
+        { "en": "Time for physical verification of stock", "hi": "स्टॉक के भौतिक सत्यापन का समय" },
+        { "en": "Time to process scrap disposal", "hi": "स्क्रैप निपटान की प्रक्रिया का समय" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Periodic physical verification of stock is mandatory for B category items",
+        "hi": "B category items के लिए stock का periodic physical verification अनिवार्य है:"
+      },
+      "options": [
+        { "en": "Once a week", "hi": "सप्ताह में एक बार" },
+        { "en": "Once a quarter", "hi": "तिमाही में एक बार" },
+        { "en": "Once a year", "hi": "वर्ष में एक बार" },
+        { "en": "Once every five years", "hi": "हर पांच साल में एक बार" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Items purchased for one-time special jobs and not normally stocked are",
+        "hi": "One-time special jobs के लिए खरीदे गए items जो सामान्यतः stock में नहीं रखे जाते हैं, वे हैं:"
+      },
+      "options": [
+        { "en": "Stock items", "hi": "स्टॉक आइटम" },
+        { "en": "Non-stock items", "hi": "नॉन-स्टॉक आइटम" },
+        { "en": "Revenue items", "hi": "रेवेन्यू आइटम" },
+        { "en": "Surplus items", "hi": "सरप्लस आइटम" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "GeM Stands for",
+        "hi": "GeM का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "General Electronic Marketplace", "hi": "General Electronic Marketplace" },
+        { "en": "Government Electronic Marketplace", "hi": "Government Electronic Marketplace" },
+        { "en": "Government Electronic Mandatory", "hi": "Government Electronic Mandatory" },
+        { "en": "Government Efficient Marketplace", "hi": "Government Efficient Marketplace" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Which platform is now widely used by Railways for e-tendering and e-procurement?",
+        "hi": "Railways में e-tendering और e-procurement के लिए अब किस platform का व्यापक रूप से उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "GEM Portal", "hi": "GEM Portal" },
+        { "en": "IREPS (Indian Railways E-Procurement System)", "hi": "IREPS (Indian Railways E-Procurement System)" },
+        { "en": "IRCTC Website", "hi": "IRCTC Website" },
+        { "en": "NPCI Portal", "hi": "NPCI Portal" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "The Plan head for stores suspense is",
+        "hi": "Stores suspense के लिए Plan head क्या है?"
+      },
+      "options": [
+        { "en": "7100", "hi": "7100" },
+        { "en": "4100", "hi": "4100" },
+        { "en": "7300", "hi": "7300" },
+        { "en": "4200", "hi": "4200" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "The _____ is a contract under which, during the period of its currency, the contractor engages to supply materials on demand, irrespective of quantity at fixed unit rates or prices, within a given period of the receipt of such demand",
+        "hi": "वह अनुबंध क्या कहलाता है जिसके तहत ठेकेदार मांग पर, मात्रा की परवाह किए बिना निश्चित दरों पर सामग्री की आपूर्ति करने का वचन देता है?"
+      },
+      "options": [
+        { "en": "Running Contract", "hi": "रनिंग कॉन्ट्रैक्ट" },
+        { "en": "Rate Contract", "hi": "रेट कॉन्ट्रैक्ट" },
+        { "en": "Fixed Qty Contract", "hi": "फिक्स्ड क्वांटिटी कॉन्ट्रैक्ट" },
+        { "en": "Service Contract", "hi": "सर्विस कॉन्ट्रैक्ट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What is the _____ percentage in option clause in Stores Contracts?",
+        "hi": "Stores Contracts में option clause का percentage कितना होता है?"
+      },
+      "options": [
+        { "en": "20", "hi": "20" },
+        { "en": "30", "hi": "30" },
+        { "en": "40", "hi": "40" },
+        { "en": "25", "hi": "25" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Procurement of proprietary articles (items available from one manufacturer only) if 'a' certified items is done through",
+        "hi": "Proprietary articles (केवल एक निर्माता से उपलब्ध) की खरीद किसके माध्यम से की जाती है?"
+      },
+      "options": [
+        { "en": "Open tender", "hi": "ओपन टेंडर" },
+        { "en": "Single tender with proprietary article certificate", "hi": "प्रोप्रायटरी आर्टिकल सर्टिफिकेट के साथ सिंगल टेंडर" },
+        { "en": "Auction", "hi": "नीलामी" },
+        { "en": "Local purchase", "hi": "लोकल परचेज" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "PL-Price Ledger Number is",
+        "hi": "PL (Price Ledger) Number कितने अंकों का होता है?"
+      },
+      "options": [
+        { "en": "6 Digits", "hi": "6 अंक" },
+        { "en": "8 Digits", "hi": "8 अंक" },
+        { "en": "10 Digits", "hi": "10 अंक" },
+        { "en": "12 Digits", "hi": "12 अंक" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "ABC analysis is also called",
+        "hi": "ABC analysis को और क्या कहा जाता है?"
+      },
+      "options": [
+        { "en": "Value Analysis", "hi": "Value Analysis" },
+        { "en": "Volume Analysis", "hi": "Volume Analysis" },
+        { "en": "Value and Volume analysis", "hi": "Value and Volume analysis" },
+        { "en": "Consumption analysis", "hi": "Consumption analysis" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Earnest Money Deposit (EMD) is collected to",
+        "hi": "Earnest Money Deposit (EMD) क्यों एकत्र किया जाता है?"
+      },
+      "options": [
+        { "en": "Cover freight charges", "hi": "भाड़ा शुल्क को कवर करने के लिए" },
+        { "en": "Ensure seriousness of bidders", "hi": "बोलीदाताओं की गंभीरता सुनिश्चित करने के लिए" },
+        { "en": "Fund inspection", "hi": "निरीक्षण के लिए फंड" },
+        { "en": "Pay customs duty", "hi": "सीमा शुल्क का भुगतान करने के लिए" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "In Indian Railways, an indent means",
+        "hi": "Indian Railways में 'Indent' का क्या अर्थ है?"
+      },
+      "options": [
+        { "en": "Scrap disposal list", "hi": "स्क्रैप निपटान सूची" },
+        { "en": "A formal requisition for procurement of material", "hi": "सामग्री की खरीद के लिए एक औपचारिक मांग" },
+        { "en": "Gate pass for outgoing material", "hi": "बाहर जाने वाली सामग्री के लिए गेट पास" },
+        { "en": "Audit note", "hi": "ऑडिट नोट" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Non-stock indent is raised for",
+        "hi": "Non-stock indent किसके लिए तैयार किया जाता है?"
+      },
+      "options": [
+        { "en": "Items listed in the depot stock schedule", "hi": "डिपो स्टॉक अनुसूची में सूचीबद्ध आइटम" },
+        { "en": "Items not normally stocked and required for specific work", "hi": "वे आइटम जो सामान्यतः स्टॉक नहीं किए जाते और विशिष्ट कार्य के लिए आवश्यक होते हैं" },
+        { "en": "Safety items only", "hi": "केवल सेफ्टी आइटम" },
+        { "en": "All consumables", "hi": "सभी उपभोग्य वस्तुएं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Requisition form used for other than imprest stock items",
+        "hi": "Imprest stock items के अलावा अन्य के लिए कौन-सा Requisition form उपयोग किया जाता है?"
+      },
+      "options": [
+        { "en": "S 1313", "hi": "S 1313" },
+        { "en": "S 1302", "hi": "S 1302" },
+        { "en": "S 1520", "hi": "S 1520" },
+        { "en": "S 1830", "hi": "S 1830" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "\"Condemnation\" in Railways means",
+        "hi": "Railways में \"Condemnation\" का क्या अर्थ है?"
+      },
+      "options": [
+        { "en": "Suspension of an employee", "hi": "किसी कर्मचारी का निलंबन" },
+        { "en": "Declaring an asset unfit for further economical use", "hi": "किसी संपत्ति को आगे के आर्थिक उपयोग के लिए अनुपयुक्त घोषित करना" },
+        { "en": "Auctioning passenger tickets", "hi": "यात्री टिकटों की नीलामी" },
+        { "en": "Imposing penalties on vendors", "hi": "विक्रेताओं पर जुर्माना लगाना" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "The normal life of an asset before it can be considered for condemnation is known as",
+        "hi": "Condemnation के लिए विचार किए जाने से पहले किसी संपत्ति का सामान्य जीवन क्या कहलाता है?"
+      },
+      "options": [
+        { "en": "Lead time", "hi": "लीड टाइम (Lead time)" },
+        { "en": "Codal life", "hi": "कोडल लाइफ (Codal life)" },
+        { "en": "Shelf life", "hi": "शेल्फ लाइफ (Shelf life)" },
+        { "en": "Warranty period", "hi": "वारंटी अवधि (Warranty period)" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Scrap generated from workshops is sold mainly through",
+        "hi": "Workshops से उत्पन्न Scrap मुख्य रूप से किसके माध्यम से बेचा जाता है?"
+      },
+      "options": [
+        { "en": "Private negotiation", "hi": "निजी बातचीत" },
+        { "en": "E-auction on IREPS", "hi": "IREPS पर ई-नीलामी" },
+        { "en": "Physical public auction only", "hi": "केवल भौतिक सार्वजनिक नीलामी" },
+        { "en": "Tender to a single vendor", "hi": "एकल विक्रेता को निविदा" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "A contract in Railways is",
+        "hi": "Railways में Contract क्या है?"
+      },
+      "options": [
+        { "en": "Verbal promise to supply material", "hi": "सामग्री की आपूर्ति का मौखिक वादा" },
+        { "en": "A legally enforceable agreement for execution of work or supply of stores", "hi": "कार्य के निष्पादन या स्टोर की आपूर्ति के लिए कानूनी रूप से लागू करने योग्य समझौता" },
+        { "en": "Railway budget speech", "hi": "रेलवे बजट भाषण" },
+        { "en": "A purchase order for tickets", "hi": "टिकटों के लिए खरीद आदेश" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Convener of the tender committee in stores purchases is the",
+        "hi": "Stores purchases में tender committee का Convener कौन होता है?"
+      },
+      "options": [
+        { "en": "Technical member", "hi": "Technical member" },
+        { "en": "Accounts member", "hi": "Accounts member" },
+        { "en": "Mechanical member", "hi": "Mechanical member" },
+        { "en": "Stores member", "hi": "Stores member" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "RDSO stands for",
+        "hi": "RDSO का पूरा नाम क्या है?"
+      },
+      "options": [
+        { "en": "Research Development and Standards Organisation", "hi": "Research Development and Standards Organisation" },
+        { "en": "Research Design and Standards Organization", "hi": "Research Design and Standards Organization" },
+        { "en": "Railway Design and Standards Organization", "hi": "Railway Design and Standards Organization" },
+        { "en": "Railway Development and Standards Organisation", "hi": "Railway Development and Standards Organisation" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Extra inventory kept on hand to cater for default by the suppliers and also to take care of fluctuations in demand is known as",
+        "hi": "आपूर्तिकर्ताओं द्वारा डिफ़ॉल्ट को पूरा करने और मांग में उतार-चढ़ाव को संभालने के लिए हाथ में रखा गया अतिरिक्त इन्वेंट्री क्या कहलाता है?"
+      },
+      "options": [
+        { "en": "Emergency stock", "hi": "इमरजेंसी स्टॉक (Emergency stock)" },
+        { "en": "Buffer stock", "hi": "बफर स्टॉक (Buffer stock)" },
+        { "en": "Ordinary store", "hi": "ऑर्डिनरी स्टोर (Ordinary store)" },
+        { "en": "Custody stock", "hi": "कस्टडी स्टॉक (Custody stock)" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "First two digits in any price list No represent:",
+        "hi": "किसी भी Price List (PL) No. में पहले दो अंक किसे दर्शाते हैं?"
+      },
+      "options": [
+        { "en": "Part Number", "hi": "पार्ट नंबर (Part Number)" },
+        { "en": "Specification Number", "hi": "स्पेसिफिकेशन नंबर (Specification Number)" },
+        { "en": "Drawing Number", "hi": "ड्राइंग नंबर (Drawing Number)" },
+        { "en": "Group Number", "hi": "ग्रुप नंबर (Group Number)" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Railway Stores have been classified into:",
+        "hi": "Railway Stores को कितने groups में वर्गीकृत किया गया है?"
+      },
+      "options": [
+        { "en": "36 groups", "hi": "36 groups" },
+        { "en": "49 groups", "hi": "49 groups" },
+        { "en": "75 groups", "hi": "75 groups" },
+        { "en": "56 groups", "hi": "56 groups" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "Inactive items are those stock items, stock of which",
+        "hi": "Inactive items वे stock items हैं, जिनका stock:"
+      },
+      "options": [
+        { "en": "is unserviceable", "hi": "अनसर्विसेबल (unserviceable) है" },
+        { "en": "more than 3 months old", "hi": "3 महीने से अधिक पुराना है" },
+        { "en": "has not been issued to any user for past 12 months", "hi": "पिछले 12 महीनों में किसी भी उपयोगकर्ता को जारी नहीं किया गया है" },
+        { "en": "is more than the requirement of next 24 months", "hi": "अगले 24 महीनों की आवश्यकता से अधिक है" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Only one offer received in respect to Limited/ Open tender is known as",
+        "hi": "Limited/Open tender के संबंध में प्राप्त केवल एक प्रस्ताव को क्या कहा जाता है?"
+      },
+      "options": [
+        { "en": "Single tender", "hi": "Single tender" },
+        { "en": "Single offer", "hi": "Single offer" },
+        { "en": "PAC offer", "hi": "PAC offer" },
+        { "en": "Late offer", "hi": "Late offer" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "GST is calculated on",
+        "hi": "GST की गणना किस पर की जाती है?"
+      },
+      "options": [
+        { "en": "Basic cost of the material", "hi": "Basic cost of the material" },
+        { "en": "Basic cost of the material and packaging charges", "hi": "Basic cost of the material and packaging charges" },
+        { "en": "Basic cost of the raw material", "hi": "Basic cost of the raw material" },
+        { "en": "Basic cost of the material + Forwarding charges + Freight charges", "hi": "Basic cost of the material + Forwarding charges + Freight charges" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Full form of IMMS is",
+        "hi": "IMMS का पूरा रूप क्या है?"
+      },
+      "options": [
+        { "en": "Integrated Materials Management System", "hi": "Integrated Materials Management System" },
+        { "en": "Information Materials Management System", "hi": "Information Materials Management System" },
+        { "en": "International Materials Management System", "hi": "International Materials Management System" },
+        { "en": "International Medical Management System", "hi": "International Medical Management System" }
+      ],
+      "correct": 0
+    }
+  ]
+}

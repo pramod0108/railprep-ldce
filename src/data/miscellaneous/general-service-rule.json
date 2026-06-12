@@ -1,0 +1,565 @@
+{
+  "paperName": "General Service Rule",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "General rules are given in rule _____ of Railway Services (Conduct) Rules 1966.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ में सामान्य नियम दिए गए हैं।"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "4", "hi": "4" },
+        { "en": "3", "hi": "3" },
+        { "en": "7", "hi": "7" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Sanction is required to purchase immovable property under rule _____ of Railway Services (Conduct) Rules.",
+        "hi": "अचल संपत्ति खरीदने के लिए रेल सेवा आचरण नियम _____ के अंतर्गत मंजूरी जरूरी है।"
+      },
+      "options": [
+        { "en": "18(i)", "hi": "18(i)" },
+        { "en": "18(ii)", "hi": "18(ii)" },
+        { "en": "18(iii)", "hi": "18(iii)" },
+        { "en": "16", "hi": "16" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Charges are framed against an employee for dereliction of duty under rule _____ of Conduct Rules 1966.",
+        "hi": "कर्तव्यहीनता हेतु कर्मचारी को आचरण नियम 1966 के नियम _____ के तहत आरोप लगाए जाते हैं।"
+      },
+      "options": [
+        { "en": "3(i) & (ii)", "hi": "3(i) & (ii)" },
+        { "en": "3(iii) & (iv)", "hi": "3(iii) & (iv)" },
+        { "en": "3", "hi": "3" },
+        { "en": "7", "hi": "7" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, consumption of any intoxicating drink or drug by running staff is prohibited within 8 hours of commencement of duty.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रनिंग स्टाफ को ड्यूटी आरंभ होने से 8 घंटे अवधि के अंदर किसी नशीले पदार्थ या नशीली औषधि का सेवन निषिद्ध है।"
+      },
+      "options": [
+        { "en": "15", "hi": "15" },
+        { "en": "16", "hi": "16" },
+        { "en": "22", "hi": "22" },
+        { "en": "20", "hi": "20" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, subletting of railway quarters is prohibited.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल आवास किराए पर देना वर्जित है।"
+      },
+      "options": [
+        { "en": "15 (a)", "hi": "15 (a)" },
+        { "en": "16 (b)", "hi": "16 (b)" },
+        { "en": "17 (iii)", "hi": "17 (iii)" },
+        { "en": "13", "hi": "13" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, giving and taking of gifts is prohibited.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत उपहार लेना एवं देना वर्जित है।"
+      },
+      "options": [
+        { "en": "15", "hi": "15" },
+        { "en": "16", "hi": "16" },
+        { "en": "22", "hi": "22" },
+        { "en": "13", "hi": "13" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Rule _____ of Railway Services (Conduct) Rules 1966 is related to sexual harassment of working women.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ महिला कर्मचारियों के सेक्सुअल हैरेसमेंट से संबंधित है।"
+      },
+      "options": [
+        { "en": "15 (a)", "hi": "15 (a)" },
+        { "en": "3(c)", "hi": "3(c)" },
+        { "en": "17 (iii)", "hi": "17 (iii)" },
+        { "en": "13", "hi": "13" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Rule _____ of Railway Services (Conduct) Rules 1966 is regarding information related to movable and immovable property of an employee.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत कर्मचारी की चल-अचल संपत्ति से संबंधित जानकारी के विषय में है।"
+      },
+      "options": [
+        { "en": "15", "hi": "15" },
+        { "en": "16", "hi": "16" },
+        { "en": "22", "hi": "22" },
+        { "en": "18", "hi": "18" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, participation of any employee in politics is prohibited.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत राजनीति में किसी भी कर्मचारी का भाग लेना वर्जित है।"
+      },
+      "options": [
+        { "en": "7", "hi": "7" },
+        { "en": "9", "hi": "9" },
+        { "en": "5", "hi": "5" },
+        { "en": "18", "hi": "18" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "No railway employee can give his statement in press and media without prior permission under rule _____ of Railway Services (Conduct) Rules 1966.",
+        "hi": "कोई भी रेल कर्मचारी रेल सेवा आचरण नियम 1966 के नियम _____ के तहत प्रेस एवं मीडिया में अपना बयान बिना पूर्व अनुमति के नहीं दे सकते हैं।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, no official document can be given to any railway employee without permission.",
+        "hi": "रेल कर्मचारी सेवा आचरण नियम 1966 के नियम _____ के तहत कोई सरकारी दस्तावेज बिना अनुमति के किसी भी रेल कर्मचारी को नहीं दिया जा सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, an authorized union can collect subscriptions in railway premises.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत अधिकृत यूनियन रेल परिसर में चंदा इकट्ठा कर सकती है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "12", "hi": "12" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, it is mandatory for a railway employee to take permission from the administration before appearing in court as a witness.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के रेल कर्मचारी को गवाह के रूप में न्यायालय में उपस्थित होने से पूर्व प्रशासन से अनुमति लेना अनिवार्य है।"
+      },
+      "options": [
+        { "en": "10", "hi": "10" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, an employee shall not participate in any such demonstration which is a threat to the country and government.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत किसी भी ऐसे धरना प्रदर्शन में भाग नहीं लेगा इससे देश एवं सरकार के लिए खतरा हो।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, prior permission is required for a railway employee to give or take gifts.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी को उपहार लेने और देने के लिए पूर्व अनुमति आवश्यक है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot take dowry in marriage.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी शादी के मामले में दहेज नहीं ले सकता है।"
+      },
+      "options": [
+        { "en": "18(a)", "hi": "18(a)" },
+        { "en": "18(b)", "hi": "18(b)" },
+        { "en": "13(a)", "hi": "13(a)" },
+        { "en": "16", "hi": "16" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee can organize a program on his retirement without prior permission.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी अपनी सेवानिवृत्ति पर बिना पूर्व अनुमति के कार्यक्रम आयोजित कर सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "14", "hi": "14" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee can neither work in a private firm nor become its member.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी किसी भी प्राइवेट फर्म में ना ही काम कर सकता है और ना ही उसका सदस्य बन सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot sublet his railway accommodation.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी अपना रेल आवास किराए पर नहीं दे सकता है।"
+      },
+      "options": [
+        { "en": "15(a)", "hi": "15(a)" },
+        { "en": "18(b)", "hi": "18(b)" },
+        { "en": "13(a)", "hi": "13(a)" },
+        { "en": "16", "hi": "16" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot use his railway accommodation for his private business.",
+        "hi": "रेल सेवा आचरण नियम 1966 नियम _____ के तहत रेल कर्मचारी अपना रेल आवास अपने निजी व्यवसाय के लिए उपयोग नहीं कर सकता है।"
+      },
+      "options": [
+        { "en": "17(a)", "hi": "17(a)" },
+        { "en": "18(b)", "hi": "18(b)" },
+        { "en": "15(a)", "hi": "15(a)" },
+        { "en": "16", "hi": "16" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot speculate in shares or other investments.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी शेयर अथवा अन्य निवेश में सट्टा नहीं लगा सकता है।"
+      },
+      "options": [
+        { "en": "16", "hi": "16" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot declare himself insolvent.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी अपने आप को दिवालिया घोषित नहीं कर सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "17", "hi": "17" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, commercial departmental employees like TTE, Booking Clerk, etc., are required to submit property returns before joining service and at the time of promotion.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत वाणिज्य विभागीय कर्मचारी जैसे टीटीई बुकिंग क्लर्क आदि को अपनी सेवा शुरू होने से पहले एवं पदोन्नति के समय संपत्ति का विवरण प्रस्तुत करना अनिवार्य है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "18", "hi": "18" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, if court proceedings are going on against a railway employee for recovery of a government loan, he will have to report it immediately at his workplace.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत यदि किसी रेल कर्मचारी के विरुद्ध सरकारी कर्जे की वसूली के लिए अदालती कार्यवाही चल रही हो तो इसकी सूचना तुरंत उसे अपने कार्यस्थल पर देनी होगी।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "17", "hi": "17" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot remarry while the first wife is alive.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत पहली पत्नी के जीवित रहते हुए रेल कर्मचारी दूसरा विवाह नहीं कर सकता है।"
+      },
+      "options": [
+        { "en": "21", "hi": "21" },
+        { "en": "13", "hi": "13" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot bring political or non-political influence for private work.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी निजी कार्य के लिए राजनीति या गैर राजनीतिक सिफारिश नहीं लगा सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "13", "hi": "13" },
+        { "en": "20", "hi": "20" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee can solemnize a second marriage in special circumstances with the permission of the General Manager.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी विशेष परिस्थिति में महाप्रबंधक की अनुमति से दूसरा विवाह कर सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "21", "hi": "21" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, no railway employee can buy or sell movable or immovable property abroad.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत कोई भी रेल कर्मचारी विदेश में चल अचल संपत्ति ना ही खरीद सकता है और न हीं बेच सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "21", "hi": "21" },
+        { "en": "7", "hi": "7" },
+        { "en": "18", "hi": "18" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot consume intoxicating substances on duty.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी ड्यूटी के दौरान मादक पदार्थों का नशा नहीं कर सकता है।"
+      },
+      "options": [
+        { "en": "22", "hi": "22" },
+        { "en": "21", "hi": "21" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot campaign for elections.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी चुनाव के लिए प्रचार एवं प्रसार नहीं कर सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "21", "hi": "21" },
+        { "en": "7", "hi": "7" },
+        { "en": "5", "hi": "5" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee shall not employ children below 14 years of age.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी 14 वर्ष से कम आयु के बच्चों को काम पर नहीं लगाएगा।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "22", "hi": "22" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a gazetted officer is required to submit a return of movable and immovable property every year in the month of January.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत राजपत्रित अधिकारी को प्रति वर्ष जनवरी माह में चल अचल संपत्ति का विवरण देना अनिवार्य है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "21", "hi": "21" },
+        { "en": "18", "hi": "18" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot consume intoxicating substances in public places.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी सार्वजनिक स्थानों पर मादक पदार्थों का सेवन नहीं कर सकता है।"
+      },
+      "options": [
+        { "en": "22", "hi": "22" },
+        { "en": "21", "hi": "21" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, if a railway employee lends money to his fellow railway employee without interest, he will also inform his office.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी अपने साथी रेल कर्मचारी को यदि उधार पैसा बिना ब्याज के देगा तो उसकी सूचना अपने कार्यालय को भी देगा।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "21", "hi": "21" },
+        { "en": "7", "hi": "7" },
+        { "en": "16", "hi": "16" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a gazetted officer can be permitted by the General Manager to become an office bearer in a non-gazetted employees' union.",
+        "hi": "रेल सेवा नियम 1966 के नियम _____ के तहत राजपत्रित अधिकारी को महाप्रबंधक द्वारा अराजपत्रित कर्मचारी की यूनियन मैं ऑफिस बिरर बनने की अनुमति दी जा सकती है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "6", "hi": "6" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee can be dismissed on becoming insolvent.",
+        "hi": "रेल सेवा का नियम 1966 के नियम _____ के तहत दिवालिया होने पर रेल कर्मचारी को बर्खास्त किया जा सकता है।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "21", "hi": "21" },
+        { "en": "17", "hi": "17" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "Under rule _____ of Railway Services (Conduct) Rules 1966, a railway employee cannot publish his opinions about the railways in a newspaper without the prior permission of his competent authority.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम _____ के तहत रेल कर्मचारी अपने सक्षम अधिकारी की पूर्व अनुमति के बिना समाचार पत्र में रेल के प्रति मत विचार प्रदर्शित नहीं कर सकता है।"
+      },
+      "options": [
+        { "en": "8", "hi": "8" },
+        { "en": "21", "hi": "21" },
+        { "en": "7", "hi": "7" },
+        { "en": "15", "hi": "15" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "Since when did the Railway Services (Conduct) Rules come into force?",
+        "hi": "रेल सेवा आचरण नियम कब से लागू हुआ है?"
+      },
+      "options": [
+        { "en": "1968", "hi": "1968" },
+        { "en": "1965", "hi": "1965" },
+        { "en": "1956", "hi": "1956" },
+        { "en": "1966", "hi": "1966" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Under rule _____ of sub-rule (3) of Rule 13 of Railway Services (Conduct) Rules 1966, any Group 'A' or Group 'B' officer can accept a gift up to Rs.5000/- and Group 'C' and Group 'D' employee up to Rs.2000/- without anyone's permission.",
+        "hi": "रेल सेवा आचरण नियम 1966 के नियम 13 के उपनियम (3) के _____ के तहत कोई भी ग्रुप 'ए' अथवा ग्रुप 'बी' अधिकारी Rs.5000/- तक का उपहार एवं ग्रुप 'सी' एवं ग्रुप 'डी' के कर्मचारी Rs.2000/- तक का उपहार बिना किसी की अनुमति के ले सकते हैं।"
+      },
+      "options": [
+        { "en": "Clause (i) & (ii) of Sub-rule (3)", "hi": "उपनियम (3) के क्लॉज (i) एवं (ii)" },
+        { "en": "Clause (ii) & (iii) of Sub-rule (3)", "hi": "उपनियम (3) के क्लॉज (ii) एवं (iii)" },
+        { "en": "Clause (i) & (ii) of Sub-rule (5)", "hi": "उपनियम (5) के क्लॉज (i) एवं (ii)" },
+        { "en": "Clause (i) & (ii) of Sub-rule (6)", "hi": "उपनियम (6) के क्लॉज (i) एवं (ii)" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "Under rule 6 of Railway Services (Conduct) Rules 1966 and rule _____ of Railway Services (D&A) Rules 1968, there is a provision to justify the action taken against a railway employee.",
+        "hi": "रेल सेवा आचरण नियम 1966 की नियम 6 रेल सेवा (डी & ए) रूल 1968 के तहत नियम _____ के अंतर्गत रेल कर्मचारी के विरुद्ध लिए गए एक्शन को जस्टिफाई करने का प्रावधान है।"
+      },
+      "options": [
+        { "en": "6.1", "hi": "6.1" },
+        { "en": "5.2", "hi": "5.2" },
+        { "en": "3.1", "hi": "3.1" },
+        { "en": "3.0", "hi": "3.0" }
+      ],
+      "correct": 2
+    }
+  ]
+}
