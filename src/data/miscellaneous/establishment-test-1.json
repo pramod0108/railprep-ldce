@@ -1,0 +1,607 @@
+{
+  "paperName": "Railway Establishment Rules Mock Test-1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Running duty for a running staff should not normally exceed _____ hours at a time.",
+        "hi": "रनिंग कर्मचारी के लिए एक बार में रनिंग ड्यूटी साधारणतया _____ घंटे से ज्यादा नहीं होना चाहिए।"
+      },
+      "options": [
+        { "en": "6 hours", "hi": "6 घंटे" },
+        { "en": "7 hours", "hi": "7 घंटे" },
+        { "en": "9 hours", "hi": "9 घंटे" },
+        { "en": "8 hours", "hi": "8 घंटे" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "A Railway servant is prohibited from consuming alcohol/other intoxicating/sedative or stimulant drugs or any other preparations thereof while on duty or for how many hours before duty?",
+        "hi": "एक रेल सेवक को ड्यूटी में अथवा ड्यूटी से कितने घंटे पहले तक मदिरा/अन्य नशीली/नींद लानेवाली या उत्तेजक दवाओं या उनसे बनी अन्य वस्तुओं के सेवन की मनाही है?"
+      },
+      "options": [
+        { "en": "6 hours", "hi": "6 घंटे" },
+        { "en": "8 hours", "hi": "8 घंटे" },
+        { "en": "10 hours", "hi": "10 घंटे" },
+        { "en": "12 hours", "hi": "12 घंटे" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "What does \"night\" mean according to the general and auxiliary rules?",
+        "hi": "सामान्य एवं सहायक नियम के अनुसार \"रात\" का अर्थ क्या होता है?"
+      },
+      "options": [
+        { "en": "22:00 to 8:00", "hi": "22:00 बजे से 8:00 तक" },
+        { "en": "20:00 to 6:00", "hi": "20:00 बजे से 6:00 तक" },
+        { "en": "Sunrise to sunset", "hi": "सूर्योदय से सूर्यास्त तक" },
+        { "en": "Sunset to sunrise", "hi": "सूर्यास्त से सूर्योदय तक" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "If the value of shares, securities, debentures or mutual funds sold, purchased or both by a railway employee in a year exceeds his basic pay of _____, he needs to report it to his department.",
+        "hi": "यदि किसी रेलवे कर्मचारी द्वारा एक वर्ष में बेचे, खरीदे या दोनों किए गए शेयर, प्रतिभूतियों, डिबेंचरों या म्यूचुअल फंड की कीमत उसके _____ के मूल वेतन से ज्यादा हो तो इसकी सूचना अपने विभाग को देने की आवश्यकता है।"
+      },
+      "options": [
+        { "en": "6 months", "hi": "6 महीने" },
+        { "en": "5 months", "hi": "5 महीने" },
+        { "en": "4 months", "hi": "4 महीने" },
+        { "en": "3 months", "hi": "3 महीने" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "A maximum period of study leave that can be granted to a Railway employee in the Engineering Department during his entire service is _____.",
+        "hi": "इंजीनियरिंग विभाग के किसी रेल कर्मचारी की संपूर्ण सेवा के दौरान उसे अधिकतम _____ की स्टडी छुट्टी प्रदान की जा सकती है।"
+      },
+      "options": [
+        { "en": "12 months", "hi": "12 महीने" },
+        { "en": "36 months", "hi": "36 महीने" },
+        { "en": "24 months", "hi": "24 महीने" },
+        { "en": "48 months", "hi": "48 महीने" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "If a railway servant is away from his headquarters on duty for 9 hours, he is entitled to _____ rate of daily allowance.",
+        "hi": "यदि कोई रेल कर्मचारी अपने मुख्यालय से ड्यूटी पर 9 घंटे बाहर है तो वह दैनिक भत्ते के _____ दर का हकदार है।"
+      },
+      "options": [
+        { "en": "30%", "hi": "30%" },
+        { "en": "70%", "hi": "70%" },
+        { "en": "50%", "hi": "50%" },
+        { "en": "90%", "hi": "90%" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "For purchasing a new house, the maximum House Building Advance (HBA) is:",
+        "hi": "नया घर खरीदने के लिए, अधिकतम गृह निर्माण अग्रिम (HBA) है:"
+      },
+      "options": [
+        { "en": "30 months basic pay, max 20 lakhs", "hi": "30 महीने का मूल वेतन, अधिकतम 20 लाख रुपए" },
+        { "en": "34 months basic pay, max 20 lakhs", "hi": "34 महीने का मूल वेतन, अधिकतम 20 लाख रुपए" },
+        { "en": "30 months basic pay, max 25 lakhs", "hi": "30 महीने का मूल वेतन, अधिकतम 25 लाख रुपए" },
+        { "en": "34 months basic pay, max 25 lakhs", "hi": "34 महीने का मूल वेतन, अधिकतम 25 लाख रुपए" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Except for the exceptions mentioned in the rules, reimbursement of Children Education Allowance is given only for _____ the eldest surviving child.",
+        "hi": "नियम में उल्लेखित अपवादों के सिवाय, संतान शिक्षा भत्ते की प्रतिपूर्ति सिर्फ _____ सबसे बड़े जीवित बच्चों के लिए ही दी जाती है।"
+      },
+      "options": [
+        { "en": "1", "hi": "1" },
+        { "en": "2", "hi": "2" },
+        { "en": "3", "hi": "3" },
+        { "en": "4", "hi": "4" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "A Group B officer is penalized for withholding 3 full sets of Privilege Passes in a year, his son will be entitled to _____ half sets of School Passes in that year.",
+        "hi": "एक ग्रुप B अधिकारी पर किसी एक वर्ष में 3 पूर्ण सेट प्रिविलेज पास रोकने के शास्ति लगाई गई है, उस वर्ष में उनका लड़का _____ आधे सेट स्कूल पास के लिए हकदार होगा।"
+      },
+      "options": [
+        { "en": "3", "hi": "3" },
+        { "en": "4", "hi": "4" },
+        { "en": "6", "hi": "6" },
+        { "en": "2", "hi": "2" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "An employee of the Engineering Department has to give a bond to avail study leave that he will remain in the service of the Railways for at least _____ after the completion of the study leave period.",
+        "hi": "इंजीनियरिंग विभाग के किसी कर्मचारी को अध्ययन अवकाश लेने के लिए एक बांड देना पड़ता है कि वह अध्ययन अवकाश काल पूरा होने के बाद कम से कम _____ तक रेलवे की सेवा में रहेंगे।"
+      },
+      "options": [
+        { "en": "2 years", "hi": "2 वर्षों" },
+        { "en": "3 years", "hi": "3 वर्षों" },
+        { "en": "1 year", "hi": "1 वर्ष" },
+        { "en": "4 years", "hi": "4 वर्षों" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "If a Railway employee joins his new post without availing any joining time, the admissible joining time is added to his leave account as _____.",
+        "hi": "यदि कोई रेलवे कर्मचारी अपनी नई पोस्ट पर बिना कोई जॉइनिंग समय लिए ज्वाइन कर लेता है, तो स्वीकार्य जॉइनिंग समय उसके छुट्टी खाते में _____ की तरह जोड़ दिया जाता है।"
+      },
+      "options": [
+        { "en": "Casual Leave", "hi": "आकस्मिक अवकाश" },
+        { "en": "Special Casual Leave", "hi": "विशेष आकस्मिक अवकाश" },
+        { "en": "Half Average Pay Leave", "hi": "अर्ध औसत वेतन अवकाश" },
+        { "en": "Average Pay Leave", "hi": "औसत वेतन अवकाश" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What is the maximum limit for accumulation of Half Pay Leave (LHAP)?",
+        "hi": "अर्ध वेतन अवकाश (LHAP) के संचयन की अधिकतम सीमा क्या है?"
+      },
+      "options": [
+        { "en": "300 days", "hi": "300 दिन" },
+        { "en": "360 days", "hi": "360 दिन" },
+        { "en": "No limit", "hi": "कोई सीमा नहीं" },
+        { "en": "240 days", "hi": "240 दिन" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "To obtain any information from a railway office under the Right to Information Act, a person has to send a request to _____.",
+        "hi": "एक व्यक्ति द्वारा, सूचना के अधिकार अधिनियम के अंतर्गत किसी रेलवे कार्यालय से कोई सूचना लेने के लिए _____ को निवेदन भेजना होता है।"
+      },
+      "options": [
+        { "en": "Central Public Information Officer of that office", "hi": "उस कार्यालय के केंद्रीय जन सूचना अधिकारी" },
+        { "en": "Head of that office", "hi": "उस कार्यालय के कार्यालय प्रमुख" },
+        { "en": "The officer who has this information", "hi": "उस अधिकारी को जिसके पास यह सूचना हो" },
+        { "en": "Head of the mail receipt department", "hi": "डाक प्राप्ति विभाग के प्रमुख" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "An SSE (P.Way) staying away from his headquarters for 5 hours at an accident site located 15 km away from his headquarters will be entitled to _____ daily allowance at the rate of daily allowance.",
+        "hi": "एक SSE (P.Way) अपने मुख्यालय से 15 किलोमीटर दूर स्थित एक दुर्घटना स्थल पर 5 घंटे अपने मुख्यालय से दूर रहता है, वह दैनिक भत्ता दर के _____ दैनिक भत्ते का हकदार होगा।"
+      },
+      "options": [
+        { "en": "70%", "hi": "70%" },
+        { "en": "100%", "hi": "100%" },
+        { "en": "30%", "hi": "30%" },
+        { "en": "50%", "hi": "50%" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "In which of the following situations is it not permissible to issue a privilege pass between any two stations by a route which is longer than the shortest route between those two stations:",
+        "hi": "निम्नलिखित में से किस स्थिति में किन्हीं दो स्टेशनों के बीच में उस रास्ते से, जो उन दोनों स्टेशनों के बीच लघुतम रास्ते से लंबा है, सुविधा पास जारी करना अनुमेय नहीं है:"
+      },
+      "options": [
+        { "en": "Trains with better facilities are available on the longer route", "hi": "लंबे रास्ते पर ज्यादा अच्छी सुविधाओं वाली ट्रेन उपलब्ध है" },
+        { "en": "For an alternative route between these two stations", "hi": "इन दो स्टेशनों के बीच वैकल्पिक रास्ते के लिए" },
+        { "en": "Distance on the longer route is not more than 15% of the shortest route", "hi": "लंबे रास्ते पर दूरी लघुत्तर रास्ते पर दूरी से 15% से ज्यादा नहीं" },
+        { "en": "Travel time on the longer route is less than the shortest route", "hi": "लंबे रास्ते पर यात्रा का समय लघुतम रास्ते की बजाय कम है" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "There is an online platform specially created for taking suggestions and complaints of Railway pensioners and resolving pension related matters:",
+        "hi": "रेलवे के पेंशनधारियों के सुझाव एवं शिकायतें लेने और पेंशन से संबंधित मामलों को सुलझाने के लिए विशेष रूप से बनाया गया ऑनलाइन प्लेटफॉर्म है:"
+      },
+      "options": [
+        { "en": "HRMS", "hi": "HRMS" },
+        { "en": "IPAS", "hi": "IPAS" },
+        { "en": "CPGRAM", "hi": "CPGRAM" },
+        { "en": "ARPAN", "hi": "ARPAN" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "House Building Advance (HBA) interest is recovered in maximum _____ installments.",
+        "hi": "मकान निर्माण अग्रिम (HBA) का ब्याज अधिकतम _____ किस्तों में वसूल किया जाता है।"
+      },
+      "options": [
+        { "en": "50", "hi": "50" },
+        { "en": "55", "hi": "55" },
+        { "en": "60", "hi": "60" },
+        { "en": "65", "hi": "65" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "A Gazetted Officer is eligible for _____ sets of facility passes in a year.",
+        "hi": "राजपत्रित अधिकारी एक वर्ष में सुविधा पास के _____ सेट के लिए पात्र हैं।"
+      },
+      "options": [
+        { "en": "6", "hi": "6" },
+        { "en": "4", "hi": "4" },
+        { "en": "3", "hi": "3" },
+        { "en": "5", "hi": "5" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "The General Manager is eligible for _____ metal tokens.",
+        "hi": "महाप्रबंधक _____ मेटल टोकन के लिए पात्र हैं।"
+      },
+      "options": [
+        { "en": "Gold", "hi": "स्वर्ण" },
+        { "en": "Bronze", "hi": "कांस्य" },
+        { "en": "Platinum", "hi": "प्लैटिनम" },
+        { "en": "Silver", "hi": "रजत" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "For an employee, 'long on' means a period of duty exceeding 12 hours -",
+        "hi": "कर्मचारी के लिए 'लॉन्ग ऑन' का तात्पर्य 12 घंटे से अधिक की ड्यूटी की अवधि है -"
+      },
+      "options": [
+        { "en": "Essential Intermittent", "hi": "Essential Intermittent" },
+        { "en": "Excluded", "hi": "Excluded" },
+        { "en": "Continuous", "hi": "Continuous" },
+        { "en": "Intensive", "hi": "Intensive" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "The document that keeps track of the working hours of a railway servant is _____.",
+        "hi": "रेल सेवक के काम के घंटों को देखने वाला दस्तावेज _____ है।"
+      },
+      "options": [
+        { "en": "Duty Roster", "hi": "ड्यूटी रोस्टर" },
+        { "en": "Pay Slip", "hi": "पे स्लिप" },
+        { "en": "Debit Slip", "hi": "डेविड शिप" },
+        { "en": "None of the given options", "hi": "दिए गए विकल्पों में से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Paternity leave is granted to _____ employees.",
+        "hi": "पितृत्व अवकाश _____ कर्मचारियों को प्रदान किया जाता है।"
+      },
+      "options": [
+        { "en": "Female", "hi": "महिला" },
+        { "en": "Male", "hi": "पुरुष" },
+        { "en": "Both Male and Female", "hi": "पुरुष और महिला दोनों" },
+        { "en": "None of the given options", "hi": "दिए गए विकल्प में से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Paternity leave is payable up to _____ children.",
+        "hi": "पितृत्व अवकाश _____ बच्चों तक देय है।"
+      },
+      "options": [
+        { "en": "5", "hi": "5" },
+        { "en": "6", "hi": "6" },
+        { "en": "2", "hi": "2" },
+        { "en": "4", "hi": "4" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "A female employee is eligible for _____ days of CCL during her entire railway service.",
+        "hi": "एक महिला कर्मचारी अपनी संपूर्ण रेल सेवा में _____ दिनों की CCL के लिए पात्र है।"
+      },
+      "options": [
+        { "en": "180", "hi": "180" },
+        { "en": "360", "hi": "360" },
+        { "en": "150", "hi": "150" },
+        { "en": "730", "hi": "730" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "The period for appeal under the Discipline and Appeal Rules is _____ days.",
+        "hi": "अनुशासन और अपील नियमों के तहत अपील की अवधि _____ दिन है।"
+      },
+      "options": [
+        { "en": "30", "hi": "30" },
+        { "en": "45", "hi": "45" },
+        { "en": "15", "hi": "15" },
+        { "en": "None of the given options", "hi": "दिए गए विकल्पों में से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "_____ forms are used to issue charge sheet for major penalty.",
+        "hi": "बड़ी शास्ति का आरोप पत्र जारी करने के लिए _____ फॉर्म्स का उपयोग किया जाता है।"
+      },
+      "options": [
+        { "en": "SF- 11", "hi": "SF- 11" },
+        { "en": "SF- 9", "hi": "SF- 9" },
+        { "en": "SF- 5", "hi": "SF- 5" },
+        { "en": "SF- 1", "hi": "SF- 1" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "The standard form used for suspension is numbered _____.",
+        "hi": "निलंबन के लिए प्रयुक्त मानक फॉर्म का नंबर _____ है।"
+      },
+      "options": [
+        { "en": "SF- 1", "hi": "SF- 1" },
+        { "en": "SF- 2", "hi": "SF- 2" },
+        { "en": "SF- 5", "hi": "SF- 5" },
+        { "en": "SF- 11", "hi": "SF- 11" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "NIP in the context of DAR means _____.",
+        "hi": "DAR के संदर्भ में NIP का मतलब _____ होता है।"
+      },
+      "options": [
+        { "en": "Notice of Imposition of Penalty", "hi": "Notice of Imposition of Penalty" },
+        { "en": "Not Important Person", "hi": "Not Important Person" },
+        { "en": "Not Intelligent Person", "hi": "Not Intelligent Person" },
+        { "en": "None of the given Option", "hi": "None of the given Option" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "_____ state is not covered under the RTI Act.",
+        "hi": "_____ राज्य RTI अधिनियम के अंतर्गत नहीं आता है।"
+      },
+      "options": [
+        { "en": "Jammu & Kashmir", "hi": "जम्मू और कश्मीर" },
+        { "en": "Delhi", "hi": "दिल्ली" },
+        { "en": "Maharashtra", "hi": "महाराष्ट्र" },
+        { "en": "None of the given options", "hi": "दिए गए विकल्पों में से कोई नहीं" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Under which law is the rule of maximum working hours mandatory for workers employed in a factory?",
+        "hi": "कारखाने में कार्यरत श्रमिकों के लिए कार्य के अधिकतम घंटे का नियम किस कानून के तहत बाध्यकारी है?"
+      },
+      "options": [
+        { "en": "Factory Act, 1948", "hi": "फैक्ट्री अधिनियम, 1948" },
+        { "en": "Minimum Wages Act, 1948", "hi": "न्यूनतम मजदूरी अधिनियम, 1948" },
+        { "en": "Trade Union Act, 1926", "hi": "ट्रेड यूनियन अधिनियम, 1926" },
+        { "en": "National Labor Relations Act 1935", "hi": "राष्ट्रीय श्रम संबंध अधिनियम 1935" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "What is the maximum number of days of LHAP (Leave on Half Average Pay) that a Railway employee can accumulate during his entire service period?",
+        "hi": "एक रेलवे कर्मचारी अपने पूरे सेवा काल में अधिकतम कितने दिनों की LHAP (अर्ध वेतन अवकाश) का संचय कर सकता है?"
+      },
+      "options": [
+        { "en": "300 days", "hi": "300 दिन" },
+        { "en": "450 days", "hi": "450 दिन" },
+        { "en": "600 days", "hi": "600 दिन" },
+        { "en": "Unlimited", "hi": "असीमित" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "How many days of full pay leave can be encashable by a Railway employee during his entire service period while availing the facility of Pass/PTO?",
+        "hi": "एक रेलवे कर्मचारी द्वारा अपने पूरे सेवा काल में पास/पी टो ओ की सुविधा का लाभ उठाते समय कितने दिनों का पूर्ण वेतन अवकाश का नकदीकरण किया जा सकता है?"
+      },
+      "options": [
+        { "en": "40 days", "hi": "40 दिन" },
+        { "en": "50 days", "hi": "50 दिन" },
+        { "en": "60 days", "hi": "60 दिन" },
+        { "en": "None of the given options", "hi": "दिए गए विकल्पों में से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "Which of the following forms is used for issuing major punishment memo to a Railway employee under the Discipline and Appeal Rules, 1968?",
+        "hi": "रेलवे कर्मचारी को अनुशासन एवं अपील नियम 1968 के तहत दीर्घ दंड ज्ञापन जारी करने हेतु निम्न में से कौन सा फॉर्म प्रयोग में लाया जाता है?"
+      },
+      "options": [
+        { "en": "SF- 1", "hi": "SF- 1" },
+        { "en": "SF- 5", "hi": "SF- 5" },
+        { "en": "SF- 7", "hi": "SF- 7" },
+        { "en": "SF- 11", "hi": "SF- 11" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "Who among the following is authorised to pass an order reducing the pension of a retired employee under the Railway Services Discipline and Appeal Rules, 1968?",
+        "hi": "रेल सेवा अनुशासन एवं अपील नियम 1968 के तहत सेवानिवृत्त कर्मचारी की पेंशन घटाने का आदेश देने के लिए निम्न में से कौन प्राधिकृत है?"
+      },
+      "options": [
+        { "en": "Divisional Railway Manager", "hi": "मंडल रेल प्रबंधक" },
+        { "en": "General Manager", "hi": "महाप्रबंधक" },
+        { "en": "President of India", "hi": "भारत के राष्ट्रपति" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "If a Railway servant is placed under suspension and then issued a minor punishment memo, the period of his suspension will be regulated by which of the following?",
+        "hi": "यदि किसी रेल कर्मचारी को निलंबित रखने के बाद उसे लघु दंड ज्ञापन जारी किया जाता है तो उसके निलंबन की अवधि का नियमन निम्न में से किस प्रकार होगा?"
+      },
+      "options": [
+        { "en": "Leave due", "hi": "देय अवकाश" },
+        { "en": "Dies non", "hi": "डाइज नॉन" },
+        { "en": "Duty", "hi": "ड्यूटी" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "What is the maximum limit of retirement gratuity for an employee who has completed 33 years of service under the present rules?",
+        "hi": "वर्तमान नियमों के तहत 33 साल की सेवा पूरी करने वाले कर्मचारी के लिए सेवानिवृत्ति ग्रेच्युटी की अधिकतम सीमा क्या है?"
+      },
+      "options": [
+        { "en": "16.5 months' emoluments or ₹20 Lakhs whichever is higher", "hi": "16.5 महीने की परिलब्धियां या 20 लाख रुपए जो भी अधिकतम हो" },
+        { "en": "16.5 months' emoluments or ₹20 Lakhs whichever is lower", "hi": "16.5 महीने की परिलब्धियां या 20 लाख रुपए जो भी न्यूनतम हो" },
+        { "en": "16.5 months' emoluments or ₹10 Lakhs whichever is lower", "hi": "16.5 महीने की परिलब्धियां या 10 लाख रुपए जो भी न्यूनतम हो" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "Which of the following duties are required to be performed by employees performing supervisory duties under Railway Service Conduct Rule 3(2)(i)?",
+        "hi": "पर्यवेक्षकीय दायित्वों का निर्वहन करने वाले कर्मचारियों को रेल सेवा आचरण नियम 3(2)(i) के तहत निम्न में से किस कर्तव्य का निर्वहन करना आवश्यक है?"
+      },
+      "options": [
+        { "en": "To ensure devotion to duty and dedication to work of oneself", "hi": "स्वयं की कर्तव्यनिष्ठा और कार्य के प्रति समर्पण सुनिश्चित करना" },
+        { "en": "To educate the employees under their control", "hi": "अपने नियंत्रण में कर्मचारियों को शिक्षित करने के लिए" },
+        { "en": "To ensure integrity and devotion to duty of employees working under their control", "hi": "अपने नियंत्रण में कार्यरत कर्मचारियों की सत्यनिष्ठा और कार्य के प्रति समर्पण सुनिश्चित करना" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "When is the service of Group A and Group B employees who joined the Railway Service before attaining the age of 35 years reviewed under Rule 1802 of IREC, Vol-II?",
+        "hi": "ग्रुप A तथा ग्रुप B में कार्यरत ऐसे कर्मचारी जो 35 साल की उम्र के पहले रेल सेवा में आ चुके हैं. उनकी सेवा की समीक्षा IREC, Vol- II के नियम 1802 के तहत कब की जाती है?"
+      },
+      "options": [
+        { "en": "After attaining age of 50 years", "hi": "50 वर्ष की उम्र होने के बाद" },
+        { "en": "After attaining age of 55 years", "hi": "55 वर्ष की उम्र होने के बाद" },
+        { "en": "After attaining age of 58 years", "hi": "58 वर्ष की उम्र होने के बाद" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Which of the following website /portal is related to the pension of railway employees?",
+        "hi": "निम्न में से कौन सी वेबसाइट/पोर्टल रेल कर्मचारियों के पेंशन से संबंधित है?"
+      },
+      "options": [
+        { "en": "HRMS", "hi": "HRMS" },
+        { "en": "IPAS", "hi": "IPAS" },
+        { "en": "LIMBS", "hi": "LIMBS" },
+        { "en": "ARPAN", "hi": "ARPAN" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "Which of the following websites/portals has been created for retiring government employees to record their experiences?",
+        "hi": "निम्न में से कौन सी वेबसाइट/पोर्टल सेवानिवृत्त होने वाले सरकारी कर्मचारी द्वारा अपने अनुभवों को दर्ज करने के लिए बनाई गई है?"
+      },
+      "options": [
+        { "en": "HRMS", "hi": "HRMS" },
+        { "en": "LIMBS", "hi": "LIMBS" },
+        { "en": "ANUBHAV", "hi": "ANUBHAV" },
+        { "en": "NIVARAN", "hi": "NIVARAN" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 41,
+      "question": {
+        "en": "Which of the following is not a forum between Railway Management and employees to discuss matters relating to staff grievances or general issues?",
+        "hi": "निम्न में से कौन सा रेल प्रबंधन तथा कर्मचारियों के बीच स्टाफ परिवेदना या सामान्य मुद्दों से संबंधित मामलों पर चर्चा करने का मंच नहीं है?"
+      },
+      "options": [
+        { "en": "PNM", "hi": "PNM (स्थाई वार्ता तंत्र)" },
+        { "en": "JCM", "hi": "JCM (संयुक्त सलाहकार तंत्र)" },
+        { "en": "PREM", "hi": "PREM (प्रबंधन में रेलवे कर्मचारियों की भागीदारी)" },
+        { "en": "Railway Convention Committee", "hi": "रेलवे कन्वेंशन कमेटी" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "Which of the following is the upper limit of ex-gratia payment provided by Indian Railways in case of death due to accident while performing duty?",
+        "hi": "भारतीय रेलवे अपने कर्तव्य का निर्वहन करते हुए दुर्घटना के कारण मृत्यु हो जाने पर प्रदान किए जाने वाले अनुग्रह राशि (exgratia Payment) की ऊपरी सीमा निम्न में से क्या है?"
+      },
+      "options": [
+        { "en": "₹25 Lakhs", "hi": "25 लाख रुपये" },
+        { "en": "₹35 Lakhs", "hi": "35 लाख रुपये" },
+        { "en": "₹45 Lakhs", "hi": "45 लाख रुपये" },
+        { "en": "None of these", "hi": "इनमें से कोई नहीं" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "Which of the following activities is not included in the permissible works to be funded from the Employees Welfare Fund?",
+        "hi": "निम्न में से कौन सी गतिविधि कर्मचारी कल्याण निधि से वित्त पोषित किए जाने वाले अनुमन्य कार्यों में सम्मिलित नहीं है?"
+      },
+      "options": [
+        { "en": "Education - Scholarships for higher technical/vocational education for children of non-gazetted railway servants", "hi": "शिक्षा - अराजपत्रित रेल सेवकों के बच्चों के लिए उच्च तकनीकी/व्यावसायिक शिक्षा के लिए छात्रवृत्ति।" },
+        { "en": "Women empowerment activities including summer camp training programs and gender sensitization camps etc.", "hi": "महिला सशक्तिकरण गतिविधियां जिनमें ग्रीष्मकालीन शिविर प्रशिक्षण कार्यक्रम और जेंडर संवेदीकरण शिविर आदि शामिल है।" },
+        { "en": "Scout and guide activities", "hi": "स्काउट और गाइड गतिविधियां" },
+        { "en": "Organizing public functions for inauguration of new facility in Indian Railways", "hi": "भारतीय रेल में नई सुविधा के उद्घाटन के लिए सार्वजनिक समारोह का आयोजन।" }
+      ],
+      "correct": 3
+    }
+  ]
+}

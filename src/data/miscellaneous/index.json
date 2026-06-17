@@ -8,5 +8,6 @@
   { "id": "factories-act", "file": "factories-act.json", "paperName": "Factories Act" },
   { "id": "stores-test-1", "file": "stores-test-1.json", "paperName": "Stores Test-1" },
   { "id": "stores-test-2", "file": "stores-test-2.json", "paperName": "Stores Test-2" },
-    { "id": "icf-bogie-test-1", "file": "icf-bogie-test-1.json", "paperName": "ICF Bogie Test-1" }
+  { "id": "icf-bogie-test-1", "file": "icf-bogie-test-1.json", "paperName": "ICF Bogie Test-1" },
+  { "id": "establishment-test-1", "file": "establishment-test-1.json", "paperName": "Railway Establishment Rules Mock Test" }
 ]
