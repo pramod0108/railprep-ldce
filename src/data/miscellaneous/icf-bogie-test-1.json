@@ -1,0 +1,663 @@
+{
+  "paperName": "ICF Bogie Test-1",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Diagonal gauge for BSS bracket of 13 t bogie is?",
+        "hi": "13 t बोगी के BSS ब्रैकेट के लिए डायगोनल गेज क्या है?"
+      },
+      "options": [
+        { "en": "2159±1.0 mm", "hi": "2159±1.0 mm" },
+        { "en": "2573±1.0 mm", "hi": "2573±1.0 mm" },
+        { "en": "2687±1.0 mm", "hi": "2687±1.0 mm" },
+        { "en": "2159±1.0 mm", "hi": "2159±1.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Thickness of trough floor of ICF/RCF coaches is –",
+        "hi": "ICF/RCF कोच के ट्रफ फ्लोर की मोटाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "3.0 mm", "hi": "3.0 mm" },
+        { "en": "1.0 mm", "hi": "1.0 mm" },
+        { "en": "7.0 mm", "hi": "7.0 mm" },
+        { "en": "5.0 mm", "hi": "5.0 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Inside distance between horizontal bearing arms of BSS hanger is?",
+        "hi": "BSS हैंगर के क्षैतिज बेयरिंग आर्म्स के बीच की आंतरिक दूरी कितनी है?"
+      },
+      "options": [
+        { "en": "374 mm", "hi": "374 mm" },
+        { "en": "384 mm", "hi": "384 mm" },
+        { "en": "378 mm", "hi": "378 mm" },
+        { "en": "381 mm", "hi": "381 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Free height of high capacity parcel van bolster coil spring is?",
+        "hi": "हाई कैपेसिटी पार्सल वैन के बोल्स्टर कॉइल स्प्रिंग की फ्री ऊंचाई कितनी है?"
+      },
+      "options": [
+        { "en": "286 mm", "hi": "286 mm" },
+        { "en": "393 mm", "hi": "393 mm" },
+        { "en": "375 mm", "hi": "375 mm" },
+        { "en": "386 mm", "hi": "386 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What type of roller bearing is fitted in ICF bogie wheel?",
+        "hi": "ICF बोगी व्हील में किस प्रकार का रोलर बेयरिंग लगा होता है?"
+      },
+      "options": [
+        { "en": "Double row self align cylindrical roller bearing", "hi": "डबल रो सेल्फ अलाइन सिलिंड्रिकल रोलर बेयरिंग" },
+        { "en": "Single row self align spherical roller bearing", "hi": "सिंगल रो सेल्फ अलाइन स्फेरिकल रोलर बेयरिंग" },
+        { "en": "Double row self align spherical roller bearing", "hi": "डबल रो सेल्फ अलाइन स्फेरिकल रोलर बेयरिंग" },
+        { "en": "Single row self align cylindrical roller bearing", "hi": "सिंगल रो सेल्फ अलाइन सिलिंड्रिकल रोलर बेयरिंग" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "The maximum diametrical clearance between the pins and bushes is?",
+        "hi": "पिन और बुश के बीच अधिकतम डायमेट्रिकल क्लीयरेंस कितना होता है?"
+      },
+      "options": [
+        { "en": "1.5 mm", "hi": "1.5 mm" },
+        { "en": "1.4 mm", "hi": "1.4 mm" },
+        { "en": "1.0 mm", "hi": "1.0 mm" },
+        { "en": "1.2 mm", "hi": "1.2 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "How many adjusting links in coach bogie mounted brake system rigging?",
+        "hi": "कोच बोगी माउंटेड ब्रेक सिस्टम रिगिंग में कितने एडजस्टिंग लिंक होते हैं?"
+      },
+      "options": [
+        { "en": "3", "hi": "3" },
+        { "en": "6", "hi": "6" },
+        { "en": "2", "hi": "2" },
+        { "en": "4", "hi": "4" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Free height of high capacity parcel van axle box spring is?",
+        "hi": "हाई कैपेसिटी पार्सल वैन के एक्सल बॉक्स स्प्रिंग की फ्री ऊंचाई कितनी है?"
+      },
+      "options": [
+        { "en": "375 mm", "hi": "375 mm" },
+        { "en": "360 mm", "hi": "360 mm" },
+        { "en": "337 mm", "hi": "337 mm" },
+        { "en": "315 mm", "hi": "315 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Longitudinal gauge for BSS bracket of 16.25-t bogie is?",
+        "hi": "16.25 t बोगी के BSS ब्रैकेट के लिए लोंगीट्यूडिनल गेज कितना है?"
+      },
+      "options": [
+        { "en": "1500±1.0 mm", "hi": "1500±1.0 mm" },
+        { "en": "1400±1.0 mm", "hi": "1400±1.0 mm" },
+        { "en": "14500±1.0 mm", "hi": "14500±1.0 mm" },
+        { "en": "13000±1.0 mm", "hi": "13000±1.0 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What shall be the period for POH of OCV attached with mail/Express train?",
+        "hi": "मेल/एक्सप्रेस ट्रेन से जुड़े OCV के POH की अवधि क्या होगी?"
+      },
+      "options": [
+        { "en": "9 month", "hi": "9 महीने" },
+        { "en": "18 month", "hi": "18 महीने" },
+        { "en": "24 month", "hi": "24 महीने" },
+        { "en": "12 month", "hi": "12 महीने" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Draw bars should be tested on load...",
+        "hi": "ड्रॉ बार का परीक्षण कितने लोड पर किया जाना चाहिए?"
+      },
+      "options": [
+        { "en": "65 ton", "hi": "65 टन" },
+        { "en": "50 ton", "hi": "50 टन" },
+        { "en": "55 ton", "hi": "55 टन" },
+        { "en": "60 ton", "hi": "60 टन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Longitudinal gauge for axle guide of 13 t bogie is?",
+        "hi": "13 t बोगी के एक्सल गाइड के लिए लोंगीट्यूडिनल गेज कितना है?"
+      },
+      "options": [
+        { "en": "590±1.0 mm", "hi": "590±1.0 mm" },
+        { "en": "570±1.0 mm", "hi": "570±1.0 mm" },
+        { "en": "580±1.0 mm", "hi": "580±1.0 mm" },
+        { "en": "595±1.0 mm", "hi": "595±1.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Nominal thickness of buffer casing body wall is –",
+        "hi": "बफर केसिंग बॉडी वॉल की नॉमिनल मोटाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "11.50 mm", "hi": "11.50 mm" },
+        { "en": "9.50 mm", "hi": "9.50 mm" },
+        { "en": "10.50 mm", "hi": "10.50 mm" },
+        { "en": "13.50 mm", "hi": "13.50 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What is the periodicity for IOH of ICF coaches of OCV's?",
+        "hi": "OCV के ICF कोचों के IOH की अवधि क्या है?"
+      },
+      "options": [
+        { "en": "3 month ± 3 days", "hi": "3 महीने ± 3 दिन" },
+        { "en": "1 month ± 3 days", "hi": "1 महीने ± 3 दिन" },
+        { "en": "9 month ± 7 days", "hi": "9 महीने ± 7 दिन" },
+        { "en": "12 month ± 30 days", "hi": "12 महीने ± 30 दिन" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "During Tensile Load Test of Draw Gear holding time is?",
+        "hi": "ड्रॉ गियर के टेंसाइल लोड टेस्ट के दौरान होल्डिंग टाइम कितना होता है?"
+      },
+      "options": [
+        { "en": "100 sec", "hi": "100 सेकंड" },
+        { "en": "120 sec", "hi": "120 सेकंड" },
+        { "en": "110 sec", "hi": "110 सेकंड" },
+        { "en": "90 sec", "hi": "90 सेकंड" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "All the hangers should be tested to tensile load of?",
+        "hi": "सभी हैंगर का परीक्षण कितने टेंसाइल लोड पर किया जाना चाहिए?"
+      },
+      "options": [
+        { "en": "7.0 t", "hi": "7.0 t" },
+        { "en": "6.5 t", "hi": "6.5 t" },
+        { "en": "10 t", "hi": "10 t" },
+        { "en": "8.0 t", "hi": "8.0 t" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What is wear limit of buffer casing body wall?",
+        "hi": "बफर केसिंग बॉडी वॉल की वियर लिमिट (घिसाव सीमा) क्या है?"
+      },
+      "options": [
+        { "en": "5.50 mm", "hi": "5.50 mm" },
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "2.50 mm", "hi": "2.50 mm" },
+        { "en": "3.50 mm", "hi": "3.50 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Thickness of packing ring of buffer plungers is –",
+        "hi": "बफर प्लंजर की पैकिंग रिंग की मोटाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "5.50 mm", "hi": "5.50 mm" },
+        { "en": "7.50 mm", "hi": "7.50 mm" },
+        { "en": "6.50 mm", "hi": "6.50 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What is the wear limit of buffer plunger table?",
+        "hi": "बफर प्लंजर टेबल की वियर लिमिट क्या है?"
+      },
+      "options": [
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "2.50 mm", "hi": "2.50 mm" },
+        { "en": "3.50 mm", "hi": "3.50 mm" },
+        { "en": "5.50 mm", "hi": "5.50 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "What is the dynamic test load of buffer plunger?",
+        "hi": "बफर प्लंजर का डायनामिक टेस्ट लोड क्या है?"
+      },
+      "options": [
+        { "en": "7.0 t", "hi": "7.0 t" },
+        { "en": "8.0 t", "hi": "8.0 t" },
+        { "en": "10.0 t", "hi": "10.0 t" },
+        { "en": "9.0 t", "hi": "9.0 t" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Nominal thickness of buffer plunger table is –",
+        "hi": "बफर प्लंजर टेबल की नॉमिनल मोटाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "11.50 mm", "hi": "11.50 mm" },
+        { "en": "9.50 mm", "hi": "9.50 mm" },
+        { "en": "10.50 mm", "hi": "10.50 mm" },
+        { "en": "13.50 mm", "hi": "13.50 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "What is the wear limit of buffer plunger shank?",
+        "hi": "बफर प्लंजर शैंक की वियर लिमिट क्या है?"
+      },
+      "options": [
+        { "en": "5.0 mm", "hi": "5.0 mm" },
+        { "en": "3.0 mm", "hi": "3.0 mm" },
+        { "en": "4.0 mm", "hi": "4.0 mm" },
+        { "en": "6.0 mm", "hi": "6.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Maximum buffer stroke in mm is –",
+        "hi": "अधिकतम बफर स्ट्रोक (mm में) कितना होता है?"
+      },
+      "options": [
+        { "en": "68 mm", "hi": "68 mm" },
+        { "en": "72 mm", "hi": "72 mm" },
+        { "en": "70 mm", "hi": "70 mm" },
+        { "en": "65 mm", "hi": "65 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Minimum buffer stroke in mm is –",
+        "hi": "न्यूनतम बफर स्ट्रोक (mm में) कितना होता है?"
+      },
+      "options": [
+        { "en": "61 mm", "hi": "61 mm" },
+        { "en": "51 mm", "hi": "51 mm" },
+        { "en": "41 mm", "hi": "41 mm" },
+        { "en": "31 mm", "hi": "31 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "What is the capacity of buffer capsule?",
+        "hi": "बफर कैप्सूल की क्षमता कितनी होती है?"
+      },
+      "options": [
+        { "en": "1100 kgm", "hi": "1100 kgm" },
+        { "en": "1000 kgm", "hi": "1000 kgm" },
+        { "en": "1200 kgm", "hi": "1200 kgm" },
+        { "en": "900 kgm", "hi": "900 kgm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "What is the dynamic test load of buffer casing?",
+        "hi": "बफर केसिंग का डायनामिक टेस्ट लोड क्या है?"
+      },
+      "options": [
+        { "en": "12.0 t", "hi": "12.0 t" },
+        { "en": "15.0 t", "hi": "15.0 t" },
+        { "en": "10.0 t", "hi": "10.0 t" },
+        { "en": "11.0 t", "hi": "11.0 t" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "Inside distance between axle guide of 16.25 t bogie is?",
+        "hi": "16.25 t बोगी के एक्सल गाइड के बीच की आंतरिक दूरी कितनी है?"
+      },
+      "options": [
+        { "en": "570±1.0 mm", "hi": "570±1.0 mm" },
+        { "en": "580±1.0 mm", "hi": "580±1.0 mm" },
+        { "en": "590±1.0 mm", "hi": "590±1.0 mm" },
+        { "en": "560±1.0 mm", "hi": "560±1.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "What is the sound level of passenger coach?",
+        "hi": "पैसेंजर कोच का साउंड लेवल कितना होता है?"
+      },
+      "options": [
+        { "en": "50 Db", "hi": "50 Db" },
+        { "en": "60 Db", "hi": "60 Db" },
+        { "en": "70 Db", "hi": "70 Db" },
+        { "en": "40 Db", "hi": "40 Db" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "What is the unit of sound?",
+        "hi": "ध्वनि की इकाई क्या है?"
+      },
+      "options": [
+        { "en": "Newton", "hi": "Newton" },
+        { "en": "Pascal", "hi": "Pascal" },
+        { "en": "Db", "hi": "Db" },
+        { "en": "Watt", "hi": "Watt" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Flange thickness of new ICF wheel is –",
+        "hi": "नए ICF व्हील की फ्लैंज मोटाई कितनी है?"
+      },
+      "options": [
+        { "en": "29.50 mm", "hi": "29.50 mm" },
+        { "en": "27.50 mm", "hi": "27.50 mm" },
+        { "en": "28.50 mm", "hi": "28.50 mm" },
+        { "en": "26.50 mm", "hi": "26.50 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "Condemning flange thickness of ICF wheel is –",
+        "hi": "ICF व्हील की कंडेम्निंग फ्लैंज मोटाई कितनी है?"
+      },
+      "options": [
+        { "en": "22.0 mm", "hi": "22.0 mm" },
+        { "en": "20.0 mm", "hi": "20.0 mm" },
+        { "en": "18.0 mm", "hi": "18.0 mm" },
+        { "en": "16.0 mm", "hi": "16.0 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "What is the root thickness of new ICF wheel?",
+        "hi": "नए ICF व्हील की रूट मोटाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "32.0 mm", "hi": "32.0 mm" },
+        { "en": "33.0 mm", "hi": "33.0 mm" },
+        { "en": "34.0 mm", "hi": "34.0 mm" },
+        { "en": "35.0 mm", "hi": "35.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "Condemning root thickness of ICF wheel is –",
+        "hi": "ICF व्हील की कंडेम्निंग रूट मोटाई कितनी है?"
+      },
+      "options": [
+        { "en": "25.0 mm", "hi": "25.0 mm" },
+        { "en": "22.0 mm", "hi": "22.0 mm" },
+        { "en": "24.0 mm", "hi": "24.0 mm" },
+        { "en": "23.0 mm", "hi": "23.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "New radius of root of flange of ICF wheel is –",
+        "hi": "ICF व्हील के फ्लैंज के रूट की नई रेडियस कितनी है?"
+      },
+      "options": [
+        { "en": "13.0 mm", "hi": "13.0 mm" },
+        { "en": "14.0 mm", "hi": "14.0 mm" },
+        { "en": "15.0 mm", "hi": "15.0 mm" },
+        { "en": "16.0 mm", "hi": "16.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "Condemning radius of root of flange of ICF wheel is –",
+        "hi": "ICF व्हील के फ्लैंज के रूट की कंडेम्निंग रेडियस कितनी है?"
+      },
+      "options": [
+        { "en": "15.0 mm", "hi": "15.0 mm" },
+        { "en": "13.0 mm", "hi": "13.0 mm" },
+        { "en": "14.0 mm", "hi": "14.0 mm" },
+        { "en": "12.0 mm", "hi": "12.0 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "Packing piece thickness of buffer casing is –",
+        "hi": "बफर केसिंग के पैकिंग पीस की मोटाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "3.50 mm", "hi": "3.50 mm" },
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "6.50 mm", "hi": "6.50 mm" },
+        { "en": "5.50 mm", "hi": "5.50 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "What is the wear limit of buffer casing face?",
+        "hi": "बफर केसिंग फेस की वियर लिमिट क्या है?"
+      },
+      "options": [
+        { "en": "5.50 mm", "hi": "5.50 mm" },
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "2.50 mm", "hi": "2.50 mm" },
+        { "en": "3.50 mm", "hi": "3.50 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "What is the wear limit of buffer plunger guide?",
+        "hi": "बफर प्लंजर गाइड की वियर लिमिट क्या है?"
+      },
+      "options": [
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "2.50 mm", "hi": "2.50 mm" },
+        { "en": "3.50 mm", "hi": "3.50 mm" },
+        { "en": "5.50 mm", "hi": "5.50 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Thickness of packing ring of buffer casing is –",
+        "hi": "बफर केसिंग की पैकिंग रिंग की मोटाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "5.50 mm", "hi": "5.50 mm" },
+        { "en": "7.50 mm", "hi": "7.50 mm" },
+        { "en": "6.50 mm", "hi": "6.50 mm" }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "What is the wear limit of buffer casing guide?",
+        "hi": "बफर केसिंग गाइड की वियर लिमिट क्या है?"
+      },
+      "options": [
+        { "en": "5.50 mm", "hi": "5.50 mm" },
+        { "en": "4.50 mm", "hi": "4.50 mm" },
+        { "en": "2.50 mm", "hi": "2.50 mm" },
+        { "en": "3.50 mm", "hi": "3.50 mm" }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 41,
+      "question": {
+        "en": "What is the load required for regular compression of buffer in t?",
+        "hi": "बफर के नियमित कम्प्रेशन के लिए कितने लोड (टन में) की आवश्यकता होती है?"
+      },
+      "options": [
+        { "en": "12 t", "hi": "12 t" },
+        { "en": "15 t", "hi": "15 t" },
+        { "en": "10 t", "hi": "10 t" },
+        { "en": "11 t", "hi": "11 t" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "Distance between center of buffer in mm is –",
+        "hi": "बफर के सेंटर के बीच की दूरी (mm में) कितनी होती है?"
+      },
+      "options": [
+        { "en": "1952 mm", "hi": "1952 mm" },
+        { "en": "1956 mm", "hi": "1956 mm" },
+        { "en": "1950 mm", "hi": "1950 mm" },
+        { "en": "1960 mm", "hi": "1960 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "Variation in buffer height of same end in mm is –",
+        "hi": "एक ही सिरे पर बफर की ऊंचाई में भिन्नता (mm में) कितनी है?"
+      },
+      "options": [
+        { "en": "65 mm", "hi": "65 mm" },
+        { "en": "75 mm", "hi": "75 mm" },
+        { "en": "60 mm", "hi": "60 mm" },
+        { "en": "51 mm", "hi": "51 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "Variation in buffer height of same bogie in mm is –",
+        "hi": "एक ही बोगी में बफर की ऊंचाई में भिन्नता (mm में) कितनी है?"
+      },
+      "options": [
+        { "en": "65 mm", "hi": "65 mm" },
+        { "en": "75 mm", "hi": "75 mm" },
+        { "en": "60 mm", "hi": "60 mm" },
+        { "en": "51 mm", "hi": "51 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "Maximum height of buffer from rail level is –",
+        "hi": "रेल स्तर से बफर की अधिकतम ऊंचाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "1105 mm", "hi": "1105 mm" },
+        { "en": "1115 mm", "hi": "1115 mm" },
+        { "en": "1110 mm", "hi": "1110 mm" },
+        { "en": "1120 mm", "hi": "1120 mm" }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "Minimum height of buffer from rail level is –",
+        "hi": "रेल स्तर से बफर की न्यूनतम ऊंचाई कितनी होती है?"
+      },
+      "options": [
+        { "en": "1025 mm", "hi": "1025 mm" },
+        { "en": "1035 mm", "hi": "1035 mm" },
+        { "en": "1015 mm", "hi": "1015 mm" },
+        { "en": "1030 mm", "hi": "1030 mm" }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "Inside distance between axle guide of 13 t bogie is?",
+        "hi": "13 t बोगी के एक्सल गाइड के बीच की आंतरिक दूरी कितनी है?"
+      },
+      "options": [
+        { "en": "570±1.0 mm", "hi": "570±1.0 mm" },
+        { "en": "580±1.0 mm", "hi": "580±1.0 mm" },
+        { "en": "590±1.0 mm", "hi": "590±1.0 mm" },
+        { "en": "560±1.0 mm", "hi": "560±1.0 mm" }
+      ],
+      "correct": 0
+    }
+  ]
+}
