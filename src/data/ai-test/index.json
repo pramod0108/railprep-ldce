@@ -1,0 +1,5 @@
+[
+  { "id": "ai-test-1", "file": "ai-test-1.json", "paperName": "AI Mock Test - 1" },
+  { "id": "ai-test-2", "file": "ai-test-2.json", "paperName": "AI Mock Test - 2" },
+  { "id": "ai-test-3", "file": "ai-test-3.json", "paperName": "AI Mock Test - 3" }
+]
