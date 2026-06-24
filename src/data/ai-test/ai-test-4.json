@@ -576,8 +576,8 @@
     {
       "id": 23,
       "question": {
-        "en": "Choose the word opposite in meaning to the underlined word:\n\"The minister gave an @@U@@ambiguous@@/U@@ statement.\"",
-        "hi": "रेखांकित शब्द के विपरीत अर्थ वाला शब्द चुनें:\n\"The minister gave an @@U@@ambiguous@@/U@@ statement.\""
+        "en": "Choose the word opposite in meaning to the underlined word:\n\"The minister gave an a̲m̲b̲i̲g̲u̲o̲u̲s̲ statement.\"",
+        "hi": "रेखांकित शब्द के विपरीत अर्थ वाला शब्द चुनें:\n\"The minister gave an a̲m̲b̲i̲g̲u̲o̲u̲s̲ statement.\""
       },
       "options": [
         {
@@ -602,8 +602,8 @@
     {
       "id": 24,
       "question": {
-        "en": "Choose the word nearest in meaning to the underlined word:\n\"The old building looked @@U@@dilapidated@@/U@@.\"",
-        "hi": "रेखांकित शब्द के निकटतम अर्थ वाला शब्द चुनें:\n\"The old building looked @@U@@dilapidated@@/U@@.\""
+        "en": "Choose the word nearest in meaning to the underlined word:\n\"The old building looked d̲i̲l̲a̲p̲i̲d̲a̲t̲e̲d̲.\"",
+        "hi": "रेखांकित शब्द के निकटतम अर्थ वाला शब्द चुनें:\n\"The old building looked d̲i̲l̲a̲p̲i̲d̲a̲t̲e̲d̲.\""
       },
       "options": [
         {
@@ -654,8 +654,8 @@
     {
       "id": 26,
       "question": {
-        "en": "Choose the alternative that best expresses the meaning of the underlined idiom:\n\"He decided to @@U@@turn over a new leaf@@/U@@ after the warning.\"",
-        "hi": "रेखांकित मुहावरे के अर्थ को सर्वोत्तम रूप से व्यक्त करने वाला विकल्प चुनें:\n\"He decided to @@U@@turn over a new leaf@@/U@@ after the warning.\""
+        "en": "Choose the alternative that best expresses the meaning of the underlined idiom:\n\"He decided to t̲u̲r̲n̲ ̲o̲v̲e̲r̲ ̲a̲ ̲n̲e̲w̲ ̲l̲e̲a̲f̲ after the warning.\"",
+        "hi": "रेखांकित मुहावरे के अर्थ को सर्वोत्तम रूप से व्यक्त करने वाला विकल्प चुनें:\n\"He decided to t̲u̲r̲n̲ ̲o̲v̲e̲r̲ ̲a̲ ̲n̲e̲w̲ ̲l̲e̲a̲f̲ after the warning.\""
       },
       "options": [
         {
