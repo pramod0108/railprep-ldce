@@ -35,20 +35,20 @@
       },
       "options": [
         {
-          "en": "25 mm",
-          "hi": "25 मिमी"
+          "en": "100 mm",
+          "hi": "100 मिमी"
         },
         {
-          "en": "28 mm",
-          "hi": "28 मिमी"
+          "en": "96 mm",
+          "hi": "96 मिमी"
         },
         {
-          "en": "30 mm",
-          "hi": "30 मिमी"
+          "en": "110 mm",
+          "hi": "110 मिमी"
         },
         {
-          "en": "35 mm",
-          "hi": "35 मिमी"
+          "en": "95 mm",
+          "hi": "95 मिमी"
         }
       ],
       "correct": 1
@@ -117,8 +117,8 @@
           "hi": "7 दिन ± 1 दिन"
         },
         {
-          "en": "15 days ± 1 day",
-          "hi": "15 दिन ± 1 दिन"
+          "en": "6 months ± 15 day",
+          "hi": "6 महीने ± 15 दिन"
         },
         {
           "en": "1 month ± 3 days",
@@ -129,7 +129,7 @@
           "hi": "3 महीने ± 3 दिन"
         }
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "id": 6,
@@ -259,7 +259,7 @@
           "hi": "2700 मिमी"
         }
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "id": 11,
@@ -351,8 +351,8 @@
           "hi": "75 लीटर"
         },
         {
-          "en": "100 litres",
-          "hi": "100 लीटर"
+          "en": "200 litres",
+          "hi": "200 लीटर"
         },
         {
           "en": "125 litres",
@@ -550,8 +550,8 @@
     {
       "id": 22,
       "question": {
-        "en": "Choose the word nearest in meaning to the underlined word:\n\"The teacher gave a lucid explanation.\"",
-        "hi": "रेखांकित शब्द के निकटतम अर्थ वाला शब्द चुनें:\n\"शिक्षक ने एक स्पष्ट व्याख्या दी।\""
+        "en": "Choose the word nearest in meaning to the underlined word:\n\"The teacher gave a <u>lucid</u> explanation.\"",
+        "hi": "रेखांकित शब्द के निकटतम अर्थ वाला शब्द चुनें:\n\"शिक्षक ने एक <u>स्पष्ट</u> व्याख्या दी।\""
       },
       "options": [
         {
