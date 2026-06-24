@@ -1,0 +1,2865 @@
+{
+  "paperName": "AI Mock Test - 4",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "LHB coaches were originally manufactured by a company based in which country?",
+        "hi": "एलएचबी कोचों का मूल निर्माण किस देश की कंपनी द्वारा किया गया था?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Italy",
+          "hi": "इटली"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "The bogies used in LHB coaches are based on a design originally supplied by:",
+        "hi": "एलएचबी कोचों में उपयोग की जाने वाली बोगियां मूलतः किसके द्वारा प्रदत्त डिज़ाइन पर आधारित हैं?"
+      },
+      "options": [
+        {
+          "en": "RDSO, India",
+          "hi": "आरडीएसओ, भारत"
+        },
+        {
+          "en": "ICF, Chennai",
+          "hi": "आईसीएफ, चेन्नई"
+        },
+        {
+          "en": "FIAT/SIG, Switzerland",
+          "hi": "फिएट/एसआईजी, स्विट्जरलैंड"
+        },
+        {
+          "en": "Alstom, France",
+          "hi": "अल्सटॉम, फ्रांस"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "The outer shell of LHB coaches is mainly constructed using:",
+        "hi": "एलएचबी कोचों का बाहरी शेल मुख्यतः किस सामग्री से बनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Mild steel",
+          "hi": "माइल्ड स्टील"
+        },
+        {
+          "en": "Stainless steel",
+          "hi": "स्टेनलेस स्टील"
+        },
+        {
+          "en": "Cast iron",
+          "hi": "कच्चा लोहा"
+        },
+        {
+          "en": "Aluminium alloy only",
+          "hi": "केवल एल्युमिनियम मिश्र धातु"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "What type of brake system is provided in LHB coaches?",
+        "hi": "एलएचबी कोचों में किस प्रकार की ब्रेक प्रणाली उपलब्ध होती है?"
+      },
+      "options": [
+        {
+          "en": "Vacuum brake",
+          "hi": "वैक्यूम ब्रेक"
+        },
+        {
+          "en": "Axle-mounted disc brake",
+          "hi": "एक्सल-माउंटेड डिस्क ब्रेक"
+        },
+        {
+          "en": "Drum brake",
+          "hi": "ड्रम ब्रेक"
+        },
+        {
+          "en": "Shoe brake on wheel tread only",
+          "hi": "केवल पहिये के ट्रेड पर शू ब्रेक"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "The type of centre buffer coupler (CBC) provided in LHB coaches is:",
+        "hi": "एलएचबी कोचों में किस प्रकार का सेंटर बफर कपलर (CBC) लगा होता है?"
+      },
+      "options": [
+        {
+          "en": "Type C screw coupling",
+          "hi": "टाइप सी स्क्रू कपलिंग"
+        },
+        {
+          "en": "Type H tight lock CBC",
+          "hi": "टाइप एच टाइट लॉक सीबीसी"
+        },
+        {
+          "en": "Type AAR loose coupling",
+          "hi": "टाइप एएआर लूज़ कपलिंग"
+        },
+        {
+          "en": "Type E plain coupling",
+          "hi": "टाइप ई प्लेन कपलिंग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "LHB coaches are designed for a maximum operating speed of:",
+        "hi": "एलएचबी कोचों को किस अधिकतम परिचालन गति के लिए डिज़ाइन किया गया है?"
+      },
+      "options": [
+        {
+          "en": "110 km/h",
+          "hi": "110 किमी/घंटा"
+        },
+        {
+          "en": "130 km/h",
+          "hi": "130 किमी/घंटा"
+        },
+        {
+          "en": "160 km/h",
+          "hi": "160 किमी/घंटा"
+        },
+        {
+          "en": "180 km/h",
+          "hi": "180 किमी/घंटा"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "The new (unworn) wheel diameter of an LHB coach wheel is approximately:",
+        "hi": "एलएचबी कोच के पहिये का नया (बिना घिसा) व्यास लगभग कितना होता है?"
+      },
+      "options": [
+        {
+          "en": "840 mm",
+          "hi": "840 मिमी"
+        },
+        {
+          "en": "900 mm",
+          "hi": "900 मिमी"
+        },
+        {
+          "en": "915 mm",
+          "hi": "915 मिमी"
+        },
+        {
+          "en": "1000 mm",
+          "hi": "1000 मिमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Compared to a conventional ICF AC 3-tier coach (64 berths), an LHB AC 3-tier coach typically provides:",
+        "hi": "परंपरागत आईसीएफ एसी 3-टियर कोच (64 बर्थ) की तुलना में, एलएचबी एसी 3-टियर कोच में सामान्यतः कितनी बर्थ होती हैं?"
+      },
+      "options": [
+        {
+          "en": "54 berths",
+          "hi": "54 बर्थ"
+        },
+        {
+          "en": "64 berths",
+          "hi": "64 बर्थ"
+        },
+        {
+          "en": "72 berths",
+          "hi": "72 बर्थ"
+        },
+        {
+          "en": "80 berths",
+          "hi": "80 बर्थ"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which feature of LHB coaches mainly prevents one coach from climbing over another during a collision?",
+        "hi": "एलएचबी कोचों की कौन-सी विशेषता टक्कर के दौरान एक कोच को दूसरे कोच पर चढ़ने से मुख्यतः रोकती है?"
+      },
+      "options": [
+        {
+          "en": "Buffer spring",
+          "hi": "बफर स्प्रिंग"
+        },
+        {
+          "en": "Anti-climbing feature of CBC",
+          "hi": "सीबीसी की एंटी-क्लाइम्बिंग व्यवस्था"
+        },
+        {
+          "en": "Yaw damper",
+          "hi": "यॉ डैम्पर"
+        },
+        {
+          "en": "Air spring",
+          "hi": "एयर स्प्रिंग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "The maximum interior noise level inside a running LHB coach is limited to approximately:",
+        "hi": "चलती हुई एलएचबी कोच के भीतर अधिकतम ध्वनि स्तर लगभग कितना सीमित रखा गया है?"
+      },
+      "options": [
+        {
+          "en": "60 dB",
+          "hi": "60 डेसिबल"
+        },
+        {
+          "en": "80 dB",
+          "hi": "80 डेसिबल"
+        },
+        {
+          "en": "100 dB",
+          "hi": "100 डेसिबल"
+        },
+        {
+          "en": "120 dB",
+          "hi": "120 डेसिबल"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "ICF stands for:",
+        "hi": "ICF का पूरा नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Indian Coach Factory",
+          "hi": "इंडियन कोच फैक्ट्री"
+        },
+        {
+          "en": "Integral Coach Factory",
+          "hi": "इंटीग्रल कोच फैक्ट्री"
+        },
+        {
+          "en": "International Coach Federation",
+          "hi": "इंटरनेशनल कोच फेडरेशन"
+        },
+        {
+          "en": "Indian Carriage Foundry",
+          "hi": "इंडियन कैरिज फाउंड्री"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "The Integral Coach Factory is located at:",
+        "hi": "इंटीग्रल कोच फैक्ट्री किस स्थान पर स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Kapurthala",
+          "hi": "कपूरथला"
+        },
+        {
+          "en": "Perambur, Chennai",
+          "hi": "पेरम्बूर, चेन्नई"
+        },
+        {
+          "en": "Raebareli",
+          "hi": "रायबरेली"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "The design and technical know-how for the original ICF coach shell was developed in collaboration with a company from:",
+        "hi": "मूल आईसीएफ कोच शेल के डिज़ाइन एवं तकनीकी ज्ञान हेतु किस देश की कंपनी के साथ सहयोग किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "Switzerland",
+          "hi": "स्विट्जरलैंड"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "The designated maximum permissible speed of a standard ICF coach is:",
+        "hi": "एक मानक आईसीएफ कोच की निर्धारित अधिकतम अनुमेय गति कितनी है?"
+      },
+      "options": [
+        {
+          "en": "80 km/h",
+          "hi": "80 किमी/घंटा"
+        },
+        {
+          "en": "110 km/h",
+          "hi": "110 किमी/घंटा"
+        },
+        {
+          "en": "160 km/h",
+          "hi": "160 किमी/घंटा"
+        },
+        {
+          "en": "200 km/h",
+          "hi": "200 किमी/घंटा"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "The cross-section of the sole bar used in the ICF coach underframe is:",
+        "hi": "आईसीएफ कोच के अंडरफ्रेम में उपयोग किए जाने वाले सोल बार का परिच्छेद (cross-section) होता है:"
+      },
+      "options": [
+        {
+          "en": "I-section",
+          "hi": "आई-सेक्शन"
+        },
+        {
+          "en": "Z-section",
+          "hi": "ज़ेड-सेक्शन"
+        },
+        {
+          "en": "T-section",
+          "hi": "टी-सेक्शन"
+        },
+        {
+          "en": "U-section",
+          "hi": "यू-सेक्शन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "The thickness of the roof sheet used in an ICF coach is approximately:",
+        "hi": "आईसीएफ कोच में उपयोग की जाने वाली छत की शीट की मोटाई लगभग कितनी होती है?"
+      },
+      "options": [
+        {
+          "en": "1.0 mm",
+          "hi": "1.0 मिमी"
+        },
+        {
+          "en": "1.6 mm",
+          "hi": "1.6 मिमी"
+        },
+        {
+          "en": "2.5 mm",
+          "hi": "2.5 मिमी"
+        },
+        {
+          "en": "3.0 mm",
+          "hi": "3.0 मिमी"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "In an ICF coach, the function of the SAB (Slack Adjuster) is to:",
+        "hi": "आईसीएफ कोच में SAB (स्लैक एडजस्टर) का कार्य है:"
+      },
+      "options": [
+        {
+          "en": "Increase brake pipe pressure",
+          "hi": "ब्रेक पाइप का दबाव बढ़ाना"
+        },
+        {
+          "en": "Automatically maintain correct clearance between brake block and wheel tread",
+          "hi": "ब्रेक ब्लॉक और पहिये के ट्रेड के बीच सही क्लियरेंस को स्वचालित रूप से बनाए रखना"
+        },
+        {
+          "en": "Cool the brake disc",
+          "hi": "ब्रेक डिस्क को ठंडा करना"
+        },
+        {
+          "en": "Charge the auxiliary reservoir",
+          "hi": "ऑग्ज़िलियरी रिज़र्वायर को चार्ज करना"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "As per maintenance norms, the lowest permissible wheel diameter for an ICF coach after POH should not be less than:",
+        "hi": "रखरखाव मानकों के अनुसार, पीओएच के पश्चात आईसीएफ कोच के लिए न्यूनतम अनुमेय पहिया व्यास कितने से कम नहीं होना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "825 mm",
+          "hi": "825 मिमी"
+        },
+        {
+          "en": "837 mm",
+          "hi": "837 मिमी"
+        },
+        {
+          "en": "845 mm",
+          "hi": "845 मिमी"
+        },
+        {
+          "en": "860 mm",
+          "hi": "860 मिमी"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "In an ICF bogie, the anchor link primarily allows the bogie bolster to:",
+        "hi": "आईसीएफ बोगी में, एंकर लिंक मुख्यतः बोगी बोल्स्टर को क्या करने की अनुमति देता है?"
+      },
+      "options": [
+        {
+          "en": "Rotate only",
+          "hi": "केवल घूमने की"
+        },
+        {
+          "en": "Rise, fall and sway",
+          "hi": "उठने, गिरने और हिलने (sway) की"
+        },
+        {
+          "en": "Transmit braking force only",
+          "hi": "केवल ब्रेकिंग बल संचारित करने की"
+        },
+        {
+          "en": "Increase wheel diameter",
+          "hi": "पहिये का व्यास बढ़ाने की"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "In an ICF coach, the weight of the coach body is transferred to the bogie mainly through the:",
+        "hi": "आईसीएफ कोच में, कोच बॉडी का भार मुख्यतः बोगी में किसके माध्यम से स्थानांतरित होता है?"
+      },
+      "options": [
+        {
+          "en": "Anchor link",
+          "hi": "एंकर लिंक"
+        },
+        {
+          "en": "Side bearer",
+          "hi": "साइड बेयरर"
+        },
+        {
+          "en": "Brake beam",
+          "hi": "ब्रेक बीम"
+        },
+        {
+          "en": "Draw hook",
+          "hi": "ड्रॉ हुक"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Choose the most appropriate preposition to fill in the blank:\n\"He is allergic ___ dust.\"",
+        "hi": "रिक्त स्थान भरने के लिए सबसे उपयुक्त पूर्वसर्ग चुनें:\n\"He is allergic ___ dust.\""
+      },
+      "options": [
+        {
+          "en": "of",
+          "hi": "of"
+        },
+        {
+          "en": "to",
+          "hi": "to"
+        },
+        {
+          "en": "for",
+          "hi": "for"
+        },
+        {
+          "en": "with",
+          "hi": "with"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Choose the correct form of the verb to fill in the blank:\n\"If I ___ rich, I would travel the world.\"",
+        "hi": "रिक्त स्थान भरने के लिए क्रिया का सही रूप चुनें:\n\"If I ___ rich, I would travel the world.\""
+      },
+      "options": [
+        {
+          "en": "am",
+          "hi": "am"
+        },
+        {
+          "en": "was",
+          "hi": "was"
+        },
+        {
+          "en": "were",
+          "hi": "were"
+        },
+        {
+          "en": "will be",
+          "hi": "will be"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Choose the word opposite in meaning to the underlined word:\n\"The minister gave an @@U@@ambiguous@@/U@@ statement.\"",
+        "hi": "रेखांकित शब्द के विपरीत अर्थ वाला शब्द चुनें:\n\"The minister gave an @@U@@ambiguous@@/U@@ statement.\""
+      },
+      "options": [
+        {
+          "en": "Clear",
+          "hi": "Clear"
+        },
+        {
+          "en": "Vague",
+          "hi": "Vague"
+        },
+        {
+          "en": "Confusing",
+          "hi": "Confusing"
+        },
+        {
+          "en": "Lengthy",
+          "hi": "Lengthy"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Choose the word nearest in meaning to the underlined word:\n\"The old building looked @@U@@dilapidated@@/U@@.\"",
+        "hi": "रेखांकित शब्द के निकटतम अर्थ वाला शब्द चुनें:\n\"The old building looked @@U@@dilapidated@@/U@@.\""
+      },
+      "options": [
+        {
+          "en": "Renovated",
+          "hi": "Renovated"
+        },
+        {
+          "en": "Sturdy",
+          "hi": "Sturdy"
+        },
+        {
+          "en": "Ruined",
+          "hi": "Ruined"
+        },
+        {
+          "en": "Colourful",
+          "hi": "Colourful"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "Choose the alternative that best expresses the meaning of the idiom:\n\"To bite the bullet\"",
+        "hi": "मुहावरे के अर्थ को सर्वोत्तम रूप से व्यक्त करने वाला विकल्प चुनें:\n\"To bite the bullet\""
+      },
+      "options": [
+        {
+          "en": "To eat quickly",
+          "hi": "To eat quickly"
+        },
+        {
+          "en": "To face a difficult situation bravely",
+          "hi": "To face a difficult situation bravely"
+        },
+        {
+          "en": "To waste time",
+          "hi": "To waste time"
+        },
+        {
+          "en": "To avoid responsibility",
+          "hi": "To avoid responsibility"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Choose the alternative that best expresses the meaning of the underlined idiom:\n\"He decided to @@U@@turn over a new leaf@@/U@@ after the warning.\"",
+        "hi": "रेखांकित मुहावरे के अर्थ को सर्वोत्तम रूप से व्यक्त करने वाला विकल्प चुनें:\n\"He decided to @@U@@turn over a new leaf@@/U@@ after the warning.\""
+      },
+      "options": [
+        {
+          "en": "To change his behaviour for the better",
+          "hi": "To change his behaviour for the better"
+        },
+        {
+          "en": "To start a new job",
+          "hi": "To start a new job"
+        },
+        {
+          "en": "To read a new book",
+          "hi": "To read a new book"
+        },
+        {
+          "en": "To plant a tree",
+          "hi": "To plant a tree"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "Choose the correct preposition:\n\"The train arrived ___ time despite the heavy fog.\"",
+        "hi": "सही पूर्वसर्ग चुनें:\n\"The train arrived ___ time despite the heavy fog.\""
+      },
+      "options": [
+        {
+          "en": "in",
+          "hi": "in"
+        },
+        {
+          "en": "on",
+          "hi": "on"
+        },
+        {
+          "en": "at",
+          "hi": "at"
+        },
+        {
+          "en": "within",
+          "hi": "within"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Choose the correct passive voice of the sentence:\n\"The supervisor inspects the workshop daily.\"",
+        "hi": "वाक्य का सही passive voice (कर्मवाच्य) रूप चुनें:\n\"The supervisor inspects the workshop daily.\""
+      },
+      "options": [
+        {
+          "en": "The workshop was inspected by the supervisor daily.",
+          "hi": "The workshop was inspected by the supervisor daily."
+        },
+        {
+          "en": "The workshop is inspected by the supervisor daily.",
+          "hi": "The workshop is inspected by the supervisor daily."
+        },
+        {
+          "en": "The workshop is being inspected by the supervisor daily.",
+          "hi": "The workshop is being inspected by the supervisor daily."
+        },
+        {
+          "en": "The workshop has been inspected by the supervisor daily.",
+          "hi": "The workshop has been inspected by the supervisor daily."
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "Choose the correctly spelt word.",
+        "hi": "सही वर्तनी वाला शब्द चुनें।"
+      },
+      "options": [
+        {
+          "en": "Maintainance",
+          "hi": "Maintainance"
+        },
+        {
+          "en": "Maintenence",
+          "hi": "Maintenence"
+        },
+        {
+          "en": "Maintenance",
+          "hi": "Maintenance"
+        },
+        {
+          "en": "Maintinance",
+          "hi": "Maintinance"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Choose the correctly spelt word.",
+        "hi": "सही वर्तनी वाला शब्द चुनें।"
+      },
+      "options": [
+        {
+          "en": "Acommodation",
+          "hi": "Acommodation"
+        },
+        {
+          "en": "Accommodation",
+          "hi": "Accommodation"
+        },
+        {
+          "en": "Accomodation",
+          "hi": "Accomodation"
+        },
+        {
+          "en": "Acomodation",
+          "hi": "Acomodation"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "Find the square root of 0.0081.",
+        "hi": "0.0081 का वर्गमूल ज्ञात करें।"
+      },
+      "options": [
+        {
+          "en": "0.9",
+          "hi": "0.9"
+        },
+        {
+          "en": "0.09",
+          "hi": "0.09"
+        },
+        {
+          "en": "0.009",
+          "hi": "0.009"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "Find the cube root of 0.000729.",
+        "hi": "0.000729 का घनमूल ज्ञात करें।"
+      },
+      "options": [
+        {
+          "en": "0.9",
+          "hi": "0.9"
+        },
+        {
+          "en": "0.09",
+          "hi": "0.09"
+        },
+        {
+          "en": "0.009",
+          "hi": "0.009"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "If a + b = 10 and ab = 21, find the value of a² + b².",
+        "hi": "यदि a + b = 10 और ab = 21 है, तो a² + b² का मान ज्ञात करें।"
+      },
+      "options": [
+        {
+          "en": "37",
+          "hi": "37"
+        },
+        {
+          "en": "42",
+          "hi": "42"
+        },
+        {
+          "en": "58",
+          "hi": "58"
+        },
+        {
+          "en": "79",
+          "hi": "79"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "Simplify: √50 + √32",
+        "hi": "सरल कीजिए: √50 + √32"
+      },
+      "options": [
+        {
+          "en": "7√2",
+          "hi": "7√2"
+        },
+        {
+          "en": "8√2",
+          "hi": "8√2"
+        },
+        {
+          "en": "9√2",
+          "hi": "9√2"
+        },
+        {
+          "en": "6√2",
+          "hi": "6√2"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "If a − b = 6 and a² + b² = 68, find the value of ab.",
+        "hi": "यदि a − b = 6 और a² + b² = 68 है, तो ab का मान ज्ञात करें।"
+      },
+      "options": [
+        {
+          "en": "14",
+          "hi": "14"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "The value of (1 + tan²45°) / (1 + cot²45°) is:",
+        "hi": "(1 + tan²45°) / (1 + cot²45°) का मान है:"
+      },
+      "options": [
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "1/2",
+          "hi": "1/2"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "If sinθ = 3/5 (θ is acute), the value of cosθ is:",
+        "hi": "यदि sinθ = 3/5 है (θ न्यून कोण है), तो cosθ का मान है:"
+      },
+      "options": [
+        {
+          "en": "3/4",
+          "hi": "3/4"
+        },
+        {
+          "en": "4/5",
+          "hi": "4/5"
+        },
+        {
+          "en": "5/4",
+          "hi": "5/4"
+        },
+        {
+          "en": "5/3",
+          "hi": "5/3"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "The value of sin60°·cos30° + cos60°·sin30° is:",
+        "hi": "sin60°·cos30° + cos60°·sin30° का मान है:"
+      },
+      "options": [
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1/2",
+          "hi": "1/2"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "√3/2",
+          "hi": "√3/2"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Find the area of a rhombus whose diagonals are 16 cm and 12 cm.",
+        "hi": "उस समचतुर्भुज (rhombus) का क्षेत्रफल ज्ञात करें जिसके विकर्ण 16 सेमी और 12 सेमी हैं।"
+      },
+      "options": [
+        {
+          "en": "96 cm²",
+          "hi": "96 सेमी²"
+        },
+        {
+          "en": "192 cm²",
+          "hi": "192 सेमी²"
+        },
+        {
+          "en": "48 cm²",
+          "hi": "48 सेमी²"
+        },
+        {
+          "en": "144 cm²",
+          "hi": "144 सेमी²"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "1 kilometre is equal to how many centimetres?",
+        "hi": "1 किलोमीटर कितने सेंटीमीटर के बराबर होता है?"
+      },
+      "options": [
+        {
+          "en": "1,000 cm",
+          "hi": "1,000 सेमी"
+        },
+        {
+          "en": "10,000 cm",
+          "hi": "10,000 सेमी"
+        },
+        {
+          "en": "100,000 cm",
+          "hi": "100,000 सेमी"
+        },
+        {
+          "en": "1,000,000 cm",
+          "hi": "1,000,000 सेमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 41,
+      "question": {
+        "en": "The SI unit of force is:",
+        "hi": "बल की SI इकाई है:"
+      },
+      "options": [
+        {
+          "en": "Joule",
+          "hi": "जूल"
+        },
+        {
+          "en": "Newton",
+          "hi": "न्यूटन"
+        },
+        {
+          "en": "Watt",
+          "hi": "वाट"
+        },
+        {
+          "en": "Pascal",
+          "hi": "पास्कल"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "The rate of doing work is called:",
+        "hi": "कार्य करने की दर को कहा जाता है:"
+      },
+      "options": [
+        {
+          "en": "Energy",
+          "hi": "ऊर्जा"
+        },
+        {
+          "en": "Power",
+          "hi": "शक्ति"
+        },
+        {
+          "en": "Force",
+          "hi": "बल"
+        },
+        {
+          "en": "Momentum",
+          "hi": "संवेग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "A body of mass 2 kg is moving with a velocity of 5 m/s. Its kinetic energy is:",
+        "hi": "2 किग्रा द्रव्यमान का एक पिंड 5 मी/से के वेग से गतिमान है। उसकी गतिज ऊर्जा है:"
+      },
+      "options": [
+        {
+          "en": "10 J",
+          "hi": "10 जूल"
+        },
+        {
+          "en": "25 J",
+          "hi": "25 जूल"
+        },
+        {
+          "en": "50 J",
+          "hi": "50 जूल"
+        },
+        {
+          "en": "100 J",
+          "hi": "100 जूल"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "Which of the following is a vector quantity?",
+        "hi": "निम्नलिखित में से कौन-सी एक सदिश (vector) राशि है?"
+      },
+      "options": [
+        {
+          "en": "Speed",
+          "hi": "चाल"
+        },
+        {
+          "en": "Energy",
+          "hi": "ऊर्जा"
+        },
+        {
+          "en": "Momentum",
+          "hi": "संवेग"
+        },
+        {
+          "en": "Mass",
+          "hi": "द्रव्यमान"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "A force of 20 N acts on a body of mass 4 kg initially at rest. The distance covered by the body in 3 seconds is:",
+        "hi": "प्रारंभ में विराम अवस्था में स्थित 4 किग्रा द्रव्यमान के एक पिंड पर 20 N का बल लगाया जाता है। 3 सेकंड में पिंड द्वारा तय की गई दूरी है:"
+      },
+      "options": [
+        {
+          "en": "15 m",
+          "hi": "15 मीटर"
+        },
+        {
+          "en": "22.5 m",
+          "hi": "22.5 मीटर"
+        },
+        {
+          "en": "30 m",
+          "hi": "30 मीटर"
+        },
+        {
+          "en": "45 m",
+          "hi": "45 मीटर"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "Pressure is defined as:",
+        "hi": "दाब (Pressure) को परिभाषित किया जाता है:"
+      },
+      "options": [
+        {
+          "en": "Force per unit area",
+          "hi": "प्रति इकाई क्षेत्रफल बल"
+        },
+        {
+          "en": "Force per unit volume",
+          "hi": "प्रति इकाई आयतन बल"
+        },
+        {
+          "en": "Mass per unit area",
+          "hi": "प्रति इकाई क्षेत्रफल द्रव्यमान"
+        },
+        {
+          "en": "Energy per unit time",
+          "hi": "प्रति इकाई समय ऊर्जा"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "According to the law of conservation of momentum, the total momentum of an isolated system:",
+        "hi": "संवेग संरक्षण के नियम के अनुसार, एक विलगित (isolated) निकाय का कुल संवेग:"
+      },
+      "options": [
+        {
+          "en": "Increases continuously",
+          "hi": "निरंतर बढ़ता है"
+        },
+        {
+          "en": "Decreases continuously",
+          "hi": "निरंतर घटता है"
+        },
+        {
+          "en": "Remains constant",
+          "hi": "स्थिर रहता है"
+        },
+        {
+          "en": "Becomes zero",
+          "hi": "शून्य हो जाता है"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "A bullet of mass 0.02 kg moving with a velocity of 300 m/s is fired from a gun of mass 6 kg. The recoil velocity of the gun is:",
+        "hi": "0.02 किग्रा द्रव्यमान की एक गोली 300 मी/से के वेग से 6 किग्रा द्रव्यमान की बंदूक से दागी जाती है। बंदूक का प्रतिक्षेप (recoil) वेग है:"
+      },
+      "options": [
+        {
+          "en": "0.5 m/s",
+          "hi": "0.5 मी/से"
+        },
+        {
+          "en": "1 m/s",
+          "hi": "1 मी/से"
+        },
+        {
+          "en": "2 m/s",
+          "hi": "2 मी/से"
+        },
+        {
+          "en": "6 m/s",
+          "hi": "6 मी/से"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "The number of moles in 8 grams of oxygen gas (O₂, molar mass 32 g/mol) is:",
+        "hi": "8 ग्राम ऑक्सीजन गैस (O₂, मोलर द्रव्यमान 32 ग्राम/मोल) में मोलों की संख्या है:"
+      },
+      "options": [
+        {
+          "en": "0.25",
+          "hi": "0.25"
+        },
+        {
+          "en": "0.5",
+          "hi": "0.5"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "The chemical symbol for Sodium is:",
+        "hi": "सोडियम का रासायनिक प्रतीक है:"
+      },
+      "options": [
+        {
+          "en": "So",
+          "hi": "So"
+        },
+        {
+          "en": "Na",
+          "hi": "Na"
+        },
+        {
+          "en": "Sd",
+          "hi": "Sd"
+        },
+        {
+          "en": "S",
+          "hi": "S"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "The valency of Aluminium is:",
+        "hi": "एल्युमिनियम की संयोजकता है:"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "An atom is electrically:",
+        "hi": "एक परमाणु विद्युत की दृष्टि से होता है:"
+      },
+      "options": [
+        {
+          "en": "Positively charged",
+          "hi": "धन आवेशित"
+        },
+        {
+          "en": "Negatively charged",
+          "hi": "ऋण आवेशित"
+        },
+        {
+          "en": "Neutral",
+          "hi": "उदासीन"
+        },
+        {
+          "en": "Sometimes positive, sometimes negative",
+          "hi": "कभी धन, कभी ऋण आवेशित"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "Which subatomic particle has no electric charge?",
+        "hi": "किस उप-परमाण्विक कण पर कोई विद्युत आवेश नहीं होता है?"
+      },
+      "options": [
+        {
+          "en": "Proton",
+          "hi": "प्रोटॉन"
+        },
+        {
+          "en": "Electron",
+          "hi": "इलेक्ट्रॉन"
+        },
+        {
+          "en": "Neutron",
+          "hi": "न्यूट्रॉन"
+        },
+        {
+          "en": "Positron",
+          "hi": "पॉज़िट्रॉन"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "One mole of any gas at STP occupies a volume of:",
+        "hi": "STP पर किसी भी गैस का एक मोल कितना आयतन घेरता है?"
+      },
+      "options": [
+        {
+          "en": "11.2 litres",
+          "hi": "11.2 लीटर"
+        },
+        {
+          "en": "22.4 litres",
+          "hi": "22.4 लीटर"
+        },
+        {
+          "en": "44.8 litres",
+          "hi": "44.8 लीटर"
+        },
+        {
+          "en": "2.24 litres",
+          "hi": "2.24 लीटर"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "Rusting of iron is an example of a:",
+        "hi": "लोहे में जंग लगना किसका उदाहरण है?"
+      },
+      "options": [
+        {
+          "en": "Physical change",
+          "hi": "भौतिक परिवर्तन"
+        },
+        {
+          "en": "Chemical change",
+          "hi": "रासायनिक परिवर्तन"
+        },
+        {
+          "en": "Nuclear change",
+          "hi": "नाभिकीय परिवर्तन"
+        },
+        {
+          "en": "Reversible change",
+          "hi": "उत्क्रमणीय परिवर्तन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "Which of the following is a ferrous metal?",
+        "hi": "निम्नलिखित में से कौन-सी एक लौह (ferrous) धातु है?"
+      },
+      "options": [
+        {
+          "en": "Brass",
+          "hi": "पीतल"
+        },
+        {
+          "en": "Cast iron",
+          "hi": "कच्चा लोहा"
+        },
+        {
+          "en": "Bronze",
+          "hi": "कांसा"
+        },
+        {
+          "en": "Aluminium",
+          "hi": "एल्युमिनियम"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "Which of the following is a non-ferrous metal?",
+        "hi": "निम्नलिखित में से कौन-सी एक अलौह (non-ferrous) धातु है?"
+      },
+      "options": [
+        {
+          "en": "Mild steel",
+          "hi": "माइल्ड स्टील"
+        },
+        {
+          "en": "Cast iron",
+          "hi": "कच्चा लोहा"
+        },
+        {
+          "en": "Copper",
+          "hi": "तांबा"
+        },
+        {
+          "en": "Wrought iron",
+          "hi": "पिटवां लोहा"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "The process of heating steel and then cooling it slowly in a furnace to relieve internal stresses and improve ductility is called:",
+        "hi": "इस्पात को गर्म करके भट्टी में धीरे-धीरे ठंडा करने की प्रक्रिया, जिससे आंतरिक तनाव दूर होता है और तन्यता में सुधार होता है, कहलाती है:"
+      },
+      "options": [
+        {
+          "en": "Quenching",
+          "hi": "क्वेंचिंग"
+        },
+        {
+          "en": "Annealing",
+          "hi": "एनीलिंग"
+        },
+        {
+          "en": "Tempering",
+          "hi": "टेम्परिंग"
+        },
+        {
+          "en": "Case hardening",
+          "hi": "केस हार्डनिंग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "Tempering is generally carried out after which heat treatment process to reduce brittleness?",
+        "hi": "भंगुरता (brittleness) कम करने के लिए सामान्यतः किस ऊष्मा उपचार प्रक्रिया के बाद टेम्परिंग की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Normalizing",
+          "hi": "नॉर्मलाइजिंग"
+        },
+        {
+          "en": "Annealing",
+          "hi": "एनीलिंग"
+        },
+        {
+          "en": "Hardening",
+          "hi": "हार्डनिंग"
+        },
+        {
+          "en": "Carburizing",
+          "hi": "कार्बुराइजिंग"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "In which heat treatment process is steel heated above its upper critical temperature and then cooled in still air?",
+        "hi": "किस ऊष्मा उपचार प्रक्रिया में इस्पात को उसके ऊपरी क्रांतिक तापमान से ऊपर गर्म करके स्थिर वायु में ठंडा किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Annealing",
+          "hi": "एनीलिंग"
+        },
+        {
+          "en": "Normalizing",
+          "hi": "नॉर्मलाइजिंग"
+        },
+        {
+          "en": "Tempering",
+          "hi": "टेम्परिंग"
+        },
+        {
+          "en": "Quenching",
+          "hi": "क्वेंचिंग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 61,
+      "question": {
+        "en": "The property of a material due to which it can be permanently deformed without fracture is called:",
+        "hi": "किसी पदार्थ का वह गुण जिसके कारण उसे टूटे बिना स्थायी रूप से विरूपित (deform) किया जा सकता है, कहलाता है:"
+      },
+      "options": [
+        {
+          "en": "Elasticity",
+          "hi": "प्रत्यास्थता"
+        },
+        {
+          "en": "Plasticity",
+          "hi": "प्लास्टिसिटी"
+        },
+        {
+          "en": "Brittleness",
+          "hi": "भंगुरता"
+        },
+        {
+          "en": "Hardness",
+          "hi": "कठोरता"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "The property of a material by which it can absorb energy and resist shock or impact loads is called:",
+        "hi": "किसी पदार्थ का वह गुण जिसके कारण वह ऊर्जा अवशोषित कर सकता है और झटके या आघात भार का प्रतिरोध कर सकता है, कहलाता है:"
+      },
+      "options": [
+        {
+          "en": "Toughness",
+          "hi": "चिमड़ापन (टफनेस)"
+        },
+        {
+          "en": "Hardness",
+          "hi": "कठोरता"
+        },
+        {
+          "en": "Brittleness",
+          "hi": "भंगुरता"
+        },
+        {
+          "en": "Stiffness",
+          "hi": "स्टिफनेस"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "Brass is an alloy of:",
+        "hi": "पीतल किसका मिश्र धातु है?"
+      },
+      "options": [
+        {
+          "en": "Copper and Tin",
+          "hi": "तांबा और टिन"
+        },
+        {
+          "en": "Copper and Zinc",
+          "hi": "तांबा और जस्ता"
+        },
+        {
+          "en": "Copper and Nickel",
+          "hi": "तांबा और निकल"
+        },
+        {
+          "en": "Tin and Lead",
+          "hi": "टिन और सीसा"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "Bronze is mainly an alloy of:",
+        "hi": "कांसा मुख्यतः किसका मिश्र धातु है?"
+      },
+      "options": [
+        {
+          "en": "Copper and Zinc",
+          "hi": "तांबा और जस्ता"
+        },
+        {
+          "en": "Copper and Tin",
+          "hi": "तांबा और टिन"
+        },
+        {
+          "en": "Iron and Carbon",
+          "hi": "लोहा और कार्बन"
+        },
+        {
+          "en": "Aluminium and Copper",
+          "hi": "एल्युमिनियम और तांबा"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "Stainless steel resists corrosion mainly due to the presence of:",
+        "hi": "स्टेनलेस स्टील मुख्यतः किसकी उपस्थिति के कारण संक्षारण (corrosion) का प्रतिरोध करता है?"
+      },
+      "options": [
+        {
+          "en": "Carbon",
+          "hi": "कार्बन"
+        },
+        {
+          "en": "Chromium",
+          "hi": "क्रोमियम"
+        },
+        {
+          "en": "Manganese",
+          "hi": "मैंगनीज़"
+        },
+        {
+          "en": "Sulphur",
+          "hi": "सल्फर"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "In an engineering drawing, a dimension line is terminated at each end by:",
+        "hi": "इंजीनियरिंग ड्राइंग में, आयाम रेखा (dimension line) के प्रत्येक सिरे को किससे समाप्त किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "A circle",
+          "hi": "एक वृत्त"
+        },
+        {
+          "en": "An arrowhead",
+          "hi": "एक तीर का निशान"
+        },
+        {
+          "en": "A dot",
+          "hi": "एक बिंदु"
+        },
+        {
+          "en": "A cross",
+          "hi": "एक क्रॉस"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "Which type of line is used to represent a centre line in engineering drawing?",
+        "hi": "इंजीनियरिंग ड्राइंग में केंद्र रेखा (centre line) दर्शाने के लिए किस प्रकार की रेखा का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Continuous thick line",
+          "hi": "सतत मोटी रेखा"
+        },
+        {
+          "en": "Long chain thin line",
+          "hi": "लंबी चेन पतली रेखा"
+        },
+        {
+          "en": "Continuous thin wavy line",
+          "hi": "सतत पतली लहरदार रेखा"
+        },
+        {
+          "en": "Dashed thick line",
+          "hi": "डैश्ड मोटी रेखा"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "The symbol 'Ra' used on an engineering drawing indicates:",
+        "hi": "इंजीनियरिंग ड्राइंग में उपयोग किया जाने वाला प्रतीक 'Ra' किसे दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "Radius",
+          "hi": "अर्धव्यास"
+        },
+        {
+          "en": "Surface roughness value",
+          "hi": "सतह खुरदरापन मान"
+        },
+        {
+          "en": "Angle of taper",
+          "hi": "टेपर का कोण"
+        },
+        {
+          "en": "Reference axis",
+          "hi": "संदर्भ अक्ष"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "A tolerance specification of 50 +0.05/−0.00 mm is an example of:",
+        "hi": "50 +0.05/−0.00 मिमी की टॉलरेंस विशिष्टता किसका उदाहरण है?"
+      },
+      "options": [
+        {
+          "en": "Bilateral tolerance",
+          "hi": "द्विपक्षीय (bilateral) सहनशीलता"
+        },
+        {
+          "en": "Unilateral tolerance",
+          "hi": "एकपक्षीय (unilateral) सहनशीलता"
+        },
+        {
+          "en": "Limit tolerance only",
+          "hi": "केवल सीमा सहनशीलता"
+        },
+        {
+          "en": "Geometric tolerance",
+          "hi": "ज्यामितीय सहनशीलता"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "Which of the following workshop machines is used for removing material by a rotating multi-tooth cutter?",
+        "hi": "निम्नलिखित में से कौन-सी कार्यशाला मशीन घूर्णन करने वाले बहु-दांत कटर द्वारा पदार्थ हटाने हेतु उपयोग की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Lathe machine",
+          "hi": "लेथ मशीन"
+        },
+        {
+          "en": "Milling machine",
+          "hi": "मिलिंग मशीन"
+        },
+        {
+          "en": "Drilling machine",
+          "hi": "ड्रिलिंग मशीन"
+        },
+        {
+          "en": "Shaper machine",
+          "hi": "शेपर मशीन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "Disciplinary proceedings against Railway servants are governed by:",
+        "hi": "रेलवे कर्मचारियों के विरुद्ध अनुशासनात्मक कार्यवाही किसके द्वारा शासित होती है?"
+      },
+      "options": [
+        {
+          "en": "Railway Servants (Discipline & Appeal) Rules, 1968",
+          "hi": "रेलवे सेवक (अनुशासन एवं अपील) नियम, 1968"
+        },
+        {
+          "en": "Indian Railway Establishment Code",
+          "hi": "भारतीय रेल स्थापना संहिता"
+        },
+        {
+          "en": "Railway Servants (Pass) Rules",
+          "hi": "रेलवे सेवक (पास) नियम"
+        },
+        {
+          "en": "Factories Act, 1948",
+          "hi": "कारखाना अधिनियम, 1948"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "Under the Railway Servants (D&A) Rules, which of the following is a MAJOR penalty?",
+        "hi": "रेलवे सेवक (डी एंड ए) नियमों के अंतर्गत, निम्नलिखित में से कौन-सा एक प्रमुख (major) दंड है?"
+      },
+      "options": [
+        {
+          "en": "Censure",
+          "hi": "परिनिंदा"
+        },
+        {
+          "en": "Withholding of increment without cumulative effect",
+          "hi": "संचयी प्रभाव के बिना वेतन वृद्धि रोकना"
+        },
+        {
+          "en": "Removal from service",
+          "hi": "सेवा से हटाना"
+        },
+        {
+          "en": "Withholding of passes",
+          "hi": "पास रोकना"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "Under the Railway Servants (D&A) Rules, which of the following is a MINOR penalty?",
+        "hi": "रेलवे सेवक (डी एंड ए) नियमों के अंतर्गत, निम्नलिखित में से कौन-सा एक मामूली (minor) दंड है?"
+      },
+      "options": [
+        {
+          "en": "Compulsory retirement",
+          "hi": "अनिवार्य सेवानिवृत्ति"
+        },
+        {
+          "en": "Censure",
+          "hi": "परिनिंदा"
+        },
+        {
+          "en": "Dismissal from service",
+          "hi": "सेवा से बर्खास्तगी"
+        },
+        {
+          "en": "Reduction in rank",
+          "hi": "पदावनति"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "As per HOER, the category of railway staff whose employment is NOT subject to any limitation on hours of duty is called:",
+        "hi": "HOER के अनुसार, रेलवे कर्मचारियों की वह श्रेणी जिनके कार्य घंटों पर कोई सीमा नहीं होती, कहलाती है:"
+      },
+      "options": [
+        {
+          "en": "Intensive",
+          "hi": "गहन (इंटेंसिव)"
+        },
+        {
+          "en": "Continuous",
+          "hi": "सतत (कंटीन्यूअस)"
+        },
+        {
+          "en": "Essentially Intermittent",
+          "hi": "अनिवार्यतः अंतरायित"
+        },
+        {
+          "en": "Excluded",
+          "hi": "अपवर्जित (एक्सक्लूडेड)"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "As per HOER, a railway servant classified under the 'Continuous' category must be given a minimum periodic rest of:",
+        "hi": "HOER के अनुसार, 'सतत' (Continuous) श्रेणी में वर्गीकृत रेलवे सेवक को न्यूनतम आवधिक विश्राम दिया जाना चाहिए:"
+      },
+      "options": [
+        {
+          "en": "8 hours",
+          "hi": "8 घंटे"
+        },
+        {
+          "en": "10 hours",
+          "hi": "10 घंटे"
+        },
+        {
+          "en": "12 hours",
+          "hi": "12 घंटे"
+        },
+        {
+          "en": "14 hours",
+          "hi": "14 घंटे"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "As per HOER, a railway servant classified under the 'Intensive' category must be given a minimum periodic rest of:",
+        "hi": "HOER के अनुसार, 'गहन' (Intensive) श्रेणी में वर्गीकृत रेलवे सेवक को न्यूनतम आवधिक विश्राम दिया जाना चाहिए:"
+      },
+      "options": [
+        {
+          "en": "8 hours",
+          "hi": "8 घंटे"
+        },
+        {
+          "en": "10 hours",
+          "hi": "10 घंटे"
+        },
+        {
+          "en": "12 hours",
+          "hi": "12 घंटे"
+        },
+        {
+          "en": "16 hours",
+          "hi": "16 घंटे"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "Leave to a railway servant is regarded as:",
+        "hi": "रेलवे सेवक के लिए अवकाश माना जाता है:"
+      },
+      "options": [
+        {
+          "en": "A matter of right",
+          "hi": "एक अधिकार का विषय"
+        },
+        {
+          "en": "A facility granted at the discretion of the competent authority",
+          "hi": "सक्षम प्राधिकारी के विवेक पर प्रदत्त एक सुविधा"
+        },
+        {
+          "en": "A monetary benefit only",
+          "hi": "केवल एक मौद्रिक लाभ"
+        },
+        {
+          "en": "Compulsory every year",
+          "hi": "प्रत्येक वर्ष अनिवार्य"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "The minimum number of consecutive hours of periodic rest prescribed for staff classified as 'Essentially Intermittent' under HOER is:",
+        "hi": "HOER के अंतर्गत 'अनिवार्यतः अंतरायित' (Essentially Intermittent) श्रेणी के कर्मचारियों हेतु निर्धारित न्यूनतम लगातार आवधिक विश्राम के घंटे हैं:"
+      },
+      "options": [
+        {
+          "en": "6 hours",
+          "hi": "6 घंटे"
+        },
+        {
+          "en": "8 hours",
+          "hi": "8 घंटे"
+        },
+        {
+          "en": "10 hours",
+          "hi": "10 घंटे"
+        },
+        {
+          "en": "12 hours",
+          "hi": "12 घंटे"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "A Privilege Pass enables a railway employee and eligible family members to travel:",
+        "hi": "एक विशेषाधिकार पास (Privilege Pass) रेलवे कर्मचारी और पात्र परिवार के सदस्यों को यात्रा करने में सक्षम बनाता है:"
+      },
+      "options": [
+        {
+          "en": "Free of cost on any private transport",
+          "hi": "किसी भी निजी परिवहन पर मुफ्त"
+        },
+        {
+          "en": "At concessional/free rates on the railway as per entitlement",
+          "hi": "अधिकार के अनुसार रेलवे पर रियायती/मुफ्त दर पर"
+        },
+        {
+          "en": "Only on duty journeys",
+          "hi": "केवल ड्यूटी यात्राओं पर"
+        },
+        {
+          "en": "Only during festivals",
+          "hi": "केवल त्योहारों के दौरान"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "Under the D&AR, before imposing a major penalty on a railway servant, it is mandatory to:",
+        "hi": "डी एंड एआर के अंतर्गत, किसी रेलवे सेवक पर प्रमुख दंड लगाने से पहले अनिवार्य है कि:"
+      },
+      "options": [
+        {
+          "en": "Directly impose the penalty without inquiry",
+          "hi": "जांच के बिना सीधे दंड लगाया जाए"
+        },
+        {
+          "en": "Hold a regular inquiry and give the servant a reasonable opportunity to defend",
+          "hi": "नियमित जांच की जाए और सेवक को बचाव का उचित अवसर दिया जाए"
+        },
+        {
+          "en": "Suspend the servant permanently",
+          "hi": "सेवक को स्थायी रूप से निलंबित किया जाए"
+        },
+        {
+          "en": "Refer the case to court only",
+          "hi": "मामले को केवल न्यायालय को भेजा जाए"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 81,
+      "question": {
+        "en": "The headquarters of Indian Railways is located at:",
+        "hi": "भारतीय रेल का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Kolkata",
+          "hi": "कोलकाता"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "The Integral Coach Factory and the Rail Coach Factory are examples of:",
+        "hi": "इंटीग्रल कोच फैक्ट्री और रेल कोच फैक्ट्री किसके उदाहरण हैं?"
+      },
+      "options": [
+        {
+          "en": "Railway zones",
+          "hi": "रेलवे क्षेत्र (ज़ोन)"
+        },
+        {
+          "en": "Production units of Indian Railways",
+          "hi": "भारतीय रेल की उत्पादन इकाइयाँ"
+        },
+        {
+          "en": "Railway divisions",
+          "hi": "रेलवे मंडल"
+        },
+        {
+          "en": "Railway training institutes",
+          "hi": "रेलवे प्रशिक्षण संस्थान"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "The National Rail Museum of India is located at:",
+        "hi": "भारत का राष्ट्रीय रेल संग्रहालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        },
+        {
+          "en": "Kolkata",
+          "hi": "कोलकाता"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "Which of the following is a classical dance form of India?",
+        "hi": "निम्नलिखित में से कौन-सा भारत का एक शास्त्रीय नृत्य रूप है?"
+      },
+      "options": [
+        {
+          "en": "Bharatanatyam",
+          "hi": "भरतनाट्यम"
+        },
+        {
+          "en": "Garba",
+          "hi": "गरबा"
+        },
+        {
+          "en": "Bhangra",
+          "hi": "भांगड़ा"
+        },
+        {
+          "en": "Lavani",
+          "hi": "लावणी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "The Sun Temple at Konark is located in the state of:",
+        "hi": "कोणार्क का सूर्य मंदिर किस राज्य में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओड़िशा"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "Who is regarded as the chief architect of the Indian Constitution?",
+        "hi": "भारतीय संविधान के मुख्य निर्माता के रूप में किसे माना जाता है?"
+      },
+      "options": [
+        {
+          "en": "Mahatma Gandhi",
+          "hi": "महात्मा गांधी"
+        },
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Dr. B. R. Ambedkar",
+          "hi": "डॉ. बी. आर. अम्बेडकर"
+        },
+        {
+          "en": "Sardar Vallabhbhai Patel",
+          "hi": "सरदार वल्लभभाई पटेल"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "Which Article of the Indian Constitution deals with the abolition of untouchability?",
+        "hi": "भारतीय संविधान का कौन-सा अनुच्छेद अस्पृश्यता के उन्मूलन से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Article 14",
+          "hi": "अनुच्छेद 14"
+        },
+        {
+          "en": "Article 17",
+          "hi": "अनुच्छेद 17"
+        },
+        {
+          "en": "Article 21",
+          "hi": "अनुच्छेद 21"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "The Wimbledon Championship is associated with which sport?",
+        "hi": "विंबलडन चैंपियनशिप किस खेल से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Badminton",
+          "hi": "बैडमिंटन"
+        },
+        {
+          "en": "Tennis",
+          "hi": "टेनिस"
+        },
+        {
+          "en": "Table Tennis",
+          "hi": "टेबल टेनिस"
+        },
+        {
+          "en": "Squash",
+          "hi": "स्क्वैश"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "The longest river in India is:",
+        "hi": "भारत की सबसे लंबी नदी है:"
+      },
+      "options": [
+        {
+          "en": "Yamuna",
+          "hi": "यमुना"
+        },
+        {
+          "en": "Godavari",
+          "hi": "गोदावरी"
+        },
+        {
+          "en": "Ganga",
+          "hi": "गंगा"
+        },
+        {
+          "en": "Brahmaputra",
+          "hi": "ब्रह्मपुत्र"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "The Khajuraho temples, famous for their architecture, are located in:",
+        "hi": "अपनी वास्तुकला के लिए प्रसिद्ध खजुराहो मंदिर किस राज्य में स्थित हैं?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "The brain of the computer is known as:",
+        "hi": "कंप्यूटर के मस्तिष्क के रूप में जाना जाता है:"
+      },
+      "options": [
+        {
+          "en": "Monitor",
+          "hi": "मॉनिटर"
+        },
+        {
+          "en": "CPU",
+          "hi": "सीपीयू"
+        },
+        {
+          "en": "Keyboard",
+          "hi": "कीबोर्ड"
+        },
+        {
+          "en": "Hard disk",
+          "hi": "हार्ड डिस्क"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "Which of the following is an input device?",
+        "hi": "निम्नलिखित में से कौन-सा एक इनपुट डिवाइस है?"
+      },
+      "options": [
+        {
+          "en": "Printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Monitor",
+          "hi": "मॉनिटर"
+        },
+        {
+          "en": "Scanner",
+          "hi": "स्कैनर"
+        },
+        {
+          "en": "Speaker",
+          "hi": "स्पीकर"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "Which of the following is an output device?",
+        "hi": "निम्नलिखित में से कौन-सा एक आउटपुट डिवाइस है?"
+      },
+      "options": [
+        {
+          "en": "Mouse",
+          "hi": "माउस"
+        },
+        {
+          "en": "Keyboard",
+          "hi": "कीबोर्ड"
+        },
+        {
+          "en": "Printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Scanner",
+          "hi": "स्कैनर"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "RAM is a type of:",
+        "hi": "रैम (RAM) किस प्रकार की मेमोरी है?"
+      },
+      "options": [
+        {
+          "en": "Permanent memory",
+          "hi": "स्थायी मेमोरी"
+        },
+        {
+          "en": "Volatile memory",
+          "hi": "अस्थायी (वोलेटाइल) मेमोरी"
+        },
+        {
+          "en": "Secondary storage",
+          "hi": "द्वितीयक संग्रहण"
+        },
+        {
+          "en": "Output device",
+          "hi": "आउटपुट डिवाइस"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "Which of the following is the smallest unit of data in a computer?",
+        "hi": "निम्नलिखित में से कंप्यूटर में डेटा की सबसे छोटी इकाई कौन-सी है?"
+      },
+      "options": [
+        {
+          "en": "Byte",
+          "hi": "बाइट"
+        },
+        {
+          "en": "Bit",
+          "hi": "बिट"
+        },
+        {
+          "en": "Nibble",
+          "hi": "निबल"
+        },
+        {
+          "en": "Word",
+          "hi": "वर्ड"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "MS-Excel is mainly used for:",
+        "hi": "एमएस-एक्सेल मुख्यतः किसके लिए उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Word processing",
+          "hi": "वर्ड प्रोसेसिंग"
+        },
+        {
+          "en": "Spreadsheet calculations",
+          "hi": "स्प्रेडशीट गणना"
+        },
+        {
+          "en": "Presentation",
+          "hi": "प्रस्तुति (प्रेजेंटेशन)"
+        },
+        {
+          "en": "Web browsing",
+          "hi": "वेब ब्राउज़िंग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "A device that connects a computer to the internet using telephone lines is called:",
+        "hi": "टेलीफोन लाइनों के माध्यम से कंप्यूटर को इंटरनेट से जोड़ने वाला उपकरण कहलाता है:"
+      },
+      "options": [
+        {
+          "en": "Router",
+          "hi": "राउटर"
+        },
+        {
+          "en": "Modem",
+          "hi": "मोडम"
+        },
+        {
+          "en": "Switch",
+          "hi": "स्विच"
+        },
+        {
+          "en": "Hub",
+          "hi": "हब"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "The full form of URL is:",
+        "hi": "URL का पूरा नाम है:"
+      },
+      "options": [
+        {
+          "en": "Uniform Resource Locator",
+          "hi": "यूनिफॉर्म रिसोर्स लोकेटर"
+        },
+        {
+          "en": "Universal Resource Link",
+          "hi": "यूनिवर्सल रिसोर्स लिंक"
+        },
+        {
+          "en": "Unique Reference Locator",
+          "hi": "यूनीक रेफरेंस लोकेटर"
+        },
+        {
+          "en": "Universal Reference Link",
+          "hi": "यूनिवर्सल रेफरेंस लिंक"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "Which of the following is an example of an operating system?",
+        "hi": "निम्नलिखित में से कौन-सा एक ऑपरेटिंग सिस्टम का उदाहरण है?"
+      },
+      "options": [
+        {
+          "en": "MS-Word",
+          "hi": "एमएस-वर्ड"
+        },
+        {
+          "en": "Linux",
+          "hi": "लिनक्स"
+        },
+        {
+          "en": "Tally",
+          "hi": "टैली"
+        },
+        {
+          "en": "Photoshop",
+          "hi": "फोटोशॉप"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "The shortcut key combination used to save a document in MS-Word is:",
+        "hi": "एमएस-वर्ड में दस्तावेज़ सहेजने (save) के लिए उपयोग की जाने वाली शॉर्टकट कुंजी है:"
+      },
+      "options": [
+        {
+          "en": "Ctrl + S",
+          "hi": "Ctrl + S"
+        },
+        {
+          "en": "Ctrl + P",
+          "hi": "Ctrl + P"
+        },
+        {
+          "en": "Ctrl + N",
+          "hi": "Ctrl + N"
+        },
+        {
+          "en": "Ctrl + O",
+          "hi": "Ctrl + O"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 101,
+      "question": {
+        "en": "Article 351 of the Constitution contains a directive for the development of which language?",
+        "hi": "संविधान का अनुच्छेद 351 किस भाषा के विकास हेतु निदेश से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Sanskrit",
+          "hi": "संस्कृत"
+        },
+        {
+          "en": "Hindi",
+          "hi": "हिंदी"
+        },
+        {
+          "en": "English",
+          "hi": "अंग्रेज़ी"
+        },
+        {
+          "en": "Urdu",
+          "hi": "उर्दू"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 102,
+      "question": {
+        "en": "The Official Languages Act was enacted in the year:",
+        "hi": "राजभाषा अधिनियम किस वर्ष में पारित हुआ था?"
+      },
+      "options": [
+        {
+          "en": "1950",
+          "hi": "1950"
+        },
+        {
+          "en": "1963",
+          "hi": "1963"
+        },
+        {
+          "en": "1976",
+          "hi": "1976"
+        },
+        {
+          "en": "1965",
+          "hi": "1965"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 103,
+      "question": {
+        "en": "'Hindi Diwas' is celebrated every year on:",
+        "hi": "'हिंदी दिवस' हर वर्ष कब मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "26th January",
+          "hi": "26 जनवरी"
+        },
+        {
+          "en": "15th August",
+          "hi": "15 अगस्त"
+        },
+        {
+          "en": "14th September",
+          "hi": "14 सितंबर"
+        },
+        {
+          "en": "2nd October",
+          "hi": "2 अक्टूबर"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 104,
+      "question": {
+        "en": "Currently, the total number of languages included in the Eighth Schedule of the Constitution is:",
+        "hi": "वर्तमान में, संविधान की आठवीं अनुसूची में सम्मिलित भाषाओं की कुल संख्या है:"
+      },
+      "options": [
+        {
+          "en": "14",
+          "hi": "14"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 105,
+      "question": {
+        "en": "The 21st Constitutional Amendment, 1967, added which language to the Eighth Schedule?",
+        "hi": "21वें संवैधानिक संशोधन, 1967 द्वारा आठवीं अनुसूची में कौन-सी भाषा जोड़ी गई?"
+      },
+      "options": [
+        {
+          "en": "Sindhi",
+          "hi": "सिंधी"
+        },
+        {
+          "en": "Konkani",
+          "hi": "कोंकणी"
+        },
+        {
+          "en": "Nepali",
+          "hi": "नेपाली"
+        },
+        {
+          "en": "Bodo",
+          "hi": "बोडो"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 106,
+      "question": {
+        "en": "Article 350A of the Constitution relates to:",
+        "hi": "संविधान का अनुच्छेद 350ए संबंधित है:"
+      },
+      "options": [
+        {
+          "en": "Use of Hindi in courts",
+          "hi": "न्यायालयों में हिंदी के उपयोग से"
+        },
+        {
+          "en": "Facilities for education in mother tongue at primary stage",
+          "hi": "प्राथमिक स्तर पर मातृभाषा में शिक्षा की सुविधाओं से"
+        },
+        {
+          "en": "Official language of the Union",
+          "hi": "संघ की राजभाषा से"
+        },
+        {
+          "en": "Linguistic minorities commission",
+          "hi": "भाषाई अल्पसंख्यक आयोग से"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 107,
+      "question": {
+        "en": "The Department of Official Language, which monitors implementation of the Hindi language policy, functions under which Ministry?",
+        "hi": "राजभाषा नीति के कार्यान्वयन की निगरानी करने वाला राजभाषा विभाग किस मंत्रालय के अधीन कार्य करता है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Education",
+          "hi": "शिक्षा मंत्रालय"
+        },
+        {
+          "en": "Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय"
+        },
+        {
+          "en": "Ministry of Culture",
+          "hi": "संस्कृति मंत्रालय"
+        },
+        {
+          "en": "Ministry of Information & Broadcasting",
+          "hi": "सूचना एवं प्रसारण मंत्रालय"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 108,
+      "question": {
+        "en": "The Parliamentary Committee on Official Language was constituted under:",
+        "hi": "राजभाषा संबंधी संसदीय समिति का गठन किसके अंतर्गत किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Article 343 of the Constitution",
+          "hi": "संविधान के अनुच्छेद 343"
+        },
+        {
+          "en": "Section 4 of the Official Languages Act, 1963",
+          "hi": "राजभाषा अधिनियम, 1963 की धारा 4"
+        },
+        {
+          "en": "Official Language Rules, 1976",
+          "hi": "राजभाषा नियम, 1976"
+        },
+        {
+          "en": "Section 3 of the Constitution",
+          "hi": "संविधान की धारा 3"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 109,
+      "question": {
+        "en": "The total number of members in the Parliamentary Committee on Official Language is:",
+        "hi": "राजभाषा संबंधी संसदीय समिति में सदस्यों की कुल संख्या है:"
+      },
+      "options": [
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "35",
+          "hi": "35"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 110,
+      "question": {
+        "en": "Town Official Language Implementation Committees (TOLIC) are primarily constituted to promote the use of Hindi in offices situated in:",
+        "hi": "नगर राजभाषा कार्यान्वयन समितियाँ (TOLIC) मुख्यतः किस क्षेत्र में स्थित कार्यालयों में हिंदी के प्रयोग को बढ़ाने हेतु गठित की जाती हैं?"
+      },
+      "options": [
+        {
+          "en": "Region 'A' states only",
+          "hi": "केवल क्षेत्र 'क' के राज्यों में"
+        },
+        {
+          "en": "Region 'B' and 'C' areas",
+          "hi": "क्षेत्र 'ख' और 'ग' में"
+        },
+        {
+          "en": "Only Railway Headquarters",
+          "hi": "केवल रेलवे मुख्यालयों में"
+        },
+        {
+          "en": "Foreign embassies",
+          "hi": "विदेशी दूतावासों में"
+        }
+      ],
+      "correct": 1
+    }
+  ]
+}
