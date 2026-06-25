@@ -5,5 +5,6 @@
   { "id": "ai-test-4", "file": "ai-test-4.json", "paperName": "AI Mock Test - 4" },
   { "id": "ai-test-5", "file": "ai-test-5.json", "paperName": "AI Mock Test - 5" },
   { "id": "ai-test-6", "file": "ai-test-6.json", "paperName": "AI Mock Test - 6" },
-  { "id": "ai-test-7", "file": "ai-test-7.json", "paperName": "AI Mock Test - 7" }
+  { "id": "ai-test-7", "file": "ai-test-7.json", "paperName": "AI Mock Test - 7" },
+  { "id": "ai-test-8", "file": "ai-test-8.json", "paperName": "AI Mock Test - 8" }
 ]
