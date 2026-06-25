@@ -1,0 +1,785 @@
+{
+  "paperName": "Heat Treatment AI",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What is the approximate carbon content in mild steel?",
+        "hi": "माइल्ड स्टील में कार्बन की अनुमानित मात्रा कितनी होती है?"
+      },
+      "options": [
+        {
+          "en": "0.01% - 0.05%",
+          "hi": "0.01% - 0.05%"
+        },
+        {
+          "en": "0.15% - 0.30%",
+          "hi": "0.15% - 0.30%"
+        },
+        {
+          "en": "0.60% - 1.00%",
+          "hi": "0.60% - 1.00%"
+        },
+        {
+          "en": "2.0% - 4.0%",
+          "hi": "2.0% - 4.0%"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Which heat treatment process is primarily used to increase the hardness of steel?",
+        "hi": "स्टील की कठोरता बढ़ाने के लिए मुख्य रूप से किस ऊष्मा उपचार प्रक्रिया का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Annealing",
+          "hi": "एनीलिंग"
+        },
+        {
+          "en": "Normalizing",
+          "hi": "नॉर्मलाइजिंग"
+        },
+        {
+          "en": "Quenching",
+          "hi": "क्वेंचिंग"
+        },
+        {
+          "en": "Tempering",
+          "hi": "टेम्परिंग"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "The property of a metal by which it can be drawn into a wire is called:",
+        "hi": "धातु का वह गुण जिसके द्वारा इसे तार में खींचा जा सकता है, कहलाता है:"
+      },
+      "options": [
+        {
+          "en": "Malleability",
+          "hi": "आघातवर्धनीयता (Malleability)"
+        },
+        {
+          "en": "Ductility",
+          "hi": "तन्यता (Ductility)"
+        },
+        {
+          "en": "Toughness",
+          "hi": "कठोरता (Toughness)"
+        },
+        {
+          "en": "Hardness",
+          "hi": "हार्डनेस"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "In an Iron-Carbon phase diagram, what is the maximum solubility of carbon in Austenite?",
+        "hi": "आयरन-कार्बन चरण आरेख में, ऑस्टेनाइट में कार्बन की अधिकतम घुलनशीलता क्या है?"
+      },
+      "options": [
+        {
+          "en": "0.02%",
+          "hi": "0.02%"
+        },
+        {
+          "en": "0.8%",
+          "hi": "0.8%"
+        },
+        {
+          "en": "2.1%",
+          "hi": "2.1%"
+        },
+        {
+          "en": "4.3%",
+          "hi": "4.3%"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "In the annealing process, the cooling is generally done in:",
+        "hi": "एनीलिंग प्रक्रिया में, शीतलन आम तौर पर किसमें किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Water",
+          "hi": "पानी"
+        },
+        {
+          "en": "Oil",
+          "hi": "तेल"
+        },
+        {
+          "en": "Open Air",
+          "hi": "खुली हवा"
+        },
+        {
+          "en": "Furnace",
+          "hi": "भट्टी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "What is the primary cooling medium used in the Normalizing heat treatment process?",
+        "hi": "नॉर्मलाइजिंग ऊष्मा उपचार प्रक्रिया में प्रयुक्त प्राथमिक शीतलन माध्यम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Still Air",
+          "hi": "स्थिर हवा"
+        },
+        {
+          "en": "Brine Solution",
+          "hi": "ब्राइन सॉल्यूशन"
+        },
+        {
+          "en": "Furnace",
+          "hi": "भट्टी"
+        },
+        {
+          "en": "Water",
+          "hi": "पानी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "The Brinell and Rockwell tests are used to measure which property of a material?",
+        "hi": "ब्रिनेल और रॉकवेल परीक्षणों का उपयोग सामग्री के किस गुण को मापने के लिए किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Toughness",
+          "hi": "कठोरता (Toughness)"
+        },
+        {
+          "en": "Hardness",
+          "hi": "कठोरता (Hardness)"
+        },
+        {
+          "en": "Tensile Strength",
+          "hi": "तन्यता शक्ति"
+        },
+        {
+          "en": "Ductility",
+          "hi": "तन्यता"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Which of the following has the highest carbon content?",
+        "hi": "निम्नलिखित में से किसमें कार्बन की मात्रा सबसे अधिक होती है?"
+      },
+      "options": [
+        {
+          "en": "Mild Steel",
+          "hi": "माइल्ड स्टील"
+        },
+        {
+          "en": "High Carbon Steel",
+          "hi": "हाई कार्बन स्टील"
+        },
+        {
+          "en": "Cast Iron",
+          "hi": "कच्चा लोहा (Cast Iron)"
+        },
+        {
+          "en": "Wrought Iron",
+          "hi": "पिटवा लोहा (Wrought Iron)"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Case hardening is typically performed on which type of material?",
+        "hi": "केस हार्डनिंग आमतौर पर किस प्रकार की सामग्री पर की जाती है?"
+      },
+      "options": [
+        {
+          "en": "High carbon steel",
+          "hi": "हाई कार्बन स्टील"
+        },
+        {
+          "en": "Cast iron",
+          "hi": "कच्चा लोहा"
+        },
+        {
+          "en": "Low carbon steel",
+          "hi": "लो कार्बन स्टील"
+        },
+        {
+          "en": "Stainless steel",
+          "hi": "स्टेनलेस स्टील"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which element provides stainless steel with its corrosion resistance?",
+        "hi": "कौन सा तत्व स्टेनलेस स्टील को संक्षारण प्रतिरोध (corrosion resistance) प्रदान करता है?"
+      },
+      "options": [
+        {
+          "en": "Carbon",
+          "hi": "कार्बन"
+        },
+        {
+          "en": "Chromium",
+          "hi": "क्रोमियम"
+        },
+        {
+          "en": "Nickel",
+          "hi": "निकल"
+        },
+        {
+          "en": "Manganese",
+          "hi": "मैंगनीज"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Brass is an alloy primarily composed of:",
+        "hi": "पीतल (Brass) मुख्य रूप से किनका मिश्र धातु है?"
+      },
+      "options": [
+        {
+          "en": "Copper and Tin",
+          "hi": "तांबा और टिन"
+        },
+        {
+          "en": "Copper and Zinc",
+          "hi": "तांबा और जस्ता"
+        },
+        {
+          "en": "Iron and Carbon",
+          "hi": "लोहा और कार्बन"
+        },
+        {
+          "en": "Aluminum and Magnesium",
+          "hi": "एल्यूमीनियम और मैग्नीशियम"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "The ability of a material to absorb energy and deform plastically before fracturing is known as:",
+        "hi": "फ्रैक्चर से पहले ऊर्जा को अवशोषित करने और प्लास्टिक रूप से विकृत होने की सामग्री की क्षमता को क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Hardness",
+          "hi": "कठोरता (Hardness)"
+        },
+        {
+          "en": "Ductility",
+          "hi": "तन्यता (Ductility)"
+        },
+        {
+          "en": "Toughness",
+          "hi": "टफनेस (Toughness)"
+        },
+        {
+          "en": "Brittleness",
+          "hi": "भंगुरता (Brittleness)"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Which heat treatment process is primarily used to soften a metal and relieve internal stresses?",
+        "hi": "किस ऊष्मा उपचार प्रक्रिया का उपयोग मुख्य रूप से धातु को नरम करने और आंतरिक तनाव को दूर करने के लिए किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Quenching",
+          "hi": "क्वेंचिंग"
+        },
+        {
+          "en": "Annealing",
+          "hi": "एनीलिंग"
+        },
+        {
+          "en": "Tempering",
+          "hi": "टेम्परिंग"
+        },
+        {
+          "en": "Case Hardening",
+          "hi": "केस हार्डनिंग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "In metallurgy, quenching involves rapidly cooling a heated metal using:",
+        "hi": "धातु विज्ञान में, क्वेंचिंग में गर्म धातु को तेजी से ठंडा करना शामिल है, इसके लिए किसका उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Open air",
+          "hi": "खुली हवा"
+        },
+        {
+          "en": "A closed furnace",
+          "hi": "एक बंद भट्टी"
+        },
+        {
+          "en": "Water or oil",
+          "hi": "पानी या तेल"
+        },
+        {
+          "en": "Sand",
+          "hi": "रेत"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "What is the main purpose of the Normalizing process?",
+        "hi": "नॉर्मलाइजिंग प्रक्रिया का मुख्य उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To harden the surface",
+          "hi": "सतह को कठोर करना"
+        },
+        {
+          "en": "To refine the grain structure",
+          "hi": "ग्रेन संरचना को परिष्कृत करना"
+        },
+        {
+          "en": "To increase brittleness",
+          "hi": "भंगुरता बढ़ाना"
+        },
+        {
+          "en": "To reduce the melting point",
+          "hi": "गलनांक कम करना"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "In case hardening, which process introduces carbon into the surface of steel?",
+        "hi": "केस हार्डनिंग में, कौन-सी प्रक्रिया स्टील की सतह पर कार्बन को प्रवेश कराती है?"
+      },
+      "options": [
+        {
+          "en": "Tempering",
+          "hi": "टेम्परिंग"
+        },
+        {
+          "en": "Carburizing",
+          "hi": "कार्बराइजिंग"
+        },
+        {
+          "en": "Annealing",
+          "hi": "एनीलिंग"
+        },
+        {
+          "en": "Quenching",
+          "hi": "क्वेंचिंग"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "The property of a metal by which it can be rolled or hammered into thin sheets without cracking is called:",
+        "hi": "धातु का वह गुण जिसके द्वारा इसे बिना टूटे पतली चादरों में रोल किया या पीटा जा सकता है, कहलाता है:"
+      },
+      "options": [
+        {
+          "en": "Ductility",
+          "hi": "तन्यता (Ductility)"
+        },
+        {
+          "en": "Malleability",
+          "hi": "आघातवर्धनीयता (Malleability)"
+        },
+        {
+          "en": "Hardness",
+          "hi": "कठोरता (Hardness)"
+        },
+        {
+          "en": "Toughness",
+          "hi": "टफनेस (Toughness)"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Tempering is primarily performed on hardened steel to reduce its:",
+        "hi": "कठोर स्टील पर टेम्परिंग मुख्य रूप से किसे कम करने के लिए की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Ductility",
+          "hi": "तन्यता"
+        },
+        {
+          "en": "Toughness",
+          "hi": "टफनेस"
+        },
+        {
+          "en": "Brittleness",
+          "hi": "भंगुरता (Brittleness)"
+        },
+        {
+          "en": "Strength",
+          "hi": "ताकत"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "The ability of material to resist repeated loading is —",
+        "hi": "बार-बार भार (loading) को सहने की सामग्री की क्षमता है —"
+      },
+      "options": [
+        {
+          "en": "Fatigue strength",
+          "hi": "थकान शक्ति (Fatigue strength)"
+        },
+        {
+          "en": "Elasticity",
+          "hi": "प्रत्यास्थता"
+        },
+        {
+          "en": "Plasticity",
+          "hi": "सुघट्यता"
+        },
+        {
+          "en": "Ductility",
+          "hi": "तन्यता"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Bronze is an alloy of —",
+        "hi": "काँसा (Bronze) किसकी मिश्रधातु है?"
+      },
+      "options": [
+        {
+          "en": "Copper and Tin",
+          "hi": "तांबा और टिन"
+        },
+        {
+          "en": "Copper and Zinc",
+          "hi": "तांबा और जिंक"
+        },
+        {
+          "en": "Iron and Nickel",
+          "hi": "लोहा और निकेल"
+        },
+        {
+          "en": "Steel and Carbon",
+          "hi": "स्टील और कार्बन"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "The main constituent of cast iron is —",
+        "hi": "ढलवाँ लोहे (Cast iron) का मुख्य घटक है —"
+      },
+      "options": [
+        {
+          "en": "Copper",
+          "hi": "तांबा"
+        },
+        {
+          "en": "Nickel",
+          "hi": "निकेल"
+        },
+        {
+          "en": "Carbon",
+          "hi": "कार्बन"
+        },
+        {
+          "en": "Chromium",
+          "hi": "क्रोमियम"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Electrical conductivity is highest in —",
+        "hi": "विद्युत चालकता सबसे अधिक किसमें होती है?"
+      },
+      "options": [
+        {
+          "en": "Silver",
+          "hi": "चांदी"
+        },
+        {
+          "en": "Copper",
+          "hi": "तांबा"
+        },
+        {
+          "en": "Aluminum",
+          "hi": "एल्यूमीनियम"
+        },
+        {
+          "en": "Iron",
+          "hi": "लोहा"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Elasticity is the property by which —",
+        "hi": "प्रत्यास्थता वह गुण है जिसके द्वारा —"
+      },
+      "options": [
+        {
+          "en": "Material regains its shape after deformation",
+          "hi": "पदार्थ विरूपण के बाद अपना आकार पुनः प्राप्त कर लेता है"
+        },
+        {
+          "en": "Permanent set",
+          "hi": "स्थायी विरूपण"
+        },
+        {
+          "en": "Expands",
+          "hi": "फैलता है"
+        },
+        {
+          "en": "Contracts",
+          "hi": "सिकुड़ता है"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "The property which resists wear and penetration is —",
+        "hi": "वह गुण जो घिसाव और वेधन का प्रतिरोध करता है, वह है —"
+      },
+      "options": [
+        {
+          "en": "Strength",
+          "hi": "सामर्थ्य"
+        },
+        {
+          "en": "Hardness",
+          "hi": "कठोरता"
+        },
+        {
+          "en": "Elasticity",
+          "hi": "प्रत्यास्थता"
+        },
+        {
+          "en": "Ductility",
+          "hi": "तन्यता"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "The expansion of metal on heating is due to —",
+        "hi": "गर्म करने पर धातु का फैलाव किसके कारण होता है?"
+      },
+      "options": [
+        {
+          "en": "Weight",
+          "hi": "वजन"
+        },
+        {
+          "en": "Pressure",
+          "hi": "दबाव"
+        },
+        {
+          "en": "Increase in atomic vibration",
+          "hi": "परमाणु कंपन में वृद्धि"
+        },
+        {
+          "en": "Density",
+          "hi": "घनत्व"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Duralumin is an alloy of —",
+        "hi": "ड्यूरालुमिन (Duralumin) किसकी मिश्रधातु है?"
+      },
+      "options": [
+        {
+          "en": "Aluminum, Copper, Manganese, Magnesium",
+          "hi": "एल्युमिनियम, तांबा, मैंगनीज, मैग्नीशियम"
+        },
+        {
+          "en": "Iron and Carbon",
+          "hi": "लोहा और कार्बन"
+        },
+        {
+          "en": "Lead and Zinc",
+          "hi": "सीसा और जिंक"
+        },
+        {
+          "en": "Tin and Copper",
+          "hi": "टिन और तांबा"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "Non-ferrous metals are —",
+        "hi": "अलौह (Non-ferrous) धातुएं हैं —"
+      },
+      "options": [
+        {
+          "en": "Without iron",
+          "hi": "लोहे के बिना"
+        },
+        {
+          "en": "With high carbon",
+          "hi": "उच्च कार्बन के साथ"
+        },
+        {
+          "en": "Magnetic",
+          "hi": "चुंबकीय"
+        },
+        {
+          "en": "Brittle",
+          "hi": "भंगुर"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "The most ductile metal is —",
+        "hi": "सबसे अधिक तन्य (ductile) धातु कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Iron",
+          "hi": "लोहा"
+        },
+        {
+          "en": "Gold",
+          "hi": "सोना"
+        },
+        {
+          "en": "Zinc",
+          "hi": "जिंक"
+        },
+        {
+          "en": "Aluminum",
+          "hi": "एल्यूमीनियम"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "Which of the following is a non-ferrous metal?",
+        "hi": "निम्नलिखित में से कौन सी एक अलौह धातु (non-ferrous metal) है?"
+      },
+      "options": [
+        {
+          "en": "Steel",
+          "hi": "स्टील"
+        },
+        {
+          "en": "Cast iron",
+          "hi": "ढलवाँ लोहा"
+        },
+        {
+          "en": "Copper",
+          "hi": "तांबा"
+        },
+        {
+          "en": "Pig iron",
+          "hi": "कच्चा लोहा"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Case hardening increases —",
+        "hi": "केस हार्डनिंग से क्या बढ़ता है?"
+      },
+      "options": [
+        {
+          "en": "Surface hardness",
+          "hi": "सतही कठोरता"
+        },
+        {
+          "en": "Ductility",
+          "hi": "तन्यता"
+        },
+        {
+          "en": "Softness",
+          "hi": "मुलायमपन"
+        },
+        {
+          "en": "Machinability",
+          "hi": "मशीनेबिलिटी"
+        }
+      ],
+      "correct": 0
+    }
+  ]
+}
