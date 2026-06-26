@@ -1,0 +1,2865 @@
+{
+  "paperName": "AI Mock Test - 10",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Who has been crowned as Femina Miss India 2026-",
+        "hi": "फैमीना मिस इण्डिया 2026 का ताज किसे दिया गया-"
+      },
+      "options": [
+        {
+          "en": "Mansa Varanasi",
+          "hi": "मानसा वाराणसी"
+        },
+        {
+          "en": "Suman Rao",
+          "hi": "सुमन राव"
+        },
+        {
+          "en": "Harnaz Kaur Sandhu",
+          "hi": "हरनाज कौर संधु"
+        },
+        {
+          "en": "Sadhvi Sail",
+          "hi": "साध्वी सैल"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Commonwealth games 2026 will be held at which place",
+        "hi": "कॉमनवेल्थ खेल 2026 किस जगह पर आयोजित कियेऐंगे-"
+      },
+      "options": [
+        {
+          "en": "London",
+          "hi": "लंदन"
+        },
+        {
+          "en": "Scotland",
+          "hi": "स्कॉटलैंड"
+        },
+        {
+          "en": "Sydney",
+          "hi": "सिडनी"
+        },
+        {
+          "en": "Tokyo",
+          "hi": "टोक्यो"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "\"Mission Vatsalya\" is a scheme implemented by which Union Ministry",
+        "hi": "\"मिशन वातसल्य\" योजना किस केन्द्रीय मंत्रालय द्वारा अमल में लाई गई है।"
+      },
+      "options": [
+        {
+          "en": "Ministry of Commerce and Industry",
+          "hi": "वाणिज्य एवं उद्योग मंत्रालय"
+        },
+        {
+          "en": "Ministry of Family Welfare and Child Education",
+          "hi": "परिवार कल्याण और बाल शिक्षा मंत्रालय"
+        },
+        {
+          "en": "Ministry of Women and Child Development",
+          "hi": "महिला एवं बाल विकास मंत्रालय"
+        },
+        {
+          "en": "Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "World Civil Defence day is observed on which day-",
+        "hi": "विष्व नागरिक सुरक्षा दिवस कब मनाया जाता है-"
+      },
+      "options": [
+        {
+          "en": "31st March",
+          "hi": "31 मार्च"
+        },
+        {
+          "en": "1st January",
+          "hi": "1 जनवरी"
+        },
+        {
+          "en": "1st March",
+          "hi": "1 मार्च"
+        },
+        {
+          "en": "1st July",
+          "hi": "1 जुलाई"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "The slogan \"Write once run anywhere\" is related to which of the following computer programming languages-",
+        "hi": "स्लोग्न \"Write once run anywhere\" निम्न में से किस कम्पयूटर प्रोग्रामिंग भाषा से संबंधित है-"
+      },
+      "options": [
+        {
+          "en": "COBOL",
+          "hi": "कोबोल"
+        },
+        {
+          "en": "JAVA",
+          "hi": "JAVA"
+        },
+        {
+          "en": "HTML",
+          "hi": "HTML"
+        },
+        {
+          "en": "XML",
+          "hi": "XML"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Who is the winner of Men's Wimbledon Championship 2025-",
+        "hi": "मेंस विंबलडन चैंपियनशिप 2025 के विजेता कौन है ।"
+      },
+      "options": [
+        {
+          "en": "Nick Kyrgios",
+          "hi": "निक किर्गियोस"
+        },
+        {
+          "en": "Jannik Sinner",
+          "hi": "जनिक सिन्नर"
+        },
+        {
+          "en": "Juan Sebastian",
+          "hi": "जुआन सेबास्टियन"
+        },
+        {
+          "en": "Kevin Anderson",
+          "hi": "केविन एंडर्सन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Allowance paid to a railway servant during suspension period is called as ......... allowance-",
+        "hi": "निलम्बन अवधि के दौरान निलम्बित कर्मचारी को दिये जाने वाले भत्ते को ......... भत्ते कहते है-"
+      },
+      "options": [
+        {
+          "en": "Subsistence Allowance",
+          "hi": "निर्वाह भत्ता"
+        },
+        {
+          "en": "Suspension Allowance",
+          "hi": "निलंबन भत्ता"
+        },
+        {
+          "en": "Substance Allowance",
+          "hi": "पदार्थ भत्ता"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "The total time from the start to the finish of a Time study is called as..",
+        "hi": "एक टाइम स्टडी के शुरू होने से लेकर अंत तक के कुल समय को कहा जाता है ।"
+      },
+      "options": [
+        {
+          "en": "Elapsed time",
+          "hi": "बिता हुआ समय"
+        },
+        {
+          "en": "Normal time taken",
+          "hi": "सामान्य लिया गया समय"
+        },
+        {
+          "en": "Periodic time",
+          "hi": "आवर्ती समय"
+        },
+        {
+          "en": "Total time",
+          "hi": "कुल समय"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Full form of UMID-",
+        "hi": "UMID से क्या तात्पर्य है-"
+      },
+      "options": [
+        {
+          "en": "Uniform Medical Identity",
+          "hi": "समान चिकित्सा पहचान"
+        },
+        {
+          "en": "Universal Medical Identity",
+          "hi": "सार्वभौमिक चिकित्सा पहचान"
+        },
+        {
+          "en": "Unified Medical Identity",
+          "hi": "एकीकृत चिकित्सा पहचान"
+        },
+        {
+          "en": "Unique Medical Identity",
+          "hi": "अद्वितीय चिकित्सा पहचान"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What is the period within which appeal should be preferred by an employee against the given punishment ?",
+        "hi": "किसी दी गई शास्ति के विरूध कर्मचारी द्वारा कितने दिनों के भीतर अपील प्रस्तुत की जा सकती है ?"
+      },
+      "options": [
+        {
+          "en": "60 days",
+          "hi": "साठ दिन"
+        },
+        {
+          "en": "45 days",
+          "hi": "पैंतालीस दिन"
+        },
+        {
+          "en": "30 days",
+          "hi": "तीस दिन"
+        },
+        {
+          "en": "25 days",
+          "hi": "पचीस दिन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Full form of COFMOW-",
+        "hi": "COFMOW का फुल फार्म क्या है-"
+      },
+      "options": [
+        {
+          "en": "Central Organisation For Movement of Wagons",
+          "hi": "वैगनों के संचलन का केंद्रीय संगठन"
+        },
+        {
+          "en": "Central Organisation For Modernisation of workshops",
+          "hi": "कार्यशालाओं के आधुनिकरण का केंद्रीय संगठन"
+        },
+        {
+          "en": "Central Organisation For Modernization of Wagons",
+          "hi": "वैगनों के आधुनिकरण का केंद्रीय संगठन"
+        },
+        {
+          "en": "None of these",
+          "hi": "उपरोक्त में से कोई नही"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "\"Mithali Raj\" is associated with which sports-",
+        "hi": "\"मिथाली राज\" का संबंध किस खेल से है-"
+      },
+      "options": [
+        {
+          "en": "Badminton",
+          "hi": "बैडमिंटन"
+        },
+        {
+          "en": "Cricket",
+          "hi": "क्रिकेट"
+        },
+        {
+          "en": "Squash",
+          "hi": "स्क्वाश"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमे से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "\"Commissioner Railway Safety\" is official under which ministry-",
+        "hi": "\"Commissioner Railway Safety\" किस मंत्रालय के अर्न्तगत आते है-"
+      },
+      "options": [
+        {
+          "en": "Ministry of Railways",
+          "hi": "रेल मंत्रालय"
+        },
+        {
+          "en": "Ministry of Civil Aviation",
+          "hi": "नागरिक उड्डयन मंत्रालय"
+        },
+        {
+          "en": "Ministry of Water Resources",
+          "hi": "जल संसाधन मंत्रालय"
+        },
+        {
+          "en": "None of the above",
+          "hi": "उपरोक्त में से कोई नही"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Which campaign was launched by the Government of India for the safe return of Indians from war-torn Ukraine?",
+        "hi": "युद्धग्रस्त युक्रेन से भारतीयो के सुरक्षित स्वदेश वापसी के लिए भारत सरकार द्वारा कौन सा अभियान चलाया गया था ?"
+      },
+      "options": [
+        {
+          "en": "Operation Ganga",
+          "hi": "ऑपरेशन गंगा"
+        },
+        {
+          "en": "Operation Safety",
+          "hi": "ऑपरेशन सेफ्टी"
+        },
+        {
+          "en": "Operation Godavari",
+          "hi": "ऑपरेशन गोदावरी"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Who is the present vice Presidential of India?",
+        "hi": "भारत के वर्तमान उप राष्ट्रपति कौन हैं।"
+      },
+      "options": [
+        {
+          "en": "Shri C. K Radhakrishn",
+          "hi": "श्री सी. के. राधाकृषण"
+        },
+        {
+          "en": "Shri C. P Radhakrishnan",
+          "hi": "श्री सी.पी. राधाकृष्णन"
+        },
+        {
+          "en": "Shri D. J Radhakrishnan",
+          "hi": "श्री डी.जे. राधाकृष्णन"
+        },
+        {
+          "en": "Shri K. Y. Radhakrishnan",
+          "hi": "श्री के.वाई. राधाकृष्णन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "\"Dynamic Adhoc Wireless Network\" (DAWN) usually comes under.",
+        "hi": "\"Dynamic Adhoc Wireless Network\" (DAWN) प्रायः _________ के अन्तर्गत आता है"
+      },
+      "options": [
+        {
+          "en": "2G",
+          "hi": "2जी"
+        },
+        {
+          "en": "3G",
+          "hi": "3जी"
+        },
+        {
+          "en": "4G",
+          "hi": "4जी"
+        },
+        {
+          "en": "5G",
+          "hi": "5जी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Thomas cup is related to which among the following sports.",
+        "hi": "थोमस कप किस खेल से संबंधित है ?"
+      },
+      "options": [
+        {
+          "en": "Lawn Tennis",
+          "hi": "लॉन टेनिस"
+        },
+        {
+          "en": "Football",
+          "hi": "फुटबॉल"
+        },
+        {
+          "en": "Badminton",
+          "hi": "बैडमिंटन"
+        },
+        {
+          "en": "Cricket",
+          "hi": "क्रिकेट"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "LBW is related to which game-",
+        "hi": "LBW किस खेल से संबंधित है-"
+      },
+      "options": [
+        {
+          "en": "Cricket",
+          "hi": "क्रिकेट"
+        },
+        {
+          "en": "Badminton",
+          "hi": "बैडमिंटन"
+        },
+        {
+          "en": "Tennis",
+          "hi": "टेनिस"
+        },
+        {
+          "en": "Golf",
+          "hi": "गोल्फ"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Which rule of the Railway Service (Conduct) Rules, 1966 deals with prohibition of sexual harassment of working women?",
+        "hi": "रेलवे सेवा (आचरण) नियम, 1966 का कौन सा नियम कामकाजी महिलाओं के यौन उत्पीडन के निषेध से संबंधित है ?"
+      },
+      "options": [
+        {
+          "en": "Rule 3",
+          "hi": "रुल 3"
+        },
+        {
+          "en": "Rule 3A",
+          "hi": "रुल 3ए"
+        },
+        {
+          "en": "Rule 3B",
+          "hi": "रूल 3बी"
+        },
+        {
+          "en": "Rule 3C",
+          "hi": "रूल 3 सी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Father of time study is known as.",
+        "hi": "समय अध्ययन के जनक माने जाते है।"
+      },
+      "options": [
+        {
+          "en": "F.B. Gilbreth",
+          "hi": "एफ.बी. गिल्ब्रेथ"
+        },
+        {
+          "en": "F. W. Taylor",
+          "hi": "एफ.डब्लू. टेलर"
+        },
+        {
+          "en": "Allen Waugh",
+          "hi": "एलन वॉघ"
+        },
+        {
+          "en": "J. J. Thomson",
+          "hi": "जे.जे. थोमसन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Period for which Railway Quarter can be retained on normal rent on transfer is.",
+        "hi": "रेलवे क्वार्टर को स्थानांतरण पर सामान्य किराए पर कितनी अवधि तक रखा जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "2 months",
+          "hi": "दो माह"
+        },
+        {
+          "en": "4 months",
+          "hi": "चार माह"
+        },
+        {
+          "en": "6 months",
+          "hi": "छः माह"
+        },
+        {
+          "en": "12 months",
+          "hi": "बारह माह"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Saloon attendants are classified in which category under HWPR from the followings:",
+        "hi": "सैलून परिचारकों को एचडब्ल्यूपीआर के तहत निम्नलिखित में से किस श्रेणी में वर्गीकृत किया गया है:"
+      },
+      "options": [
+        {
+          "en": "Continuous",
+          "hi": "निरंतर"
+        },
+        {
+          "en": "Essentially Intermittent",
+          "hi": "आवश्यक रूप से आंतरायिक"
+        },
+        {
+          "en": "Intensive",
+          "hi": "गहन"
+        },
+        {
+          "en": "Excluded",
+          "hi": "अपवर्जित"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "The prescribed standard hours of duty for Intensive classes of employment of Railway servants is:",
+        "hi": "रेलवे कर्मचारियों के रोजगार की गहन श्रेणियों के लिए निर्धारित मानक ड्यूटी घंटे हैं:"
+      },
+      "options": [
+        {
+          "en": "42 hours a week",
+          "hi": "सप्ताह में 42 घंटे"
+        },
+        {
+          "en": "44 hours a week",
+          "hi": "सप्ताह में 44 घंटे"
+        },
+        {
+          "en": "46 hours a week",
+          "hi": "सप्ताह में 46 घंटे"
+        },
+        {
+          "en": "48 hours a week",
+          "hi": "सप्ताह में 48 घंटे"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Ministerial categories personnels in workshop are also covered under incentive scheme.",
+        "hi": "कार्यशाला में मंत्रालयिक श्रेणी के कार्मिक भी प्रोत्साहन योजना के अंतर्गत आते हैं।"
+      },
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        },
+        {
+          "en": "Covered with some special condition",
+          "hi": "कुछ विशेष शर्तों के साथ कवर किया गया"
+        },
+        {
+          "en": "None of These",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "\"Short off\" in case of continuous worker.",
+        "hi": "लगातार काम करने वाले के मामले में \"शॉर्ट ऑफ\""
+      },
+      "options": [
+        {
+          "en": "Less than 12 Hours duty",
+          "hi": "12 घंटे से कम ड्यूटी"
+        },
+        {
+          "en": "Less than 8 hours duty",
+          "hi": "8 घंटे से कम ड्यूटी"
+        },
+        {
+          "en": "Less than 10 hours duty",
+          "hi": "10 घंटे से कम ड्यूटी"
+        },
+        {
+          "en": "None of these.",
+          "hi": "इनमे से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Non-practicing Allowance paid to Doctors is ________% of Basic Pay",
+        "hi": "डॉक्टरों को दिया जाने वाला गैर-प्रैक्टिसिंग भत्ता मूल वेतन का ________% है।"
+      },
+      "options": [
+        {
+          "en": "10",
+          "hi": "दस"
+        },
+        {
+          "en": "15",
+          "hi": "पंद्रह"
+        },
+        {
+          "en": "20",
+          "hi": "बीस"
+        },
+        {
+          "en": "25",
+          "hi": "पचीस"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "Newly created post will be classified as-",
+        "hi": "नव निर्मित पद का वर्गीकरण किस रोस्टर के अन्तर्गत किया जाता है"
+      },
+      "options": [
+        {
+          "en": "E.I.",
+          "hi": "आवश्यक रूप से विरामी"
+        },
+        {
+          "en": "Excluded",
+          "hi": "अपवर्जित"
+        },
+        {
+          "en": "Continuous",
+          "hi": "अविराम"
+        },
+        {
+          "en": "None of above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "For how many days Running staff on duty can remain out of Head Quarter.",
+        "hi": "रनिंग कर्मचारी ड्यूटी पर मुख्यालय से वाहर कितने दिन रह सकता है-"
+      },
+      "options": [
+        {
+          "en": "4 days",
+          "hi": "चार दिन"
+        },
+        {
+          "en": "1 days",
+          "hi": "एक दिन"
+        },
+        {
+          "en": "3 days",
+          "hi": "तीन दिन"
+        },
+        {
+          "en": "None of above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "How many complimentary Pass and PTO can be issued to a License holder Porter (Coolie)",
+        "hi": "एक लाइसेंस धारक पोर्टर (कुली) को कितने मानार्थ पस और पीटीओ जरी किये जाते हैं ?"
+      },
+      "options": [
+        {
+          "en": "Two set pass and one set PTO",
+          "hi": "दो सेट पास एक सेट पीटीओ"
+        },
+        {
+          "en": "One set pass and one set PTO",
+          "hi": "एक सेट पास एक सेट पीटीओ"
+        },
+        {
+          "en": "Three set pass and one set PTO",
+          "hi": "तीन सेट पास एक सेट पीटीओ"
+        },
+        {
+          "en": "One set pass and zero set PTO",
+          "hi": "एक सेट पास शून्य सेट पीटीओ"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "How much additional pension is eligible for more than 100 years old pensioner?",
+        "hi": "100 वर्ष से अधिक आयु के पेंशन भोगी कितनी अतिरिक्त पेंशन के पात्र हैं ?"
+      },
+      "options": [
+        {
+          "en": "30%",
+          "hi": "30 प्रतिशत"
+        },
+        {
+          "en": "40%",
+          "hi": "40 प्रतिशत"
+        },
+        {
+          "en": "50%",
+          "hi": "50 प्रतिशत"
+        },
+        {
+          "en": "100%",
+          "hi": "100 प्रतिशत"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "SF-8 in DAR relates to",
+        "hi": "DAR में SF - 8 संबंधित है-"
+      },
+      "options": [
+        {
+          "en": "Nomination of Inquiry officer",
+          "hi": "जांच अधिकारी नामित करना"
+        },
+        {
+          "en": "Nomination of Presenting officer",
+          "hi": "प्रस्तुत अधिकारी को नामित करना"
+        },
+        {
+          "en": "Nomination of defence helper officer",
+          "hi": "बचाव सहायक नामित करना"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "How many Major Penalties are there in DAR",
+        "hi": "DAR में वडी शास्ति कितनी है-"
+      },
+      "options": [
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Six",
+          "hi": "छ:"
+        },
+        {
+          "en": "Eleven",
+          "hi": "ग्यारह"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "At Zonal level, the PNM is held once in",
+        "hi": "क्षेत्रीय स्तर पर, पीएनएम _________ में एक बार आयोजित किया जाता है"
+      },
+      "options": [
+        {
+          "en": "02 months",
+          "hi": "दो माह"
+        },
+        {
+          "en": "03 months",
+          "hi": "तीन माह"
+        },
+        {
+          "en": "4 months",
+          "hi": "चार माह"
+        },
+        {
+          "en": "6 months",
+          "hi": "छ: माह"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "What is the full form of JCM in Railways.",
+        "hi": "रेलवे में JCM का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        {
+          "en": "Joint consultative meeting",
+          "hi": "संयुक्त परामर्शदात्री बैठक"
+        },
+        {
+          "en": "Joint Consultative Machinery",
+          "hi": "संयुक्त परामर्शदात्री मशीनरी"
+        },
+        {
+          "en": "Joint consultative Meet",
+          "hi": "संयुक्त सलाहकार बैठक"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमे से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "What is the Minimum Pension in railway",
+        "hi": "रेलवे में न्यूनतम पेंशन कितनी है?"
+      },
+      "options": [
+        {
+          "en": "50% of last pay",
+          "hi": "अंतिम वेतन का 50%"
+        },
+        {
+          "en": "Last pay",
+          "hi": "अंतिम वेतन"
+        },
+        {
+          "en": "Rs. 9000",
+          "hi": "रु 9000/-"
+        },
+        {
+          "en": "18000",
+          "hi": "रु 18000/-"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "Minimum Family Pension is Rs. _____",
+        "hi": "रेलवे में न्यूनतम फॅमिली पेंशन _________ है?"
+      },
+      "options": [
+        {
+          "en": "Rs. 9000",
+          "hi": "रु 9000/-"
+        },
+        {
+          "en": "Rs. 12000",
+          "hi": "रु 12000/-"
+        },
+        {
+          "en": "Rs. 14000",
+          "hi": "रु 9000/-"
+        },
+        {
+          "en": "Rs. 14000",
+          "hi": "रु 18000/-"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "What is the Percentage up to which pension can be commuted on retirement.",
+        "hi": "सेवानिवृत्ति पर पेंशन को कितने प्रतिशत तक परिवर्तित किया जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "20",
+          "hi": "बीस"
+        },
+        {
+          "en": "30",
+          "hi": "तीस"
+        },
+        {
+          "en": "40",
+          "hi": "चालीस"
+        },
+        {
+          "en": "50",
+          "hi": "पचास"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "SF-4 relates to.....",
+        "hi": "SF - 4 संबंधित है।"
+      },
+      "options": [
+        {
+          "en": "Revocation of Suspension",
+          "hi": "निलम्बन को समाप्त करना"
+        },
+        {
+          "en": "Disciplinary action in common proceedings",
+          "hi": "कॉमन प्रोसिडिंग में अनुषासनात्मक कार्यवाही"
+        },
+        {
+          "en": "Charge sheet for minor penalty",
+          "hi": "लघु शास्ति के लिए आरोप पत्र"
+        },
+        {
+          "en": "None of the above.",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Inventor and promoter of WWW is?",
+        "hi": "WWW का अविष्कारक एवं प्रोत्साहक कौन है"
+      },
+      "options": [
+        {
+          "en": "BILL Gatts",
+          "hi": "बिल गेट्स"
+        },
+        {
+          "en": "Lee N Fiyong",
+          "hi": "ली एन फियोंग"
+        },
+        {
+          "en": "N Rasel",
+          "hi": "एन रसेल"
+        },
+        {
+          "en": "Tim Berners lee",
+          "hi": "टिम बर्नर्स ली"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "Under which rules of Railway Service Conduct Rules, no Railway Servant shall accept any gift from other person -",
+        "hi": "रेल सेवा आचरण नियमों के किन नियमों के तहत कोई भी रेल कर्मचारी किसी अन्य व्यक्ति से कोई उपहार स्वीकार नहीं करेगा?"
+      },
+      "options": [
+        {
+          "en": "Rule - 15",
+          "hi": "नियम - 15"
+        },
+        {
+          "en": "Rule-13 (A)",
+          "hi": "नियम -13 (A)"
+        },
+        {
+          "en": "Rule - 13",
+          "hi": "नियम - 13"
+        },
+        {
+          "en": "Rule - 15 (A)",
+          "hi": "नियम - 15 (A)"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 41,
+      "question": {
+        "en": "Right of Persons with Disabilities Act passed in year -",
+        "hi": "विकलांग व्यक्तियों के अधिकार अधिनियम को वर्ष में पारित किया गया था -"
+      },
+      "options": [
+        {
+          "en": "2010",
+          "hi": "2010"
+        },
+        {
+          "en": "2020",
+          "hi": "2020"
+        },
+        {
+          "en": "2018",
+          "hi": "2018"
+        },
+        {
+          "en": "2016",
+          "hi": "2016"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "What would be increased rate of pension if old age pensioner attained his age of 85 Years?",
+        "hi": "यिद वृद्धावस्था पेंशनभोगी 85 वषर् की आयु प्राप्त कर लेता है तो पेंशन की बढ़ी हुई दर क्या होगी?"
+      },
+      "options": [
+        {
+          "en": "30% of basic pension",
+          "hi": "मूल पेंशन का 30%"
+        },
+        {
+          "en": "20% of basic pension",
+          "hi": "मूल पेंशन का 20%"
+        },
+        {
+          "en": "50% of basic pension",
+          "hi": "मूल पेंशन का 50%"
+        },
+        {
+          "en": "None of these",
+          "hi": "मूल पेंशन का 30%"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "What is the chemical name of baking soda?",
+        "hi": "बेकिंग सोडा का रासायनिक नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Sodium Carbonate",
+          "hi": "सोडियम कार्बोनेट"
+        },
+        {
+          "en": "Sodium Bicarbonate",
+          "hi": "सोडियम बाइकार्बोनेट"
+        },
+        {
+          "en": "Calcium Carbonate",
+          "hi": "कैल्शियम कार्बोनेट"
+        },
+        {
+          "en": "Sodium Chloride",
+          "hi": "सोडियम क्लोराइड"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "Standard hours of working for Intensive workers is-",
+        "hi": "गहन श्रम पर काम करने वाले श्रमिकों के लिए मानक कार्य घंटे इस प्रकार हैं-"
+      },
+      "options": [
+        {
+          "en": "42 hr per week",
+          "hi": "प्रित सप्ताह 42 घंटे"
+        },
+        {
+          "en": "48 hr per week",
+          "hi": "प्रित सप्ताह 48 घंटे"
+        },
+        {
+          "en": "45 hr per week",
+          "hi": "प्रित सप्ताह 45 घंटे"
+        },
+        {
+          "en": "54 hr per week",
+          "hi": "प्रित सप्ताह 54 घंटे"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "In Continuous roster 'Long on' means period of duty over ___________ hrs.",
+        "hi": "सतत रोस्टर में 'लॉन्ग ऑन' का अर्थ ________ घंटे से अधिक की ड्यूटी अवधि है।"
+      },
+      "options": [
+        {
+          "en": "8 hrs",
+          "hi": "8 घंटे"
+        },
+        {
+          "en": "10 hrs",
+          "hi": "10 घंटे"
+        },
+        {
+          "en": "12 hrs",
+          "hi": "12 घंटे"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "Unified Pension Scheme as an option under NPS for employees of central government has been made effective from?",
+        "hi": "केंद्र सरकार के कर्मचारियों के लिए एनपीएस के तहत एक विकल्प के रूप में एकीकृत पेंशन योजना को कब से प्रभावी बनाया गया है?"
+      },
+      "options": [
+        {
+          "en": "24.01.2025",
+          "hi": "24.01.2025"
+        },
+        {
+          "en": "01.04.2025",
+          "hi": "01.04.2025"
+        },
+        {
+          "en": "01.01.2025",
+          "hi": "01.01.2025"
+        },
+        {
+          "en": "01.07.2025",
+          "hi": "01.07.2025"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "What is the amount of Ex-gratia Lump-sum compensation w.e.f. 01.01.2016 admissible to family of railway employee who die due to accidents in the course of performance of duties.",
+        "hi": "दिनांक 01.01.2016 से अनुग्रह राशि एकमुश्त मुआवजे की राशि कर्तव्यों के पालन के दौरान दुर्घटनाओं के कारण मरने वाले रेलवे कर्मचारी के परिवार को देय है"
+      },
+      "options": [
+        {
+          "en": "45 Lakh",
+          "hi": "45 लाख"
+        },
+        {
+          "en": "40 Lakh",
+          "hi": "40 लाख"
+        },
+        {
+          "en": "35 Lakh",
+          "hi": "35 लाख"
+        },
+        {
+          "en": "25 Lakh",
+          "hi": "25 लाख"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "Under the Right to Information Act, 2005, within how many days must a Public Information Officer (PIO) dispose of an RTI request in normal cases?",
+        "hi": "सूचना का अधिकार अधिनियम, 2005 के तहत, सामान्य मामलों में लोक सूचना अधिकारी (PIO) को कितने दिनों के भीतर आरटीआई आवेदन का निपटारा करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "15 days",
+          "hi": "15 दिन"
+        },
+        {
+          "en": "30 days",
+          "hi": "30 दिन"
+        },
+        {
+          "en": "60 days",
+          "hi": "60 दिन"
+        },
+        {
+          "en": "45 days",
+          "hi": "45 दिन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "As defined under Section 2C of The Factories Act, 1948 'child' means a person who has not completed ___________ years of age",
+        "hi": "जैसा कि कारखाना अधिनियम 1948 की धारा 2 सी के तहत परिभाषित किया गया है, 'बच्चे' का मतलब वह व्यक्ति है जिसने ________ वर्ष की आयु पूरी नहीं की है"
+      },
+      "options": [
+        {
+          "en": "fifteenth",
+          "hi": "पंद्रहवां"
+        },
+        {
+          "en": "thirteenth",
+          "hi": "तेरवां"
+        },
+        {
+          "en": "twelveth",
+          "hi": "बारहवां"
+        },
+        {
+          "en": "fourteenth",
+          "hi": "चौदहवां"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "As per Section 18(3) of The Factories Act, 1948 - 'In every factory wherein more than _______ workers are ordinarily employed, provision shall be made for cool drinking water during hot weather by effective means and for distribution thereof.",
+        "hi": "फैक्ट्री अधिनियम, 1948 की धारा 18 (3) के अनुसार 'प्रत्येक कारखाने में जहां _______ से अधिक श्रमिक कार्यरत हैं, गर्म मौसम के दौरान प्रभावी तरीकों से ठंडे पीने के पानी और उसके वितरण का प्रावधान किया जाएगा।"
+      },
+      "options": [
+        {
+          "en": "100",
+          "hi": "100"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "250",
+          "hi": "250"
+        },
+        {
+          "en": "50",
+          "hi": "50"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "Under the provisions of The Factories Act, 1948 - 'In every factory wherein more than _______ women workers are ordinarily employed, there shall be provided and maintained a suitable room or rooms for the use of children under the age of _______ years of such women. What will be filled up in the blanks, respectively?",
+        "hi": "फैक्ट्री अधिनियम, 1948 के प्रावधानों के तहत 'प्रत्येक कारखाने में जहां _______ से अधिक महिला श्रमिक कार्यरत हैं, वहां ऐसी महिलाओं के _______ वर्ष से कम उम्र के बच्चों के उपयोग के लिए एक उपयुक्त कमरा या कमरे उपलब्ध कराए जाएंगे और बनाए रखा जाएगा। रिक्त स्थान में क्रमशः क्या भरा जाएगा?"
+      },
+      "options": [
+        {
+          "en": "30 & 06",
+          "hi": "30 & 06"
+        },
+        {
+          "en": "40 & 05",
+          "hi": "40 & 05"
+        },
+        {
+          "en": "50 & 03",
+          "hi": "50 & 03"
+        },
+        {
+          "en": "100 & 06",
+          "hi": "100 & 06"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "As per The Factories Act, 1948- \"No woman shall 'normally' be required or allowed to work in any factory except between the hours of _________\"",
+        "hi": "फ़ैक्टरी अधिनियम, 1948 के अनुसार \"किसी भी महिला को ________ घंटों के अलावा किसी भी फ़ैक्टरी में काम करने की 'सामान्यतः' आवश्यकता या अनुमति नहीं दी जाएगी\""
+      },
+      "options": [
+        {
+          "en": "5 A.M. and 7 P.M.",
+          "hi": "5 A.M. and 7 P.M."
+        },
+        {
+          "en": "6 A.M. and 7 P.M.",
+          "hi": "6 A.M. and 7 P.M."
+        },
+        {
+          "en": "5 A.M. and 6 P.M.",
+          "hi": "5 A.M. and 6 P.M."
+        },
+        {
+          "en": "6 A.M. and 6 P.M.",
+          "hi": "6 A.M. and 6 P.M."
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "Which of the following rules of Railway Servants (Disciplinary & Appeal) Rules, 1968 specify penalties?",
+        "hi": "रेल सेवक (अनुशासन एवं अपील) नियम, 1968 के निम्नलिखित में से कौन से नियम दंड निर्दिष्ट करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Rule 9",
+          "hi": "नियम 9"
+        },
+        {
+          "en": "Rule 6",
+          "hi": "नियम 6"
+        },
+        {
+          "en": "Rule 11",
+          "hi": "नियम 11"
+        },
+        {
+          "en": "Rule 3",
+          "hi": "नियम 3"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "Why is SF-7 issued under Railway Servants (Disciplinary & Appeal) Rules, 1968?",
+        "hi": "रेलसेवक (अनुशासन एवं अपील) नियम, 1968 के तहत एसएफ-7 क्यों जारी किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "to issue major charge sheet",
+          "hi": "दीर्घ आरोप पत्र जारी करने हेतु"
+        },
+        {
+          "en": "for placing an employee under suspension",
+          "hi": "किसी कर्मचारी को निलंबित करने के लिए"
+        },
+        {
+          "en": "for appointment of inquiry officer",
+          "hi": "जांच अधिकारी की नियुक्ति हेतु"
+        },
+        {
+          "en": "for revocation of suspension",
+          "hi": "निलंबन रद्द करने हेतु"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "Inquiry is not mandatory under which rule of Railway Servants (Disciplinary & Appeal) Rules, 1968?",
+        "hi": "रेलसेवक (अनुशासन एवं अपील) नियम, 1968 के किस नियम के तहत पूछताछ अनिवार्य नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Rule 5",
+          "hi": "नियम 5"
+        },
+        {
+          "en": "Rule 13",
+          "hi": "नियम 13"
+        },
+        {
+          "en": "Rule 14 (ii)",
+          "hi": "नियम 14 (ii)"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमे से कोई भी नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "Under Rule 22 of the Railway Services (Conduct) Rules, 1966, running staff are prohibited to consume intoxicant drinks or drugs before how many hours from sign on?",
+        "hi": "रेल सेवा (आचरण) नियम, 1966 के नियम 22 के तहत, रनिंग स्टाफ को साइन ऑन से कितने घंटे पहले नशीले पेय या दवाओं का सेवन करने से प्रतिबंधित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "8 hours",
+          "hi": "8 घंटे"
+        },
+        {
+          "en": "6 hours",
+          "hi": "6 घंटे"
+        },
+        {
+          "en": "2 hours",
+          "hi": "2 घंटे"
+        },
+        {
+          "en": "3 hours",
+          "hi": "3 घंटे"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "Rule 3C of Railway Services (Conduct) Rules, 1966 is related to",
+        "hi": "रेल सेवा (आचरण) नियम, 1966 का नियम 3 सी _________ से संबंधित है"
+      },
+      "options": [
+        {
+          "en": "Dowry",
+          "hi": "दहेज"
+        },
+        {
+          "en": "Accepting gifts",
+          "hi": "उपहार स्वीकार करना"
+        },
+        {
+          "en": "Sexual Harassment of female employees",
+          "hi": "महिला कर्मचारियों का यौन उत्पीड़न"
+        },
+        {
+          "en": "subletting of railway quarters",
+          "hi": "रेलवे क्वार्टरों को किराए पर देना"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "Under which rule of Railway Services (Conduct) Rules, 1966 it is forbidden to participate in politics?",
+        "hi": "रेलसेवा (आचरण) नियम, 1966 के किस नियम के तहत राजनीति में भाग लेना मना है?"
+      },
+      "options": [
+        {
+          "en": "Rule 23",
+          "hi": "नियम 23"
+        },
+        {
+          "en": "Rule 6",
+          "hi": "नियम 6"
+        },
+        {
+          "en": "Rule 10",
+          "hi": "नियम 10"
+        },
+        {
+          "en": "Rule 5",
+          "hi": "नियम 5"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "Period for appeal under Railway Servants (Disciplinary & Appeal) Rules, 1968 is ______ days.",
+        "hi": "रेल कर्मचारी (अनुशासनात्मक एवं अपील) नियम, 1968 के तहत अपील की अवधि ______ दिन है।"
+      },
+      "options": [
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "35",
+          "hi": "35"
+        },
+        {
+          "en": "45",
+          "hi": "45"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "Who signs SF-3 in Railway Servants (Disciplinary & Appeal) Rules, 1968?",
+        "hi": "रेल सेवक (अनुशासनात्मक एवं अपील) नियम, 1968 में SF-3 पर कौन हस्ताक्षर करता है?"
+      },
+      "options": [
+        {
+          "en": "Controlling officer",
+          "hi": "नियंत्रण अधिकारी"
+        },
+        {
+          "en": "Suspended employee",
+          "hi": "निलंबित कर्मचारी"
+        },
+        {
+          "en": "Disciplinary Authority",
+          "hi": "अनुशासनात्मक प्राधिकारी"
+        },
+        {
+          "en": "Appellate Authority",
+          "hi": "अपीलीय प्राधिकारी"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 61,
+      "question": {
+        "en": "What is the standard form used for 'Deemed Suspension'?",
+        "hi": "'डीम्ड सस्पेंशन' के लिए उपयोग किया जाने वाला मानक प्रपत्र क्या है?"
+      },
+      "options": [
+        {
+          "en": "SF-1",
+          "hi": "एस एफ-1"
+        },
+        {
+          "en": "SF-2",
+          "hi": "एस एफ -2"
+        },
+        {
+          "en": "SF-5",
+          "hi": "एस एफ -5"
+        },
+        {
+          "en": "SF-6",
+          "hi": "एस एफ -6"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "If dependants are included then total how many members are to be included in Privilege Pass?",
+        "hi": "यदि आश्रितों को शामिल किया जाता है तो कुल कितने सदस्यों को विशेषाधिकार पास में शामिल किया जाना है?"
+      },
+      "options": [
+        {
+          "en": "5 members",
+          "hi": "5 सदस्य"
+        },
+        {
+          "en": "2 members",
+          "hi": "2 सदस्य"
+        },
+        {
+          "en": "3 members",
+          "hi": "3 सदस्य"
+        },
+        {
+          "en": "4 members",
+          "hi": "4 सदस्य"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "The Annual Performance and Appraisal Report of Gazetted railway officers is assessed on a scale of ___________",
+        "hi": "राजपत्रित रेलवे अधिकारियों की वार्षिक प्रदर्शन और मूल्यांकन रिपोर्ट का मूल्यांकन _________ के पैमाने पर किया जाता है"
+      },
+      "options": [
+        {
+          "en": "5 points",
+          "hi": "5 अंक"
+        },
+        {
+          "en": "10 points",
+          "hi": "10 अंक"
+        },
+        {
+          "en": "100 points",
+          "hi": "100 अंक"
+        },
+        {
+          "en": "200 points",
+          "hi": "200 अंक"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "Education aid from Staff Benefit Fund may be paid to how many child of an employee?",
+        "hi": "कर्मचारी लाभ निधि से किसी कर्मचारी के कितने बच्चों को शिक्षा सहायता का भुगतान किया जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "first 2 children",
+          "hi": "पहले 2 बच्चे"
+        },
+        {
+          "en": "first 4 children",
+          "hi": "पहले 4 बच्चे"
+        },
+        {
+          "en": "only 1 child",
+          "hi": "केवल 1 बच्चा"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमे से कोई भी नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "Which is the correct expansion for IRPSM?",
+        "hi": "आईआरपीएसएम का सही विस्तार क्या है?"
+      },
+      "options": [
+        {
+          "en": "Indian Railways Projects Sanctions & Management",
+          "hi": "इंडियन रेलवेज प्रोजेक्ट्स सैंक्शन एंड मैनेजमेंट"
+        },
+        {
+          "en": "Indian Railways Permanent Show Module",
+          "hi": "इंडियन रेलवेज परमानेंट शो मॉडुल"
+        },
+        {
+          "en": "Indian Railways Property Service & Management",
+          "hi": "इंडियन रेलवेज प्रॉपर्टी सर्विस एंड मैनेजमेंट"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "What is the correct explanation of PREM?",
+        "hi": "PREMका सही स्पष्टीकरण क्या है?"
+      },
+      "options": [
+        {
+          "en": "Public Rights Engagement Mode",
+          "hi": "पब्लिक राइट्स इंगेजमेंट मोड"
+        },
+        {
+          "en": "Participation of Railway Employees in Management",
+          "hi": "पार्टीसिपेशन ऑफ रेलवे इंप्लाइज इन मैनेजमेंट"
+        },
+        {
+          "en": "Public Redressal Employee Machinery",
+          "hi": "पब्लिक रीड्रेसियल इंप्लाय मशीनरी"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "If an eligible Railway employee wishes to apply for voluntary retirement he has to give _____________ month notice.",
+        "hi": "यदि कोई पात्र रेलवे कर्मचारी स्वैच्छिक सेवानिवृत्ति के लिए आवेदन करना चाहता है तो उसे _____________ महीने का नोटिस देना होगा।"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "If there is no compromise in PNM meetings at Railway Board's level then how it is settled?",
+        "hi": "यदि रेलवे बोर्ड स्तर पर पीएनएम बैठकों में समझौता नहीं होता तो इसका समाधान कैसे होगा?"
+      },
+      "options": [
+        {
+          "en": "through CAT decision",
+          "hi": "कैट के निर्णय के माध्यम से"
+        },
+        {
+          "en": "through High Court decision",
+          "hi": "हाईकोर्ट के निर्णय के माध्यम से"
+        },
+        {
+          "en": "through Adhoc Tribunal",
+          "hi": "ऐडहक ट्रिब्यूनल के माध्यम से"
+        },
+        {
+          "en": "through voting",
+          "hi": "वोटिंग के माध्यम से"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "Gold Plated Medals given to retiring railway servants presently contains Logo(s) of",
+        "hi": "सेवानिवृत्त रेलवे कर्मचारियों को दिए जाने वाले स्वर्ण-प्लेटेड पदकों में वर्तमान में ________ का लोगो होता है"
+      },
+      "options": [
+        {
+          "en": "Indian Railway only",
+          "hi": "केवल भारतीय रेलवे"
+        },
+        {
+          "en": "concerned Railway/PU only",
+          "hi": "केवल संबंधित रेलवे/पीयू"
+        },
+        {
+          "en": "both (a) & (b)",
+          "hi": "(a) और (b) दोनों"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "Which Article of the Constitution deals with the Official Language of the Union?",
+        "hi": "संविधान का कौन-सा अनुच्छेद संघ की राजभाषा से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Article 343",
+          "hi": "अनुच्छेद 343"
+        },
+        {
+          "en": "Article 345",
+          "hi": "अनुच्छेद 345"
+        },
+        {
+          "en": "Article 348",
+          "hi": "अनुच्छेद 348"
+        },
+        {
+          "en": "Article 351",
+          "hi": "अनुच्छेद 351"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "Who chairs the Committee of Parliament on Official Language?",
+        "hi": "राजभाषा पर संसदीय समिति का अध्यक्ष कौन होता है?"
+      },
+      "options": [
+        {
+          "en": "President",
+          "hi": "President"
+        },
+        {
+          "en": "Prime Minister",
+          "hi": "Prime Minister"
+        },
+        {
+          "en": "Home Minister",
+          "hi": "Home Minister"
+        },
+        {
+          "en": "Vice President",
+          "hi": "Vice President"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "Which ministry is responsible for official language implementation?",
+        "hi": "राजभाषा कार्यान्वयन के लिए कौन-सा मंत्रालय जिम्मेदार है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Culture",
+          "hi": "Ministry of Culture"
+        },
+        {
+          "en": "Ministry of Home Affairs",
+          "hi": "Ministry of Home Affairs"
+        },
+        {
+          "en": "Ministry of Education",
+          "hi": "Ministry of Education"
+        },
+        {
+          "en": "Ministry of Law",
+          "hi": "Ministry of Law"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "In which year was the Official Language Commission constituted?",
+        "hi": "राजभाषा आयोग का गठन किस वर्ष हुआ था?"
+      },
+      "options": [
+        {
+          "en": "1952",
+          "hi": "1952"
+        },
+        {
+          "en": "1955",
+          "hi": "1955"
+        },
+        {
+          "en": "1960",
+          "hi": "1960"
+        },
+        {
+          "en": "1963",
+          "hi": "1963"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "Which Article mandates the President to constitute a Commission on Official Language?",
+        "hi": "किस अनुच्छेद के अंतर्गत राष्ट्रपति राजभाषा आयोग गठित करता है?"
+      },
+      "options": [
+        {
+          "en": "Article 343(1)",
+          "hi": "Article 343(1)"
+        },
+        {
+          "en": "Article 344(1)",
+          "hi": "Article 344(1)"
+        },
+        {
+          "en": "Article 351",
+          "hi": "Article 351"
+        },
+        {
+          "en": "Article 350B",
+          "hi": "Article 350B"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "What is the ratio of Lok Sabha to Rajya Sabha members in the Parliamentary Committee on Official Language?",
+        "hi": "राजभाषा पर संसदीय समिति में लोकसभा और राज्यसभा सदस्यों का अनुपात क्या है?"
+      },
+      "options": [
+        {
+          "en": "10: 10",
+          "hi": "10: 10"
+        },
+        {
+          "en": "20: 10",
+          "hi": "20: 10"
+        },
+        {
+          "en": "15: 15",
+          "hi": "15: 15"
+        },
+        {
+          "en": "25: 5",
+          "hi": "25: 5"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "How many Languages are mentioned in Schedule VIII of the Constitution?",
+        "hi": "संविधान की अनुसूची-VIII में कितनी भाषाओं का उल्लेख है?"
+      },
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "How many section are there in Official Language Act-1963?",
+        "hi": "राजभाषा अधिनियम-1963 में कितनी धाराएँ हैं?"
+      },
+      "options": [
+        {
+          "en": "11",
+          "hi": "11"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "According to Official Language Rules, how should a central government office handle standard forms and pro formas (such as application forms) used by the public across both Hindi and non-Hindi regions?",
+        "hi": "राजभाषा नियमों के अनुसार, केंद्रीय सरकारी कार्यालयों द्वारा जनता के उपयोग हेतु, जो हिंदी तथा गैर -हिंदी दोनों क्षेत्रों में प्रयुक्त होते हैं, मानक प्रपत्रों फ़ॉर्मों (जैसे आवेदन-पत्र) को कैसे तैयार किया जाना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "In bilingual format (Hindi and English), so that citizens from all regions can use them without disadvantage",
+          "hi": "‌द्विभाषिक (हिंदी-अंग्रेज़ी) रूप में, ताकि सभी क्षेत्रों के नागरिक बिना किसी भाषा-हानि के उनका उपयोग करसकें |"
+        },
+        {
+          "en": "Only in Hindi, to promote the official language, irrespective of public language profile",
+          "hi": "केवलहिंदी में, राजभाषा को बढ़ावा देने के लिए, जनता की भाषा-स्थिति की परवाह किए बिना।"
+        },
+        {
+          "en": "Only in English, as English is widely understood in official matters",
+          "hi": "केवल अंग्रेज़ी में, क्योंकि सरकारीकार्यों में अंग्रेज़ी व्यापक रूप से समझी जाती है।"
+        },
+        {
+          "en": "In English in non-Hindi regions and in Hindi in Hindi regions, with no bilingual provision",
+          "hi": "गैर-हिंदीक्षेत्रों में केवल अंग्रेज़ी और हिंदी क्षेत्रों में केवल हिंदी, बिना किसी द्विभाषिक व्यवस्था के।"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "Which of the following document has not covered under section 3 (3) of Official Language Act- 1963?",
+        "hi": "निम्नलिखित में से कौन सा दस्तावेज़ राजभाषा अधिनियम-1963 की धारा 3 (3) के अंतर्गत नहीं आता है?"
+      },
+      "options": [
+        {
+          "en": "General Order",
+          "hi": "सामान्य आदेश"
+        },
+        {
+          "en": "Notifications",
+          "hi": "सूचनाएं"
+        },
+        {
+          "en": "Press Release",
+          "hi": "प्रेस विज्ञप्ति"
+        },
+        {
+          "en": "Representations",
+          "hi": "प्रतिनिधित्व"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "What is the level of Hindi qualification of Pragya",
+        "hi": "प्रज्ञा किस कक्षा स्तर के समकक्ष की हिंदी योग्यता है"
+      },
+      "options": [
+        {
+          "en": "5th class equivalent",
+          "hi": "पांचवी कक्षा के समकक्ष"
+        },
+        {
+          "en": "8th class equivalent",
+          "hi": "आठवीं कक्षा के समकक्ष"
+        },
+        {
+          "en": "10th class equivalent",
+          "hi": "दशमी कक्षा के समकक्ष"
+        },
+        {
+          "en": "none of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 81,
+      "question": {
+        "en": "In which form are rubber seals made?",
+        "hi": "रबड़ की मुहरों को किस प्रकार तैयार किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Hindi - English bilingual",
+          "hi": "हिंदी अंग्रेजी ‌द्विभाषिक रूप में"
+        },
+        {
+          "en": "only Hindi",
+          "hi": "केवल हिंदी में"
+        },
+        {
+          "en": "only English",
+          "hi": "केवल अंग्रेजी में"
+        },
+        {
+          "en": "none of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "Which ministry conducts the RajbhashaGaurav award Scheme?",
+        "hi": "राजभाषा गौरव पुरस्कार योजना किस मंत्रालय द्वारा संचालित की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Culture",
+          "hi": "संस्कृति मंत्रालय"
+        },
+        {
+          "en": "Ministry of Agriculture",
+          "hi": "कृषि मंत्रालय"
+        },
+        {
+          "en": "Home Ministry",
+          "hi": "गृह मंत्रालय"
+        },
+        {
+          "en": "Ministry of Railways",
+          "hi": "रेल मंत्रालय"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "Dogri is spoken in the state or union territory?",
+        "hi": "डोगरी किस राज्य या संघ राज्य क्षेत्र में बोली जाती है?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Jammu",
+          "hi": "जम्मू"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "Which of these languages is not written in the Devanagari script?",
+        "hi": "इनमें से कौन सी भाषा देवनागरी लिपि में नहीं लिखी जाती है?"
+      },
+      "options": [
+        {
+          "en": "Hindi",
+          "hi": "हिंदी"
+        },
+        {
+          "en": "Sanskrit",
+          "hi": "संस्कृत"
+        },
+        {
+          "en": "Gujarati",
+          "hi": "गुजराती"
+        },
+        {
+          "en": "Marathi",
+          "hi": "मराठी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "Which states official language is English?",
+        "hi": "किस प्रदेश के राजभाषा अंग्रेजी है?"
+      },
+      "options": [
+        {
+          "en": "Nagaland",
+          "hi": "नागालैंड"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Tripura",
+          "hi": "त्रिपुरा"
+        },
+        {
+          "en": "Himachal Pradesh",
+          "hi": "हिमाचल प्रदेश"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "Who is the Chairman of Zonal Railway Official Language Implementation Committee?",
+        "hi": "क्षेत्रीय रेलवे राजभाषा कार्यानवयन समिति के अध्यक्ष कौन होते हैं?"
+      },
+      "options": [
+        {
+          "en": "General Manager",
+          "hi": "महाप्रबंधक"
+        },
+        {
+          "en": "Additional General Manager",
+          "hi": "अपर महाप्रबंधक"
+        },
+        {
+          "en": "Mukhya RajbhashaAdhikari",
+          "hi": "मुख्य राजभाषा अधिकारी"
+        },
+        {
+          "en": "Deputy General Manager",
+          "hi": "उप महाप्रबंधक"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "Who carries out drawing up of syllabus for official language Hindi training?",
+        "hi": "राजभाषा हिंदी प्रशिक्षण के लिए पाठ्यक्रम कौन तैयार करता है?"
+      },
+      "options": [
+        {
+          "en": "Department of Official Language of Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय का राजभाषा विभाग"
+        },
+        {
+          "en": "Ministry of Finance",
+          "hi": "वित्त मंत्रालय"
+        },
+        {
+          "en": "Ministry of Defence",
+          "hi": "रक्षा मंत्रालय"
+        },
+        {
+          "en": "Ministry of Railways",
+          "hi": "रेल मंत्रालय"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "What is the tenure of Mukhya Rajbhasha Adhikari?",
+        "hi": "मुख्य राजभाषा अधिकारी का कार्यकाल कितने वर्ष का होता है?"
+      },
+      "options": [
+        {
+          "en": "1 year",
+          "hi": "1 वर्ष"
+        },
+        {
+          "en": "2 years",
+          "hi": "2 वर्ष"
+        },
+        {
+          "en": "3 years",
+          "hi": "3 वर्ष"
+        },
+        {
+          "en": "6 months",
+          "hi": "6 माह"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "Who chairs the meetings of the Railway Hindi Advisory Committee?",
+        "hi": "रेल हिंदी सलाहकार समिति की बैठको की अध्यक्षता कौन करते है।"
+      },
+      "options": [
+        {
+          "en": "Rail Minister",
+          "hi": "रेलमंत्री"
+        },
+        {
+          "en": "Home Minister",
+          "hi": "गृह मंत्री"
+        },
+        {
+          "en": "Chief Official Language Officer",
+          "hi": "मुख्य राजभाषा अधिकारी"
+        },
+        {
+          "en": "General Manager",
+          "hi": "महाप्रबंधक"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "When did the Official Language Act 1963 come into force?",
+        "hi": "राजभाषा अधिनियम 1963 कब से लागू हुआ।"
+      },
+      "options": [
+        {
+          "en": "26 January 1963",
+          "hi": "26 जनवरी 1963"
+        },
+        {
+          "en": "15 August 1963",
+          "hi": "15 अगस्त 1963"
+        },
+        {
+          "en": "26 January 1965",
+          "hi": "26 जनवरी 1965"
+        },
+        {
+          "en": "15 August 1967",
+          "hi": "15 अगस्त 1967"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "In which region are the Andaman and Nicobar Islands placed from the point of view of official language?",
+        "hi": "अण्डमान निकोबार द्वीप समूहो को राजभाषा की दृष्टि से किस क्षेत्र में रखा गया है"
+      },
+      "options": [
+        {
+          "en": "Region 'A'",
+          "hi": "क"
+        },
+        {
+          "en": "Region 'B'",
+          "hi": "ख"
+        },
+        {
+          "en": "Both 'B' and 'C'",
+          "hi": "ख एवं ग दोनो में"
+        },
+        {
+          "en": "Region 'C'",
+          "hi": "ग"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "Meetings of the Zonal Official Language Implementation Committee are held",
+        "hi": "क्षेत्रीय राजभाषा कार्यान्वयन समिति की बैठके आयोजित की जाती है।"
+      },
+      "options": [
+        {
+          "en": "Once in two months",
+          "hi": "दो महिने में एक बार"
+        },
+        {
+          "en": "Once in three months",
+          "hi": "तीन महिने में एक बार"
+        },
+        {
+          "en": "Once in four months",
+          "hi": "चार महिने में एक बार"
+        },
+        {
+          "en": "Once in six months",
+          "hi": "छः महिने में एक बार"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "According to which article, the official language of the Union will be Hindi and script Devanagari.",
+        "hi": "किस अनुच्छेद के अनुसार संघ की राजभाषा हिन्दी और लिपि देवनागरी होगी ।"
+      },
+      "options": [
+        {
+          "en": "Article 343/1",
+          "hi": "अनुच्छेद 343/1"
+        },
+        {
+          "en": "Article 343/2",
+          "hi": "अनुच्छेद 343/2"
+        },
+        {
+          "en": "Article 343/3",
+          "hi": "अनुच्छेद 343/3"
+        },
+        {
+          "en": "Article 343/4",
+          "hi": "अनुच्छेद 343/4"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "Who chairs the Central Hindi Committee.",
+        "hi": "केन्द्रीय हिंदी समिति अध्यक्षता कौन करते है।"
+      },
+      "options": [
+        {
+          "en": "Home Minister",
+          "hi": "गृहमंत्री"
+        },
+        {
+          "en": "Human Resource Minister",
+          "hi": "मानव संसाधन मंत्री"
+        },
+        {
+          "en": "Prime Minister",
+          "hi": "प्रधानमंत्री"
+        },
+        {
+          "en": "Rail Minister",
+          "hi": "रेल मंत्री"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "Where is the Department of Official Language located?",
+        "hi": "राजभाषा विभाग कहां पर स्थित है ?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय में"
+        },
+        {
+          "en": "Prime Minister's Office",
+          "hi": "प्रधान मंत्री कार्यालय में"
+        },
+        {
+          "en": "Ministry of Railways",
+          "hi": "रेल मंत्रालय में"
+        },
+        {
+          "en": "Ministry of Human Resources",
+          "hi": "मानव संसाधन मंत्रालय में"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "Which is the authorized language of the Supreme Court?",
+        "hi": "उच्चतम न्यायालय की प्राधिकृत भाषा कौनसी है ?"
+      },
+      "options": [
+        {
+          "en": "Hindi Language",
+          "hi": "हिन्दी भाषा"
+        },
+        {
+          "en": "English Language",
+          "hi": "अंग्रेजी भाषा"
+        },
+        {
+          "en": "Both Hindi and English Language",
+          "hi": "हिन्दी व अंग्रेजी भाषा दोनों"
+        },
+        {
+          "en": "State official language",
+          "hi": "राज्य की राजकीय भाषा"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "Which state of matter exhibits the greatest expansion upon an increase in temperature?",
+        "hi": "ताप बढ़ने पर कौन-सी पदार्थ की अवस्था सर्वाधिक बढ़ती है?"
+      },
+      "options": [
+        {
+          "en": "Solids",
+          "hi": "ठोस"
+        },
+        {
+          "en": "Gases",
+          "hi": "गैसें"
+        },
+        {
+          "en": "Liquids",
+          "hi": "द्रव"
+        },
+        {
+          "en": "Plasma",
+          "hi": "प्लाज्मा"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "While selecting a grinding wheel, which of the following is the correct rule?",
+        "hi": "ग्राइंडिंग व्हील का चयन करते समय, निम्नलिखित में से कौन-सा नियम सही है?"
+      },
+      "options": [
+        {
+          "en": "Closed structure for ductile and soft materials",
+          "hi": "नमनीय और मुलायम पदार्थों के लिए बंद संरचना"
+        },
+        {
+          "en": "Soft wheel for hard metals and hard wheel for soft metals",
+          "hi": "कठोर धातुओं के लिए मुलायम पहिया और मुलायम धातुओं के लिए कठोर पहिया"
+        },
+        {
+          "en": "An open structure is required for fine finishes",
+          "hi": "बारीक फिनिश के लिए एक खुली संरचना की आवश्यकता होती है"
+        },
+        {
+          "en": "Hard wheel for hard metals and soft wheel for soft metals",
+          "hi": "कठोर धातुओं के लिए कठोर पहिया और मुलायम धातुओं के लिए मुलायम पहिया"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "As per statistical reasons LC Gate Accidents comes under:",
+        "hi": "सांख्यिकीय कारणों के अनुसार, LC गेट दुर्घटनाएँ इसके अंतर्गत आती हैं:"
+      },
+      "options": [
+        {
+          "en": "Class 'A' Accident",
+          "hi": "क्लास 'A' दुर्घटना"
+        },
+        {
+          "en": "Class 'B' Accident",
+          "hi": "क्लास 'B' दुर्घटना"
+        },
+        {
+          "en": "Class 'C' Accident",
+          "hi": "क्लास 'C' दुर्घटना"
+        },
+        {
+          "en": "Class 'D' Accident",
+          "hi": "क्लास 'D' दुर्घटना"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "Under which DAR rule an Appeal can be made?",
+        "hi": "किस DAR नियम के तहत अपील की जा सकती है?"
+      },
+      "options": [
+        {
+          "en": "Rule-18",
+          "hi": "नियम-18"
+        },
+        {
+          "en": "Rule-15",
+          "hi": "नियम-15"
+        },
+        {
+          "en": "Rule-11",
+          "hi": "नियम-11"
+        },
+        {
+          "en": "Rule-7",
+          "hi": "नियम-7"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 101,
+      "question": {
+        "en": "In CTRB the grease use per Axle box is -",
+        "hi": "CTRB में, प्रति एक्सल बॉक्स ग्रीस का उपयोग है"
+      },
+      "options": [
+        {
+          "en": "455 ±30 gms",
+          "hi": "455 ±30 gms"
+        },
+        {
+          "en": "490±15 gms",
+          "hi": "490±15 gms"
+        },
+        {
+          "en": "500±35 gms",
+          "hi": "500±35 gms"
+        },
+        {
+          "en": "550±20 gms",
+          "hi": "550±20 gms"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 102,
+      "question": {
+        "en": "What does \"WILD\" stand for in Indian Railways context?",
+        "hi": "भारतीय रेलवे के संदर्भ में \"WILD\" का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "Wheel Internal Load Detector",
+          "hi": "पहिया आंतरिक भार संसूचक"
+        },
+        {
+          "en": "Wheel Impact Load Detector",
+          "hi": "पहिया प्रभाव भार संसूचक"
+        },
+        {
+          "en": "Weighted Impact Load Device",
+          "hi": "भारित प्रभाव भार युक्ति"
+        },
+        {
+          "en": "Wheels in Line Detector",
+          "hi": "पहिया पंक्ति संसूचक"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 103,
+      "question": {
+        "en": "CBC contour gauge No. 3 is used to detect the diffect of...........",
+        "hi": "CBC कंटूर गेज नंबर 3 का उपयोग ............ के दोष का पता लगाने के लिए किया जाता है।"
+      },
+      "options": [
+        {
+          "en": "Toggle",
+          "hi": "टॉगल"
+        },
+        {
+          "en": "Locking piece",
+          "hi": "लॉकिंग पीस"
+        },
+        {
+          "en": "Knuckle thrower",
+          "hi": "नकल थ्रोअर"
+        },
+        {
+          "en": "Knuckle",
+          "hi": "नकल"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 104,
+      "question": {
+        "en": "In LHB coach which type of motor is used in the Mono bloc Centrifugal Pump type of WRA?",
+        "hi": "LHB कोच में, WRA के मोनोब्लॉक सेंट्रीफ्यूगल पंप प्रकार में किस प्रकार की मोटर का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "AC",
+          "hi": "AC"
+        },
+        {
+          "en": "DC",
+          "hi": "DC"
+        },
+        {
+          "en": "DC and AC",
+          "hi": "DC and AC"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 105,
+      "question": {
+        "en": "For testing C3W DV, the AR charging time from 0 to 4.8 kg/cm2 is?",
+        "hi": "C3W DV के परीक्षण के लिए, 0 से 4.8 kg/cm² तक AR चार्जिंग का समय कितना है?"
+      },
+      "options": [
+        {
+          "en": "170 ± 10 sec",
+          "hi": "170 ± 10 सेकंड"
+        },
+        {
+          "en": "175 ± 30 sec",
+          "hi": "175 ± 30 सेकंड"
+        },
+        {
+          "en": "280 ± 30 sec",
+          "hi": "280 ± 30 सेकंड"
+        },
+        {
+          "en": "210 ± 20 sec",
+          "hi": "210 ± 20 सेकंड"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 106,
+      "question": {
+        "en": "Axle load of BTPN tank wagon is?",
+        "hi": "BTPN टैंक वैगन का एक्सल लोड कितना होता है?"
+      },
+      "options": [
+        {
+          "en": "20.32 tons",
+          "hi": "20.32 टन"
+        },
+        {
+          "en": "22.35 tons",
+          "hi": "22.35 टन"
+        },
+        {
+          "en": "21.35 tons",
+          "hi": "21.35 टन"
+        },
+        {
+          "en": "25.22 tons",
+          "hi": "25.22 टन"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 107,
+      "question": {
+        "en": "Which of the following classical dance forms is associated with the state of Kerala?",
+        "hi": "निम्नलिखित में से कौन सा शास्त्रीय नृत्य रूप केरल राज्य से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Bharatanatyam",
+          "hi": "भरतनाट्यम"
+        },
+        {
+          "en": "Kathakali",
+          "hi": "कथकली"
+        },
+        {
+          "en": "Odissi",
+          "hi": "ओडिसी"
+        },
+        {
+          "en": "Kathak",
+          "hi": "कथक"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 108,
+      "question": {
+        "en": "The famous Hornbill Festival is celebrated in which state of India?",
+        "hi": "प्रसिद्ध हॉर्नबिल महोत्सव भारत के किस राज्य में मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Nagaland",
+          "hi": "नागालैंड"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Mizoram",
+          "hi": "मिजोरम"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 109,
+      "question": {
+        "en": "Which country hosted the BRICS Summit in the year 2025?",
+        "hi": "वर्ष 2024 में ब्रिक्स (BRICS) शिखर सम्मेलन की मेजबानी किस देश ने की?"
+      },
+      "options": [
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "Brazil",
+          "hi": "ब्राज़ील"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 110,
+      "question": {
+        "en": "What is the SI unit of power of a lens?",
+        "hi": "लेंस की क्षमता का SI मात्रक क्या है?"
+      },
+      "options": [
+        {
+          "en": "Meter",
+          "hi": "मीटर"
+        },
+        {
+          "en": "Diopter",
+          "hi": "डायोप्टर"
+        },
+        {
+          "en": "Watt",
+          "hi": "वाट"
+        },
+        {
+          "en": "Joule",
+          "hi": "जूल"
+        }
+      ],
+      "correct": 1
+    }
+  ]
+}
