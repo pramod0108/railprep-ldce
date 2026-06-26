@@ -1,0 +1,2865 @@
+{
+  "paperName": "AI Mock Test - 11",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Length over body of LHB coach is",
+        "hi": "एलएचबी कोच की बॉडी की लंबाई कितनी है -"
+      },
+      "options": [
+        {
+          "en": "21770 mm",
+          "hi": "21770 मिमी"
+        },
+        {
+          "en": "21337 mm",
+          "hi": "21337 मिमी"
+        },
+        {
+          "en": "23540 mm",
+          "hi": "23540 मिमी"
+        },
+        {
+          "en": "25540 mm",
+          "hi": "25540 मिमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Piston stroke of brake cylinder of LHB coach is",
+        "hi": "एलएचबी कोच के ब्रेक सिलेंडर का पिस्टन स्ट्रोक है -"
+      },
+      "options": [
+        {
+          "en": "8-10 mm",
+          "hi": "8-10 मिमी"
+        },
+        {
+          "en": "15-21 mm",
+          "hi": "15-21 मिमी"
+        },
+        {
+          "en": "22-25 mm",
+          "hi": "22-25 मिमी"
+        },
+        {
+          "en": "30-32 mm",
+          "hi": "30-32 मिमी"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Which type of Roller bearing is used in LHB coaches?",
+        "hi": "LHB कोच में किस प्रकार के रोलर बेयरिंग का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Spherical Roller bearing",
+          "hi": "गोलाकार रोलर बेयरिंग"
+        },
+        {
+          "en": "Plain Roller bearing",
+          "hi": "सादा रोलर बेयरिंग"
+        },
+        {
+          "en": "Cartridge Tapered Roller bearing",
+          "hi": "काट्रिज टेपर्ड रोलर बेयरिंग"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "How many shock absorbers are used in LHB Coaches?",
+        "hi": "LHB कोच में कितने शॉक एब्जॉर्बर का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Distance between inner wheels of LHB -",
+        "hi": "एलएचबी के आंतरिक पहियों के बीच की दूरी -"
+      },
+      "options": [
+        {
+          "en": "12340 mm",
+          "hi": "12340 मिमी"
+        },
+        {
+          "en": "10390 mm",
+          "hi": "10390 मिमी"
+        },
+        {
+          "en": "11545 mm",
+          "hi": "11545 मिमी"
+        },
+        {
+          "en": "12010 mm",
+          "hi": "12010 मिमी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Torque value of brake caliper mounting bolt is -",
+        "hi": "ब्रेक कैलीपर माउंटिंग बोल्ट का टॉर्क मान है -"
+      },
+      "options": [
+        {
+          "en": "200 NM",
+          "hi": "200 एनएम"
+        },
+        {
+          "en": "170 NM",
+          "hi": "170 एनएम"
+        },
+        {
+          "en": "150 NM",
+          "hi": "150 एनएम"
+        },
+        {
+          "en": "190 NM",
+          "hi": "190 एनएम"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Brake accelerator is a -",
+        "hi": "ब्रेक एक्सीलरेटर एक है -"
+      },
+      "options": [
+        {
+          "en": "Brake actuating device",
+          "hi": "ब्रेक सक्रिय करने वाला उपकरण"
+        },
+        {
+          "en": "Emergency brake application device",
+          "hi": "इमरजेंसी ब्रेक लगाने वाला डिवाइस"
+        },
+        {
+          "en": "Both a & b",
+          "hi": "a और b दोनों"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What is the purpose of Dump Valve?",
+        "hi": "डंप वाल्व का उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To maintain approximate same speed of all axles",
+          "hi": "सभी एक्सल की लगभग एक जैसी स्पीड बनाए रखना"
+        },
+        {
+          "en": "To protect wheels against skidding",
+          "hi": "पहियों को फिसलने से बचाने के लिए"
+        },
+        {
+          "en": "A & b both",
+          "hi": "A और b दोनों"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "How many brake discs are provided on one axle in LHB coach?",
+        "hi": "LHB कोच में एक एक्सल पर कितने ब्रेक डिस्क दिए जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "How many brake cylinders are provided in a LHB coach",
+        "hi": "एलएचबी कोच में कितने ब्रेक सिलेंडर दिए जाते हैं"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Roof structure of LHB coach is made of",
+        "hi": "एलएचबी कोच की छत की संरचना किससे बनी होती है?"
+      },
+      "options": [
+        {
+          "en": "Austenitic stainless steel",
+          "hi": "ऑस्टेनिटिक स्टेनलेस स्टील"
+        },
+        {
+          "en": "Ferrite stainless steel",
+          "hi": "फेराइट स्टेनलेस स्टील"
+        },
+        {
+          "en": "High speed steel",
+          "hi": "उच्च गति स्टील"
+        },
+        {
+          "en": "IRSM-41 corten steel",
+          "hi": "आईआरएसएम-41 कोर्टेन स्टील"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What is the maximum width over body of LHB coach?",
+        "hi": "एलएचबी कोच की बॉडी की अधिकतम चौड़ाई कितनी होती है?"
+      },
+      "options": [
+        {
+          "en": "3456 mm",
+          "hi": "3456 मिमी"
+        },
+        {
+          "en": "2356 mm",
+          "hi": "2356 मिमी"
+        },
+        {
+          "en": "3260 mm",
+          "hi": "3260 मिमी"
+        },
+        {
+          "en": "3240 mm",
+          "hi": "3240 मिमी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Which component in LHB coach brings BP pressure to zero during emergency brake application?",
+        "hi": "एलएचबी कोच में कौन सा कंपोनेंट इमरजेंसी ब्रेक लगाने पर बीपी प्रेशर को ज़ीरो कर देता है?"
+      },
+      "options": [
+        {
+          "en": "FIBA",
+          "hi": "फीबा"
+        },
+        {
+          "en": "Pressure switch",
+          "hi": "प्रेशर स्विच"
+        },
+        {
+          "en": "Dump Valve",
+          "hi": "डंप वाल्व"
+        },
+        {
+          "en": "Brake accelerator",
+          "hi": "ब्रेक एक्सीलरेटर"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "The length over buffer of ICF/ RCF coach is -",
+        "hi": "ICF/RCF कोच का लेंथ ओवर बफर है -"
+      },
+      "options": [
+        {
+          "en": "22297 mm",
+          "hi": "22297 मिमी"
+        },
+        {
+          "en": "22299 mm",
+          "hi": "22299 मिमी"
+        },
+        {
+          "en": "21996 mm",
+          "hi": "21996 मिमी"
+        },
+        {
+          "en": "21030 mm",
+          "hi": "21030 मिमी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "The minimum permissible buffer height above rail level to center of buffer is",
+        "hi": "रेल स्तर से बफर के केंद्र तक न्यूनतम स्वीकार्य बफर ऊंचाई है -"
+      },
+      "options": [
+        {
+          "en": "1105 mm",
+          "hi": "1105 मिमी"
+        },
+        {
+          "en": "1145 mm",
+          "hi": "1145 मिमी"
+        },
+        {
+          "en": "1115 mm",
+          "hi": "1115 मिमी"
+        },
+        {
+          "en": "1030 mm",
+          "hi": "1030 मिमी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Piston stroke of bogie mounted brake cylinder in ICF is ..... mm.",
+        "hi": "आईसीएफ में बोगी माउंटेड ब्रेक सिलेंडर का पिस्टन स्ट्रोक ..... मिमी है।"
+      },
+      "options": [
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "42",
+          "hi": "42"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमे से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "The weight of the coach is transferred through-",
+        "hi": "कोच का भार किसके माध्यम से स्थानांतरित होता है?"
+      },
+      "options": [
+        {
+          "en": "Bolster",
+          "hi": "बोल्स्टर"
+        },
+        {
+          "en": "Equalizing stay",
+          "hi": "एक्वालीज़िंग स्टे"
+        },
+        {
+          "en": "Helical spring",
+          "hi": "हेलिकल स्प्रिंग"
+        },
+        {
+          "en": "Side bearer",
+          "hi": "साइड बेयरर"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "What is the maximum diameter of ICF wheel?",
+        "hi": "आईसीएफ व्हील का अधिकतम व्यास कितना होता है?"
+      },
+      "options": [
+        {
+          "en": "1000 mm",
+          "hi": "1000 मिमी"
+        },
+        {
+          "en": "965 mm",
+          "hi": "965 मिमी"
+        },
+        {
+          "en": "945 mm",
+          "hi": "945 मिमी"
+        },
+        {
+          "en": "915 mm",
+          "hi": "915 मिमी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Oil is used in dashpot guide?",
+        "hi": "डैशपॉट गाइड में किस तेल का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Servo RR-3",
+          "hi": "सर्वो RR-3"
+        },
+        {
+          "en": "Servoline 68",
+          "hi": "सर्वोलाइन 68"
+        },
+        {
+          "en": "Lithium base grease",
+          "hi": "लिथियम आधारित ग्रीस"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "How many bogie mounted brake cylinders are fitted in ICF coach?",
+        "hi": "आईसीएफ कोच में कितने बोगी माउंटेड ब्रेक सिलेंडर लगे होते हैं?"
+      },
+      "options": [
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Length over buffer of ICF coach is",
+        "hi": "आईसीएफ कोच की लम्बाई बफर के साथ हैं।"
+      },
+      "options": [
+        {
+          "en": "21336",
+          "hi": "21336"
+        },
+        {
+          "en": "24000",
+          "hi": "24000"
+        },
+        {
+          "en": "23540",
+          "hi": "23540"
+        },
+        {
+          "en": "22296",
+          "hi": "22296"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Maximum buffer height of coach is ..... mm.",
+        "hi": "कोच की अधिकतम बफर ऊंचाई... मिमी है।"
+      },
+      "options": [
+        {
+          "en": "1105",
+          "hi": "1105"
+        },
+        {
+          "en": "1030",
+          "hi": "1030"
+        },
+        {
+          "en": "1130",
+          "hi": "1130"
+        },
+        {
+          "en": "1090",
+          "hi": "1090"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What is the capacity of control reservoir of passenger coach?",
+        "hi": "पैसेंजर कोच के कंट्रोल रिज़र्वायर की क्षमता कितनी होती है?"
+      },
+      "options": [
+        {
+          "en": "6.0 ltr",
+          "hi": "6.0 लीटर"
+        },
+        {
+          "en": "7.0 ltr",
+          "hi": "7.0 लीटर"
+        },
+        {
+          "en": "8.0 ltr",
+          "hi": "8.0 लीटर"
+        },
+        {
+          "en": "10.0 ltr",
+          "hi": "10.0 लीटर"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "The total age of three kids in a family is 27 years. What will be the total of their ages after three years?",
+        "hi": "एक परिवार में तीन बच्चों की कुल आयु 27 वर्ष है। तीन वर्ष बाद उनकी आयु का कुल योग क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "33",
+          "hi": "33"
+        },
+        {
+          "en": "none",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "Simplify: 133 - 19 x 2 + 15",
+        "hi": "सरल करें: 133 - 19 x 2 + 15"
+      },
+      "options": [
+        {
+          "en": "110",
+          "hi": "110"
+        },
+        {
+          "en": "243",
+          "hi": "243"
+        },
+        {
+          "en": "3420",
+          "hi": "3420"
+        },
+        {
+          "en": "none",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Find the missing number in the following: 7 - 24 ÷ 8 x m + 6 = 1",
+        "hi": "निम्नलिखित में लुप्त संख्या ज्ञात कीजिए: 7 - 24 ÷ 8 x m + 6 = 1"
+      },
+      "options": [
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "1 litre is equal to how many cubic centimeters?",
+        "hi": "1 लीटर कितने घन सेंटीमीटर के बराबर होता है?"
+      },
+      "options": [
+        {
+          "en": "10 cu.cm",
+          "hi": "10 घन सेमी"
+        },
+        {
+          "en": "100 cu.cm",
+          "hi": "100 घन सेमी"
+        },
+        {
+          "en": "1000 cu.cm",
+          "hi": "1000 घन सेमी"
+        },
+        {
+          "en": "10000 cu.cm",
+          "hi": "10000 घन सेमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "The area of a rhombus is 240 cm² and one of the diagonals is 16 cm. Find the other diagonal.",
+        "hi": "एक समचतुर्भुज का क्षेत्रफल 240 सेमी² है और इसका एक विकर्ण 16 सेमी है। दूसरा विकर्ण ज्ञात कीजिये।"
+      },
+      "options": [
+        {
+          "en": "16 cm",
+          "hi": "16 सेमी"
+        },
+        {
+          "en": "20 cm",
+          "hi": "20 सेमी"
+        },
+        {
+          "en": "30 cm",
+          "hi": "30 सेमी"
+        },
+        {
+          "en": "36 cm",
+          "hi": "36 सेमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "What is the average of the numbers: 0, 0, 4, 10, 5, and 5?",
+        "hi": "संख्याओं 0, 0, 4, 10, 5, और 5 का औसत क्या है?"
+      },
+      "options": [
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "What is the value of x in the equation 3x - 15 - 6 = 0?",
+        "hi": "समीकरण 3x - 15 - 6 = 0 में x का मान क्या है?"
+      },
+      "options": [
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "none",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "What is the area of an equilateral triangle with a side length of 6 cm?",
+        "hi": "6 सेमी भुजा वाले समबाहु त्रिभुज का क्षेत्रफल क्या है?"
+      },
+      "options": [
+        {
+          "en": "9√3 cm²",
+          "hi": "9√3 सेमी²"
+        },
+        {
+          "en": "18 cm²",
+          "hi": "18 सेमी²"
+        },
+        {
+          "en": "36√3 cm²",
+          "hi": "36√3 सेमी²"
+        },
+        {
+          "en": "108 cm²",
+          "hi": "108 सेमी²"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "The solution of equation x - 2y = 4 is:",
+        "hi": "समीकरण x - 2y = 4 का हल है:"
+      },
+      "options": [
+        {
+          "en": "(0, 2)",
+          "hi": "(0, 2)"
+        },
+        {
+          "en": "(2, 0)",
+          "hi": "(2, 0)"
+        },
+        {
+          "en": "(4, 0)",
+          "hi": "(4, 0)"
+        },
+        {
+          "en": "(1, 1)",
+          "hi": "(1, 1)"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "Two angles of a triangle measure 15° and 85°. What is the measure for the third angle?",
+        "hi": "एक त्रिभुज के दो कोण 15° और 85° के हैं। तीसरे कोण का माप क्या है?"
+      },
+      "options": [
+        {
+          "en": "50°",
+          "hi": "50°"
+        },
+        {
+          "en": "55°",
+          "hi": "55°"
+        },
+        {
+          "en": "60°",
+          "hi": "60°"
+        },
+        {
+          "en": "80°",
+          "hi": "80°"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "What is 1/9 of 9?",
+        "hi": "9 का 1/9 क्या है?"
+      },
+      "options": [
+        {
+          "en": "1/9",
+          "hi": "1/9"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "12 pumps working 6 hours a day can empty a completely filled reservoir in 15 days. How many such pumps working 9 hours a day will empty the same reservoir in 12 days?",
+        "hi": "12 पंप दिन में 6 घंटे काम करके एक पूरी तरह भरे हुए जलाशय को 15 दिनों में खाली कर सकते हैं। ऐसे कितने पंप दिन में 9 घंटे काम करके उसी जलाशय को 12 दिनों में खाली कर देंगे?"
+      },
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "If the ratio of boys to girls in a class is 5:3 and there are 40 students in total, how many girls are there?",
+        "hi": "अगर एक क्लास में लड़कों और लड़कियों का अनुपात 5:3 है और कुल 40 स्टूडेंट्स हैं, तो लड़कियों की संख्या कितनी है?"
+      },
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "25",
+          "hi": "25"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "Which organism is responsible for alcohol fermentation?",
+        "hi": "अल्कोहल किण्वन के लिए कौन सा जीव जिम्मेदार है?"
+      },
+      "options": [
+        {
+          "en": "Chlorella",
+          "hi": "क्लोरेला"
+        },
+        {
+          "en": "Puccinia",
+          "hi": "पुकिनिया"
+        },
+        {
+          "en": "Agaricus",
+          "hi": "एगेरिकस"
+        },
+        {
+          "en": "Yeast",
+          "hi": "यीस्ट"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "Which vitamin helps in blood coagulation?",
+        "hi": "कौन सा विटामिन रक्त के जमने में सहायता करता है?"
+      },
+      "options": [
+        {
+          "en": "Vitamin-A",
+          "hi": "विटामिन-ए"
+        },
+        {
+          "en": "Vitamin-C",
+          "hi": "विटामिन-सी"
+        },
+        {
+          "en": "Vitamin-E",
+          "hi": "विटामिन-ई"
+        },
+        {
+          "en": "Vitamin-K",
+          "hi": "विटामिन-के"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "Any moving object on earth finally comes to rest due to which among the following?",
+        "hi": "पृथ्वी पर कोई भी गतिशील वस्तु अंततः निम्नलिखित में से किसके कारण रुक जाती है?"
+      },
+      "options": [
+        {
+          "en": "Gravity",
+          "hi": "गुरुत्वाकर्षण"
+        },
+        {
+          "en": "Friction",
+          "hi": "घर्षण"
+        },
+        {
+          "en": "Inertia",
+          "hi": "जड़ता"
+        },
+        {
+          "en": "Motion",
+          "hi": "गति"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "In which of the following the sound cannot travel?",
+        "hi": "निम्नलिखित में से किसमें ध्वनि यात्रा नहीं कर सकती?"
+      },
+      "options": [
+        {
+          "en": "Solids",
+          "hi": "ठोस"
+        },
+        {
+          "en": "Liquids",
+          "hi": "तरल पदार्थ"
+        },
+        {
+          "en": "Gases",
+          "hi": "गैसें"
+        },
+        {
+          "en": "Vacuum",
+          "hi": "वैक्यूम"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 41,
+      "question": {
+        "en": "Soap bubble attains spherical shape due to which of the following reasons?",
+        "hi": "निम्नलिखित में से किस कारण से साबुन का बुलबुला गोलाकार आकार प्राप्त करता है?"
+      },
+      "options": [
+        {
+          "en": "Surface tension",
+          "hi": "सतह तनाव"
+        },
+        {
+          "en": "Inertia",
+          "hi": "जड़ता"
+        },
+        {
+          "en": "Pressure",
+          "hi": "दबाव"
+        },
+        {
+          "en": "Viscosity",
+          "hi": "चिपचिपाहट"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "When we go from Equator to North pole the value of acceleration due to gravity (g):",
+        "hi": "जब हम भूमध्य रेखा से उत्तरी ध्रुव की ओर जाते हैं तो गुरुत्वाकर्षण के कारण त्वरण का मान (g):"
+      },
+      "options": [
+        {
+          "en": "remains the same",
+          "hi": "वही रहता है"
+        },
+        {
+          "en": "decreases",
+          "hi": "घटता है"
+        },
+        {
+          "en": "increases",
+          "hi": "बढ़ता है"
+        },
+        {
+          "en": "First decreases then increases",
+          "hi": "पहले घटता है फिर बढ़ता है"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "Which among the following is a unit of distance?",
+        "hi": "निम्नलिखित में से कौन दूरी की इकाई है?"
+      },
+      "options": [
+        {
+          "en": "Second",
+          "hi": "दूसरा"
+        },
+        {
+          "en": "Hour",
+          "hi": "घंटा"
+        },
+        {
+          "en": "Year",
+          "hi": "वर्ष"
+        },
+        {
+          "en": "Light year",
+          "hi": "प्रकाश वर्ष"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "What is the unit of frequency?",
+        "hi": "आवृत्ति की इकाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "Newton",
+          "hi": "न्यूटन"
+        },
+        {
+          "en": "Hertz",
+          "hi": "हर्ट्ज़"
+        },
+        {
+          "en": "Ampere",
+          "hi": "एम्पीयर"
+        },
+        {
+          "en": "Watt",
+          "hi": "वाट"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "In a CNC machine, which kind of switches examine or detect the presence of an item or object without making contact with them;",
+        "hi": "सीएनसी मशीन में, किस प्रकार के स्विच किसी वस्तु या चीज़ को छुए बिना उसकी उपस्थिति का पता लगाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Proximity Switches",
+          "hi": "प्रॉक्सिमिटी स्विच"
+        },
+        {
+          "en": "Limit Switches",
+          "hi": "लिमिट स्विच"
+        },
+        {
+          "en": "Photo-electric Switches",
+          "hi": "फोटोइलेक्ट्रिक स्विच"
+        },
+        {
+          "en": "Mechanical Switches",
+          "hi": "मैकेनिकल स्विच"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "A feeler gauge is used for -",
+        "hi": "फीलर गेज का उपयोग किसके लिए किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "To judge the surface finish",
+          "hi": "सतह की फिनिश की जाँच करने के लिए"
+        },
+        {
+          "en": "Checking the gap between mating parts",
+          "hi": "आपस में जुड़ने वाले भागों के बीच की दूरी की जाँच करने के लिए"
+        },
+        {
+          "en": "Checking radius of jobs",
+          "hi": "जॉब की त्रिज्या की जाँच करने के लिए"
+        },
+        {
+          "en": "Checking accuracy of hole",
+          "hi": "छेद की सटीकता की जाँच करने के लिए"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "How much carbon is present in cast iron?",
+        "hi": "ढलवां लोहे में कितना कार्बन मौजूद होता है?"
+      },
+      "options": [
+        {
+          "en": "Less than 0.05%",
+          "hi": "0.05% से कम"
+        },
+        {
+          "en": "Up to 1.0%",
+          "hi": "1.0% तक"
+        },
+        {
+          "en": "1.0% to 1.5%",
+          "hi": "1.0% से 1.5%"
+        },
+        {
+          "en": "More than 2.0%",
+          "hi": "2.0% से अधिक"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "What is the formula for calculating electric power?",
+        "hi": "विद्युत शक्ति की गणना का सूत्र क्या है?"
+      },
+      "options": [
+        {
+          "en": "Power = Voltage * Current",
+          "hi": "शक्ति = वोल्टेज * धारा"
+        },
+        {
+          "en": "Power = Current / Voltage",
+          "hi": "शक्ति = धारा / वोल्टेज"
+        },
+        {
+          "en": "Power = Voltage / Current",
+          "hi": "शक्ति = वोल्टेज / धारा"
+        },
+        {
+          "en": "Power = Current * Current",
+          "hi": "शक्ति = धारा * धारा"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "What is the unit of electric charge?",
+        "hi": "विद्युत आवेश की इकाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "Volt",
+          "hi": "वोल्ट"
+        },
+        {
+          "en": "Ampere",
+          "hi": "एम्पीयर"
+        },
+        {
+          "en": "Watt",
+          "hi": "वाट"
+        },
+        {
+          "en": "Coulomb",
+          "hi": "कूलम्ब"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "Which of the following is the primary element used for making stainless steel alloy?",
+        "hi": "निम्नलिखित में से कौन सा तत्व स्टेनलेस स्टील मिश्रधातु बनाने में मुख्य रूप से उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Vanadium",
+          "hi": "वैनेडियम"
+        },
+        {
+          "en": "Indium",
+          "hi": "इंडियम"
+        },
+        {
+          "en": "Chromium",
+          "hi": "क्रोमियम"
+        },
+        {
+          "en": "Zirconium",
+          "hi": "ज़िरकोनियम"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "Which of the following carbides are used for cutting tools?",
+        "hi": "निम्नलिखित में से कौन से कार्बाइड काटने के औजारों में उपयोग किए जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Chromium carbide",
+          "hi": "क्रोमियम कार्बाइड"
+        },
+        {
+          "en": "Silicon carbide",
+          "hi": "सिलिकॉन कार्बाइड"
+        },
+        {
+          "en": "Tungsten carbide",
+          "hi": "टंगस्टन कार्बाइड"
+        },
+        {
+          "en": "Vanadium carbide",
+          "hi": "वैनेडियम कार्बाइड"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "Which among the following is not an amorphous material?",
+        "hi": "निम्नलिखित में से कौन सा पदार्थ अनाकार नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Lead",
+          "hi": "सीसा"
+        },
+        {
+          "en": "Glass",
+          "hi": "कांच"
+        },
+        {
+          "en": "Rubbers",
+          "hi": "रबर"
+        },
+        {
+          "en": "Plastics",
+          "hi": "प्लास्टिक"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "Which of the following term is used to define the temperature at which a substance changes its status from solid to liquid?",
+        "hi": "निम्नलिखित में से किस शब्द का प्रयोग उस तापमान को परिभाषित करने के लिए किया जाता है जिस पर कोई पदार्थ ठोस अवस्था से द्रव अवस्था में परिवर्तित हो जाता है?"
+      },
+      "options": [
+        {
+          "en": "Melting point",
+          "hi": "गलनांक"
+        },
+        {
+          "en": "Freezing point",
+          "hi": "हिमांक"
+        },
+        {
+          "en": "Boiling point",
+          "hi": "क्वथनांक"
+        },
+        {
+          "en": "Condensation point",
+          "hi": "संघनन बिंदु"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "Which bead character is seen in welding, due to too high welding current?",
+        "hi": "वेल्डिंग में अत्यधिक वेल्डिंग करंट के कारण कौन सा बीड कैरेक्टर दिखाई देता है?"
+      },
+      "options": [
+        {
+          "en": "Pilling of metal",
+          "hi": "धातु का पिलिंग"
+        },
+        {
+          "en": "Pilling of weld metal",
+          "hi": "वेल्ड धातु का पिलिंग"
+        },
+        {
+          "en": "Excess splatter",
+          "hi": "अत्यधिक छींटे"
+        },
+        {
+          "en": "Small bead formation",
+          "hi": "छोटे बीड का निर्माण"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "What is the purpose of manipulator?",
+        "hi": "मैनिपुलेटर का उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "For testing roller bearing",
+          "hi": "रोलर बेयरिंग की टेस्टिंग के लिए"
+        },
+        {
+          "en": "For brake rigging adjustment",
+          "hi": "ब्रेक रिगिंग एडजस्टमेंट के लिए"
+        },
+        {
+          "en": "For overhauling brake cylinder",
+          "hi": "ब्रेक सिलेंडर की ओवरहालिंग के लिए"
+        },
+        {
+          "en": "For down hand welding",
+          "hi": "डाउन हैंड वेल्डिंग के लिए"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "Which test is used to detect internal cracks?",
+        "hi": "अंदरूनी दरारों का पता लगाने के लिए किस टेस्ट का इस्तेमाल किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Hammer test",
+          "hi": "हथौड़ा परीक्षण"
+        },
+        {
+          "en": "Dye penetrant test",
+          "hi": "डाई पेनिट्रेट परीक्षण"
+        },
+        {
+          "en": "Visual inspection",
+          "hi": "दृष्टि निरीक्षण"
+        },
+        {
+          "en": "Magnetic particle test",
+          "hi": "चुंबकीय कण परीक्षण"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "Railway axle is generally made of:",
+        "hi": "रेलवे एक्सल आमतौर पर किससे बना होता है:"
+      },
+      "options": [
+        {
+          "en": "Cast iron",
+          "hi": "कास्ट आयरन"
+        },
+        {
+          "en": "Mild steel",
+          "hi": "माइल्ड स्टील"
+        },
+        {
+          "en": "Forged alloy steel",
+          "hi": "फोर्ड मिश्र धातु स्टील"
+        },
+        {
+          "en": "Aluminium alloy",
+          "hi": "एल्युमिनियम मिश्र धातु"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "Disciplinary and appeal matters are processed according to",
+        "hi": "अनुशासनात्मक और अपील मामलों को इसके अनुसार संसाधित किया जाता है"
+      },
+      "options": [
+        {
+          "en": "Railway Servants (Discipline & Appeal) Rules, 1968",
+          "hi": "रेलवे सेवक (अनुशासन एवं अपील) नियम, 1968"
+        },
+        {
+          "en": "Indian Penal Code",
+          "hi": "भारतीय दंड संहिता"
+        },
+        {
+          "en": "Motor Vehicles Act",
+          "hi": "मोटर वाहन अधिनियम"
+        },
+        {
+          "en": "Factories Act only",
+          "hi": "केवल कारखाना अधिनियम"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "Who is eligible for privilege passes?",
+        "hi": "प्रिविलेज पास के लिए कौन एलिजिबल है?"
+      },
+      "options": [
+        {
+          "en": "All railway employees including retired staff (as per entitlement)",
+          "hi": "सेवानिवृत्त कर्मचारियों सहित सभी रेलवे कर्मचारी (पात्रता के अनुसार)"
+        },
+        {
+          "en": "Only Group-A officers",
+          "hi": "केवल ग्रुप-ए अधिकारी"
+        },
+        {
+          "en": "Passengers with season tickets",
+          "hi": "सीज़न टिकट वाले यात्री"
+        },
+        {
+          "en": "IRCTC staff exclusively",
+          "hi": "IRCTC स्टाफ विशेष रूप से"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "Leave Not Due (LND) can be granted up to a maximum of:",
+        "hi": "लीव नॉट ड्यू (LND) अधिकतम कितनी दी जा सकती है:"
+      },
+      "options": [
+        {
+          "en": "180 days",
+          "hi": "180 दिन"
+        },
+        {
+          "en": "120 days",
+          "hi": "120 दिन"
+        },
+        {
+          "en": "360 days",
+          "hi": "360 दिन"
+        },
+        {
+          "en": "260 days",
+          "hi": "260 दिन"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 61,
+      "question": {
+        "en": "Dearness Allowance (DA) is calculated on:",
+        "hi": "महंगाई भत्ता (डीए) की गणना इस पर की जाती है:"
+      },
+      "options": [
+        {
+          "en": "Gross Pay",
+          "hi": "सकल भुगतान"
+        },
+        {
+          "en": "Basic Pay",
+          "hi": "मूल वेतन"
+        },
+        {
+          "en": "HRA only",
+          "hi": "केवल HRA"
+        },
+        {
+          "en": "Salary after deductions",
+          "hi": "कटौती के बाद वेतन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "Which of the standard form is required to be used for issuing the order of deemed suspension?",
+        "hi": "निलंबन का आदेश जारी करने के लिए किस मानक प्रपत्र का उपयोग करना आवश्यक है?"
+      },
+      "options": [
+        {
+          "en": "SF-1",
+          "hi": "SF-1"
+        },
+        {
+          "en": "SF-3",
+          "hi": "SF-3"
+        },
+        {
+          "en": "SF-2",
+          "hi": "SF-2"
+        },
+        {
+          "en": "SF-4",
+          "hi": "SF-4"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "Penalty of compulsory retirement, removal or dismissed from service should be imposed only by",
+        "hi": "अनिवार्य सेवानिवृत्ति, सेवा से निष्कासन या बर्खास्तगी की सजा केवल किसके द्वारा लगाई जानी चाहिए?"
+      },
+      "options": [
+        {
+          "en": "controlling officer",
+          "hi": "नियंत्रक अधिकारी"
+        },
+        {
+          "en": "disciplinary authority",
+          "hi": "अनुशासनात्मक प्राधिकारी"
+        },
+        {
+          "en": "appointing authority",
+          "hi": "नियुक्ति प्राधिकारी"
+        },
+        {
+          "en": "none",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "The following are not in penalty under D&A Rules?",
+        "hi": "निम्नलिखित में से कौन से कार्य डी एंड ए नियमों के अंतर्गत दंडनीय नहीं हैं?"
+      },
+      "options": [
+        {
+          "en": "Censure",
+          "hi": "निंदा"
+        },
+        {
+          "en": "Warning",
+          "hi": "चेतावनी"
+        },
+        {
+          "en": "Stoppage of pass",
+          "hi": "पास रोकना"
+        },
+        {
+          "en": "The recovery from pay of any pensionary loss",
+          "hi": "वेतन से किसी पेंशन हानि की वसूली"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "The Central Government had introduced the National Pension System (NPS) with effect from",
+        "hi": "केंद्र सरकार ने राष्ट्रीय पेंशन प्रणाली (एनपीएस) कब से लागू किया था।"
+      },
+      "options": [
+        {
+          "en": "01.01.2004",
+          "hi": "01.01.2004"
+        },
+        {
+          "en": "01.04.2004",
+          "hi": "01.04.2004"
+        },
+        {
+          "en": "01.01.2005",
+          "hi": "01.01.2005"
+        },
+        {
+          "en": "01.01.2000",
+          "hi": "01.01.2000"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "Paternity leave is admissible with less than two surviving children for a period of",
+        "hi": "दो से कम जीवित संतानों के मामले में पितृत्व अवकाश की अवधि निम्नलिखित में से कितनी है?"
+      },
+      "options": [
+        {
+          "en": "10 days",
+          "hi": "10 दिन"
+        },
+        {
+          "en": "20 days",
+          "hi": "20 दिन"
+        },
+        {
+          "en": "15 days",
+          "hi": "15 दिन"
+        },
+        {
+          "en": "25 days",
+          "hi": "25 दिन"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "LAP shall be credited to a Railway servant at the rate of",
+        "hi": "रेलवे कर्मचारी को एलएपी निम्न दर से जमा किया जाएगाः"
+      },
+      "options": [
+        {
+          "en": "2½ days per month",
+          "hi": "2½ दिन प्रति माह"
+        },
+        {
+          "en": "3 days per month",
+          "hi": "3 दिन प्रति माह"
+        },
+        {
+          "en": "2 days per month",
+          "hi": "2 दिन प्रति माह"
+        },
+        {
+          "en": "1½ days per month",
+          "hi": "1½ दिन प्रति माह"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "Which rule of the Railway Service (Conduct) Rules, 1966 deals with prohibition of sexual harassment of working women?",
+        "hi": "रेल सेवा (आचरण) नियम, 1966 का कौन सा नियम कामकाजी महिलाओं के यौन उत्पीड़न पर रोक से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Rule 3",
+          "hi": "नियम 3"
+        },
+        {
+          "en": "Rule 3A",
+          "hi": "नियम 3A"
+        },
+        {
+          "en": "Rule 3B",
+          "hi": "नियम 3B"
+        },
+        {
+          "en": "Rule 3C",
+          "hi": "नियम 3C"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "No Railway servant shall sub-let, lease or otherwise allow occupation by any other person of government accommodation which has been allotted to him. This provision is contained in Rule No. of Railway Services (Conduct) Rules, 1966.",
+        "hi": "कोई भी रेल कर्मचारी अपने लिए आवंटित सरकारी आवास को किसी अन्य व्यक्ति को उप-किराए पर नहीं देगा, पट्टे पर नहीं देगा या उस पर कब्जा करने की अनुमति नहीं देगा। यह प्रावधान रेल सेवा (आचरण) नियम, 1966 के नियम संख्या में निहित है।"
+      },
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "15.A",
+          "hi": "15.A"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        },
+        {
+          "en": "17",
+          "hi": "17"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "What for standard form-7 is used under Railway Servants (D&A) Rules?",
+        "hi": "रेलवे सेवक (डी एंड ए) नियमों के तहत स्टैंडर्ड फॉर्म-7 का इस्तेमाल किस लिए किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Revocation of suspension",
+          "hi": "निलंबन रद्द करना"
+        },
+        {
+          "en": "Appointment of inquiry officer",
+          "hi": "जांच अधिकारी की नियुक्ति"
+        },
+        {
+          "en": "Placing an employee under suspension",
+          "hi": "किसी कर्मचारी को निलंबित करना"
+        },
+        {
+          "en": "To issue major charge sheet",
+          "hi": "प्रमुख आरोप पत्र जारी करने के लिए"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "Which route did the first Vande Bharat Express operate on?",
+        "hi": "पहली वंदे भारत एक्सप्रेस किस रूट पर चली थी?"
+      },
+      "options": [
+        {
+          "en": "Delhi to Mumbai",
+          "hi": "दिल्ली से मुंबई"
+        },
+        {
+          "en": "Delhi to Varanasi",
+          "hi": "दिल्ली से वाराणसी"
+        },
+        {
+          "en": "Bengaluru to Chennai",
+          "hi": "बेंगलुरु से चेन्नई"
+        },
+        {
+          "en": "Kolkata to Delhi",
+          "hi": "कोलकाता से दिल्ली"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "Which Indian Railway zone first achieved 100% electrification?",
+        "hi": "किस भारतीय रेलवे जोन ने सबसे पहले 100% विद्युतीकरण हासिल किया?"
+      },
+      "options": [
+        {
+          "en": "Central Railway",
+          "hi": "मध्य रेलवे"
+        },
+        {
+          "en": "West Central Railway",
+          "hi": "पश्चिम मध्य रेलवे"
+        },
+        {
+          "en": "Southern Railway",
+          "hi": "दक्षिणी रेलवे"
+        },
+        {
+          "en": "Konkan Railway",
+          "hi": "कोंकण रेलवे"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "Which body certifies \"Green Railway Stations\" in India?",
+        "hi": "भारत में कौन सी संस्था \"ग्रीन रेलवे स्टेशनों\" को प्रमाणित करती है?"
+      },
+      "options": [
+        {
+          "en": "Indian Green Building Council (IGBC)",
+          "hi": "भारतीय हरित भवन परिषद (आईजीबीसी)"
+        },
+        {
+          "en": "Bureau of Indian Standards (BIS)",
+          "hi": "भारतीय मानक ब्यूरो (बीआईएस)"
+        },
+        {
+          "en": "Central Pollution Control Board (CPCB)",
+          "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी)"
+        },
+        {
+          "en": "Railway Board",
+          "hi": "रेलवे बोर्ड"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "Which of these is the small-scale industry in India?",
+        "hi": "इनमें से कौन सा भारत में लघु उद्योग है?"
+      },
+      "options": [
+        {
+          "en": "Jute industry",
+          "hi": "जूट उद्योग"
+        },
+        {
+          "en": "Paper Industry",
+          "hi": "कागज उद्योग"
+        },
+        {
+          "en": "Textile Industry",
+          "hi": "कपड़ा उद्योग"
+        },
+        {
+          "en": "Handloom Industry",
+          "hi": "हथकरघा उद्योग"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "The largest public sector undertaking in the country is?",
+        "hi": "देश में सार्वजनिक क्षेत्र का सबसे बड़ा उपक्रम है?"
+      },
+      "options": [
+        {
+          "en": "Railways",
+          "hi": "रेलवे"
+        },
+        {
+          "en": "Airways",
+          "hi": "एयरवेज़"
+        },
+        {
+          "en": "Roadways",
+          "hi": "रोडवेज"
+        },
+        {
+          "en": "Iron and Steel Plants",
+          "hi": "लोहा और इस्पात संयंत्र"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "What is the name of the first Indian woman who wins the Man Booker Prize?",
+        "hi": "मैन बुकर पुरस्कार जीतने वाली पहली भारतीय महिला का क्या नाम है?"
+      },
+      "options": [
+        {
+          "en": "Salman Rushdie",
+          "hi": "सलमान रुश्दी"
+        },
+        {
+          "en": "Arundhati Roy",
+          "hi": "अरुंधति रॉय"
+        },
+        {
+          "en": "V.S. Naipaul",
+          "hi": "वी.एस. नायपॉल"
+        },
+        {
+          "en": "Kiran Desai",
+          "hi": "किरण देसाई"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "The study of Heavenly bodies is Known as?",
+        "hi": "आकाशीय पिंडों के अध्ययन को के रूप में जाना जाता है?"
+      },
+      "options": [
+        {
+          "en": "Astrophysics",
+          "hi": "खगोल भौतिकी"
+        },
+        {
+          "en": "Astronautics",
+          "hi": "अंतरिक्ष विज्ञान"
+        },
+        {
+          "en": "Astrology",
+          "hi": "ज्योतिष"
+        },
+        {
+          "en": "Astronomy",
+          "hi": "खगोल विज्ञान"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "At which place on earth are there days & nights of equal length always?",
+        "hi": "पृथ्वी पर किस स्थान पर दिन और रात सदैव समान अवधि के होते हैं?"
+      },
+      "options": [
+        {
+          "en": "Equator",
+          "hi": "भूमध्य रेखा"
+        },
+        {
+          "en": "Poles",
+          "hi": "ध्रुव"
+        },
+        {
+          "en": "Prime Meridian",
+          "hi": "प्राइम मेरिडियन"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "What is the capital of Japan?",
+        "hi": "जापान की राजधानी क्या है?"
+      },
+      "options": [
+        {
+          "en": "Beijing",
+          "hi": "बीजिंग"
+        },
+        {
+          "en": "Tokyo",
+          "hi": "टोक्यो"
+        },
+        {
+          "en": "Seoul",
+          "hi": "सियोल"
+        },
+        {
+          "en": "Bangkok",
+          "hi": "बैंकॉक"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "Which is the largest island?",
+        "hi": "सबसे बड़ा द्वीप कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "New Guinea",
+          "hi": "न्यू गिनी"
+        },
+        {
+          "en": "Andaman Nicobar",
+          "hi": "अंडमान निकोबार"
+        },
+        {
+          "en": "Greenland",
+          "hi": "ग्रीनलैंड"
+        },
+        {
+          "en": "Hawaii",
+          "hi": "हवाई"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 81,
+      "question": {
+        "en": "Where is Rail Coach Factory located?",
+        "hi": "रेल कोच फैक्ट्री कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Patiala",
+          "hi": "पटियाला"
+        },
+        {
+          "en": "Parambur",
+          "hi": "परंबुर"
+        },
+        {
+          "en": "Chittaranjan",
+          "hi": "चित्तरंजन"
+        },
+        {
+          "en": "Kapurthala",
+          "hi": "कपूरथला"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "Which of the following is the headquarters of the newly established railway zone 'East Coast Railways'?",
+        "hi": "निम्नलिखित में से कौन नव स्थापित रेलवे जोन 'ईस्ट कोस्ट रेलवे' का मुख्यालय है?"
+      },
+      "options": [
+        {
+          "en": "Vishakhapatnam",
+          "hi": "विशाखापत्तनम"
+        },
+        {
+          "en": "Kolkata",
+          "hi": "कोलकाता"
+        },
+        {
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
+        },
+        {
+          "en": "Bhubaneswar",
+          "hi": "भुवनेश्वर"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "When was the Railway Board established?",
+        "hi": "रेलवे बोर्ड की स्थापना कब की गयी ?"
+      },
+      "options": [
+        {
+          "en": "1915",
+          "hi": "1915"
+        },
+        {
+          "en": "1903",
+          "hi": "1903"
+        },
+        {
+          "en": "1899",
+          "hi": "1899"
+        },
+        {
+          "en": "1905",
+          "hi": "1905"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "e-Shram portal, recently seen in news, is launched by which ministry?",
+        "hi": "हाल ही में खबरों में रहा ई-श्रम पोर्टल किस मंत्रालय द्वारा लॉन्च किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Labour and Employment",
+          "hi": "श्रम और रोजगार मंत्रालय"
+        },
+        {
+          "en": "Ministry of Agriculture",
+          "hi": "कृषि मंत्रालय"
+        },
+        {
+          "en": "Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय"
+        },
+        {
+          "en": "Ministry of Rural Development",
+          "hi": "ग्रामीण विकास मंत्रालय"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "FIFA World Cup 2026 will be hosted by which one of the following countries?",
+        "hi": "फीफा विश्व कप 2026 की मेजबानी निम्नलिखित में से किस देश द्वारा की जाएगी?"
+      },
+      "options": [
+        {
+          "en": "Canada, Mexico, and the United States",
+          "hi": "कनाडा, मैक्सिको और संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Italy and France",
+          "hi": "इटली और फ्रांस"
+        },
+        {
+          "en": "Spain and Russia",
+          "hi": "स्पेन और रूस"
+        },
+        {
+          "en": "Africa, Europe and South America",
+          "hi": "अफ्रीका, यूरोप और दक्षिण अमेरिका"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "Which country was declared the host of the FIFA Women's World Cup 2027?",
+        "hi": "किस देश को महिला विश्व कप 2027 का मेजबान घोषित किया गया?"
+      },
+      "options": [
+        {
+          "en": "Brazil",
+          "hi": "ब्राजील"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "Srinagar is located on the bank of the river",
+        "hi": "श्रीनगर नदी के तट पर स्थित है:"
+      },
+      "options": [
+        {
+          "en": "Jhelum",
+          "hi": "झेलम"
+        },
+        {
+          "en": "Chenab",
+          "hi": "चिनाब"
+        },
+        {
+          "en": "Indus",
+          "hi": "सिंधु"
+        },
+        {
+          "en": "Ravi",
+          "hi": "रावी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "Which among the following gas is used as reference to calculate \"Global Warming Potential (GWP)\"?",
+        "hi": "निम्नलिखित में से किस गैस का उपयोग \"ग्लोबल वार्मिंग पोटेंशियल (GWP)\" की गणना के लिए संदर्भ के रूप में किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Carbon Dioxide",
+          "hi": "कार्बन डाइऑक्साइड"
+        },
+        {
+          "en": "Methane",
+          "hi": "मीथेन"
+        },
+        {
+          "en": "Ozone",
+          "hi": "ओजोन"
+        },
+        {
+          "en": "Nitrogen Di-oxide",
+          "hi": "नाइट्रोजन डाई-ऑक्साइड"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "BLW, a Railway production unit situated in state",
+        "hi": "बीएलडब्ल्यू, राज्य में स्थित एक रेलवे उत्पादन इकाई"
+      },
+      "options": [
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "Who is present Railway Minister",
+        "hi": "जो वर्तमान रेल मंत्री हैं"
+      },
+      "options": [
+        {
+          "en": "Piyush Goyal",
+          "hi": "पीयूष गोयल"
+        },
+        {
+          "en": "Narendra Modi",
+          "hi": "नरेंद्र मोदी"
+        },
+        {
+          "en": "Ashwini Vaishnaw",
+          "hi": "अश्विनी वैष्णव"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "The world's nation 5G mobile network was launched by which country?",
+        "hi": "विश्व का राष्ट्र 5G मोबाइल नेटवर्क किस देश द्वारा लॉन्च किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Asia",
+          "hi": "एशिया"
+        },
+        {
+          "en": "South Korea",
+          "hi": "दक्षिण कोरिया"
+        },
+        {
+          "en": "Malaysia",
+          "hi": "मलेशिया"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "Which Railway Zone of Indian Railways does Gujarat fall under?",
+        "hi": "गुजरात भारतीय रेलवे के किस रेलवे जोन के अंतर्गत आता है?"
+      },
+      "options": [
+        {
+          "en": "Western Railway Zone",
+          "hi": "पश्चिमी रेलवे जोन"
+        },
+        {
+          "en": "Central Railway Zone",
+          "hi": "मध्य रेलवे जोन"
+        },
+        {
+          "en": "South Western Railway Zone",
+          "hi": "दक्षिण पश्चिमी रेलवे जोन"
+        },
+        {
+          "en": "North Western Railway Zone",
+          "hi": "उत्तर पश्चिमी रेलवे जोन"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "Pamban bridge is located on",
+        "hi": "पम्बन पुल कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "River",
+          "hi": "नदी"
+        },
+        {
+          "en": "Lake",
+          "hi": "झील"
+        },
+        {
+          "en": "Waterfall",
+          "hi": "झरना"
+        },
+        {
+          "en": "Strait",
+          "hi": "जलडमरूमध्य"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "Computerized Passenger Reservation System (PRS) was introduced to:",
+        "hi": "कम्प्यूटरीकृत यात्री आरक्षण प्रणाली (पीआरएस) की शुरुआत की गई थीः"
+      },
+      "options": [
+        {
+          "en": "Reduce manual errors",
+          "hi": "मैन्युअल गलतियों को कम करें"
+        },
+        {
+          "en": "Speed up booking",
+          "hi": "बुकिंग में तेज़ी लाएँ"
+        },
+        {
+          "en": "Maintain records digitally",
+          "hi": "रिकॉर्ड डिजिटल रूप से बनाए रखें"
+        },
+        {
+          "en": "All of the above",
+          "hi": "उपरोक्त सभी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "What is Full form of WWW.",
+        "hi": "www का पूरा रूप क्या है?"
+      },
+      "options": [
+        {
+          "en": "World Wide Web",
+          "hi": "वर्ल्ड वाइड वेब"
+        },
+        {
+          "en": "Wed Wide Web",
+          "hi": "वेब वाइड वेब"
+        },
+        {
+          "en": "World Web Wide",
+          "hi": "वर्ल्ड वेब वाइड"
+        },
+        {
+          "en": "Wide World Web",
+          "hi": "वाइड वर्ल्ड वेब"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "Who was the First Chairman of the committee which was formed on the recommendation of the Official Language commission?",
+        "hi": "राजभाषा आयोग की सिफारिश पर गठित समिति के प्रथम अध्यक्ष कौन थे?"
+      },
+      "options": [
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Dr Rajendra Prasad",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Dr.B.R.Ambedkar",
+          "hi": "डॉ. बी.आर. अंबेडकर"
+        },
+        {
+          "en": "G.B. Pant",
+          "hi": "जी.बी. पंत"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "Who chaired the first Railway Hindi Salahkar Samiti constituted in 1973?",
+        "hi": "1973 में गठित प्रथम रेलवे हिंदी सलाहकार समिति की अध्यक्षता किसने की थी?"
+      },
+      "options": [
+        {
+          "en": "Sri Lalith Narayan Mishra",
+          "hi": "श्री ललित नारायण मिश्रा"
+        },
+        {
+          "en": "Dr.B.R.Ambedkar",
+          "hi": "डॉ. बी. आर. अंबेडकर"
+        },
+        {
+          "en": "G.B. Pant",
+          "hi": "जी.बी. पंत"
+        },
+        {
+          "en": "Dr Rajendra Prasad",
+          "hi": "डॉ राजेंद्र प्रसाद"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "In which year Hindi (Parliament) section was established in Railway Board?",
+        "hi": "रेलवे बोर्ड में हिंदी (संसद) अनुभाग की स्थापना किस वर्ष की गई थी?"
+      },
+      "options": [
+        {
+          "en": "1955",
+          "hi": "1955"
+        },
+        {
+          "en": "1963",
+          "hi": "1963"
+        },
+        {
+          "en": "1976",
+          "hi": "1976"
+        },
+        {
+          "en": "1960",
+          "hi": "1960"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "How many Hindi courses are prescribed for Central Govt. Employees?",
+        "hi": "सेंट्रल गवर्नमेंट एम्प्लॉइज के लिए कितने हिंदी कोर्स तय हैं?"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "Who is the Chairman of Central Hindi Committee?",
+        "hi": "केंद्रीय हिंदी समिति के अध्यक्ष कौन हैं?"
+      },
+      "options": [
+        {
+          "en": "Home Minister",
+          "hi": "ग्रह मंत्री"
+        },
+        {
+          "en": "Defence Minister",
+          "hi": "रक्षा मंत्री"
+        },
+        {
+          "en": "Railway Minister",
+          "hi": "रेल मंत्री"
+        },
+        {
+          "en": "Prime Minister",
+          "hi": "प्रधान मंत्री"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 101,
+      "question": {
+        "en": "How many members are there in the Committee of Parliament on Official Language?",
+        "hi": "संसदीय आधिकारिक समिति में कितने सदस्य हैं?"
+      },
+      "options": [
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 102,
+      "question": {
+        "en": "What is the periodicity of the meetings of Divisional Official Language Implementation committee?",
+        "hi": "संभागीय राजभाषा कार्यान्वयन समिति की बैठकों की आवधिकता क्या है?"
+      },
+      "options": [
+        {
+          "en": "Once in 06 Months",
+          "hi": "06 महीने में एक बार"
+        },
+        {
+          "en": "Once in 04 Months",
+          "hi": "04 महीने में एक बार"
+        },
+        {
+          "en": "Once in 02 Months",
+          "hi": "02 महीने में एक बार"
+        },
+        {
+          "en": "Once in 03 Months",
+          "hi": "03 महीने में एक बार"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 103,
+      "question": {
+        "en": "Who prepares the Annual Programme on Official Language?",
+        "hi": "राजभाषा पर वार्षिक कार्यक्रम कौन तैयार करता है?"
+      },
+      "options": [
+        {
+          "en": "Law Ministry",
+          "hi": "कानून मंत्रालय"
+        },
+        {
+          "en": "Defence Ministry",
+          "hi": "रक्षा मंत्रालय"
+        },
+        {
+          "en": "Railway Ministry",
+          "hi": "रेल मंत्रालय"
+        },
+        {
+          "en": "Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 104,
+      "question": {
+        "en": "What is the Foreign Language included in the Eighth Schedule?",
+        "hi": "आठवीं अनुसूची में शामिल विदेशी भाषा क्या है?"
+      },
+      "options": [
+        {
+          "en": "Nepali",
+          "hi": "नेपाली"
+        },
+        {
+          "en": "English",
+          "hi": "अंग्रेज़ी"
+        },
+        {
+          "en": "Chinese",
+          "hi": "चीनी"
+        },
+        {
+          "en": "Russian",
+          "hi": "रूसी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 105,
+      "question": {
+        "en": "What is the duration for Hindi Conversation course?",
+        "hi": "हिंदी वार्तालाप पाठ्यक्रम की अवधि क्या है?"
+      },
+      "options": [
+        {
+          "en": "15 Hrs.",
+          "hi": "15 घंटे"
+        },
+        {
+          "en": "20 Hrs.",
+          "hi": "20 घंटे"
+        },
+        {
+          "en": "25 Hrs.",
+          "hi": "25 घंटे"
+        },
+        {
+          "en": "30 Hrs.",
+          "hi": "30 घंटे"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 106,
+      "question": {
+        "en": "When was Official Language Act 1963 passed?",
+        "hi": "राजभाषा अधिनियम पारित हुआ कब 1963 ?"
+      },
+      "options": [
+        {
+          "en": "10.09.1976",
+          "hi": "10.09.1976"
+        },
+        {
+          "en": "14.09.1949",
+          "hi": "14.09.1949"
+        },
+        {
+          "en": "26.01.1950",
+          "hi": "26.01.1950"
+        },
+        {
+          "en": "10.05.1963",
+          "hi": "10.05.1963"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 107,
+      "question": {
+        "en": "When is \"Hindi Day\" celebrated every year?",
+        "hi": "हर साल हिंदी दिवस कब मनाया जाता है ?"
+      },
+      "options": [
+        {
+          "en": "January 26",
+          "hi": "जनवरी 26"
+        },
+        {
+          "en": "June 5",
+          "hi": "जून 5"
+        },
+        {
+          "en": "September 14",
+          "hi": "सितंबर 14"
+        },
+        {
+          "en": "March 8",
+          "hi": "मार्च 8"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 108,
+      "question": {
+        "en": "From when did the Sec 3(3) of Official Languages Act take effect ?",
+        "hi": "राजभाषा अधिनियम की धारा (3) 3 कब से प्रवृत्त हुई ?"
+      },
+      "options": [
+        {
+          "en": "26 January, 1965",
+          "hi": "26 जनवरी, 1965"
+        },
+        {
+          "en": "14 September, 1949",
+          "hi": "14 सितंबर, 1949"
+        },
+        {
+          "en": "05 June, 1955",
+          "hi": "05 जून, 1955"
+        },
+        {
+          "en": "10 May, 1963",
+          "hi": "10 मई, 1963"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 109,
+      "question": {
+        "en": "In Compliance of article 344 when was the Official Language Commission formed?",
+        "hi": "अनुच्छेद के अनुसरण में राजभाषा आयोग 344 की नियुक्ति कब हुई ?"
+      },
+      "options": [
+        {
+          "en": "In the year 1950",
+          "hi": "वर्ष 1950 में"
+        },
+        {
+          "en": "In the year 1955",
+          "hi": "वर्ष 1955 में"
+        },
+        {
+          "en": "In the year 1963",
+          "hi": "वर्ष 1963 में"
+        },
+        {
+          "en": "In the year 1976",
+          "hi": "वर्ष 1976 में"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 110,
+      "question": {
+        "en": "Who was the First Chairman of the Official Language Commission?",
+        "hi": "राजभाषा आयोग के प्रथम अध्यक्ष कौन थे ?"
+      },
+      "options": [
+        {
+          "en": "B.G. Kher",
+          "hi": "बी.जी. खेर"
+        },
+        {
+          "en": "G.B. Pant",
+          "hi": "जी.बी.पंत"
+        },
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Mahatma Gandhi",
+          "hi": "महात्मा गांधी"
+        }
+      ],
+      "correct": 0
+    }
+  ]
+}
