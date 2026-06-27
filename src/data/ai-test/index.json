@@ -10,6 +10,7 @@
   { "id": "ai-test-9", "file": "ai-test-9.json", "paperName": "AI Mock Test - 9" },
   { "id": "ai-test-10", "file": "ai-test-10.json", "paperName": "AI Mock Test - 10" },
   { "id": "ai-test-11", "file": "ai-test-11.json", "paperName": "AI Mock Test - 11" },
+  { "id": "ai-test-12", "file": "ai-test-12.json", "paperName": "AI Mock Test - 12" },
   { "id": "heat-treatment-ai", "file": "heat-treatment-ai.json", "paperName": "Heat Treatment AI" }
 ]
 

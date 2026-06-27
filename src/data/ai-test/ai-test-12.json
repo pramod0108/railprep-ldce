@@ -1,0 +1,2865 @@
+{
+  "paperName": "AI Mock Test - 12",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What is the full form of LHB?",
+        "hi": "LHB का पूरा नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Lower heavy Bogie",
+          "hi": "लोअर हैवी बोगी (Lower heavy Bogie)"
+        },
+        {
+          "en": "Low height Bogie",
+          "hi": "लो हाइट बोगी (Low height Bogie)"
+        },
+        {
+          "en": "Linke Hofmann-Busch",
+          "hi": "लिंके हॉफमैन-बुश (Linke Hofmann-Busch)"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "What is the condemning limit of LHB wheel diameter?",
+        "hi": "LHB पहिये का कन्डेमिंग डायमीटर क्या है?"
+      },
+      "options": [
+        {
+          "en": "813 mm",
+          "hi": "813 मिमी"
+        },
+        {
+          "en": "839 mm",
+          "hi": "839 मिमी"
+        },
+        {
+          "en": "845 mm",
+          "hi": "845 मिमी"
+        },
+        {
+          "en": "854 mm",
+          "hi": "854 मिमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "How many shock absorbers are used in LHB Coaches?",
+        "hi": "एलएचबी कोचों में कितने शॉक एब्जॉर्बर का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "10 nos.",
+          "hi": "10 नग"
+        },
+        {
+          "en": "8 nos.",
+          "hi": "8 नग"
+        },
+        {
+          "en": "18 nos.",
+          "hi": "18 नग"
+        },
+        {
+          "en": "12 nos.",
+          "hi": "12 नग"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Frequency of D1 Schedule is -",
+        "hi": "D1 शेड्यूल की आवृत्ति है -"
+      },
+      "options": [
+        {
+          "en": "On Every Trip/Weekly",
+          "hi": "हर यात्रा पर/साप्ताहिक"
+        },
+        {
+          "en": "10 days",
+          "hi": "10 दिन"
+        },
+        {
+          "en": "15 days",
+          "hi": "15 दिन"
+        },
+        {
+          "en": "30 days",
+          "hi": "30 दिन"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Frequency of D3 Schedule is -",
+        "hi": "D3 शेड्यूल की आवृत्ति है -"
+      },
+      "options": [
+        {
+          "en": "1 month ± 1 day",
+          "hi": "1 महीना ± 1 दिन"
+        },
+        {
+          "en": "3 month ± 3 day",
+          "hi": "3 महीने ± 3 दिन"
+        },
+        {
+          "en": "6 month ± 15 day",
+          "hi": "6 महीने ± 15 दिन"
+        },
+        {
+          "en": "9 month ± 3 day",
+          "hi": "9 महीने ± 3 दिन"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Thickness of Corrugated sheets of LHB coaches are -",
+        "hi": "एलएचबी कोचों की नालीदार चादरों की मोटाई है -"
+      },
+      "options": [
+        {
+          "en": "2 mm",
+          "hi": "2 मिमी"
+        },
+        {
+          "en": "3 mm",
+          "hi": "3 मिमी"
+        },
+        {
+          "en": "1.25 mm",
+          "hi": "1.25 मिमी"
+        },
+        {
+          "en": "2.5 mm",
+          "hi": "2.5 मिमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Which type of Roller bearing is used in LHB coaches?",
+        "hi": "एलएचबी कोचों में किस प्रकार के रोलर बेयरिंग का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Spherical Roller bearing",
+          "hi": "गोलाकार रोलर बेयरिंग"
+        },
+        {
+          "en": "Plain Roller bearing",
+          "hi": "प्लेन रोलर बेयरिंग"
+        },
+        {
+          "en": "Cartridge Tapered Roller bearing",
+          "hi": "काट्रिज टेपर्ड रोलर बेयरिंग"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "In LHB coaches, condemning limit of brake pad is -",
+        "hi": "LHB कोचों में ब्रेक पैड की कंडमिंग लिमिट है -"
+      },
+      "options": [
+        {
+          "en": "10 mm",
+          "hi": "10 मिमी"
+        },
+        {
+          "en": "7 mm",
+          "hi": "7 मिमी"
+        },
+        {
+          "en": "8 mm",
+          "hi": "8 मिमी"
+        },
+        {
+          "en": "9 mm",
+          "hi": "9 मिमी"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which bogie is commonly used in LHB coaches?",
+        "hi": "LHB कोचों में सामान्यतः कौन-सा बोगी प्रयुक्त होता है?"
+      },
+      "options": [
+        {
+          "en": "ICF bogie",
+          "hi": "ICF बोगी"
+        },
+        {
+          "en": "CASNUB bogie",
+          "hi": "CASNUB बोगी"
+        },
+        {
+          "en": "FIAT bogie",
+          "hi": "FIAT बोगी"
+        },
+        {
+          "en": "Y25 bogie",
+          "hi": "Y25 बोगी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "How many emergency windows are provided on a LHB coach -",
+        "hi": "एलएचबी कोच में कितनी आपातकालीन खिड़कियां उपलब्ध होती हैं?"
+      },
+      "options": [
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Type of coupler used in LHB coach is...........",
+        "hi": "एलएचबी कोच में प्रयुक्त कपलर का प्रकार है..."
+      },
+      "options": [
+        {
+          "en": "H-type",
+          "hi": "एच-प्रकार (H-type)"
+        },
+        {
+          "en": "HETA",
+          "hi": "एचईटीए (HETA)"
+        },
+        {
+          "en": "Alliance-II",
+          "hi": "एलायंस-।। (Alliance-II)"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "New Wheel dia of fiat bogie is...............mm",
+        "hi": "फिएट बोगी का नया पहिया व्यास ......... मिमी है।"
+      },
+      "options": [
+        {
+          "en": "940",
+          "hi": "940"
+        },
+        {
+          "en": "825",
+          "hi": "825"
+        },
+        {
+          "en": "1000",
+          "hi": "1000"
+        },
+        {
+          "en": "915",
+          "hi": "915"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "The draw & buffing force transmission in LHB coach is through -",
+        "hi": "LHB कोच में कर्षण एवं बफिंग बल संचरण किसके माध्यम से होता है?"
+      },
+      "options": [
+        {
+          "en": "Centre Buffer Coupler",
+          "hi": "केंद्र बफर कपलर"
+        },
+        {
+          "en": "Bogie",
+          "hi": "बोगी"
+        },
+        {
+          "en": "Side bearer",
+          "hi": "साइड बियरर"
+        },
+        {
+          "en": "Wheel",
+          "hi": "पहिया"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "POH of ICF Coach is done at the interval of ........... months.",
+        "hi": "आईसीएफ कोच का पीओएच (POH) ........... महीने के अंतराल पर किया जाता है।"
+      },
+      "options": [
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "IOH of ICF Coach is done in the interval of ........... months.",
+        "hi": "आईसीएफ कोच का आईओएच (IOH) ........... महीने के अंतराल में किया जाता है।"
+      },
+      "options": [
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "54",
+          "hi": "54"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Which part is not used in ICF trolley?",
+        "hi": "ICF ट्रॉली में कौन सा हिस्सा इस्तेमाल नहीं होता है?"
+      },
+      "options": [
+        {
+          "en": "Dashpot",
+          "hi": "डैशपॉट"
+        },
+        {
+          "en": "Side bearer",
+          "hi": "साइड बियरर"
+        },
+        {
+          "en": "Shock absorber",
+          "hi": "शॉक एब्जॉर्बर"
+        },
+        {
+          "en": "Drag link",
+          "hi": "ड्रैग लिंक"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What is the thickness of roof sheet in ICF coach?",
+        "hi": "आईसीएफ कोच में छत की शीट की मोटाई कितनी होती है?"
+      },
+      "options": [
+        {
+          "en": "2.1 mm",
+          "hi": "2.1 मिमी"
+        },
+        {
+          "en": "1.9 mm",
+          "hi": "1.9 मिमी"
+        },
+        {
+          "en": "1.8 mm",
+          "hi": "1.8 मिमी"
+        },
+        {
+          "en": "1.6 mm",
+          "hi": "1.6 मिमी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "What is the interval of schedule 'B' examination of ICF coach?",
+        "hi": "आईसीएफ कोच की अनुसूची 'बी' (Schedule 'B') परीक्षा का अंतराल क्या है?"
+      },
+      "options": [
+        {
+          "en": "One month ± 3 days",
+          "hi": "एक महीना ± 3 दिन"
+        },
+        {
+          "en": "Two months ± 3 days",
+          "hi": "दो महीने ± 3 दिन"
+        },
+        {
+          "en": "Three months ± 7 days",
+          "hi": "तीन महीने ± 7 दिन"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "The length over buffer of ICF coach is:",
+        "hi": "ICF कोच की बफर से बफर तक की लंबाई (length over buffers) होती है:"
+      },
+      "options": [
+        {
+          "en": "22297 mm",
+          "hi": "22297 मिमी"
+        },
+        {
+          "en": "22299 mm",
+          "hi": "22299 मिमी"
+        },
+        {
+          "en": "21996 mm",
+          "hi": "21996 मिमी"
+        },
+        {
+          "en": "21030 mm",
+          "hi": "21030 मिमी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Total length of axle in ICF coaches is:",
+        "hi": "ICF कोचों में एक्सल की कुल लंबाई है:"
+      },
+      "options": [
+        {
+          "en": "2310 +0.5/-0.0 mm",
+          "hi": "2310 +0.5/-0.0 मिमी"
+        },
+        {
+          "en": "2316 +0.5/-0.0 mm",
+          "hi": "2316 +0.5/-0.0 मिमी"
+        },
+        {
+          "en": "2318 +0.5/-0.0 mm",
+          "hi": "2318 +0.5/-0.0 मिमी"
+        },
+        {
+          "en": "2320 +0.5/-0.0 mm",
+          "hi": "2320 +0.5/-0.0 मिमी"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "The standard wheel gauge of passenger BG coaching stock is -",
+        "hi": "यात्री बीजी कोचिंग स्टॉक का मानक व्हील गेज है -"
+      },
+      "options": [
+        {
+          "en": "1602 mm",
+          "hi": "1602 मिमी"
+        },
+        {
+          "en": "1601 mm",
+          "hi": "1601 मिमी"
+        },
+        {
+          "en": "1600 mm",
+          "hi": "1600 मिमी"
+        },
+        {
+          "en": "1598 mm",
+          "hi": "1598 मिमी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "In coach, the load transmission takes place through -",
+        "hi": "कोच में भार संचरण किसके माध्यम से होता है?"
+      },
+      "options": [
+        {
+          "en": "Center pivot",
+          "hi": "सेंटर पिवट"
+        },
+        {
+          "en": "Bogie",
+          "hi": "बोगी"
+        },
+        {
+          "en": "Side bearer",
+          "hi": "साइड बियरर"
+        },
+        {
+          "en": "Wheel",
+          "hi": "पहिया"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Center pivot pin does not transmit any -",
+        "hi": "केंद्र धुरी पिन कोई संचारित नहीं करता है -"
+      },
+      "options": [
+        {
+          "en": "Horizontal load",
+          "hi": "क्षैतिज भार"
+        },
+        {
+          "en": "Tractive force",
+          "hi": "कर्षण बल"
+        },
+        {
+          "en": "Braking force",
+          "hi": "ब्रेकिंग बल"
+        },
+        {
+          "en": "Vertical force",
+          "hi": "ऊर्ध्वाधर बल"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What is the maximum Buffer heights to be maintained on an ICF coach under tare Condition?",
+        "hi": "एक ICF कोच पर tare condition में बनाए रखने के लिए ज़्यादा से ज़्यादा Buffer heights क्या है?"
+      },
+      "options": [
+        {
+          "en": "1105 mm",
+          "hi": "1105 मिमी"
+        },
+        {
+          "en": "1120 mm",
+          "hi": "1120 मिमी"
+        },
+        {
+          "en": "1090 mm",
+          "hi": "1090 मिमी"
+        },
+        {
+          "en": "1030 mm",
+          "hi": "1030 मिमी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "question": {
+        "en": "Choose appropriate word to fill in the blank from the options given below: \"The reward was not commensurate........ the work done by us.\"",
+        "hi": "रिक्त स्थान भरने के लिए उपयुक्त शब्द चुनें: \"The reward was not commensurate........ the work done by us.\""
+      },
+      "options": [
+        {
+          "en": "for",
+          "hi": "for"
+        },
+        {
+          "en": "on",
+          "hi": "on"
+        },
+        {
+          "en": "with",
+          "hi": "with"
+        },
+        {
+          "en": "upon",
+          "hi": "upon"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 26,
+      "question": {
+        "en": "Choose appropriate word to fill in the blank from the options given below: \"Had I saved money I ........ a new car.\"",
+        "hi": "रिक्त स्थान भरने के लिए उपयुक्त शब्द चुनें: \"Had I saved money I ........ a new car.\""
+      },
+      "options": [
+        {
+          "en": "will purchase",
+          "hi": "will purchase"
+        },
+        {
+          "en": "would purchase",
+          "hi": "would purchase"
+        },
+        {
+          "en": "would have purchased",
+          "hi": "would have purchased"
+        },
+        {
+          "en": "purchased",
+          "hi": "purchased"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "question": {
+        "en": "Choose the word or phrase which is closest to the opposite in meaning of the underlined word: \"My brother is very s̲e̲n̲s̲i̲t̲i̲v̲e̲ about hurting animals.\"",
+        "hi": "रेखांकित शब्द के विपरीत अर्थ के सबसे करीब वाला शब्द चुनें: \"My brother is very s̲e̲n̲s̲i̲t̲i̲v̲e̲ about hurting animals.\""
+      },
+      "options": [
+        {
+          "en": "callous",
+          "hi": "callous"
+        },
+        {
+          "en": "senseless",
+          "hi": "senseless"
+        },
+        {
+          "en": "indifferent",
+          "hi": "indifferent"
+        },
+        {
+          "en": "unconcerned",
+          "hi": "unconcerned"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "question": {
+        "en": "Choose the word or phrase which is nearest in meaning to the underlined word: \"Such conduct deserves r̲e̲p̲r̲i̲m̲a̲n̲d̲.\"",
+        "hi": "रेखांकित शब्द के समान अर्थ वाला शब्द चुनें: \"Such conduct deserves r̲e̲p̲r̲i̲m̲a̲n̲d̲.\""
+      },
+      "options": [
+        {
+          "en": "praise",
+          "hi": "praise"
+        },
+        {
+          "en": "punishment",
+          "hi": "punishment"
+        },
+        {
+          "en": "rebuke",
+          "hi": "rebuke"
+        },
+        {
+          "en": "reward",
+          "hi": "reward"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 29,
+      "question": {
+        "en": "Choose the alternative which best expresses the meaning of the idiom/phrase: \"To read between the lines\"",
+        "hi": "मुहावरे/वाक्यांश का सबसे अच्छा अर्थ व्यक्त करने वाला विकल्प चुनें: \"To read between the lines\""
+      },
+      "options": [
+        {
+          "en": "To suspect",
+          "hi": "To suspect"
+        },
+        {
+          "en": "To read carefully",
+          "hi": "To read carefully"
+        },
+        {
+          "en": "To understand the hidden meaning of the word",
+          "hi": "To understand the hidden meaning of the word"
+        },
+        {
+          "en": "To do useless things",
+          "hi": "To do useless things"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 30,
+      "question": {
+        "en": "Choose the alternative which best expresses the meaning of the underlined idiom/phrase in the sentence: \"The police c̲o̲r̲d̲o̲n̲e̲d̲ ̲o̲f̲f̲ the area after the explosion.\"",
+        "hi": "वाक्य में रेखांकित मुहावरे का सबसे अच्छा अर्थ व्यक्त करने वाला विकल्प चुनें: \"The police c̲o̲r̲d̲o̲n̲e̲d̲ ̲o̲f̲f̲ the area after the explosion.\""
+      },
+      "options": [
+        {
+          "en": "filled",
+          "hi": "filled"
+        },
+        {
+          "en": "isolated",
+          "hi": "isolated"
+        },
+        {
+          "en": "checked everyone",
+          "hi": "checked everyone"
+        },
+        {
+          "en": "did not allow anyone",
+          "hi": "did not allow anyone"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 31,
+      "question": {
+        "en": "Choose the correct preposition: \"He is not an honest man. You cannot rely .... him\"",
+        "hi": "सही Preposition चुनें: \"He is not an honest man. You cannot rely .... him\""
+      },
+      "options": [
+        {
+          "en": "to",
+          "hi": "to"
+        },
+        {
+          "en": "for",
+          "hi": "for"
+        },
+        {
+          "en": "at",
+          "hi": "at"
+        },
+        {
+          "en": "on",
+          "hi": "on"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 32,
+      "question": {
+        "en": "In English, Find odd one out",
+        "hi": "अंग्रेजी में, अलग (Odd one out) वाला ढूंढें"
+      },
+      "options": [
+        {
+          "en": "Accept",
+          "hi": "स्वीकार करना (Accept)"
+        },
+        {
+          "en": "Deny",
+          "hi": "मना करना (Deny)"
+        },
+        {
+          "en": "Reject",
+          "hi": "अस्वीकार करना (Reject)"
+        },
+        {
+          "en": "Refuse",
+          "hi": "इनकार करना (Refuse)"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "question": {
+        "en": "If x⁵¹+51 is divided by x+1, the remainder is:",
+        "hi": "यदि x⁵¹+51 को x+1 से भाग दिया जाए, तो शेषफल क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "49",
+          "hi": "49"
+        },
+        {
+          "en": "50",
+          "hi": "50"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 34,
+      "question": {
+        "en": "Find the value of √0.0004",
+        "hi": "√0.0004 का मान ज्ञात करें"
+      },
+      "options": [
+        {
+          "en": "0.2",
+          "hi": "0.2"
+        },
+        {
+          "en": "0.02",
+          "hi": "0.02"
+        },
+        {
+          "en": "0.004",
+          "hi": "0.004"
+        },
+        {
+          "en": "0.0002",
+          "hi": "0.0002"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "question": {
+        "en": "Simplify: √18 + √8",
+        "hi": "√18 + √8 को सरल कीजिए:"
+      },
+      "options": [
+        {
+          "en": "5√2",
+          "hi": "5√2"
+        },
+        {
+          "en": "6√2",
+          "hi": "6√2"
+        },
+        {
+          "en": "7√2",
+          "hi": "7√2"
+        },
+        {
+          "en": "4√6",
+          "hi": "4√6"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "question": {
+        "en": "(2 tan 30°) / (1 + tan² 30°) is equal to:",
+        "hi": "(2 tan 30°) / (1 + tan² 30°) बराबर है:"
+      },
+      "options": [
+        {
+          "en": "sin 60°",
+          "hi": "sin 60°"
+        },
+        {
+          "en": "cos 60°",
+          "hi": "cos 60°"
+        },
+        {
+          "en": "tan 60°",
+          "hi": "tan 60°"
+        },
+        {
+          "en": "sin 30°",
+          "hi": "sin 30°"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "question": {
+        "en": "(1 − tan² 45°) / (1 + tan² 45°) is equal to:",
+        "hi": "(1 − tan² 45°) / (1 + tan² 45°) बराबर है:"
+      },
+      "options": [
+        {
+          "en": "tan 90°",
+          "hi": "tan 90°"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "sin 45°",
+          "hi": "sin 45°"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 38,
+      "question": {
+        "en": "If cos A = 4/5, then the value of tan A is",
+        "hi": "यदि cos A = 4/5 है, तो tan A का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "3/5",
+          "hi": "3/5"
+        },
+        {
+          "en": "3/4",
+          "hi": "3/4"
+        },
+        {
+          "en": "4/3",
+          "hi": "4/3"
+        },
+        {
+          "en": "5/3",
+          "hi": "5/3"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "question": {
+        "en": "1 hectare is equal to:",
+        "hi": "1 हेक्टेयर बराबर है:"
+      },
+      "options": [
+        {
+          "en": "1,000 m²",
+          "hi": "1,000 m²"
+        },
+        {
+          "en": "10,000 m²",
+          "hi": "10,000 m²"
+        },
+        {
+          "en": "100,000 m²",
+          "hi": "100,000 m²"
+        },
+        {
+          "en": "1,000,000 m²",
+          "hi": "1,000,000 m²"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "question": {
+        "en": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+        "hi": "दीवार के सहारे लगी एक सीढ़ी का उन्नयन कोण 60° है और सीढ़ी का निचला सिरा दीवार से 4.6 m दूर है। सीढ़ी की लंबाई है:"
+      },
+      "options": [
+        {
+          "en": "2.3 m",
+          "hi": "2.3 m"
+        },
+        {
+          "en": "9.2 m",
+          "hi": "9.2 m"
+        },
+        {
+          "en": "5.5 m",
+          "hi": "5.5 m"
+        },
+        {
+          "en": "6.2 m",
+          "hi": "6.2 m"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "question": {
+        "en": "The rate of change of momentum of a body is equal to the resultant....",
+        "hi": "किसी वस्तु के संवेग परिवर्तन की दर उस पर लगाए गए .... के बराबर होती है।"
+      },
+      "options": [
+        {
+          "en": "Energy",
+          "hi": "ऊर्जा"
+        },
+        {
+          "en": "Power",
+          "hi": "शक्ति"
+        },
+        {
+          "en": "Force",
+          "hi": "बल"
+        },
+        {
+          "en": "Impulse",
+          "hi": "आवेग"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 42,
+      "question": {
+        "en": "What is the SI unit of pressure?",
+        "hi": "दाब की SI इकाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "Pascal",
+          "hi": "पास्कल (Pascal)"
+        },
+        {
+          "en": "Dyne",
+          "hi": "डाइन (Dyne)"
+        },
+        {
+          "en": "Newton",
+          "hi": "न्यूटन (Newton)"
+        },
+        {
+          "en": "Joule",
+          "hi": "जूल (Joule)"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "question": {
+        "en": "The instrument used to measure pressure is:",
+        "hi": "दाब मापने के लिए प्रयुक्त उपकरण है:"
+      },
+      "options": [
+        {
+          "en": "Aneroid Barometer",
+          "hi": "एनरॉइड बैरोमीटर"
+        },
+        {
+          "en": "Anemometer",
+          "hi": "एनीमोमीटर"
+        },
+        {
+          "en": "Thermometer",
+          "hi": "थर्मामीटर"
+        },
+        {
+          "en": "Hygrometer",
+          "hi": "हाइग्रोमीटर"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "question": {
+        "en": "A heavy body and a light body have equal kinetic energy, then:",
+        "hi": "यदि एक भारी वस्तु और एक हल्की वस्तु की गतिज ऊर्जा बराबर हो, तो:"
+      },
+      "options": [
+        {
+          "en": "Heavy body has greater momentum",
+          "hi": "भारी वस्तु में अधिक संवेग होती है।"
+        },
+        {
+          "en": "Light body has greater momentum",
+          "hi": "हल्के पिंड का संवेग अधिक होता है।"
+        },
+        {
+          "en": "Both have equal momentum",
+          "hi": "दोनों का संवेग बराबर है।"
+        },
+        {
+          "en": "Both have same angular momentum",
+          "hi": "दोनों का कोणीय संवेग समान है।"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "question": {
+        "en": "The energy possessed by a body due to its change in position or shape is called..",
+        "hi": "किसी वस्तु की स्थिति या आकार में परिवर्तन के कारण उसमें उत्पन्न होने वाली ऊर्जा को कहते हैं..."
+      },
+      "options": [
+        {
+          "en": "Kinetic Energy",
+          "hi": "गतिज ऊर्जा"
+        },
+        {
+          "en": "Nuclear Energy",
+          "hi": "नाभिकीय ऊर्जा"
+        },
+        {
+          "en": "Chemical Energy",
+          "hi": "रासायनिक ऊर्जा"
+        },
+        {
+          "en": "Potential Energy",
+          "hi": "स्थितिज ऊर्जा"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 46,
+      "question": {
+        "en": "If the momentum of a body is increased by 50%, its Kinetic Energy will increase by ...",
+        "hi": "यदि किसी पिंड के संवेग में 50% की वृद्धि की जाए, तो उसकी गतिज ऊर्जा में कितनी वृद्धि होगी?"
+      },
+      "options": [
+        {
+          "en": "100%",
+          "hi": "100%"
+        },
+        {
+          "en": "125%",
+          "hi": "125%"
+        },
+        {
+          "en": "150%",
+          "hi": "150%"
+        },
+        {
+          "en": "200%",
+          "hi": "200%"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "en": "The most abundant element is ....",
+        "hi": "सबसे प्रचुर मात्रा में पाया जाने वाला तत्व है..."
+      },
+      "options": [
+        {
+          "en": "Silicon",
+          "hi": "सिलिकॉन"
+        },
+        {
+          "en": "Calcium",
+          "hi": "कैल्शियम"
+        },
+        {
+          "en": "Nitrogen",
+          "hi": "नाइट्रोजन"
+        },
+        {
+          "en": "Oxygen",
+          "hi": "ऑक्सीजन"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 48,
+      "question": {
+        "en": "What is the number of atoms in 46 g of sodium-23 (N = Avogadro constant)?",
+        "hi": "46 ग्राम सोडियम-23 में परमाणुओं की संख्या क्या है (N = एवोगैड्रो स्थिरांक)?"
+      },
+      "options": [
+        {
+          "en": "N/2",
+          "hi": "N/2"
+        },
+        {
+          "en": "N",
+          "hi": "N"
+        },
+        {
+          "en": "2N",
+          "hi": "2N"
+        },
+        {
+          "en": "23N",
+          "hi": "23N"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 49,
+      "question": {
+        "en": "What is the symbol of element Lead?",
+        "hi": "सीसा (Lead) तत्व का प्रतीक क्या है?"
+      },
+      "options": [
+        {
+          "en": "S",
+          "hi": "S"
+        },
+        {
+          "en": "Ag",
+          "hi": "Ag"
+        },
+        {
+          "en": "Pb",
+          "hi": "Pb"
+        },
+        {
+          "en": "K",
+          "hi": "K"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 50,
+      "question": {
+        "en": "Brass is an alloy of ...",
+        "hi": "पीतल (Brass) एक मिश्र धातु है..."
+      },
+      "options": [
+        {
+          "en": "Copper and zinc",
+          "hi": "तांबा और जस्ता"
+        },
+        {
+          "en": "Tin and zinc",
+          "hi": "टिन और जस्ता"
+        },
+        {
+          "en": "Copper and tin",
+          "hi": "तांबा और टिन"
+        },
+        {
+          "en": "Copper and aluminium",
+          "hi": "तांबा और एल्युमिनियम"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "question": {
+        "en": "ART stands for",
+        "hi": "ART का अर्थ है"
+      },
+      "options": [
+        {
+          "en": "Accident Rescue Tool-van",
+          "hi": "दुर्घटना बचाव उपकरण-वैन"
+        },
+        {
+          "en": "Accident Rescue Train",
+          "hi": "दुर्घटना बचाव ट्रेन"
+        },
+        {
+          "en": "Accident Relief Tool-van",
+          "hi": "दुर्घटना राहत उपकरण-वैन"
+        },
+        {
+          "en": "Accident Relief Train",
+          "hi": "दुर्घटना राहत ट्रेन"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 52,
+      "question": {
+        "en": "SPARME stands for",
+        "hi": "SPARME का अर्थ है"
+      },
+      "options": [
+        {
+          "en": "Self Propelling Accidental Rescue Medical Equipments",
+          "hi": "स्व-चालित दुर्घटना बचाव चिकित्सा उपकरण"
+        },
+        {
+          "en": "Self-Propelled Accident Relief Medical Equipments",
+          "hi": "स्व-चालित दुर्घटना राहत चिकित्सा उपकरण"
+        },
+        {
+          "en": "Self-Propelled Accidental Rescue Master Equipment",
+          "hi": "स्व-चालित दुर्घटना बचाव मास्टर उपकरण"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 53,
+      "question": {
+        "en": "The full form of ICF, RWF & RCF respectively are:-",
+        "hi": "आईसीएफ, आरडब्ल्यूएफ और आरसीएफ के पूर्ण रूप क्रमशः हैं:-"
+      },
+      "options": [
+        {
+          "en": "Indian Coach Factory, Railway Wagon Factory & Railway Coach Factory",
+          "hi": "भारतीय कोच फैक्ट्री, रेलवे वैगन फैक्ट्री और रेलवे कोच फैक्ट्री"
+        },
+        {
+          "en": "Indian Coach Factory, Rail Wheelset Factory & Railway Coaching Factory",
+          "hi": "भारतीय कोच फैक्ट्री, रेल व्हीलसेट फैक्ट्री और रेलवे कोचिंग फैक्ट्री"
+        },
+        {
+          "en": "Integral Coach Factory, Rail Wheel Factory & Rail Coach Factory",
+          "hi": "इंटीग्रल कोच फैक्ट्री, रेल व्हील फैक्ट्री और रेल कोच फैक्ट्री"
+        },
+        {
+          "en": "None of the above",
+          "hi": "उपरोक्त में से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 54,
+      "question": {
+        "en": "In air brake system, brake should not apply when the rate of drop of air pressure in BP is --",
+        "hi": "एयर ब्रेक सिस्टम में, जब BP में हवा के दबाव में गिरावट की दर निम्न हो, तो ब्रेक नहीं लगना चाहिए:"
+      },
+      "options": [
+        {
+          "en": "0.3 Kg/cm² in 60 sec",
+          "hi": "60 सेकंड में 0.3 Kg/cm²"
+        },
+        {
+          "en": "0.4 Kg/cm² in 4 sec",
+          "hi": "4 सेकंड में 0.4 Kg/cm²"
+        },
+        {
+          "en": "0.5 Kg/cm² in 30 sec",
+          "hi": "30 सेकंड में 0.5 Kg/cm²"
+        },
+        {
+          "en": "0.8 Kg/cm² in 8 sec",
+          "hi": "8 सेकंड में 0.8 Kg/cm²"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "question": {
+        "en": "Brake pipe throughout the length of train is charged with compressed air at :",
+        "hi": "ट्रेन की पूरी लंबाई में ब्रेक पाइप में संपीड़ित हवा भरी जाती है :"
+      },
+      "options": [
+        {
+          "en": "0 Kg/cm²",
+          "hi": "0 Kg/cm²"
+        },
+        {
+          "en": "5.8 Kg/cm²",
+          "hi": "5.8 Kg/cm²"
+        },
+        {
+          "en": "5.0 Kg/cm²",
+          "hi": "5.0 Kg/cm²"
+        },
+        {
+          "en": "4.8 Kg/cm²",
+          "hi": "4.8 Kg/cm²"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 56,
+      "question": {
+        "en": "What is the weakest link of the 'H' type tight lock center buffer coupler?",
+        "hi": "'एच' टाइप टाइट लॉक सेंटर बफर कपलर की सबसे कमजोर कड़ी क्या है?"
+      },
+      "options": [
+        {
+          "en": "Draft gear",
+          "hi": "ड्राफ्ट गियर"
+        },
+        {
+          "en": "Knuckle",
+          "hi": "नकल"
+        },
+        {
+          "en": "Lock",
+          "hi": "लॉक"
+        },
+        {
+          "en": "Yoke pin",
+          "hi": "योक पिन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "question": {
+        "en": "What do you mean by FRP?",
+        "hi": "एफआरपी (FRP) से आपका क्या तात्पर्य है?"
+      },
+      "options": [
+        {
+          "en": "Fiber recalling panel",
+          "hi": "फाइबर रिकॉलिंग पैनल"
+        },
+        {
+          "en": "Fiber reinforced plastic",
+          "hi": "फाइबर रीइन्फोर्स्ड प्लास्टिक"
+        },
+        {
+          "en": "First reduction plastic",
+          "hi": "फर्स्ट रिडक्शन प्लास्टिक"
+        },
+        {
+          "en": "Fine reinforced panel",
+          "hi": "फाइन रीइन्फोर्स्ड पैनल"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 58,
+      "question": {
+        "en": "What do you mean by CDTS?",
+        "hi": "सीडीटीएस (CDTS) से आप क्या समझते हैं?"
+      },
+      "options": [
+        {
+          "en": "Control distance testing system",
+          "hi": "कंट्रोल डिस्टेंस टेस्टिंग सिस्टम"
+        },
+        {
+          "en": "Controlled discharge toilet system",
+          "hi": "कंट्रोल्ड डिस्चार्ज टॉयलेट सिस्टम"
+        },
+        {
+          "en": "Compact disc type system",
+          "hi": "कॉम्पैक्ट डिस्क टाइप सिस्टम"
+        },
+        {
+          "en": "None of the above",
+          "hi": "उपरोक्त में से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "question": {
+        "en": "Which of the following heat treatment method is generally used for relieving internal stresses of a hardened tool?",
+        "hi": "निम्नलिखित में से कौन सी ऊष्मा उपचार विधि आमतौर पर कठोर किए गए औजार के आंतरिक तनाव को दूर करने के लिए उपयोग की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Annealing",
+          "hi": "एनीलिंग"
+        },
+        {
+          "en": "Stabilizing",
+          "hi": "स्थिरीकरण"
+        },
+        {
+          "en": "Normalizing",
+          "hi": "सामान्यीकरण"
+        },
+        {
+          "en": "Tempering",
+          "hi": "टेम्परिंग"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 60,
+      "question": {
+        "en": "The property by which a material can be drawn into wires is called:",
+        "hi": "जिस गुण के कारण पदार्थ को तार में खींचा जा सकता है, वह कहलाता है:"
+      },
+      "options": [
+        {
+          "en": "Malleability",
+          "hi": "आघातवर्धनीयता"
+        },
+        {
+          "en": "Ductility",
+          "hi": "तन्यता"
+        },
+        {
+          "en": "Elasticity",
+          "hi": "प्रत्यास्थता"
+        },
+        {
+          "en": "Hardness",
+          "hi": "कठोरता"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 61,
+      "question": {
+        "en": "Which welding method is suitable for dissimilar metals with a large difference in melting points?",
+        "hi": "मेल्टिंग पॉइंट में बड़े अंतर वाली अलग-अलग धातुओं के लिए कौन सा वेल्डिंग तरीका सही है?"
+      },
+      "options": [
+        {
+          "en": "Spot welding",
+          "hi": "स्पॉट वेल्डिंग"
+        },
+        {
+          "en": "Gas welding",
+          "hi": "गैस वेल्डिंग"
+        },
+        {
+          "en": "TIG welding",
+          "hi": "TIG वेल्डिंग"
+        },
+        {
+          "en": "Arc welding",
+          "hi": "आर्क वेल्डिंग"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 62,
+      "question": {
+        "en": "In engineering drawing, a continuous thick line is used to show:",
+        "hi": "इंजीनियरिंग ड्राइंग में मोटी सतत रेखा दर्शाती है:"
+      },
+      "options": [
+        {
+          "en": "Centre line",
+          "hi": "केंद्र रेखा"
+        },
+        {
+          "en": "Hidden edge",
+          "hi": "छिपा हुआ किनारा"
+        },
+        {
+          "en": "Visible outline",
+          "hi": "दिखाई देने वाली रूपरेखा"
+        },
+        {
+          "en": "Dimension line",
+          "hi": "आयाम रेखा"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 63,
+      "question": {
+        "en": "What is the maximum period of Maternity Leave that can be granted to a female Railway Servant?",
+        "hi": "एक महिला रेल कर्मचारी को मातृत्व अवकाश की अधिकतम अवधि कितनी दी जा सकती है?"
+      },
+      "options": [
+        {
+          "en": "365 days",
+          "hi": "365 दिन"
+        },
+        {
+          "en": "180 days",
+          "hi": "180 दिन"
+        },
+        {
+          "en": "120 days",
+          "hi": "120 दिन"
+        },
+        {
+          "en": "240 days",
+          "hi": "240 दिन"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "question": {
+        "en": "What is the maximum period of Paternity Leave that can be granted to a male Railway Servant?",
+        "hi": "एक पुरुष रेल कर्मचारी को दी जा सकने वाली पितृत्व अवकाश की अधिकतम अवधि क्या है?"
+      },
+      "options": [
+        {
+          "en": "15 days",
+          "hi": "15 दिन"
+        },
+        {
+          "en": "30 days",
+          "hi": "30 दिन"
+        },
+        {
+          "en": "40 days",
+          "hi": "40 दिन"
+        },
+        {
+          "en": "45 days",
+          "hi": "45 दिन"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "question": {
+        "en": "What is meaning of \"set\" for the pass/PTO purpose?",
+        "hi": "पास/पीटीओ प्रयोजन के लिए \"सेट\" का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "it means a pass or PTO as an authority to travel",
+          "hi": "इसका अर्थ है यात्रा के लिए एक प्राधिकरण के रूप में एक पास या पीटीओ।"
+        },
+        {
+          "en": "it is applicable for pass purpose only",
+          "hi": "यह केवल पास के प्रयोजन के लिए लागू है।"
+        },
+        {
+          "en": "it is applicable for PTO purpose only",
+          "hi": "यह केवल पीटीओ के प्रयोजन के लिए लागू है।"
+        },
+        {
+          "en": "it means one Pass or PTO for outward and return journeys",
+          "hi": "इसका अर्थ है बाहर जाने और वापसी यात्रा के लिए एक पास या पीटीओ।"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 66,
+      "question": {
+        "en": "Which No. of standard form is used for issuance of Major penalty charge sheet on disciplinary proceedings?",
+        "hi": "अनुशासनात्मक कार्यवाही पर प्रमुख दंड आरोप पत्र जारी करने के लिए किस मानक प्रपत्र का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "SF-11",
+          "hi": "SF-11"
+        },
+        {
+          "en": "SF-6",
+          "hi": "SF-6"
+        },
+        {
+          "en": "SF-5",
+          "hi": "SF-5"
+        },
+        {
+          "en": "None of the above",
+          "hi": "उपरोक्त में से कोई नहीं"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 67,
+      "question": {
+        "en": "The following are not in penalty under D&A Rules?",
+        "hi": "D&A नियमों के तहत इनमें से कौन-सा दंड नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Censure",
+          "hi": "निंदा"
+        },
+        {
+          "en": "Warning",
+          "hi": "चेतावनी"
+        },
+        {
+          "en": "Stoppage of pass",
+          "hi": "पास पर रोक"
+        },
+        {
+          "en": "The recovery from pay of any pensionary loss",
+          "hi": "वेतन से किसी भी पेंशन संबंधी नुकसान की वसूली"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 68,
+      "question": {
+        "en": "The contribution towards New Pension Scheme is :-",
+        "hi": "नई पेंशन योजना में योगदान है:-"
+      },
+      "options": [
+        {
+          "en": "@ 8% of pay",
+          "hi": "वेतन का 8%"
+        },
+        {
+          "en": "@ 9% of pay",
+          "hi": "वेतन का 9%"
+        },
+        {
+          "en": "@ 10% of pay",
+          "hi": "वेतन का 10%"
+        },
+        {
+          "en": "@ 12% of pay",
+          "hi": "वेतन का 12%"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 69,
+      "question": {
+        "en": "Study leave can be granted for maximum ............. number of months at a stretch.",
+        "hi": "एक बार में अधिकतम ............. महीनों के लिए अध्ययन अवकाश दिया जा सकता है।"
+      },
+      "options": [
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमे से कोई भी नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "question": {
+        "en": "Which of the following is NOT a major penalty under D&AR?",
+        "hi": "निम्न में से कौन D&AR के अंतर्गत प्रमुख दंड नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Reduction in rank",
+          "hi": "पदावनति"
+        },
+        {
+          "en": "Removal from service",
+          "hi": "सेवा से हटाना"
+        },
+        {
+          "en": "Withholding of increment without cumulative effect",
+          "hi": "बिना संचयी प्रभाव के वेतनवृद्धि रोकना"
+        },
+        {
+          "en": "Dismissal from service",
+          "hi": "सेवा से बर्खास्तगी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 71,
+      "question": {
+        "en": "Leave is not a matter of right because:",
+        "hi": "अवकाश अधिकार का विषय नहीं है क्योंकिः"
+      },
+      "options": [
+        {
+          "en": "It is granted free of cost",
+          "hi": "यह निःशुल्क प्रदान की जाती है"
+        },
+        {
+          "en": "It depends on availability of leave balance",
+          "hi": "यह अवकाश शेष की उपलब्धता पर निर्भर करती है"
+        },
+        {
+          "en": "It is subject to administrative exigencies",
+          "hi": "यह प्रशासनिक आवश्यकता पर निर्भर करता है"
+        },
+        {
+          "en": "It reduces salary",
+          "hi": "इससे वेतन कम हो जाता है"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 72,
+      "question": {
+        "en": "The main intention of HOER provisions is to ensure:",
+        "hi": "HOER प्रावधानों का मुख्य उद्देश्य सुनिश्चित करना है:"
+      },
+      "options": [
+        {
+          "en": "Maximum productivity only",
+          "hi": "केवल अधिकतम उत्पादकता हेतु"
+        },
+        {
+          "en": "Discipline only",
+          "hi": "केवल अनुशासन हेतु"
+        },
+        {
+          "en": "Health, safety and efficiency of employees",
+          "hi": "कर्मचारियों का स्वास्थ्य, सुरक्षा एवं दक्षता"
+        },
+        {
+          "en": "Administrative control",
+          "hi": "प्रशासनिक नियंत्रण"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 73,
+      "question": {
+        "en": "No Railway servant shall sub-let, lease or otherwise allow occupation by any other person of government accommodation which has been allotted to him. This provision is contained in Rule No. .... of Railway Services (Conduct) Rules, 1966.",
+        "hi": "कोई भी रेल कर्मचारी, उसे आवंटित सरकारी आवास को किसी अन्य व्यक्ति को उप-किराए पर नहीं देगा, न ही पट्टे पर देगा, और न ही किसी अन्य प्रकार से उस पर किसी अन्य व्यक्ति को रहने की अनुमति देगा। यह प्रावधान, 'रेलवे सेवा (आचरण) नियम, 1966' के नियम संख्या .... में निहित है।"
+      },
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "15.A",
+          "hi": "15.A"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        },
+        {
+          "en": "17",
+          "hi": "17"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 74,
+      "question": {
+        "en": "How many days of LHAP can be accumulated to an employee in his service life?",
+        "hi": "किसी कर्मचारी की सेवा अवधि में कितने दिनों का LHAP जमा किया जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "300 days",
+          "hi": "300 दिन"
+        },
+        {
+          "en": "450 days",
+          "hi": "450 दिन"
+        },
+        {
+          "en": "600 days",
+          "hi": "600 दिन"
+        },
+        {
+          "en": "Unlimited",
+          "hi": "असीमित"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 75,
+      "question": {
+        "en": "What is the Maximum encashment of leave on average pay?",
+        "hi": "औसत वेतन पर छुट्टी के नकदीकरण की अधिकतम सीमा क्या है?"
+      },
+      "options": [
+        {
+          "en": "200 days",
+          "hi": "200 दिन"
+        },
+        {
+          "en": "180 days",
+          "hi": "180 दिन"
+        },
+        {
+          "en": "360 days",
+          "hi": "360 दिन"
+        },
+        {
+          "en": "300 days",
+          "hi": "300 दिन"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 76,
+      "question": {
+        "en": "Maximum of study leave that can be granted to an employee during his entire service period is ........",
+        "hi": "किसी कर्मचारी को उसकी संपूर्ण सेवा अवधि के दौरान दी जा सकने वाली अध्ययन अवकाश की अधिकतम सीमा ........ है।"
+      },
+      "options": [
+        {
+          "en": "36 months",
+          "hi": "36 महीने"
+        },
+        {
+          "en": "28 months",
+          "hi": "28 महीने"
+        },
+        {
+          "en": "24 months",
+          "hi": "24 महीने"
+        },
+        {
+          "en": "30 months",
+          "hi": "30 महीने"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 77,
+      "question": {
+        "en": "How much allowance is given during suspension?",
+        "hi": "निलंबन के दौरान निर्वाह भत्ता कितना दिया जाता है?"
+      },
+      "options": [
+        {
+          "en": "25% of last salary",
+          "hi": "अंतिम वेतन का 25%"
+        },
+        {
+          "en": "50% of last salary",
+          "hi": "अंतिम वेतन का 50%"
+        },
+        {
+          "en": "75% of last salary",
+          "hi": "अंतिम वेतन का 75%"
+        },
+        {
+          "en": "10% of last salary",
+          "hi": "अंतिम वेतन का 10%"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 78,
+      "question": {
+        "en": "Meenakshi temple is located at ....",
+        "hi": "मीनाक्षी मंदिर .... पर स्थित है।"
+      },
+      "options": [
+        {
+          "en": "Mahabalipuram",
+          "hi": "महाबलीपुरम"
+        },
+        {
+          "en": "Madurai",
+          "hi": "मदुरै"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        },
+        {
+          "en": "Kolkata",
+          "hi": "कोलकाता"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "question": {
+        "en": "In the following who is revered as 'the Father of Calendar Art in India'?",
+        "hi": "निम्नलिखित में से किसे भारत में 'कैलेंडर कला का जनक' माना जाता है?"
+      },
+      "options": [
+        {
+          "en": "Raja Ravi Verma",
+          "hi": "राजा रवि वर्मा"
+        },
+        {
+          "en": "Abanindra Nath Tagore",
+          "hi": "अबनिंद्र नाथ टैगोर"
+        },
+        {
+          "en": "Nand Lal Basu",
+          "hi": "नंद लाल बसु"
+        },
+        {
+          "en": "Amrita Shergil",
+          "hi": "अमृता शेरगिल"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 80,
+      "question": {
+        "en": "Kumbh Mela is NOT observed at which place...?",
+        "hi": "कुंभ मेला किस स्थान पर नहीं मनाया जाता है...?"
+      },
+      "options": [
+        {
+          "en": "Allahabad",
+          "hi": "इलाहाबाद"
+        },
+        {
+          "en": "Bhopal",
+          "hi": "भोपाल"
+        },
+        {
+          "en": "Haridwar",
+          "hi": "हरिद्वार"
+        },
+        {
+          "en": "Nashik",
+          "hi": "नासिक"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 81,
+      "question": {
+        "en": "Which of the following is NOT correctly paired?",
+        "hi": "निम्नलिखित में से कौन सा सही युग्म नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Sania Mirza - Tennis",
+          "hi": "सानिया मिर्ज़ा - टेनिस"
+        },
+        {
+          "en": "Saina Nehwal - Badminton",
+          "hi": "साइना नेहवाल - बैडमिंटन"
+        },
+        {
+          "en": "Jhoolan Goswami - Cricket",
+          "hi": "झूलन गोस्वामी - क्रिकेट"
+        },
+        {
+          "en": "Jeev Mikha Singh - Chess",
+          "hi": "जीव मिखा सिंह - शतरंज"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 82,
+      "question": {
+        "en": "Thomas cup is associated with which of the following sports?",
+        "hi": "थॉमस कप निम्नलिखित में से किस खेल से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Cricket",
+          "hi": "क्रिकेट"
+        },
+        {
+          "en": "Football",
+          "hi": "फुटबॉल"
+        },
+        {
+          "en": "Basketball",
+          "hi": "बास्केटबाल"
+        },
+        {
+          "en": "Badminton",
+          "hi": "बैडमिंटन"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 83,
+      "question": {
+        "en": "Which one of the following countries officially joined the NATO in March 2024?",
+        "hi": "निम्नलिखित में से कौन सा देश मार्च 2024 में आधिकारिक तौर पर नाटो में शामिल हुआ?"
+      },
+      "options": [
+        {
+          "en": "Sweden",
+          "hi": "स्वीडन"
+        },
+        {
+          "en": "North Macedonia",
+          "hi": "उत्तर मैसेडोनिया"
+        },
+        {
+          "en": "Iceland",
+          "hi": "आइसलैंड"
+        },
+        {
+          "en": "Finland",
+          "hi": "फिनलैंड"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 84,
+      "question": {
+        "en": "Who composed the Golden Globe Award winning song \"Naatu Naatu\"?",
+        "hi": "गोल्डन ग्लोब पुरस्कार विजेता गीत \"नातू नातू\" की रचना किसने की?"
+      },
+      "options": [
+        {
+          "en": "S.S. Rajamouli",
+          "hi": "एस.एस. राजामौली"
+        },
+        {
+          "en": "Devi Sri Prasad",
+          "hi": "देवी श्री प्रसाद"
+        },
+        {
+          "en": "A.R. Rehman",
+          "hi": "ए.आर. रहमान"
+        },
+        {
+          "en": "M.M. Keeravani",
+          "hi": "एम.एम. कीरावानी"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 85,
+      "question": {
+        "en": "Which day is celebrated as Sadbhavna Day?",
+        "hi": "स‌द्भावना दिवस किस दिन मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "20th August",
+          "hi": "20 अगस्त"
+        },
+        {
+          "en": "20th July",
+          "hi": "20 जुलाई"
+        },
+        {
+          "en": "21st May",
+          "hi": "21 मई"
+        },
+        {
+          "en": "10 January",
+          "hi": "10 जनवरी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "question": {
+        "en": "It is a branch of science that examines the biological, social, cultural and linguistic aspects of human beings in a holistic approach.",
+        "hi": "यह विज्ञान की वह शाखा है जो मानव के जैविक, सामाजिक, सांस्कृतिक और भाषाई पहलुओं की समग्रता में जांच करती है:"
+      },
+      "options": [
+        {
+          "en": "Anthropology",
+          "hi": "एंथ्रोपोलॉजी"
+        },
+        {
+          "en": "Sociology",
+          "hi": "सोशियोलॉजी"
+        },
+        {
+          "en": "Dermatology",
+          "hi": "डर्मेटोलॉजी"
+        },
+        {
+          "en": "Histology",
+          "hi": "हिस्टोलॉजी"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 87,
+      "question": {
+        "en": "In which year Kolkata Metro, India's first, commenced commercial operations?",
+        "hi": "भारत की पहली मेट्रो, कोलकाता मेट्रो ने किस वर्ष अपना व्यावसायिक परिचालन शुरू किया?"
+      },
+      "options": [
+        {
+          "en": "1983",
+          "hi": "1983"
+        },
+        {
+          "en": "1984",
+          "hi": "1984"
+        },
+        {
+          "en": "1985",
+          "hi": "1985"
+        },
+        {
+          "en": "1986",
+          "hi": "1986"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 88,
+      "question": {
+        "en": "Delhi Metro was started in which year?",
+        "hi": "दिल्ली मेट्रो किस साल शुरू हुई थी?"
+      },
+      "options": [
+        {
+          "en": "2002",
+          "hi": "2002"
+        },
+        {
+          "en": "2004",
+          "hi": "2004"
+        },
+        {
+          "en": "2006",
+          "hi": "2006"
+        },
+        {
+          "en": "2008",
+          "hi": "2008"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "question": {
+        "en": "First train in India was run on which date?",
+        "hi": "भारत में पहली ट्रेन किस तारीख को चली थी?"
+      },
+      "options": [
+        {
+          "en": "March 16, 1853",
+          "hi": "16 मार्च, 1853"
+        },
+        {
+          "en": "April 16, 1853",
+          "hi": "16 अप्रैल, 1853"
+        },
+        {
+          "en": "May 16, 1853",
+          "hi": "16 मई, 1853"
+        },
+        {
+          "en": "June 16, 1953",
+          "hi": "16 जून, 1953"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "question": {
+        "en": "Among following Which city has the highest number of Zonal Railway Head Quarter?",
+        "hi": "निम्नलिखित में से किस शहर में सबसे अधिक संख्या में ज़ोनल रेलवे मुख्यालय हैं?"
+      },
+      "options": [
+        {
+          "en": "NEW DELHI",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "GORAKHPUR",
+          "hi": "गोरखपुर"
+        },
+        {
+          "en": "KOLKATA",
+          "hi": "कलकत्ता"
+        },
+        {
+          "en": "PRAYAGRAJ",
+          "hi": "प्रयागराज"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 91,
+      "question": {
+        "en": "What does CPU stand for?",
+        "hi": "CPU का पूरा नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Central Program Unit",
+          "hi": "सेंट्रल प्रोग्राम यूनिट"
+        },
+        {
+          "en": "Central Processing Unit",
+          "hi": "सेंट्रल प्रोसेसिंग यूनिट"
+        },
+        {
+          "en": "Computer Processing Unit",
+          "hi": "कंप्यूटर प्रोसेसिंग यूनिट"
+        },
+        {
+          "en": "Control Processing Unit",
+          "hi": "कंट्रोल प्रोसेसिंग यूनिट"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 92,
+      "question": {
+        "en": "Which software is required to run a computer?",
+        "hi": "कंप्यूटर चलाने के लिए कौन सा सॉफ्टवेयर आवश्यक है?"
+      },
+      "options": [
+        {
+          "en": "Application Software",
+          "hi": "एप्लिकेशन सॉफ्टवेयर"
+        },
+        {
+          "en": "System Software",
+          "hi": "सिस्टम सॉफ्टवेयर"
+        },
+        {
+          "en": "Utility Software",
+          "hi": "यूटिलिटी सॉफ्टवेयर"
+        },
+        {
+          "en": "Game Software",
+          "hi": "गेम सॉफ्टवेयर"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "question": {
+        "en": "You can use........ to copy selected text; and ........ to paste it in a document.",
+        "hi": "आप चयनित पाठ को कॉपी करने के लिए ........ का उपयोग कर सकते हैं; और इसे किसी दस्तावेज़ में पेस्ट करने के लिए ........ का उपयोग कर सकते हैं।"
+      },
+      "options": [
+        {
+          "en": "CTRL + C, CTRL + V",
+          "hi": "CTRL + C, CTRL + V"
+        },
+        {
+          "en": "CTRL + C, CTRL + P",
+          "hi": "CTRL + C, CTRL + P"
+        },
+        {
+          "en": "SHIFT + C, ALT + P",
+          "hi": "SHIFT + C, ALT + P"
+        },
+        {
+          "en": "CTRL + D, CTRL + A",
+          "hi": "CTRL + D, CTRL + A"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 94,
+      "question": {
+        "en": "Which of the following is the largest unit of storage?",
+        "hi": "निम्नलिखित में से कौन Storage की सबसे बड़ी इकाई है?"
+      },
+      "options": [
+        {
+          "en": "GB",
+          "hi": "GB"
+        },
+        {
+          "en": "KB",
+          "hi": "KB"
+        },
+        {
+          "en": "MB",
+          "hi": "MB"
+        },
+        {
+          "en": "TB",
+          "hi": "TB"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 95,
+      "question": {
+        "en": "What is the full form of JPEG?",
+        "hi": "JPEG का पूरा नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Joint Photographic Experts Group",
+          "hi": "Joint Photographic Experts Group"
+        },
+        {
+          "en": "Joint Protocol Experts Graphics",
+          "hi": "Joint Protocol Experts Graphics"
+        },
+        {
+          "en": "Joint Programming Experts Graphics",
+          "hi": "Joint Programming Experts Graphics"
+        },
+        {
+          "en": "Joint Project Experts Group",
+          "hi": "Joint Project Experts Group"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "question": {
+        "en": "A CPU contains..........",
+        "hi": "एक सीपीयू (CPU) में शामिल होता है......"
+      },
+      "options": [
+        {
+          "en": "A card reader and a printer device",
+          "hi": "एक कार्ड रीडर और एक प्रिंटर उपकरण"
+        },
+        {
+          "en": "An analytical engine and a control unit",
+          "hi": "एक विश्लेषणात्मक इंजन और एक नियंत्रण इकाई"
+        },
+        {
+          "en": "A control unit and an arithmetic logic unit",
+          "hi": "एक नियंत्रण इकाई और एक अंकगणितीय तर्क इकाई"
+        },
+        {
+          "en": "An arithmetic logic unit and a card reader",
+          "hi": "एक अंकगणितीय तर्क इकाई और एक कार्ड रीडर"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 97,
+      "question": {
+        "en": "What is the total number of Official Language Rules?",
+        "hi": "राजभाषा नियमों की कुल संख्या कितनी है?"
+      },
+      "options": [
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "11",
+          "hi": "11"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 98,
+      "question": {
+        "en": "When is Official Language Day celebrated?",
+        "hi": "राजभाषा दिवस कब मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "28 September",
+          "hi": "28 सितंबर"
+        },
+        {
+          "en": "14 August",
+          "hi": "14 अगस्त"
+        },
+        {
+          "en": "14 September",
+          "hi": "14 सितंबर"
+        },
+        {
+          "en": "14 October",
+          "hi": "14 अक्टूबर"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 99,
+      "question": {
+        "en": "How many languages are mentioned in the Eighth Schedule of the Constitution?",
+        "hi": "संविधान की आठवीं अनुसूची में कुल कितनी भाषाओं का उल्लेख है?"
+      },
+      "options": [
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "25",
+          "hi": "25"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "question": {
+        "en": "Who was the first Chairman of the Official Language Commission?",
+        "hi": "राजभाषा आयोग के प्रथम अध्यक्ष कौन थे?"
+      },
+      "options": [
+        {
+          "en": "B.G. Kher",
+          "hi": "बी. जी. खेर"
+        },
+        {
+          "en": "Pandit Jawahar lal Nehru",
+          "hi": "पंडित जवाहर लाल नेहरू"
+        },
+        {
+          "en": "Pandit Madan Mohan Malviya",
+          "hi": "पंडित मदन मोहन मालवीय"
+        },
+        {
+          "en": "None of the above",
+          "hi": "उपरोक्त में से कोई नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 101,
+      "question": {
+        "en": "Which is the most scientific script in the world?",
+        "hi": "विश्व की सबसे वैज्ञानिक लिपि - कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Arabic",
+          "hi": "अरबी"
+        },
+        {
+          "en": "Devanagari",
+          "hi": "देवनागरी"
+        },
+        {
+          "en": "Roman",
+          "hi": "रोमन"
+        },
+        {
+          "en": "None of the above",
+          "hi": "उपरोक्त में से कोई नहीं"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 102,
+      "question": {
+        "en": "In which country is the World Hindi Secretariat located?",
+        "hi": "विश्व हिन्दी सचिवालय किस देश में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Singapore",
+          "hi": "सिंगापुर"
+        },
+        {
+          "en": "Malaysia",
+          "hi": "मलेशिया"
+        },
+        {
+          "en": "Mauritius",
+          "hi": "मॉरीशस"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 103,
+      "question": {
+        "en": "According to Official Languages Rules, 'Andaman & Nicobar Islands' fall under which region?",
+        "hi": "राजभाषा नियमों के अनुसार, 'अंडमान और निकोबार द्वीप समूह' किस क्षेत्र के अंतर्गत आता है?"
+      },
+      "options": [
+        {
+          "en": "Region 'A'",
+          "hi": "क्षेत्र 'क'"
+        },
+        {
+          "en": "Region 'B'",
+          "hi": "क्षेत्र 'ख'"
+        },
+        {
+          "en": "Region 'C'",
+          "hi": "क्षेत्र 'ग'"
+        },
+        {
+          "en": "None of the above",
+          "hi": "इनमे से कोई भी नहीं"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 104,
+      "question": {
+        "en": "How many members of Lok Sabha are there in the Parliamentary Committee on Official Language?",
+        "hi": "राजभाषा की संसदीय समिति में लोक सभा के कितने सदस्य हैं?"
+      },
+      "options": [
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 105,
+      "question": {
+        "en": "Under which article of the constitution, Hindi has been given status as an official language?",
+        "hi": "संविधान के किस अनुच्छेद के अंतर्गत हिंदी को राजभाषा के रूप में दर्जा प्रदान किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Article 348 (i)",
+          "hi": "अनुच्छेद 348 (i)"
+        },
+        {
+          "en": "Article 346 (i)",
+          "hi": "अनुच्छेद 346 (i)"
+        },
+        {
+          "en": "Article 343 (i)",
+          "hi": "अनुच्छेद 343 (i)"
+        },
+        {
+          "en": "Article 345 (i)",
+          "hi": "अनुच्छेद 345 (i)"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 106,
+      "question": {
+        "en": "Who has the right to adopt any language as the official language of any state?",
+        "hi": "किसी भाषा को किसी राज्य की राजभाषा के रूप में अंगीकार करने का अधिकार किसे है?"
+      },
+      "options": [
+        {
+          "en": "President",
+          "hi": "राष्ट्रपति"
+        },
+        {
+          "en": "Parliament",
+          "hi": "संसद"
+        },
+        {
+          "en": "State Legislature",
+          "hi": "राज्य विधानमंडल"
+        },
+        {
+          "en": "Official Language Commission",
+          "hi": "राजभाषा आयोग"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 107,
+      "question": {
+        "en": "Which one of the following languages is not mentioned in the Eighth Schedule of the Indian Constitution?",
+        "hi": "निम्न में से कौन-सी भाषा भारतीय संविधान की आठवीं अनुसूची में उल्लेखित नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Gujarati",
+          "hi": "गुजराती"
+        },
+        {
+          "en": "Kashmiri",
+          "hi": "कश्मीरी"
+        },
+        {
+          "en": "Rajasthani",
+          "hi": "राजस्थानी"
+        },
+        {
+          "en": "Dogri",
+          "hi": "डोगरी"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 108,
+      "question": {
+        "en": "Which foreign language is included in the Eighth Schedule?",
+        "hi": "अष्टम अनुसूची में शामिल विदेशी भाषा कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Santhali",
+          "hi": "संथाली"
+        },
+        {
+          "en": "English",
+          "hi": "अंग्रेजी"
+        },
+        {
+          "en": "Dogri",
+          "hi": "डोगरी"
+        },
+        {
+          "en": "Nepali",
+          "hi": "नेपाली"
+        }
+      ],
+      "correct": 3
+    },
+    {
+      "id": 109,
+      "question": {
+        "en": "Who was the first Chairman of the committee constituted to consider the recommendations of the Official Language Commission?",
+        "hi": "राजभाषा आयोग की सिफारिशों पर विचार करने के लिए गठित समिति के प्रथम अध्यक्ष कौन थे?"
+      },
+      "options": [
+        {
+          "en": "B.G. Kher",
+          "hi": "बी. जी. खेर"
+        },
+        {
+          "en": "G.B. Pant",
+          "hi": "जी.बी. पंत"
+        },
+        {
+          "en": "J.N. Nehru",
+          "hi": "जे. एन. नेहरू"
+        },
+        {
+          "en": "Maulana Azad",
+          "hi": "मौलाना आज़ाद"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 110,
+      "question": {
+        "en": "In which year was the 'Sindhi' language included in the Eighth Schedule?",
+        "hi": "\"आठवीं अनुसूची में सम्मिलित 'सिंधी' भाषा को किस वर्ष शामिल किया गया?\""
+      },
+      "options": [
+        {
+          "en": "1949",
+          "hi": "1949"
+        },
+        {
+          "en": "1950",
+          "hi": "1950"
+        },
+        {
+          "en": "1970",
+          "hi": "1970"
+        },
+        {
+          "en": "1967",
+          "hi": "1967"
+        }
+      ],
+      "correct": 3
+    }
+  ]
+}
